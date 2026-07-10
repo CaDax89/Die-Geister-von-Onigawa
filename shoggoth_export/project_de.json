@@ -1,0 +1,1240 @@
+{
+    "language": "de",
+    "project": "project.json",
+    "project_name": "Ghosts of Onigawa SE",
+    "encounter_sets": {},
+    "cards": {
+        "5e67f290-7b28-47c2-ace9-c50c0d33fc29": {
+            "name": "<unique>Midoris List",
+            "front": {
+                "text": "<action> If <name> is ready: <b>Fight.</b> Add your <agility> to your skill value for this attack. If you succeed by 2 or more, this attack deals +1 damage. If you would fail this skill test, you may exhaust <name> to automatically succeed instead.",
+                "flavor_text": "Midori was the wisest of all Guardians; her skills in diplomacy were critical to the creation of the Covenant with Onigawa.",
+                "subtitle": "Cutlass of Dawn",
+                "traits": "Item. Relic. Weapon. Melee."
+            },
+            "back": {}
+        },
+        "2eb73518-9fe7-4e00-8bed-f9d5047fd63e": {
+            "name": "Das Haus auf dem H\u00fcgel",
+            "front": {
+                "entries": [
+                    {
+                        "token": "skull",
+                        "text": "\u20131. If you fail, take 1 horror. "
+                    },
+                    {
+                        "token": "cultist",
+                        "text": "\u20132. If you fail, add a <curse> token to the chaos bag. "
+                    },
+                    {
+                        "token": "tablet",
+                        "text": "\u20132. If you fail, place a clue on your location <i>(from the token pool).</i>"
+                    },
+                    {
+                        "token": "elder_thing",
+                        "text": "\u20133. If you fail, discard a non-weakness card from your hand."
+                    }
+                ]
+            },
+            "back": {
+                "entries": [
+                    {
+                        "token": "skull",
+                        "text": "\u2013X. X is number of the current act. If you fail, take 1 horror."
+                    },
+                    {
+                        "token": "cultist",
+                        "text": "\u20132. After this test ends, add a <curse> token to the chaos bag."
+                    },
+                    {
+                        "token": "tablet",
+                        "text": "\u20133. If you fail, place a clue on your location <i>(from the token pool).</i>"
+                    },
+                    {
+                        "token": "elder_thing",
+                        "text": "\u20134. After this test ends, discard a random non-weakness card from your hand."
+                    }
+                ],
+                "difficulty": "Hard/Expert"
+            }
+        },
+        "60e362fd-8ac7-4fff-94ae-6a9f9f487dcf": {
+            "name": "Das verborgene Dorf",
+            "front": {
+                "entries": [
+                    {
+                        "token": "skull",
+                        "text": "\u2013X. X is the number of the current act."
+                    },
+                    {
+                        "token": "cultist",
+                        "text": "\u20131. Reveal another token."
+                    },
+                    {
+                        "token": "tablet",
+                        "text": "\u20132. If you fail, add a <curse> token to the chaos bag."
+                    },
+                    {
+                        "token": "elder_thing",
+                        "text": "\u20133. If you fail, place one of your clues on your current location."
+                    }
+                ]
+            },
+            "back": {
+                "entries": [
+                    {
+                        "token": "skull",
+                        "text": "\u2013X. X is the number of the current agenda."
+                    },
+                    {
+                        "token": "cultist",
+                        "text": "\u20132. Reveal another token."
+                    },
+                    {
+                        "token": "tablet",
+                        "text": "\u20133. Add a <curse> token to the chaos bag."
+                    },
+                    {
+                        "token": "elder_thing",
+                        "text": "\u20134. If you fail, place one of your clues on your current location."
+                    }
+                ],
+                "difficulty": "Hard/Expert"
+            }
+        },
+        "08b4411f-d95f-4f63-befe-1f51ff770ce0": {
+            "name": "D\u00e4mmerlicht",
+            "front": {
+                "entries": [
+                    {
+                        "token": "skull",
+                        "text": "\u2013X. X is the number of the current agenda."
+                    },
+                    {
+                        "token": "cultist",
+                        "text": "\u20132. If you fail, add 1 <curse> token to the chaos bag."
+                    },
+                    {
+                        "token": "tablet",
+                        "text": "\u20133. If you fail, place 1 doom on the nearest <t>Elite</t> enemy."
+                    },
+                    {
+                        "token": "elder_thing",
+                        "text": "\u20134. If you fail, exhaust an <t>Aspect</t> asset you control."
+                    }
+                ]
+            },
+            "back": {
+                "entries": [
+                    {
+                        "token": "skull",
+                        "text": "\u2013X. X is the number of the current act."
+                    },
+                    {
+                        "token": "cultist",
+                        "text": "\u20133. After this test ends, you must add 1 <curse> token to the chaos bag or take 1 horror."
+                    },
+                    {
+                        "token": "tablet",
+                        "text": "\u20134. After this test ends, place 1 doom on the nearest <t>Elite</t> enemy."
+                    },
+                    {
+                        "token": "elder_thing",
+                        "text": "\u20135. If you control an exhausted <t>Aspect</t> asset, this test automatically fails."
+                    }
+                ],
+                "difficulty": "Hard/Expert"
+            }
+        },
+        "2d76dea6-2674-45cc-835c-53c57f624ab8": {
+            "name": "<unique> Shishios T\u00fccke",
+            "front": {
+                "text": "Limit 1 <t>Headgear</t> per investigator.\nYou get +1 <agility>. \n<action> Exile <name>: <b>Parley.</b> Discard a non-<t>Elite</t> enemy from your threat area.",
+                "flavor_text": "This ornamental mask was once worn by a royal retainer to conceal his trysts with a low-born attendant.",
+                "subtitle": "Guise of the Baleful Retainer",
+                "traits": "Item. Headgear. Relic. Cursed. "
+            },
+            "back": {}
+        },
+        "bd961a45-e015-4eca-9941-67cac72a1de7": {
+            "name": "<unique>Die Ersatzl\u00f6sung des Pantheons",
+            "front": {
+                "text": "Permanent.\n<free> If you control Tsurugi's Might and Midori's Cunning: Exile Tsurugi's Might and Midori's Cunning, then flip <name>.",
+                "flavor_text": "Separately, the Guardians were unable \nto stand against Moloch...",
+                "subtitle": "A Spark Yet Remains",
+                "traits": "Memory."
+            },
+            "back": {
+                "name": "Kanon's Quill",
+                "text": "<fullnameb> cannot leave play.\n<action> If <fullnameb> is ready: Fight. Add your highest non-<combat> skill to your skill value for this test. This attack deals +1 <per> damage. If you fail, you must perform a <b>Sacrifice</b> or exhaust <fullnameb>.",
+                "flavor_text": "...but together, their power would be unstoppable.",
+                "subtitle": "Avenger of the Pantheon",
+                "traits": "Item. Relic. Weapon. Melee."
+            }
+        },
+        "fcc0a495-98e9-43c9-819f-57c6eb45a236": {
+            "name": "<unique>Mayu Tachibana",
+            "front": {
+                "text": "<for> When <name> is defeated:(<res>1</res>)",
+                "flavor_text": "The young girl writhes in pain on the floor, \nspasming as she clutches at her neck...",
+                "subtitle": "A Missing Twin?",
+                "traits": "Ally. Bystander."
+            },
+            "back": {}
+        },
+        "bd93b6b1-eda0-4d71-b754-b2df7c55431a": {
+            "name": "<unique>Mayu Tachibana",
+            "front": {
+                "text": "You have 1 additional hand slot.\n<free> Exhaust Mayu Tachibana and add 1 <blessing> token to the chaos bag: You get +1 skill value for this test.",
+                "flavor_text": "\"I made a promise to my sister...\"",
+                "subtitle": "The Elder Twin",
+                "traits": "Ally. Minakami."
+            },
+            "back": {}
+        },
+        "c7e01081-7106-4fcf-9871-45dccf95a6b1": {
+            "name": "<unique>Tsurugis Macht",
+            "front": {
+                "text": "<action> If <name> is ready: <b>Fight.</b> Add your <willpower> to your skill value for this attack. If you succeed by 2 or more, this attack deals +1 damage. If you would fail this skill test, you may exhaust <name> to automatically succeed instead.",
+                "flavor_text": "Tsurugi was said to be the mightiest of all the Guardians; his breath was the fuel that ignited the fire beneath Mount Kokoro.",
+                "subtitle": "Cleaver of Dusk",
+                "traits": "Item. Relic. Weapon. Melee."
+            },
+            "back": {}
+        },
+        "2fb9d966-6663-4db5-a034-59d89113c505": {
+            "name": "Blutbefleckter Almanach",
+            "front": {
+                "text": "You get +1 <intellect> while investigating.\n<free> Exile <name>: Undo the last action taken by an investigator <i>(return the game state to exactly the way it was before that action was performed, except for the activation of this ability and its costs)</i>.",
+                "flavor_text": "A blood-soaked scroll found in the royal palace seems to detail many of the region's secrets...if only you could decipher the text.",
+                "subtitle": "The Atlas of Onigawa",
+                "traits": "Item. Tome. Occult."
+            },
+            "back": {}
+        },
+        "195e837c-f147-407e-a966-1cac3c3f8f7d": {
+            "name": "An die Grenzen sto\u00dfen",
+            "front": {
+                "text": "The Offal Extremities gains Hunter 2. <i>(Multiple instances of the hunter keyword do not stack; use the highest value for X.)</i>\n<for>  When the enemy phase begins: Place 1 doom on The Offal Extremities.",
+                "flavor_text": "You can feel the creature is gaining confidence in its movements; where once it awkwardly fumbled for you in the dark, it now hunts you with a sense of purpose, almost like it has a taste for you..."
+            },
+            "back": {
+                "name": "In Their Grasp",
+                "text": "You realize you're no longer even making a token attempt to search for Miyu; your attention is now completely devoted to evading the monsters patrolling the hallways of the palace. You break into a full dash and scramble to find a way out of the palace...\nEach investigator who has not resigned is defeated.\n\n\n"
+            }
+        },
+        "8f0e6e41-31a5-4b22-9518-9fff0baa2245": {
+            "name": "Fremdartige Gefahr",
+            "front": {
+                "flavor_text": "The moon's pale light casts long shadows down the village's narrow alleyways and there is a rustic, time-lost quality to its decor and architecture that unnerves you; at first glance, the village seems deserted, but if the girls have been taken here, you'd better be prepared for anything... "
+            },
+            "back": {
+                "name": "Out of Time",
+                "text": "Something is very, very wrong here. You can't risk any more close calls, so you decide to retreat to the relative safety of the torii gate and regroup, but before you can even begin to flee, you feel an icy pressure tightening around your neck. You claw at the phantom grasp choking the life from you to no avail, and you feel your feet leaving the ground just before the world goes black...\nEach surviving investigator is defeated and suffers 1 mental trauma.\n\n\n"
+            }
+        },
+        "619a3014-e7b8-43e3-bb72-3f66b911d0cd": {
+            "name": "Hof halten in der Nacht",
+            "front": {
+                "flavor_text": "Flickering lights play tricks with the shadows as you navigate the palace's narrow corridors. Apart from the ghostly girl you encountered in the entryway, there are few signs of life inside the palace, but blackened hand prints stick to the walls like ash... Did anyone actually manage to ride out the siege from within these walls?"
+            },
+            "back": {
+                "name": "The Offal Extremities",
+                "text": "Massive. Hunter 1.\n<spawn> Dim Memorial.\n<fullnameb> cannot be defeated.\n<for> When any amount of damage would be placed on <fullnameb>: Remove 1 doom from it instead, or, if there is no doom on <fullnameb>, exhaust it.",
+                "flavor_text": "The royal ambassadors were always a real handful.",
+                "subtitle": "Diplomatic Outreach",
+                "traits": "Monster. Elite. Yokai."
+            }
+        },
+        "000c23ab-cfc4-4a73-9032-5343898639fc": {
+            "name": "H\u00e4nde weg!",
+            "front": {
+                "text": "<for> When the enemy phase begins: Place 1 doom on The Offal Extremities.",
+                "flavor_text": "A hideous, barrelling monstrosity has begun to stalk you through the halls of the palace, and suddenly the mysterious handprints covering every surface start to make a little more sense..."
+            },
+            "back": {
+                "name": "Lending a Hand",
+                "text": "Despite your best efforts, you seem only able to temporarily delay the creature; each time you manage to hack away at one of its jaundiced limbs, another eagerly emerges from somewhere inside the writhing mass to take its place. Even worse, the acrid stench of smoke and burning wood has begun to linger in every room of the palace...\nShuffle the set-aside <i>Handy Horrors</i> encounter set and the encounter discard pile into the encounter deck.\nPlace 1 doom on each enemy in play.\n\n\n"
+            }
+        },
+        "e2f5d4db-bb23-43a3-90d1-8dda38bfa574": {
+            "name": "In die Wildnis",
+            "front": {
+                "flavor_text": "Though the slight chill nipping at your extremities urges you to tread carefully, you are certain you are alone here; the only sound that pierces the veil of eerie silence blanketing these woods is your own heartbeat."
+            },
+            "back": {
+                "name": "Time Flies",
+                "text": "This leisurely hike through the woods has proven considerably more taxing than had you expected. As you wipe some errant spittle from the corner of your mouth, you suddenly notice that your breath is visible, hanging in the air before you like an apparition for the briefest of moments before evaporating into nothingness. You're not just imagining things: the chill has grown considerably more bitter since you entered the forest. Your head begins to ache as you try to catch a glimpse of the sky through the canopy overhead. It was a beautiful morning with clear skies when you departed the village; just how long have you been in here....?\nShuffle the set-aside <i>Fearsome Fog</i> encounter set and the encounter discard pile into the encounter deck.\n\n\n"
+            }
+        },
+        "91a0ea77-d3ad-4a9d-b4ac-9a81f9f42211": {
+            "name": "Nebelige Stimmung",
+            "front": {
+                "flavor_text": "Frankly, the foggy forest frequently feels far from friendly. From underfoot, the fetid fumes of fallow, festering fecundity fuel a frantic fight-or-flight frenzy, and further forth from your flank, the fluttering of foul flies frequenting the fragile, frozen-over flower fields fully forms a flickering flash of fickle fear. Forward feels foolhardy, but furtively fleeing for freedom feels futile..."
+            },
+            "back": {
+                "name": "Feeling Funny",
+                "text": "Something strange is going on here; it's impossible to tell through the smothering fog that has rolled in, but it definitely feels darker now than when you entered. Has the sun gone down already?\nThe dull ache in your temple has grown to a rhythmic pounding and you're finding that it has become difficult to think, much less speak, although the growing discomfort in the back of your throat has also become concerning. It feels like your tongue has swollen to twice its normal size...\nEach investigator must discard all non-weakness cards from their hand or take 2 horror.\nShuffle the encounter discard pile into the encounter deck.\n\n\n"
+            }
+        },
+        "2ecb2ccb-a456-4712-92df-4aa26f1c5b19": {
+            "name": "Stille Nacht",
+            "front": {
+                "text": "Investigators may not commit cards to tests performed by other investigators. ",
+                "flavor_text": "\n<center><b> ...?</b>\n\n"
+            },
+            "back": {
+                "name": "Not a Whisper",
+                "text": "Gasping for air, you fall to your knees. You can feel it now---the phantom noose tightening around your neck---but your frantic attempts to claw at it prove fruitless. As the world goes black, the last thing you see is a crimson butterfly dancing around your temple, and its gentle glow illuminating the slithering form of a tall woman emerging from a nearby fog bank...\nEach surviving investigator is defeated and suffers 1 physical trauma.\n\n\n"
+            }
+        },
+        "16d6c075-9a96-40f6-8f24-517187f236ef": {
+            "name": "Auf der Suche nach Publikum",
+            "front": {
+                "text": "<obj> <i>Search for signs of Miyu.</i>\nInvestigators may spend the requisite number of clues, as a group, to advance.",
+                "flavor_text": "A curious patchwork of red vines has apparently infested the foundations of the palace and now threatens to impede your investigation. You're not certain if that really was Miyu---you're not even certain if the girl that startled you in the entryway was real---but you've got to take your chances and explore the palace..."
+            },
+            "back": {
+                "name": "Dead Ends",
+                "text": "You keep thinking you catch glimpses of the girl you saw, watching you from the shadows, but whenever you turn to look, she's nowhere to be found. Miyu, if that really was her, seems to have hidden herself quite well...\nYou look down and sigh when you realize you're standing in a pool of fresh blood. As you lift your foot from the mess, you notice the shape of the puddle has a hard edge, as if it's draining through a gap in the floor...\nPut the set-aside Concealed Passageway location into play unrevealed.\n\n\n"
+            }
+        },
+        "c53361f3-af93-4aed-967e-a5984046e4f6": {
+            "name": "Beerdigung eines Freundes",
+            "front": {
+                "text": "<obj> <i>Find Takeshi's burial site.</i>\nWhen each surviving investigator <i>has paid their respects to Takeshi</i>, advance.",
+                "flavor_text": "The villagers mentioned Takeshi was buried somewhere in this forest, but neglected to elaborate further. Somehow, you feel like you'll know his final resting place when you see it..."
+            },
+            "back": {
+                "name": "Rest in Peace",
+                "text": "You spend a moment in silent contemplation as you examine the pauper's grave they left your friend to rot in. You suppose you ought to be grateful they bothered to drag him in here at all, but the distance between his grave markers and the others just doesn't sit right with you; it feels like an intentional slight. Perhaps there is more to Takeshi's death than you have been led to believe. Just as you resolve to return to the village and demand some answers, a mysterious light emerges from behind the cairn...\nPut the set-aside The Crimson Butterfly <i>(Lighting the Way)</i> enemy into play at The Lonely Cairn.\nRemove the Forest Threshold location from the game and discard any cards attached to it. Move any enemies or investigators at that location to Grotto of the Guardians.\nPut the two set aside Secret Shrine locations into play, unrevealed.\n\n\n"
+            }
+        },
+        "9c2b2e77-302c-4aff-8e02-48f91284e5f3": {
+            "name": "Dauerhafte Ausgangssperre",
+            "front": {
+                "text": "<obj>  <i>Find a path to the manor.</i>\nInvestigators may spend the requisite number of clues, as group, to advance.",
+                "flavor_text": "The manor on the hill seemed to be the source of the screams you heard, but you'll need to figure out how to carve a path through the cramped village in order to reach it... Hopefully, before it's too late."
+            },
+            "back": {
+                "name": "Uninvited Guests",
+                "text": "You've managed to piece together a map of the village from scraps you've recovered, and it indicates the manor sits at the apex of a grand staircase at the rear of the village. You also found a note---discarded by a guard, perhaps---that explains the steps are imbued with some sort of magical enchantment for extra \"security.\" As a result, there's a particular \"trick\" to navigating them, in order to deter the uninitiated...\nShuffle the encounter discard pile into the encounter deck.\nIf Endless Ascent is not in play, search the explore deck for it and put it into play, unrevealed. Shuffle the explore deck.\nFlip Darkened Manor to its revealed side.\n\n\n"
+            }
+        },
+        "3ac58838-4ba5-4c9d-88c9-674d6215b9e9": {
+            "name": "Der Empfang",
+            "front": {
+                "text": "<obj> If The Pale Bride is in the victory display, advance.",
+                "flavor_text": "The young girl that the ghostly maiden has in her clutches must be one of the missing twins from Minakami. If you act quickly, you might still be able to save her..."
+            },
+            "back": {
+                "name": "In Sickness or in Health",
+                "text": "After a desperate scramble, you manage to break the spirit's grasp on the girl and the banshee emits one last ear-piercing shriek before dissolving into misty aether. The distant echo of wedding bells disorients you for a moment before your attention returns to the body of the young girl still writhing in pain upon the floor... \n(<res>2</res>)\n\n\n"
+            }
+        },
+        "50b08639-7409-4e03-ad34-f0ead81a51c6": {
+            "name": "Die schwerste Heimkehr",
+            "front": {
+                "text": "<obj> <i>Search the manor for signs of the missing girls. (You will be instructed when to advance.)</i>",
+                "flavor_text": "The dim light scatters inside the musty mansion's narrow halls, leaving you feeling more than slightly claustrophobic. The source of the screams you heard earlier must lay further within...but is anybody actually home?"
+            },
+            "back": {
+                "name": "Crashing the Party",
+                "text": "You stealthily slide the blood-soaked screen open and immediately let out an involuntary gasp. In the center of the training room at the rear of the building, the translucent spectre of a woman looms over a young girl. She struggles against the ghostly presence to no avail; phantom limbs keep her pinned to the the floor as long, flowing locks of jet black hair wrap themselves in a stranglehold around the girl's neck. Suddenly, the spirit's head cranes in your direction and you can feel her bloodshot eyes leering at you from behind the curtain of her hair...\nShuffle the encounter discard pile into the encounter deck.\nPut the set-aside Mayu Tachibana <i>(A Missing Twin?)</i> story asset and The Pale Bride <i>(Dearly Beloved)</i> enemy into play at the Defiled Dojo.\nCheck the Campaign Log. If <i>the investigators have been marked by The Pale Bride</i>, place 1 damage on Mayu Tachibana. Otherwise, place 1 damage on The Pale Bride.\n\n\n"
+            }
+        },
+        "76bfbf12-361e-41da-8969-730b96c66aef": {
+            "name": "Feuer fangen",
+            "front": {
+                "text": "<obj> <i>Escape the palace!</i>\nIf all surviving investigators are at Orphan's Gaze, you may advance.",
+                "flavor_text": "You hear the cracking of a wooden support beam collapsing in the entryway moments before a thick plume of black, acrid smoke stings your eyes. The palace is collapsing, probably due to the rapidly spreading fire, and now you can't get out the way you came in. You suspect---or maybe just hope---that Miyu was taken deeper into the palace, but every avenue you've explored only seems to lead to a dead end. There must be some other way out of here..."
+            },
+            "back": {
+                "name": "The Eyes of a Child",
+                "text": "If the investigators have both <i>retrieved the hanging mannequin</i> and <i>recovered the discarded mannequin</i>:\nActing on instinct, you place the mannequins into the sculpture's eye sockets. As you step back, a clockwork mechanism behind the wall emits a muffled clicking noise...and the child's face slides open, revealing a hidden passageway. You hurry through the opening, barely noticing the sculpture sliding shut behind you...\n(<res>1)\nOtherwise\nDespite your best efforts, you cannot discern the purpose of the odd sculpture behind the altar; a hairline fracture, barely noticeable, across the meridian of the face taunts you. You notice both its eye sockets are hollow, as if something was meant to be placed there...\nFlip this act back over. <i>(You may advance it again later.)</i>\n\n"
+            }
+        },
+        "47850c36-6532-419f-a153-5c4279cdbc51": {
+            "name": "Schritt halten",
+            "front": {
+                "text": "<obj> <i>Enter the manor.</i>\nIf there are no clues on Darkened Manor, immediately advance.",
+                "flavor_text": "Using the information on the notes you found, you should now be able to make it to the house on the hill if you can get to those stairs..."
+            },
+            "back": {
+                "name": "Welcome Home",
+                "text": "As you place your hand on the door to enter the manor, another shriek rings out from inside, causing the hairs on your neck to stand on end. There's no time to waste and no turning back now; cautiously, you open the door and step inside...\nAdd all locations with Victory X and no clues to the victory display and remove all other locations in play from the game. Investigators are not defeated by this effect. Discard any enemy or treachery cards at those locations.\nPut the set-aside Silent Foyer, Moonlit Courtyard, Tatami Room, and Defiled Dojo locations into play unrevealed. Move each investigator to Silent Foyer.\nShuffle the encounter discard pile and the 3 set aside Ivory Handmaiden enemies into the encounter deck.\n\n\n"
+            }
+        },
+        "bc6b1551-c239-458e-8998-0d59cea697fd": {
+            "name": "Unter dem Nachtigallenboden",
+            "front": {
+                "text": "<obj> Explore the passageway under the palace.\n<i>(Do not advance this act until you are instructed.)</i>",
+                "flavor_text": "You begin to take notice of which floorboards creak and moan as you step on them, and when you stoop down to peer between the slats you can make out something moving below... There's definitely a sublevel underneath the palace; you just need to find a way to access it."
+            },
+            "back": {
+                "name": "Heartless",
+                "text": "You hold your breath as you finally work up the courage to pull the sheet back... Fortunately, lying before you is not Miyu's body, as you had feared; it is no one's body at all, actually, only a lifeless mannequin. Whoever designed this automaton went to great lengths to make it resemble a human being, but the illusion is shattered by a deep wound carved into its chest. Where its \"heart\" would be, there is merely a hollow, bloody chasm. You're about to release your death grip on the sheet and let it fall back over the doll's cold body in frustration, when suddenly a light begins to shine from the vacant wound. A crimson butterfly emerges from somewhere inside the artificial maiden and begins to float up towards the ceiling. You watch its red glow disappear through a gap in the wood work...but the dull pounding on the floor boards overhead snaps you out of your reverie. You swallow a lump in your throat as you come to terms with the situation; Miyu's not here. Maybe she never was. And now you have bigger problems...\nMove The Offal Extremities to Undercroft Theatre.\n\n\n\n"
+            }
+        },
+        "eaf09e57-f187-4dff-a478-813b46a5d3f6": {
+            "name": "Zwischen Engeln und Insekten",
+            "front": {
+                "text": "<obj> If The Crimson Butterfly\nis at the Torii Gate location, advance.",
+                "flavor_text": "Something has come alive in the forest, and The Crimson Butterfly is clearly unsettled by it. Unfortunately, the forest feels like it has \"rearranged\" itself while you've been inside it, somehow obscuring the exit. You strongly feel you should find your way back to the gate...before whatever is out there finds you."
+            },
+            "back": {
+                "name": "The Hidden Village",
+                "text": "<i>The Crimson Butterfly vanishes from sight as it passes through the gateway and a yawning portal opens between its archways, casting the forest in a pale red light. On the other side of the crimson aperture, a rustic village beckons... </i>(<res>1)"
+            }
+        },
+        "c7b19421-9ab6-4ef9-9059-6fd41f287690": {
+            "name": "Atempause der Witwe",
+            "front": {
+                "text": "Widow's Respite is connected to the <t>Woods</t> location that put it into play <i>(and vice versa).</i>\n<for> When <name> is revealed: Each investigator at <name> must discard a non-weakness card from their hand.",
+                "flavor_text": "This cluster of markers seems to represent a family; \nTakeshi never married, as far as you know.",
+                "victory": " Victory 1.",
+                "traits": "Graveyard."
+            },
+            "back": {
+                "name": "Untended Graves",
+                "text": "Untended Graves is connected to the <t>Woods</t> location that put it into play <i>(and vice versa).</i>",
+                "flavor_text": "A crowded collection of weathered \nstone markers catches your eye.",
+                "traits": "Graveyard."
+            }
+        },
+        "8b845c30-7ba8-4360-a2f9-12afae228ac7": {
+            "name": "Bambusallee",
+            "front": {
+                "text": "Investigators must spend an additional action to move out of <name>.\n<action> Exhaust a <t>Melee</t> asset you control: Test your weapon against the bamboo. Heal 2 horror. <i>(Limit once per game.)</i>",
+                "flavor_text": " You're gonna walk down to...",
+                "traits": "Woods."
+            },
+            "back": {
+                "name": "Verdant Copse",
+                "text": "",
+                "flavor_text": "A solemn expanse of tall trees, shrubbery, \nand stonework beckons you deeper into the woods.",
+                "traits": "Woods."
+            }
+        },
+        "87a8c993-47d1-44bb-bda0-c062c8a96e15": {
+            "name": "Blutroter Altar",
+            "front": {
+                "text": "<for> When <name> is revealed: Place 1 doom on the nearest <t>Elite</t> enemy. If there are no <t>Elite</t> enemies in play, flip 1 of the clues on <name> to its doom side instead.",
+                "flavor_text": "A still beating heart throbs inside a \nsmall compartment placed upon the altar...",
+                "victory": " Victory 1.",
+                "traits": "Ground Floor. Sanctum."
+            },
+            "back": {
+                "name": "Palace Wing",
+                "text": "",
+                "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
+                "traits": "Ground Floor."
+            }
+        },
+        "16cf7e96-3c57-426f-b9eb-afc4c4469a99": {
+            "name": "Der einsame Grabstein",
+            "front": {
+                "text": "The Lonely Cairn is connected to the <t>Woods</t> location that put it into play <i>(and vice versa).</i> \n<action>: Remember that <i>you have paid your respects to Takeshi.</i> <i>(Limit once per game.)</i>",
+                "flavor_text": "Somehow, you know he's here...",
+                "subtitle": "Takeshi's Grave",
+                "victory": " Victory 1.",
+                "traits": "Graveyard."
+            },
+            "back": {
+                "name": "Untended Graves",
+                "text": "Untended Graves is connected to the Woods location that put it into play <i>(and vice versa).</i>",
+                "flavor_text": "A crowded collection of weathered \nstone markers catches your eye.",
+                "traits": "Graveyard."
+            }
+        },
+        "6f7188c7-4a51-446b-ba6c-f84090206c3c": {
+            "name": "Der letzte Spross",
+            "front": {
+                "text": "<action> Spend 1 <per> clues, as a group: Choose a random set-aside Untended Graves location and put it into play, unrevealed. <i>(Group limit once per game.)</i>",
+                "flavor_text": "Long ago, cherry blossom petals blanketed \nthe streets of Minakami. Now, this proud tree \nis the sole survivor of its kind.",
+                "victory": " Victory 1.",
+                "traits": "Woods."
+            },
+            "back": {
+                "name": "Verdant Copse",
+                "text": "",
+                "flavor_text": "A solemn expanse of tall trees, shrubbery, \nand stonework beckons you deeper into the woods.",
+                "traits": "Woods."
+            }
+        },
+        "a8dedbad-060c-4294-8510-105f05f1814a": {
+            "name": "Dorfplatz",
+            "front": {
+                "text": "<action> Spend 1 <per> clues, as a group: <b>Explore.</b> Put the top card of the explore deck into play and move to it.",
+                "flavor_text": "A cool breeze wafts through the center of the empty village.",
+                "traits": "Village."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Scattered, flickering lights line the vacant square...",
+                "traits": "Village."
+            }
+        },
+        "f52e4c7f-e683-4f90-bcf7-0f7b99947844": {
+            "name": "D\u00e4mmerung bei Halbmond",
+            "front": {
+                "text": "<hau> Discard a random non-weakness card from your hand. <i>(Trigger this location's haunted effect whenever you fail a skill test while investigating <name>.)</i>",
+                "flavor_text": "The blight seeping into the soil \nhas spoiled many a harvest here.",
+                "traits": "Village. Farm."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "At the edge of the village, fields of rice paddies \nbask in the scattered remnants of the dying light.",
+                "traits": "Village. Farm."
+            }
+        },
+        "c823572e-1bc4-4c9b-82ca-64f8cc2da8ae": {
+            "name": "Eingangshalle",
+            "front": {
+                "text": "<action> If there are no enemies in play and all locations in play are revealed: <b>Resign.</b> <i>This can't be real...</i>",
+                "flavor_text": "The girl is gone, but you swear you keep catching glimpses of her out of the corner of your eye...",
+                "traits": "Ground Floor. Central."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "The entrance is surprisingly cramped; \nit resembles an apartment more than a palace.",
+                "traits": "Ground Floor. Central."
+            }
+        },
+        "93a17bdf-8c2b-4dd3-84ef-d78c7d8ef190": {
+            "name": "Endloser Aufstieg",
+            "front": {
+                "text": "<hau> Lose 1 resource. <i>(Trigger this location's haunted effect whenever you fail a skill test while investigating <name>.)</i>",
+                "flavor_text": "Try as you might to scale the steps, \nyou never seem to manage to reach the top...",
+                "victory": " Victory 1.",
+                "traits": "Village. Steps."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "The winding stone staircase is so massive \nthat you cannot even see what awaits you at its summit.",
+                "traits": "Village. Steps."
+            }
+        },
+        "6feef1df-736e-4981-ac70-4d71ff9023b5": {
+            "name": "Entweihtes Dojo",
+            "front": {
+                "text": "<for> When <name> is revealed: Advance the act. <i>(Group limit once per game.) </i>  \n<action><action> Spend 2 clues: Heal 1 damage from an <t>Ally</t> asset at <name>. This action does not provoke attacks of opportunity.",
+                "flavor_text": "The scent of copper and sweat hangs heavily in the air...",
+                "victory": "Victory 1.",
+                "traits": "Ground Floor."
+            },
+            "back": {
+                "text": "Investigators may not move to <name> from a location with clues on it.",
+                "flavor_text": "The splash of fresh arterial spray on the door \nsuggests the training room was used recently...",
+                "traits": "Ground Floor."
+            }
+        },
+        "15ede677-c8a6-49f9-9438-d0a81ab79d47": {
+            "name": "Fischerkai",
+            "front": {
+                "text": "<action>: <i>Rummage for supplies.</i> Search the top 7 cards of your deck for an <t>Item</t> or <t>Supply</t> card and draw it. Shuffle your deck. <i>(Limit once per game.)</i>",
+                "flavor_text": "The smell of rotting fish carcasses causes you to retch. Fortunately, there's no one around to see it.",
+                "traits": "Village. Port."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "On the bank of a nearby river, the silhouette of \na wooden structure looming over a decrepit dock \npeeks out through a thin layer of fog.",
+                "traits": "Village. Port."
+            }
+        },
+        "50534a68-5fe9-4003-ae5b-f8f6df3c843c": {
+            "name": "Grotte der W\u00e4chter",
+            "front": {
+                "text": "<free>: <i>Say a prayer.</i> Ready an <t>Aspect</t> asset you control. <i>(Limit once per game.)</i>",
+                "flavor_text": "Several of the shrines have fallen into disrepair, \nbut you can still make out the distinct shapes \nof the animal spirits they once honored.",
+                "traits": "Woods. Sanctum."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "A brook empties into a small reflecting pool, \nsurrounded by a collection of shrines.",
+                "traits": "Woods. Sanctum."
+            }
+        },
+        "4fbeace4-ace5-4e4a-9629-8fdf8b804733": {
+            "name": "G\u00e4stequartier",
+            "front": {
+                "text": "<hau> Add 1 <curse> token to the chaos bag. <i>(Trigger this location's haunted effect whenever you fail a skill test while investigating <name>.)</i>",
+                "flavor_text": "The flickering candlelight casts long shadows \nacross the cramped bedchamber.",
+                "traits": "Ground Floor."
+            },
+            "back": {
+                "name": "Palace Wing",
+                "text": "",
+                "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
+                "traits": "Ground Floor."
+            }
+        },
+        "c23fdae3-15d9-47e4-95d6-d47b1fdb03a3": {
+            "name": "Jiraiyas Festung",
+            "front": {
+                "text": "<action> Spend 1 <per> clues, as a group: Choose a random set-aside Untended Graves location and put it into play, unrevealed. <i>(Group limit once per game.)</i>",
+                "flavor_text": "The fable of the good-natured frog spirit \nand the treacherous scorpion who stung him is \na favorite among the children of Minakami.",
+                "subtitle": "Shrine of the Kaeru",
+                "traits": "Woods. Sanctum. "
+            },
+            "back": {
+                "name": "Verdant Copse",
+                "text": "",
+                "flavor_text": "A solemn expanse of tall trees, shrubbery, \nand stonework beckons you deeper into the woods.",
+                "traits": "Woods."
+            }
+        },
+        "0db64187-8027-4cee-9b50-f16a43e17a14": {
+            "name": "Kapitulation eines Helden",
+            "front": {
+                "text": "<name> is connected to the <t>Woods</t> location that put it into play <i>(and vice versa).</i>\n<for> When <name> is revealed: Draw the top card of the encounter deck.",
+                "flavor_text": "The size of the marker indicates the importance of the person it honors; this couldn't possibly be your friend.",
+                "victory": " Victory 1.",
+                "traits": "Graveyard."
+            },
+            "back": {
+                "name": "Untended Graves",
+                "text": "Untended Graves is connected to the <t>Woods</t> location that put it into play <i>(and vice versa).</i>",
+                "flavor_text": "A crowded collection of weathered \nstone markers catches your eye.",
+                "traits": "Graveyard."
+            }
+        },
+        "516ac804-ddb2-45e7-bb37-fee9f5a856a5": {
+            "name": "Meditationskammer",
+            "front": {
+                "text": "<free>: <i>Whisper a prayer.</i> Ready an <t>Aspect</t> asset you control. <i>(Limit once per game.)</i>",
+                "flavor_text": "The reflected light from the shattered mirror \nhung above the modest shrine disorients you...",
+                "subtitle": "Shrine of the Kujaku",
+                "victory": "Victory 1.",
+                "traits": "Ground Floor. Sanctum."
+            },
+            "back": {
+                "name": "Palace Wing",
+                "text": "",
+                "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
+                "traits": "Ground Floor."
+            }
+        },
+        "7af62765-ff3b-477f-8129-7dd9251fddd2": {
+            "name": "Midoris Aufstieg",
+            "front": {
+                "text": "<action> Spend 1 <per> clues, as a group: Choose a random set-aside Untended Graves location and put it into play, unrevealed. <i>(Group limit once per game.)</i>",
+                "flavor_text": "The numerous bundles of rice littering \nthe secluded glen have been intentionally left to honor \nthe patron saint of fertility and agriculture.",
+                "subtitle": "Shrine of the Inari",
+                "traits": "Woods. Sanctum. "
+            },
+            "back": {
+                "name": "Verdant Copse",
+                "text": "",
+                "flavor_text": "A solemn expanse of tall trees, shrubbery, \nand stonework beckons you deeper into the woods.",
+                "traits": "Woods."
+            }
+        },
+        "6c963d50-d557-4cd7-a833-e9df219893fd": {
+            "name": "Modriger Flur",
+            "front": {
+                "text": "<action> If there are no clues on <name>: Remember that you <i>recovered the discarded mannequin</i>. <i>(Group limit once per game.)</i>",
+                "flavor_text": "An overhead lantern sways in an unfelt breeze \nas shadows dance around the edges of the junction...",
+                "traits": "Ground Floor. Passageway."
+            },
+            "back": {
+                "name": "Palace Wing",
+                "text": "",
+                "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
+                "traits": "Ground Floor."
+            }
+        },
+        "b14bdc79-b59c-4b97-b45d-70336e8a0fb3": {
+            "name": "Mondbeschienener Innenhof",
+            "front": {
+                "text": "Investigators at <name> cannot gain resources.",
+                "flavor_text": "A cherry blossom tree watches over \nthe small meditation pool.",
+                "traits": "Ground Floor."
+            },
+            "back": {
+                "text": "Investigators may not move to <name> from a location with clues on it.",
+                "flavor_text": "The manor wraps around an open air garden, \ncomplete with an artificial water feature...",
+                "traits": "Ground Floor."
+            }
+        },
+        "f63275a3-27a7-4085-bad9-3053867350f1": {
+            "name": "Puppen-Werkstatt",
+            "front": {
+                "text": "<action> If there are no clues on <name>: Remember you <i>retrieved the hanging mannequin.</i> <i>(Group limit once per game.)</i>",
+                "flavor_text": "Two of the handmade dolls in the \ndisplay on the shelf appear to be missing...",
+                "subtitle": "The Master's Playroom",
+                "victory": " Victory 1.",
+                "traits": "Ground Floor. Workshop."
+            },
+            "back": {
+                "name": "Palace Wing",
+                "text": "",
+                "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
+                "traits": "Ground Floor."
+            }
+        },
+        "41dadafa-94d9-4604-b826-48ca75650b18": {
+            "name": "Quartier der Bediensteten",
+            "front": {
+                "text": "<hau> Discard the top card of your deck. If it is a weakness, draw it. <i>(Trigger this location's haunted effect whenever you fail a skill test while investigating <name>.)</i>",
+                "flavor_text": "The royal servants were confined to a small dormitory on the far side of the palace; out of sight, out of mind.",
+                "traits": "Ground Floor."
+            },
+            "back": {
+                "name": "Palace Wing",
+                "text": "",
+                "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
+                "traits": "Ground Floor."
+            }
+        },
+        "835cc6de-b44d-44cf-b7de-3f962eda5eac": {
+            "name": "Schlichtes Denkmal",
+            "front": {
+                "text": "<hau> Reveal a random token from the chaos bag. If it is a non-<elder_sign> or <blessing> symbol, take 1 horror. <i>(Trigger this location's haunted effect whenever you fail a skill test while investigating <name>.)</i>",
+                "flavor_text": "A candlelit memorial honors the memory \nof former paragons of Onigawa.",
+                "traits": "Ground Floor."
+            },
+            "back": {
+                "name": "Palace Wing",
+                "text": "",
+                "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
+                "traits": "Ground Floor."
+            }
+        },
+        "57f7d241-7470-4995-9d33-44320089a803": {
+            "name": "Schrein der Sonne",
+            "front": {
+                "text": "<action> If there are no clues on <name>: Remember that <i>you have the blessing of the sun.</i> <i>(Group limit one success per game.)</i>",
+                "flavor_text": "A dazzling shaft of blinding light \nenvelops the modest altar.",
+                "victory": " Victory 1.",
+                "traits": "Woods. Sanctum."
+            },
+            "back": {
+                "name": "Secret Shrine",
+                "text": "The passage is sealed. Investigators may not enter Secret Shrine.",
+                "flavor_text": "A mysterious effigy of a winged insect \nhangs over the blocked passageway...",
+                "traits": "Woods."
+            }
+        },
+        "84f631aa-4f52-4d2f-9ef4-764adbb0680d": {
+            "name": "Schrein des Mondes",
+            "front": {
+                "text": "<action> If there are no clues on <name>: Remember that <i>you have the blessing of the moon.</i> <i>(Group limit one success per game.)</i>",
+                "flavor_text": "A mysterious cloak of unnatural darkness \nsmothers the grim altar.",
+                "victory": " Victory 1.",
+                "traits": "Woods. Sanctum."
+            },
+            "back": {
+                "name": "Secret Shrine",
+                "text": "The passage is sealed. Investigators may not enter Secret Shrine.",
+                "flavor_text": "A mysterious effigy of a winged insect \nhangs over the blocked passageway...",
+                "traits": "Woods."
+            }
+        },
+        "b529d163-7b62-4f4a-aa0d-a5cf54bd2b15": {
+            "name": "Stilles Foyer",
+            "front": {
+                "text": "Investigators at <name> may not put assets into play.",
+                "flavor_text": "The mountain in the distance---which you believe \nthe villagers refer to as \"Mount Kokoro\"---reflects \nthe light of the moon like a warning beacon...",
+                "traits": "Ground Floor. Central."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "An eerie quiet muffles your footsteps \nas you step inside the manor...",
+                "traits": "Central. Ground Floor."
+            }
+        },
+        "16fe0d49-8664-4637-982a-d60759f071af": {
+            "name": "Tatami-Raum",
+            "front": {
+                "text": "<for> When <name> is revealed: Discard cards from the top of the encounter deck until an Ivory Handmaiden enemy is revealed and spawn it here.",
+                "flavor_text": "The thin, filthy mats on the floor \ndon't look particularly comfortable...",
+                "traits": "Ground Floor."
+            },
+            "back": {
+                "text": "Investigators may not move to <name> from a location with clues on it.",
+                "flavor_text": "A fine layer of dust glazes everything dwelling \nwithin the manor's sleeping quarters.",
+                "traits": "Ground Floor."
+            }
+        },
+        "ccb8ec79-4589-41be-b8ac-c772546ce07d": {
+            "name": "Torii-Tor",
+            "front": {
+                "text": "Enemies may not enter <name> and investigators may not enter <name> if an enemy is in their threat area.",
+                "flavor_text": "These traditional archways are constructed to demarcate the transition from the secular to the sacred.",
+                "subtitle": "Forlorn, Forgotten",
+                "traits": "Woods."
+            },
+            "back": {
+                "name": "Torii Gate",
+                "text": "<action> Spend 1 <per> clues, as a group: Move The Crimson Butterfly 1 location towards <name>.",
+                "flavor_text": "The red paint on the gate is peeling. \nSomething is happening here...",
+                "subtitle": "A Way Out?",
+                "traits": "Woods."
+            }
+        },
+        "597a23c4-44b9-41ef-b906-61af73be97d7": {
+            "name": "Torii-Tor",
+            "front": {
+                "text": "<action>: <i>Deja vu?</i> Search the top 7 cards of your deck for a <t>Spirit</t> or <t>Spell</t> card and draw it. Shuffle your deck. <i>(Limit once per game.)</i>",
+                "flavor_text": "Despite its apparent restoration, \nthe gate now lies dormant.",
+                "subtitle": "Former Glory",
+                "traits": "Village. Central."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Are these the really same archways \nyou passed through in the forest?",
+                "traits": "Village. Central."
+            }
+        },
+        "5f447cf3-c02b-482f-b8b6-a668f6cc8261": {
+            "name": "Undercroft Theater",
+            "front": {
+                "text": "<for> When <name> is revealed: Read <b>Scenario Interlude: Open Heart</b> in the Campaign Guide. <i>(Group limit once per game.)</i>\n<action> If there are no clues on <name>: Advance the act. <i>(Group limit once per game.)</i>",
+                "flavor_text": "The entity on the stone slab remains perfectly still, \ndespite the mass of hands grasping at it...",
+                "victory": "Victory 1.",
+                "traits": "Basement. Ritual Site."
+            },
+            "back": {
+                "name": "Concealed Passageway",
+                "text": "",
+                "flavor_text": "A pool of blood disappears \nbeneath the uneven floorboards...",
+                "traits": "Ground Floor. Passageway."
+            }
+        },
+        "904ef623-b952-42b3-a4ec-8538b55de08d": {
+            "name": "Verdunkeltes Herrenhaus",
+            "front": {
+                "text": "<hau> Place 1 of your clues on <name>. <i>(Trigger this location's haunted effect whenever you fail a skill test while investigating <name>.)</i>",
+                "flavor_text": "A thin layer of fog shrouds \nthe mansion's upper reaches from sight.<i></i>",
+                "victory": " Victory 1.",
+                "traits": "Village. Lodge."
+            },
+            "back": {
+                "text": "Investigators and enemies cannot enter Darkened Manor.",
+                "flavor_text": "The screams you heard seemed to originate from the mansion on the hill... But how to get there?",
+                "traits": "Village. Lodge."
+            }
+        },
+        "b90810fd-e027-4d97-9d36-233dce4fd4a9": {
+            "name": "Verfallendes Archiv",
+            "front": {
+                "text": "<action> If there are no clues on <name>: Read <b>Scenario Interlude: The Best Laid Plans</b> in the Campaign Guide. <i>(Group limit once per game.)</i>",
+                "flavor_text": "The impressive collection of tomes and manuscripts housed in the royal library have become infested with rot...",
+                "victory": "Victory 1.",
+                "traits": "Ground Floor."
+            },
+            "back": {
+                "name": "Palace Wing",
+                "text": "",
+                "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
+                "traits": "Ground Floor."
+            }
+        },
+        "275ecea3-38c6-41dc-b875-7754305bed0a": {
+            "name": "Verfallene Kaserne",
+            "front": {
+                "text": "<hau> Draw the top card of the encounter deck. <i>(Trigger this location's haunted effect whenever you fail a skill test while investigating <name>.)</i>",
+                "flavor_text": "What fate befell the soldiers \nwho once dwelled within these walls?",
+                "victory": " Victory 1.",
+                "traits": "Village. Fort."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Though the structure has been badly damaged, \nthe sheer quantity of weapons lying strewn about the wreckage suggests it once quartered warriors.",
+                "traits": "Village. Fort."
+            }
+        },
+        "44ed80f6-c735-49b0-8050-eadc3aeb6904": {
+            "name": "Verschlungener Pfad",
+            "front": {
+                "text": "<for> After you move to <name>: Test <agility> (3). If you fail, lose all remaining actions and end your turn.",
+                "flavor_text": "There's no obvious need for the trail to twist this circuitously, but an abundance of caution keeps you \nfrom straying too far from the beaten path.",
+                "traits": "Woods."
+            },
+            "back": {
+                "name": "Verdant Copse",
+                "text": "",
+                "flavor_text": "A solemn expanse of tall trees, shrubbery, \nand stonework beckons you deeper into the woods.",
+                "traits": "Woods."
+            }
+        },
+        "b93eca6d-3eb4-44a6-ace5-f3fab1171d4c": {
+            "name": "Waldschwelle",
+            "front": {
+                "text": "<action> If it is Act 3a: <b>Resign.</b> <i>You head back to the village.</i>",
+                "flavor_text": "You can't help but be slightly unnerved \nby the forest's deafening silence.",
+                "traits": "Woods."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "A modest stone archway bids you welcome \nto this tranquil sanctuary.",
+                "traits": "Woods."
+            }
+        },
+        "6e7cae13-c681-4a88-a777-ad38800a4245": {
+            "name": "Wunschbrunnen",
+            "front": {
+                "text": "<for> When Wishing Well is revealed: Shuffle the set-aside <i>Downwell</i> encounter set and put it into play face down, attached to <name>, as a separate well deck. \n<free>: <i>Make a wish.</i> Draw a random card from the attached well deck. <i>(Limit once per game.)</i>",
+                "flavor_text": "",
+                "traits": "Village."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "\"Well, well, well... What do we have here?\"",
+                "traits": "Village."
+            }
+        },
+        "f31bdae6-cb5a-4891-ab9b-36374c6b189d": {
+            "name": "Das Gefolge der Prinzessin",
+            "front": {
+                "text": "Peril.\n<rev> Read <b>Scenario Interlude: Damsel In The Deep</b> in the Campaign Guide.",
+                "flavor_text": "A young girl floats to the surface of the water, surrounded by a vanguard of beautifully painted fish...",
+                "victory": "Victory 1.",
+                "traits": "Mystery."
+            },
+            "back": {}
+        },
+        "7bdd0116-e6da-4216-86d8-9acb9d9cef06": {
+            "name": "Das M\u00e4dchen im Brunnen",
+            "front": {
+                "text": "Peril.\n<rev> Read <b>Scenario Interlude: The Maiden of the Black Water</b> in the Campaign Guide.",
+                "flavor_text": "Swolen, soggy fingers reach out from \nbeneath the surface of the water...",
+                "victory": "Victory 1.",
+                "traits": "Mystery."
+            },
+            "back": {}
+        },
+        "b18af11b-3636-425b-84ef-e1c20cb5f234": {
+            "name": "Das Versagen des Schicksals",
+            "front": {
+                "text": "<rev> Reveal a random token from the chaos bag. Then, if you revealed...\n<bullet> ...a <skull>, take 1 damage.\n<bullet> ...a <cultist>, take 1 horror.\n<bullet> ...a <tablet>, discard a card from your hand.\n<bullet> ...a <elder_thing>, lose an action on your next turn.\n<bullet> ...any other non-<elder_sign> token,\n           lose 1 resource.",
+                "flavor_text": "",
+                "traits": "Omen."
+            },
+            "back": {}
+        },
+        "45d367df-146f-4e6f-bbaf-b6f0971887b3": {
+            "name": "Die Frau im Nebel",
+            "front": {
+                "text": "Peril. Hidden.\n<rev> Add <name> to your hand and remember that <i>you caught a glimpse of The Pale Bride.</i> You may not mention The Pale Bride for the remainder of this scenario. Each time you do, you must take 1 direct horror.",
+                "flavor_text": "For a moment, you thought you heard wedding bells...",
+                "traits": "Mystery."
+            },
+            "back": {}
+        },
+        "331484c6-0a0c-456e-866e-76617b95439a": {
+            "name": "Die W\u00e4lder haben Augen",
+            "front": {
+                "text": "<rev> Test <agility> (X), where X is the shroud value of your current location. If you fail, you must take 1 horror and move to a revealed connecting location.",
+                "flavor_text": "Large, glowing eyes leer at you through the thicket... and you're not sticking around to find out \nto whom they belong.",
+                "traits": "Terror."
+            },
+            "back": {}
+        },
+        "6b60829b-adf8-404b-8b3d-4c775f1fbf8d": {
+            "name": "Dorngestr\u00fcpp-Embargo",
+            "front": {
+                "text": "<rev> Put <name> into play in your threat area.\nYou cannot play assets or perform move actions. \n<action>: Test <combat> (3). You get +1 <combat> skill value for each time this ability has been activated this round. If you succeed, discard <name>.",
+                "flavor_text": "Nothing good can grow here.",
+                "traits": "Trap."
+            },
+            "back": {}
+        },
+        "9eccd594-925e-4fc7-9182-21d6b9b93787": {
+            "name": "Eine weggeworfene Maske",
+            "front": {
+                "text": "<rev> Any one investigator may add the set-aside Shishio's Guile <i>(Guise of the Baleful Retainer)</i> to their deck and immediately put it into play <i>(without paying its resource cost).</i> This does not count toward their deck limit. Remove <name> from the game.",
+                "flavor_text": "You pull up a bucket...and find a soggy piece of traditional headdress submerged within.",
+                "traits": "<size 8>Mystery."
+            },
+            "back": {}
+        },
+        "919b02d6-9046-48bc-8bb7-a44a7a15ae9f": {
+            "name": "Flammenwoge",
+            "front": {
+                "text": "<rev> Test <agility> (3). If you fail, attach <name> to the nearest location without a copy of <name> attached. Limit 1 per location.\n<for> When the investigation phase begins: Each enemy and each investigator at the attached location takes 1 damage.",
+                "flavor_text": "Hungry flames begin leaping from torches and lanterns, racing up into the rafters of the palace...",
+                "traits": "Hazard."
+            },
+            "back": {}
+        },
+        "7a22d1dc-5e06-4e84-92d8-8c5e914eae40": {
+            "name": "Gefallenes Pantheon",
+            "front": {
+                "text": "<rev> You must either lose 2 resources or take 1 damage. If you control an exhausted <t>Aspect</t> story asset, <name> gains surge.",
+                "flavor_text": "Their shrines aren't the only things that have fallen.",
+                "traits": "Omen."
+            },
+            "back": {}
+        },
+        "382e95a3-19f1-4377-8c1c-8dc3f1115aba": {
+            "name": "Geheime Akkorde",
+            "front": {
+                "text": "<rev> Add 1 <curse> token to the chaos bag, if able, and then test <willpower> (3). If you fail, take 1 horror. When this test ends, return any <curse> tokens revealed during this test to the chaos bag instead of returning them to the token pool.",
+                "flavor_text": "The shrill chords of a haunting melody grow and diminish in volume as you move from room to room...",
+                "traits": "Mystery."
+            },
+            "back": {}
+        },
+        "46127b99-5951-4648-a51b-d18f819af854": {
+            "name": "Grausame Ernte",
+            "front": {
+                "text": "<rev> Test <willpower> (X), where X is your current location's shroud value. If you fail, you must either take 1 horror or move 1 location toward the nearest <t>Central</t> location. If you fail by 2 or more, do both instead.",
+                "flavor_text": "All around you, cured, painted hands \nhang from the walls; whether in celebration or in warning, you can't rightly say.",
+                "traits": "Terror."
+            },
+            "back": {}
+        },
+        "62be111c-e0ea-446d-a5b6-029aa59c8324": {
+            "name": "Himmlische Kaskade",
+            "front": {
+                "text": "<rev> Put <name> into play in your threat area. Then, if there are 3 or more copies of Celestial Cascade in your threat area, you are defeated and suffer a mental trauma. \nEnemies in your threat area get +1 fight and +1 evade.\n<action> Exhaust an <t>Aspect</t> story asset you control: Discard all copies of <name> from your threat area. ",
+                "flavor_text": "The moon's intensity hampers your aspect's abilities...\nand empowers the restless spirits.",
+                "traits": "Power."
+            },
+            "back": {}
+        },
+        "7164cffa-5b98-4593-8646-aee2dd9c95ae": {
+            "name": "Hypnotischer Strudel",
+            "front": {
+                "text": "<rev> Attach <name> to the nearest <t>River</t> location without a copy of Hypnotic Whirlpool attached. Limit 1 per location.\n<for> When the investigation phase ends: Each investigator at the attached location must test <willpower> (4). Each investigator who fails must test <agility> (3). Each investigator who fails this second test must take 1\u00a0damage.",
+                "flavor_text": "\"There's something down there...\"",
+                "traits": "Hazard. "
+            },
+            "back": {}
+        },
+        "868c8a91-06ee-4a36-b6a0-220c9c26d108": {
+            "name": "Kein Gl\u00fcck",
+            "front": {
+                "text": "<rev> The investigators suffer no ill effects. Remove <name> from the game.",
+                "flavor_text": "You pull up a bucket...and find nothing inside \nbut foul, brackish water.",
+                "traits": "Blunder."
+            },
+            "back": {}
+        },
+        "bf630a6b-fe0b-426b-85bf-123bb457eaf7": {
+            "name": "Mondschrei",
+            "front": {
+                "text": "<rev> Discard the top 3 cards of your deck. If any weaknesses are discarded in this way, draw them.",
+                "flavor_text": "You must be imagining things, but \nevery time you turn your back, the moon seems \nto hang lower and larger in the sky...",
+                "traits": "Mystery."
+            },
+            "back": {}
+        },
+        "76f340ac-a34b-4781-9f78-582e1cb33354": {
+            "name": "Phantomwirbel",
+            "front": {
+                "text": "<rev> If The Tyrian Galley is exhausted, <name> gains surge. Otherwise, test <willpower> (3). If you fail, take 1 horror and exhaust The Tyrian Galley.",
+                "flavor_text": "The hairs on your neck stand on end as the nearby water churns as if displaced by an illusory vessel, and the galley is caught in the undertow...",
+                "traits": "Terror."
+            },
+            "back": {}
+        },
+        "43839519-455a-4cc8-8a53-cb494eb9c5ab": {
+            "name": "Pilzbefall",
+            "front": {
+                "text": "<rev> Attach <name> to the nearest location without a copy of Fungal Growth attached. Limit 1 per location.\n<for> At the end of the investigation phase: Each investigator at the attached location takes 1 damage.",
+                "flavor_text": "The nauseating stench of rot nourishing the ground \nbeneath your feet hangs heavily in the air.",
+                "traits": "Hazard."
+            },
+            "back": {}
+        },
+        "2e822683-7e6a-4eef-a67f-7ad2604f1428": {
+            "name": "Rache der Kodama",
+            "front": {
+                "text": "<rev> Attach <name> to the location with the most clues, and without a copy of <name> attached.\nIncrease the difficulty of the first test each investigator performs at the attached location during their turn by 1.",
+                "flavor_text": "It is said that when a tree has reached a century of life, \na divine spirit comes to dwell within it. To fell such a tree, \nfor any reason, would invite catastrophic misfortune.",
+                "traits": "Curse."
+            },
+            "back": {}
+        },
+        "a6c6b499-c521-4b09-bb1b-55eebe3345b2": {
+            "name": "Schalld\u00e4mpfung",
+            "front": {
+                "text": "<rev> Put <name> into play in your threat area.\nTreat assets in your play area that take up an ally slot as though their text boxes were blank (except for traits). \n<reaction> At the end of the round: Discard <name>.",
+                "flavor_text": "Something doesn't sound right...",
+                "traits": "Hex."
+            },
+            "back": {}
+        },
+        "41f09508-dc5f-46df-90a8-baa6300e1220": {
+            "name": "Sterbliche H\u00fclle",
+            "front": {
+                "text": "<rev> Discard a random non-weakness asset or event card from your hand. Then, test <willpower> (X), where X is the printed resource cost of the discarded card. If you fail or no card is discarded in this way, you cannot perform move actions until the end of the round. ",
+                "flavor_text": "Suspended from a tree branch, the cold body of a young child sways gently in the breeze. She is fourteen forever.",
+                "traits": "Terror."
+            },
+            "back": {}
+        },
+        "0fbdd359-9bb3-453d-9981-3a24bb315ea3": {
+            "name": "\u00c4tzendes Echo",
+            "front": {
+                "text": "<rev> Test <intellect> (X), where X is your current location's shroud value. If you fail, you must take 1 damage or place one of your clues on your location. If you fail by 2 or more, do both instead.",
+                "flavor_text": "The spirits of desecrated corpses wander through the village, mimicking the monotony of everyday routine. Are they real, or merely memories...?",
+                "traits": "Terror."
+            },
+            "back": {}
+        },
+        "c23a7507-74b2-49a3-9b68-6f9e174581de": {
+            "name": "\u00dcberfluss oder Hungersnot",
+            "front": {
+                "text": "<rev> Test <willpower> (3). If you fail, you must discard a non-weakness asset from your hand or play area. If you cannot, take 2 damage instead.",
+                "flavor_text": "A spectral handmaiden shrieks as the monster lurking in her hair begins to feast on rotten sundries...\nand anything else within reach.",
+                "traits": "Terror."
+            },
+            "back": {}
+        },
+        "e79997e7-ce58-45ac-b3ac-4f240ced249a": {
+            "name": "<unique> Der Purpurrote Schmetterling",
+            "front": {
+                "text": "Aloof. Protected. \n<name>'s location gets \u20131 shroud.\n<action>: <b>Parley.</b> <i>Chase the butterfly.</i> Test <combat> or <agility> (X), where X is your current location's shroud value. As an additional cost to activate this ability, you may spend a clue to reduce this test's difficulty by 1 for each investigator at <name>'s location.\nIf you succeed, move <name> to a connecting <t>Woods</t> location. Then, if that location is unrevealed, reveal it.",
+                "flavor_text": "",
+                "subtitle": "Lighting the Way",
+                "traits": "Creature. Elite. Spectral."
+            },
+            "back": {}
+        },
+        "7d8d5a0f-5f15-4921-ba85-62e88c447ea1": {
+            "name": "<unique>Buwaya",
+            "front": {
+                "text": "Hunter 1.\n<b>Revenge </b>-- Return an <t>Ally</t> asset from your discard pile to your hand.",
+                "flavor_text": "It is said that the Buwaya carries a chest or \ncoffin-like saddle on its back in which it entombs \nthe unsuspecting victims it captures.",
+                "subtitle": "The Lurker Below",
+                "victory": "Victory 1.",
+                "traits": "Creature. Elite. Yokai."
+            },
+            "back": {}
+        },
+        "afabc73c-6365-4469-8b94-1c835c0f2353": {
+            "name": "<unique>Hitokiri Daimyo",
+            "front": {
+                "text": "Retaliate. \n<b>Advantage</b> -- Discard the top card of your deck. If it is a weakness, draw it. <i>(Resolve this enemy's advantage effect whenever it becomes engaged with you.) </i>",
+                "flavor_text": "For some reason, your thoughts turn to \nthe shambling corpse of the fallen warrior \nwho chased you through the woods...",
+                "subtitle": "Arachnid Mannequin",
+                "victory": "Victory 1.",
+                "traits": "Humanoid. Elite. Yokai. Cursed."
+            },
+            "back": {}
+        },
+        "bb43efbd-f04f-475f-827b-6a16df47b6f6": {
+            "name": "Die Blasse Braut",
+            "front": {
+                "text": "Massive. Patrol (Defiled Dojo).\n<for> At the start of the enemy phase: If <name> is ready, deal 1 direct damage to each <t>Ally</t> asset at her location. \n<action> Spend 1<per> clues: <b>Fight.</b> You may use <intellect> instead of <combat> for this attack.",
+                "flavor_text": "She'll love you to death.",
+                "subtitle": "Dearly Beloved",
+                "victory": "Victory 1.",
+                "traits": "Humanoid. Elite. Spectral."
+            },
+            "back": {}
+        },
+        "636d7c16-9da3-4619-bc50-0a37e611b5b8": {
+            "name": "Elfenbeindienerin",
+            "front": {
+                "text": "<pre> Least <combat>.\nWhile <name> is ready, its location gets +1 shroud.",
+                "flavor_text": "Ivory ash peels from the creature's limbs \nas it moves, revealing charred skin concealed \nbeneath the alabaster foundation.",
+                "traits": "Humanoid. Yokai."
+            },
+            "back": {}
+        },
+        "8dd31f62-698c-45f9-85ef-12c2dfdd361c": {
+            "name": "Futakuchi-Begleitung",
+            "front": {
+                "text": "Ambush.\n<for> At the start of the enemy phase: Add 1 <curse> token to the chaos bag.",
+                "flavor_text": "The royal consorts often abstained from meals in order \nto maintain their figure, but the ghastly maw \nnow concealed beneath their raven locks does \nnot share their \"dietary restrictions.\"",
+                "traits": "Humanoid. Yokai. Cursed."
+            },
+            "back": {}
+        },
+        "7b4f8fdf-e274-4d65-b737-82c414d6512e": {
+            "name": "Gier-Imitat",
+            "front": {
+                "text": "Ambush. \n<b>Revenge</b> -- Draw a card. <i>(After you defeat this enemy, you must immediately resolve its revenge effect, if able.)</i>",
+                "flavor_text": "\"There is no calamity greater than lavish desires.\" \n---Lao Tzu",
+                "traits": "Monster. Yokai."
+            },
+            "back": {}
+        },
+        "0d8e26e8-43ae-4f84-8497-208c3581cef4": {
+            "name": "Koi-Verf\u00fchrerin",
+            "front": {
+                "text": "Hunter 1.\n<pre> Lowest <agility>.\n<b>Advantage</b> -- Exhaust The Tyrian Galley if it is at your location.",
+                "flavor_text": "The nure-onna are said to imitate distressed mothers crying out for their infants in order to attract \"help\" from unsuspecting sailors and fishermen.",
+                "traits": "Humanoid. Yokai. Vampyr."
+            },
+            "back": {}
+        },
+        "d4760f6e-528e-4e24-8938-f5ca857487ae": {
+            "name": "Kr\u00e4henschwarm",
+            "front": {
+                "text": "Hunter 2.\n<spawn> Any empty location.\n<for> After <name> attacks you: Discard a non-weakness card from your hand.",
+                "flavor_text": "It is said that crows carry the souls of the departed to the land of the dead. Some also believe that when that soul harbors terrible sorrow, a crow may also bring that soul back to put wrong things right.",
+                "traits": "Creature. Pack. Cursed."
+            },
+            "back": {}
+        },
+        "22349e4c-412a-4159-9f35-b2e5da097699": {
+            "name": "Lanternengeist",
+            "front": {
+                "text": "Aloof. Hunter 2.\n<pre> Highest <intellect>.\n<name> loses aloof if there are no clues on its location.",
+                "flavor_text": "Telling ghost stories was forbidden inside the royal palace for fear it would summon the \"aoandon,\" trickster spirits that would snuff out light sources and attack unsuspecting victims in the darkness.",
+                "traits": "Yokai. Spectral."
+            },
+            "back": {}
+        },
+        "0cf9a1ed-bb94-4b09-933b-bfcb46c89456": {
+            "name": "Rachs\u00fcchtiges Echo",
+            "front": {
+                "text": "Patrol (Torii Gate).\n<spawn> Hero's Surrender, if able. Otherwise, The Lonely Cairn. \n<name> gets +3 <per> health. \n<reaction> After you deal damage to <name>: Exhaust it.",
+                "flavor_text": "The shambling corpse of this fallen warrior twitches \nand writhes with every agonizing step. ",
+                "victory": " Victory 1.",
+                "traits": "Yokai. Elite. Cursed."
+            },
+            "back": {}
+        },
+        "d0487fac-52e0-434e-b597-d74200caa5f9": {
+            "name": "Sonnenschirm-Imitat",
+            "front": {
+                "text": "Hunter 1.\n<pre> Least remaining health.\n<b>Revenge </b>-- Add 1 <curse> token to the chaos bag. <i>(After you defeat this enemy, you must immediately resolve its revenge effect, if able.)</i>",
+                "flavor_text": "Reports of various tools and other everyday objects coming to life and \"attacking\" the commoners were often treated by the court mystics with skepticism...",
+                "traits": "Monster. Yokai."
+            },
+            "back": {}
+        },
+        "85beda51-a745-46db-bb00-e51cf56c304b": {
+            "name": "Sterbebett-Begleitung",
+            "front": {
+                "text": "Hunter 1.\nX is the number of resources in your resource pool.\n<for> After <name> attacks you: Lose 1 resource.",
+                "flavor_text": "Many warriors sought comfort from such maidens \non the eve before a great battle, and the sorrow \nof so many slain lovers weighs heavily \nupon their souls, even in death.",
+                "traits": "Humanoid. Yokai. Cursed."
+            },
+            "back": {}
+        },
+        "26035667-34a4-4e85-8262-fcc7a89687b2": {
+            "name": "Urzeitlicher Dirigent",
+            "front": {
+                "text": "Ambush. \n<spawn> Nearest <t>River</t> location.\nPrimeval Conductor cannot enter non-<t>River</t> locations.",
+                "flavor_text": "Blessed by the goddess with biological immortality, \nthe ancient conductors have watched over \nthese waters for untold aeons.",
+                "traits": "Creature. Aquatic."
+            },
+            "back": {}
+        },
+        "e619d96b-6d5c-4f1c-8c21-c68875b51a63": {
+            "name": "Verweilende Essenz",
+            "front": {
+                "text": "Aloof. Hunter 1.\nLingering Essence cannot be damaged except by <t>Blessed</t> or <t>Spell</t> cards.\nWhile <name> is ready and unengaged, its location gets +1 shroud. ",
+                "flavor_text": "A razor's edge separates life and death.",
+                "traits": "Spectral. Cursed."
+            },
+            "back": {}
+        }
+    },
+    "guides": [
+        {
+            "path": "guide.html",
+            "name": "Guide",
+            "id": "043e57fb-67b5-4302-b525-2a306e582c3c",
+            "sections": []
+        }
+    ]
+}
