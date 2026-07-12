@@ -9658,7 +9658,10 @@
                 ],
                 "icons": "CA",
                 "illustration": "./images/!!!-2.png",
-                "illustrator": "Illus. Muhammad Haris An-Nashr"
+                "illustrator": "Illus. Muhammad Haris An-Nashr",
+                "illustration_pan_x": -2251.0,
+                "illustration_pan_y": -1279.0,
+                "illustration_scale": 1.591
             },
             "back": {
                 "type": "story"

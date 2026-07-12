@@ -2,7 +2,14 @@
     "language": "de",
     "project": "project.json",
     "project_name": "Ghosts of Onigawa SE",
-    "encounter_sets": {},
+    "encounter_sets": {
+        "b148ed1e-7af7-43b9-a6af-6eb2132fccbd": {
+            "name": "encounter-tidal terror-b.png"
+        },
+        "0cd539bd-6331-411e-966c-e0457e69abcd": {
+            "name": "encounter-watery woes-b.png"
+        }
+    },
     "cards": {
         "5e67f290-7b28-47c2-ace9-c50c0d33fc29": {
             "name": "<unique>Midoris List",
@@ -19,43 +26,60 @@
             "front": {
                 "entries": [
                     {
-                        "token": "skull",
-                        "text": "\u20131. If you fail, take 1 horror. "
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "\u20131. Wenn die Probe fehlschl\u00e4gt, nimm 1 Horror."
                     },
                     {
-                        "token": "cultist",
-                        "text": "\u20132. If you fail, add a <curse> token to the chaos bag. "
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "\u20132. Wenn die Probe fehlschl\u00e4gt, f\u00fcge dem Chaosbeutel einen <curse>-Marker hinzu."
                     },
                     {
-                        "token": "tablet",
-                        "text": "\u20132. If you fail, place a clue on your location <i>(from the token pool).</i>"
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "\u20132. Wenn die Probe fehlschl\u00e4gt, pltziere einen Hinweis aus dem Vorrat auf diesen Ort."
                     },
                     {
-                        "token": "elder_thing",
-                        "text": "\u20133. If you fail, discard a non-weakness card from your hand."
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20133. Wenn die Probe fehlschl\u00e4gt, lege eine Nicht-Schw\u00e4che-Karte von deiner Hand ab."
                     }
-                ]
+                ],
+                "difficulty": "LEICHT/NORMAL"
             },
             "back": {
                 "entries": [
                     {
-                        "token": "skull",
-                        "text": "\u2013X. X is number of the current act. If you fail, take 1 horror."
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "\u2013X. X ist die Zahl der aktuellen Szene. Wenn die Probe fehlschl\u00e4gt, nimm 1 Horror."
                     },
                     {
-                        "token": "cultist",
-                        "text": "\u20132. After this test ends, add a <curse> token to the chaos bag."
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "\u20132. F\u00fcge nach dieser Probe dem Chaosbeutel einen <curse>-Marker hinzu."
                     },
                     {
-                        "token": "tablet",
-                        "text": "\u20133. If you fail, place a clue on your location <i>(from the token pool).</i>"
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "\u20133. Wenn die Probe fehlschl\u00e4gt, pltziere einen Hinweis aus dem Vorrat auf diesen Ort."
                     },
                     {
-                        "token": "elder_thing",
-                        "text": "\u20134. After this test ends, discard a random non-weakness card from your hand."
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20134. Lege nach dieser Probe eine Nicht-Schw\u00e4che-Karte von deiner Hand ab."
                     }
                 ],
-                "difficulty": "Hard/Expert"
+                "difficulty": "SCHWER/EXPERTE"
             }
         },
         "60e362fd-8ac7-4fff-94ae-6a9f9f487dcf": {
@@ -209,9 +233,9 @@
         "fcc0a495-98e9-43c9-819f-57c6eb45a236": {
             "name": "<unique>Mayu Tachibana",
             "front": {
-                "text": "<reaction> After an enemy at your location is evaded: Draw a card.\n<free>: Move 1 charge from Camera Obscura to another asset you control with \"uses (charges)\". (Limit once per round.)\n<elder_sign> effect: +1. If you succeed, you may place 1 charge on Camera Obscura.",
-                "flavor_text": "\"I made a promise to my sister...\"",
-                "subtitle": "Der Zwilling",
+                "text": "<for> Falls Mayu Tachibana besiegt wird: (<resolution><b>A1</b>)",
+                "flavor_text": "Das junge M\u00e4dchen windet sich vor Schmerzen auf dem Boden und zittert am ganzen K\u00f6rper, w\u00e4hrend sie sich den Hals festh\u00e4lt...",
+                "subtitle": "<size 50> Eine vermisste Zwillingsschwester?",
                 "traits": "Miskatonic. Student."
             },
             "back": {}
@@ -219,10 +243,10 @@
         "bd93b6b1-eda0-4d71-b754-b2df7c55431a": {
             "name": "<unique>Mayu Tachibana",
             "front": {
-                "text": "</family><size 7><reaction><size 8.5><family \"ArnoPro-Regular\"> After an enemy at your location is evaded: Draw a card.\n</family><size 7><free><size 8.5><family \"ArnoPro-Regular\">: Move 1 charge from Camera Obscura to another asset you control with \"uses (charges)\". </family><family \"ArnoPro-Italic\">(Limit once per round.)\n</family><size 7><elder_sign><size 8.5><family \"ArnoPro-Regular\"> effect: +1. If you succeed, you may place 1 charge on Camera Obscura.",
-                "flavor_text": "</family><size 8.5><family \"ArnoPro-Italic\">\"I made a promise to my sister...\"",
-                "subtitle": "<family \"Alegreya\">The Twin",
-                "traits": "<family \"ArnoPro-BoldItalic\"><size 8>Miskatonic. Student."
+                "text": " Nachdem einem Gegner an deinem Ort entkommen wird: Ziehe eine Karte.\n<free>: Verschiebe 1 Ladung von Camera Obscura auf eine andere Vorteilskarte, die du kontrollierst und die Ladungen verwendet. (Maximal einmal pro Runde.)\n<elder_sign>-Effekt: +1. Bei Erfolg darfst du 1 Ladung auf Camera Obscura legen.",
+                "flavor_text": "\u201eIch habe es meiner Schwester versprochen\u2026\u201c",
+                "subtitle": "Die Zwillingsschwester",
+                "traits": "Miskatonic. Student."
             },
             "back": {}
         },
@@ -263,8 +287,9 @@
                 "flavor_text": "Das blasse Mondlicht wirft lange Schatten in die engen Gassen des Dorfes, und die Einrichtung und Architektur strahlen eine rustikale, zeitlose Atmosph\u00e4re aus, die einem Unbehagen bereitet; auf den ersten Blick wirkt das Dorf verlassen, doch wenn die M\u00e4dchen hierher verschleppt wurden, solltest du besser auf alles gefasst sein... "
             },
             "back": {
-                "name": "Out of Time",
-                "text": "Jeder \u00fcberlebende Ermittler wird besiegt und erleidet 1 psychisches Trauma.\n\n\n"
+                "name": "Keine Zeit mehr",
+                "text": "Jeder \u00fcberlebende Ermittler wird besiegt und erleidet 1 psychisches Trauma.\n\n\n",
+                "flavor_text": "Hier stimmt etwas ganz und gar nicht. Du kannst dir keine weiteren brenzligen Situationen mehr leisten, also beschlie\u00dft du, dich in die relative Sicherheit des Torii-Tors zur\u00fcckzuziehen und dich neu zu formieren. Doch noch bevor du \u00fcberhaupt mit der Flucht beginnen kannst, sp\u00fcrst du, wie sich ein eisiger Druck um deinen Hals zusammenzieht. Vergeblich versuchst du, den phantomhaften Griff wegzuschlagen, der dir das Leben aus dem Leib dr\u00fcckt, und du sp\u00fcrst, wie deine F\u00fc\u00dfe den Boden verlassen, kurz bevor alles schwarz wird \u2026"
             }
         },
         "619a3014-e7b8-43e3-bb72-3f66b911d0cd": {
@@ -297,8 +322,9 @@
                 "flavor_text": "Obwohl die leichte K\u00fchle, die dir in den Gliedern kribbelt, dich dazu dr\u00e4ngt, vorsichtig vorzugehen, bist du dir sicher, dass du hier ganz allein bist; das einzige Ger\u00e4usch, das den Schleier der unheimlichen Stille durchbricht, der diesen Wald umh\u00fcllt, ist dein eigener Herzschlag."
             },
             "back": {
-                "name": "Time Flies",
-                "text": "Mische das beiseitegelegte Begegnungsset Furchterregender Nebel und den Begegnungs-Ablagestapel in das Begegnungsdeck.\n\n\n\n"
+                "name": "Wie die Zeit vergeht",
+                "text": "Mische das beiseitegelegte Begegnungsset Furchterregender Nebel und den Begegnungs-Ablagestapel in das Begegnungsdeck.\n\n\n\n",
+                "flavor_text": "Diese gem\u00fctliche Wanderung durch den Wald hat sich als wesentlich anstrengender erwiesen, als du erwartet hattest. Als du dir etwas Speichel aus dem Mundwinkel wischst, bemerkst du pl\u00f6tzlich, dass dein Atem sichtbar ist und f\u00fcr den k\u00fcrzesten Moment wie eine Erscheinung vor dir in der Luft h\u00e4ngt, bevor er sich in Nichts aufl\u00f6st. Du bildest dir das nicht nur ein: Die K\u00e4lte ist deutlich bei\u00dfender geworden, seit du den Wald betreten hast. Dein Kopf beginnt zu schmerzen, w\u00e4hrend du versuchst, durch das Bl\u00e4tterdach \u00fcber dir einen Blick auf den Himmel zu erhaschen. Es war ein wundersch\u00f6ner Morgen mit klarem Himmel, als du das Dorf verlassen hast; wie lange bist du nun schon hier drin...?"
             }
         },
         "91a0ea77-d3ad-4a9d-b4ac-9a81f9f42211": {
@@ -307,8 +333,9 @@
                 "flavor_text": "Ehrlich gesagt wirkt der neblige Wald oft alles andere als freundlich. Unter den F\u00fc\u00dfen sch\u00fcren die \u00fcbelriechenden D\u00e4mpfe der brachliegenden, g\u00e4renden Fruchtbarkeit einen rasenden \u201eKampf-oder-Flucht\u201c-Rausch, und weiter seitlich davon sorgt das Schwirren der widerlichen Fliegen, die die zerbrechlichen, vereisten Blumenfelder bev\u00f6lkern, f\u00fcr einen flackernden Anflug unbest\u00e4ndiger Angst. Vorw\u00e4rts zu gehen erscheint tollk\u00fchn, doch heimlich in die Freiheit zu fliehen, scheint sinnlos\u2026"
             },
             "back": {
-                "name": "Feeling Funny",
-                "text": "Jeder Ermittler muss alle Karten von seiner Hand ablegen, die keine Schw\u00e4chekarten sind, oder 2 Horror nehmen. Mische den Begegnungs-Ablagestapel  in den Begegnungsstapel.\n\n"
+                "name": "Ein komisches Gef\u00fchl",
+                "text": "Jeder Ermittler muss alle Karten von seiner Hand ablegen, die keine Schw\u00e4chekarten sind, oder 2 Horror nehmen. Mische den Begegnungs-Ablagestapel  in den Begegnungsstapel.\n\n",
+                "flavor_text": "Hier geht etwas Seltsames vor sich; durch den erstickenden Nebel, der hereingezogen ist, l\u00e4sst sich das zwar nicht mit Sicherheit sagen, aber es f\u00fchlt sich jetzt definitiv dunkler an als beim Betreten des Raums. Ist die Sonne schon untergegangen?\nDer dumpfe Schmerz in deiner Schl\u00e4fe hat sich zu einem rhythmischen Pochen verst\u00e4rkt, und du stellst fest, dass es dir schwerf\u00e4llt, klar zu denken, geschweige denn zu sprechen, obwohl auch das zunehmende Unbehagen im Rachen dir langsam Sorgen bereitet. Es f\u00fchlt sich an, als w\u00e4re deine Zunge auf das Doppelte ihrer normalen Gr\u00f6\u00dfe angeschwollen..."
             }
         },
         "2ecb2ccb-a456-4712-92df-4aa26f1c5b19": {
@@ -319,7 +346,8 @@
             },
             "back": {
                 "name": "Nicht einmal ein Fl\u00fcstern",
-                "text": "Jeder \u00fcberlebende Ermittler wird besiegt und erleidet 1 physisches Trauma.\n\n"
+                "text": "Jeder \u00fcberlebende Ermittler wird besiegt und erleidet 1 physisches Trauma.\n\n",
+                "flavor_text": "Nach Luft ringend sinkst du auf die Knie. Jetzt sp\u00fcrst du es \u2013 die unsichtbare Schlinge, die sich um deinen Hals zusammenzieht \u2013, doch deine verzweifelten Versuche, danach zu greifen, bleiben erfolglos. W\u00e4hrend die Welt schwarz wird, ist das Letzte, was du siehst, ein purpurroter Schmetterling, der um deine Schl\u00e4fe herumtanzt, und dessen sanftes Leuchten die sich schl\u00e4ngelnde Gestalt einer gro\u00dfen Frau erhellt, die aus einer nahegelegenen Nebelbank auftaucht..."
             }
         },
         "16d6c075-9a96-40f6-8f24-517187f236ef": {
@@ -340,8 +368,9 @@
                 "flavor_text": "Die Dorfbewohner erw\u00e4hnten, dass Takeshi irgendwo in diesem Wald begraben sei, gingen aber nicht n\u00e4her darauf ein. Irgendwie hast du das Gef\u00fchl, dass du seine letzte Ruhest\u00e4tte erkennen wirst, sobald du sie siehst..."
             },
             "back": {
-                "name": "Rest in Peace",
-                "text": "Bringe den beiseitegelegten Gegner Der purpurrote Schmetterling (Der Wegweiser) am Ort Der einsame Grabh\u00fcgel ins Spiel.\nEntferne den Ort Waldschwelle aus dem Spiel und wirf alle daran anliegenden Karten ab. Verschiebe alle Gegner oder Ermittler an diesem Ort in die Grotte der W\u00e4chter.\nBringe die beiden beiseitegelegten Orte Geheimer Schrein mit der verh\u00fcllten Seite ins Spiel.\n\n"
+                "name": "Ruhe in Frieden",
+                "text": "Bringe den beiseitegelegten Gegner Der purpurrote Schmetterling (Der Wegweiser) am Ort Der einsame Grabh\u00fcgel ins Spiel.\nEntferne den Ort Waldschwelle aus dem Spiel und wirf alle daran anliegenden Karten ab. Verschiebe alle Gegner oder Ermittler an diesem Ort in die Grotte der W\u00e4chter.\nBringe die beiden beiseitegelegten Orte Geheimer Schrein mit der verh\u00fcllten Seite ins Spiel.\n\n",
+                "flavor_text": "Du verweilst einen Moment in stiller Nachdenklichkeit, w\u00e4hrend du das Armengrab betrachtest, in dem sie deinen Freund verrotten lie\u00dfen. Eigentlich solltest du wohl dankbar sein, dass sie sich \u00fcberhaupt die M\u00fche gemacht haben, ihn hierher zu schleppen, aber der Abstand zwischen seinem Grabstein und den anderen passt dir einfach nicht; es f\u00fchlt sich wie eine absichtliche Kr\u00e4nkung an. Vielleicht steckt hinter Takeshis Tod mehr, als man dir glauben machen wollte. Gerade als du beschlie\u00dft, ins Dorf zur\u00fcckzukehren und Antworten einzufordern, taucht hinter dem Steinhaufen ein geheimnisvolles Licht auf \u2026"
             }
         },
         "9c2b2e77-302c-4aff-8e02-48f91284e5f3": {
@@ -351,8 +380,9 @@
                 "flavor_text": "Das Herrenhaus auf dem H\u00fcgel schien die Quelle der Schreie zu sein, die du geh\u00f6rt hast, aber du musst herausfinden, wie du dir einen Weg durch das eng bebaute Dorf bahnen kannst, um dorthin zu gelangen \u2026 Hoffentlich, bevor es zu sp\u00e4t ist."
             },
             "back": {
-                "name": "Uninvited Guests",
-                "text": "Mische den Begegnungs-Ablagestapel in das Begegnungsdeck.\nWenn der Ort Endloser Aufstieg nicht im Spiel ist, suche ihn im Erkundungsdeck und bringe ihn verdeckt ins Spiel. Mische das Erkundungsdeck.\nDrehe den Ort Verdunkeltes Herrenhaus auf seine enth\u00fcllte Seite."
+                "name": "Ungebetene G\u00e4ste",
+                "text": "Mische den Begegnungs-Ablagestapel in das Begegnungsdeck.\nWenn der Ort Endloser Aufstieg nicht im Spiel ist, suche ihn im Erkundungsdeck und bringe ihn verdeckt ins Spiel. Mische das Erkundungsdeck.\nDrehe den Ort Verdunkeltes Herrenhaus auf seine enth\u00fcllte Seite.",
+                "flavor_text": "Es ist euch gelungen, aus den Fundst\u00fccken, die ihr gesammelt habt, eine Karte des Dorfes zusammenzusetzen, und diese zeigt, dass das Herrenhaus am oberen Ende einer gro\u00dfen Treppe im hinteren Teil des Dorfes liegt. Au\u00dferdem hast du einen Zettel gefunden \u2013 vielleicht von einem W\u00e4chter weggeworfen \u2013, aus dem hervorgeht, dass die Stufen zur zus\u00e4tzlichen \u201eSicherheit\u201c mit einer Art magischem Zauber versehen sind. Daher gibt es einen bestimmten \u201eTrick\u201c, wie man sie bew\u00e4ltigen muss, um Uneingeweihte abzuschrecken \u2026"
             }
         },
         "3ac58838-4ba5-4c9d-88c9-674d6215b9e9": {
@@ -362,8 +392,9 @@
                 "flavor_text": "Das junge M\u00e4dchen, das die Geisterjungfrau in ihrer Gewalt hat, muss eine der vermissten Zwillinge aus Minakami sein. Wenn du schnell handelst, kannst du sie vielleicht noch retten..."
             },
             "back": {
-                "name": "In Sickness or in Health",
-                "text": "(<resolution><b>A2</b>)\n\n\n"
+                "name": "  In guten wie in schlechten Tagen   ",
+                "text": "(<resolution><b>A2</b>)\n\n\n",
+                "flavor_text": "Nach einem verzweifelten Kampf gelingt es dir, den Griff des Geistes um das M\u00e4dchen zu l\u00f6sen, und die Banshee st\u00f6\u00dft einen letzten ohrenbet\u00e4ubenden Schrei aus, bevor sie sich in nebligen \u00c4ther aufl\u00f6st. Das ferne Echo von Hochzeitsglocken verwirrt dich f\u00fcr einen Moment, bevor sich deine Aufmerksamkeit wieder dem K\u00f6rper des jungen M\u00e4dchens zuwendet, das sich immer noch vor Schmerzen auf dem Boden windet... "
             }
         },
         "50b08639-7409-4e03-ad34-f0ead81a51c6": {
@@ -373,8 +404,9 @@
                 "flavor_text": "Das schwache Licht streut durch die engen Flure des muffigen Herrenhauses und l\u00f6st in dir ein mehr als nur leichtes Gef\u00fchl von Klaustrophobie aus. Die Quelle der Schreie, die du vorhin geh\u00f6rt hast, muss weiter im Inneren liegen \u2026 aber ist \u00fcberhaupt jemand zu Hause?"
             },
             "back": {
-                "name": "Crashing the Party",
-                "text": "Mische den Begegnungs-Ablagestapel in das Begegnungsdeck.\nBringe die beiseitegelegte Mayu Tachibana (Eine vermisste Zwillingsschwester?) und den Gegner Die Blasse Braut (Geliebte) im Entweihten Dojo ins Spiel.\nPr\u00fcfe das Kampagnenlogbuch. Wenn die Ermittler von Der Blassen Braut gezeichnet wurden, f\u00fcge Mayu Tachibana 1 Schaden zu. Andernfalls f\u00fcge der Blassen Braut 1 Schaden zu.\n\n\n"
+                "name": "Die Party crashen",
+                "text": "Mische den Begegnungs-Ablagestapel in das Begegnungsdeck.\nBringe die beiseitegelegte Mayu Tachibana (Eine vermisste Zwillingsschwester?) und den Gegner Die Blasse Braut (Geliebte) im Entweihten Dojo ins Spiel.\nPr\u00fcfe das Kampagnenlogbuch. Wenn die Ermittler von Der Blassen Braut gezeichnet wurden, f\u00fcge Mayu Tachibana 1 Schaden zu. Andernfalls f\u00fcge der Blassen Braut 1 Schaden zu.\n\n\n",
+                "flavor_text": "Du schiebst leise den blutgetr\u00e4nkten Vorhang beiseite und st\u00f6\u00dft sofort einen unwillk\u00fcrlichen Schrei aus. In der Mitte des Trainingsraums im hinteren Teil des Geb\u00e4udes ragt der durchscheinende Geist einer Frau \u00fcber einem jungen M\u00e4dchen auf. Sie wehrt sich vergeblich gegen die geisterhafte Erscheinung; phantomhafte Gliedma\u00dfen halten sie am Boden fest, w\u00e4hrend sich lange, wallende Str\u00e4hnen pechschwarzen Haares wie ein W\u00fcrgegriff um den Hals des M\u00e4dchens schlingen. Pl\u00f6tzlich neigt der Geist den Kopf in deine Richtung, und du sp\u00fcrst, wie ihre blutunterlaufenen Augen dich hinter dem Vorhang aus ihrem Haar anstarren \u2026"
             }
         },
         "76bfbf12-361e-41da-8969-730b96c66aef": {
@@ -395,8 +427,9 @@
                 "flavor_text": "Anhand der Informationen auf den Zetteln, die du gefunden hast, solltest du es nun bis zum Haus auf dem H\u00fcgel schaffen, wenn du erst einmal zu dieser Treppe gelangst..."
             },
             "back": {
-                "name": "Welcome Home",
-                "text": "F\u00fcge alle Orte mit Sieg X und ohne Hinweise dem Siegpunktestapel hinzu und entferne alle anderen Orte aus dem Spiel. Ermittler werden durch diesen Effekt nicht besiegt. Lege alle Gegner- oder Verratskarten an diesen Orten ab.\nBringe die beiseite gelegten Orte Stilles Foyer, Mondbeschienener Innenhof, Tatami-Raum und Entweihtes Dojo verdeckt ins Spiel. Bewege jeden Ermittler ins Stille Foyer.\nMische den Begegnungs-Ablagestapel und die 3 beiseitegelegten Kopien von Elfenbeinfarbene Dienerin in das Begegnungsdeck.\n\n\n"
+                "name": "Willkommen zu Hause",
+                "text": "F\u00fcge alle Orte mit Sieg X und ohne Hinweise dem Siegpunktestapel hinzu und entferne alle anderen Orte aus dem Spiel. Ermittler werden durch diesen Effekt nicht besiegt. Lege alle Gegner- oder Verratskarten an diesen Orten ab.\nBringe die beiseite gelegten Orte Stilles Foyer, Mondbeschienener Innenhof, Tatami-Raum und Entweihtes Dojo verdeckt ins Spiel. Bewege jeden Ermittler ins Stille Foyer.\nMische den Begegnungs-Ablagestapel und die 3 beiseitegelegten Kopien von Elfenbeinfarbene Dienerin in das Begegnungsdeck.\n\n\n",
+                "flavor_text": "Als du deine Hand an die T\u00fcr legst, um das Herrenhaus zu betreten, ert\u00f6nt von innen ein weiterer Schrei, der dir die Nackenhaare zu Berge stehen l\u00e4sst. Es gibt keine Zeit zu verlieren und kein Zur\u00fcck mehr; vorsichtig \u00f6ffnest du die T\u00fcr und trittst ein..."
             }
         },
         "bc6b1551-c239-458e-8998-0d59cea697fd": {
@@ -418,8 +451,9 @@
                 "flavor_text": "Im Wald ist etwas zum Leben erwacht, und \u201eThe Crimson Butterfly\u201c ist davon sichtlich beunruhigt. Leider scheint sich der Wald, w\u00e4hrend du dich darin befandest, \u201eneu geordnet\u201c zu haben, sodass der Ausgang nun irgendwie verdeckt ist. Du hast das starke Gef\u00fchl, dass du den Weg zur\u00fcck zum Tor finden musst \u2026 bevor das, was da drau\u00dfen lauert, dich findet."
             },
             "back": {
-                "name": "The Hidden Village",
-                "text": " (<resolution><b>A1</b>)"
+                "name": "Das verborgene Dorf",
+                "text": " (<resolution><b>A1</b>)",
+                "flavor_text": "<i>Der Purpurrote Schmetterling verschwindet aus dem Blickfeld, als er durch das Tor flattert, und zwischen dessen B\u00f6gen \u00f6ffnet sich ein riesiges Portal, das den Wald in ein blassrotes Licht taucht. Auf der anderen Seite der purpurroten \u00d6ffnung lockt ein uriges Dorf... </i>"
             }
         },
         "c7b19421-9ab6-4ef9-9059-6fd41f287690": {
@@ -580,7 +614,7 @@
         "50534a68-5fe9-4003-ae5b-f8f6df3c843c": {
             "name": "Grotte der W\u00e4chter",
             "front": {
-                "text": "<free>: Sprich ein Gebent. Mache eine <b>Aspekt</b>-<br>Vorteilskarte bereit, die du kontrollierst. (<i>Maximal einmal pro Spiel.</i>)",
+                "text": "<free>: Sprich ein Gebet. Mache eine <b>Aspekt</b>-<br>Vorteilskarte bereit, die du kontrollierst. (<i>Maximal einmal pro Spiel.</i>)",
                 "flavor_text": "Einige der Schreine sind zwar verfallen, doch man kann immer noch die unverwechselbaren Umrisse der Tiergeister erkennen, denen sie einst gewidmet waren.",
                 "traits": "W\u00e4lder. Heiligtum."
             },
@@ -1283,6 +1317,169 @@
                 "name": "Nacht und Tag",
                 "text": "Drehe das Torii-Tor <i>(Verlassen, Vergessen)</i> auf die R\u00fcckseite.\nBringe den beiseite gelegten Gegner \u201eRachs\u00fcchtiges Echo\u201c ins Spiel.\n\n\n",
                 "flavor_text": "Dank der F\u00fchrung des Wesens gelang es dir, zwei tief im Wald verborgene Schreine aufzusp\u00fcren. Zwischen ihnen besteht eine seltsame und unheilvolle Symmetrie, doch du kannst nicht begreifen, welche Bedeutung sie \u2013 wenn \u00fcberhaupt \u2013 haben k\u00f6nnten. Als du dich anschickst, den zweiten Schrein zu verlassen, bemerkst du einen Lichtstrahl, der durch das Bl\u00e4tterdach \u00fcber dir herabf\u00e4llt und auf dem alten Torii-Tor landet, an dem du zuvor vorbeigekommen bist. Pl\u00f6tzlich verschwindet der Lichtstrahl, und der Boden unter dir beginnt heftig zu beben, sodass du zu Boden geworfen wirst. Als das Beben nachl\u00e4sst und du es schaffst, dich wieder aufzurappeln, hallt ein unheilvoller Schrei von irgendwo aus dem Wald her\u00fcber. Der Purpurrote Schmetterling beginnt nerv\u00f6s in der Luft hin und her zu schwanken \u2026"
+            }
+        },
+        "75d4ff95-93c7-4cbb-bf9c-a68c40a0972e": {
+            "name": "???????? Text anders <unique>Mayu Tachibana (Copy)",
+            "front": {
+                "text": "<reaction> After an enemy at your location is evaded: Draw a card.\n<free>: Move 1 charge from Camera Obscura to another asset you control with \"uses (charges)\". (Limit once per round.)\n<elder_sign> effect: +1. If you succeed, you may place 1 charge on Camera Obscura.",
+                "flavor_text": "\"I made a promise to my sister...\"",
+                "subtitle": "Der Zwilling",
+                "traits": "Miskatonic. Student."
+            },
+            "back": {}
+        },
+        "482b2786-0d07-45e2-9cde-f6643b36cd82": {
+            "name": "von Bildern mit no bleed <unique>Mayu Tachibana",
+            "front": {
+                "text": "Du hast einen zus\u00e4tzlichen Handslot.\n<free> Ersch\u00f6pfe Mayu Tachibana und f\u00fcge dem Chaosbeutel einen <blessing>-Marker hinzu: Du erh\u00e4ltst +1 auf deinen Fertigkeitswert f\u00fcr diese Probe. ",
+                "flavor_text": "\u201eIch habe es meiner Schwester versprochen\u2026\u201c",
+                "subtitle": "Die \u00e4ltere Zwillingsschwester",
+                "traits": "Verb\u00fcndete. Minakami."
+            },
+            "back": {}
+        },
+        "f81561b4-a73c-407f-a29a-f9e02d0043d8": {
+            "name": "Memories of Mayu",
+            "front": {
+                "text": "<rev> F\u00fchre eine <willpower>-Probe (3) durch. Falls die Probe fehlschl\u00e4gt, musst du entweder 1 Verderben auf die aktuelle Agenda platzieren oder 1 direkten Schaden nehmen.",
+                "flavor_text": "Sie war jung, unschuldig und sch\u00f6n...<br>und jetzt ist sie nicht mehr da.",
+                "traits": "Wahnsinn."
+            },
+            "back": {}
+        },
+        "d8d279d2-df52-4f10-86fb-a22c134cc039": {
+            "name": "Das Flussdelta",
+            "front": {
+                "entries": [
+                    {
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "\u2013X. X ist die Nummer der aktuellen Szene."
+                    },
+                    {
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "\u20131. Falls die Probe fehlschl\u00e4gt, f\u00fcge dem Chaosbeutel 1 <curse>-Marker hinzu."
+                    },
+                    {
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "\u20133. (stattdessen \u20132, wenn du eine bereite <t>Aspekt</t>-Story-Vorteilskarte kontrollierst.)"
+                    },
+                    {
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20133. Falls die Probe fehlschl\u00e4gt, ersch\u00f6pfe die Tyrische Galeere."
+                    }
+                ],
+                "difficulty": "LEICHT/NORMAL"
+            },
+            "back": {
+                "entries": [
+                    {
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "\u2013X. X ist die Nummer der aktuellen Szene."
+                    },
+                    {
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "\u20132. Falls die Probe fehlschl\u00e4gt, f\u00fcge dem Chaosbeutel 1 <curse>-Marker hinzu."
+                    },
+                    {
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "\u20134. (stattdessen \u20133, wenn du eine bereite <t>Aspekt</t>-Story-Vorteilskarte kontrollierst.)"
+                    },
+                    {
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20134. Falls die Probe fehlschl\u00e4gt, ersch\u00f6pfe die Tyrische Galeere."
+                    }
+                ],
+                "difficulty": "SCHWER/EXPERTE"
+            }
+        },
+        "bccc45f5-a0bf-4ffa-b2a3-ada2a6d9e78d": {
+            "name": "Offenes Gew\u00e4sser",
+            "front": {
+                "text": "Jeder Ort ist mit jedem benachbarten Ort verbunden.\n<for> Wenn sich ein Ermittler zwischen <t>Fluss</t>-Orten bewegt, w\u00e4hrend er nicht an Tyrische Galeere gebunden ist: Dieser Ermittler verliert alle verbleibenden Aktionen.",
+                "flavor_text": "Es ist eine stille Nacht \u00fcber dem Flussdelta, und das ruhige Wasser spiegelt das Licht des Vollmonds wider, der hell am Himmel leuchtet. Du kannst dir nicht im Geringsten vorstellen, welche Gefahren vor dir liegen k\u00f6nnten..."
+            },
+            "back": {
+                "name": "Ein mulmiges Gef\u00fchl",
+                "text": "Der leitende Ermittler muss eine der beiseite gelegten Verratskarten Hypnotischer Strudel ziehen, die im beiseite gelegten <i>W\u00e4ssriges Weh</i>-Begegnungsset enthalten sind.\nMische den Rest des beiseite gelegten <i>W\u00e4ssriges Weh</i>-Begegnungssets und den Begegnungs-Ablagestapel in das Begegnungsdeck ein.\n",
+                "flavor_text": "Das sanfte Wasser des Flusses wird immer unruhiger, w\u00e4hrend du es bef\u00e4hrst, als w\u00fcrde es auf deine Anwesenheit reagieren. In der Ferne tut sich eine Schlucht auf, doch der Schein des Mondes ist nun fast blendend und verwirrt dich, als wolle er die tosenden Stromschnellen verbergen..."
+            }
+        },
+        "b2bb0623-7ab8-44ce-b673-0088001bfbcb": {
+            "name": "Tyrische Galeere",
+            "front": {
+                "text": "<free> If it is your turn: <b>Embark.</b> Attach your investigator to <name> or detach them from it. <i>(Limit once per turn.)</i>\n<action> If <name> is ready: Move <name> to an adjacent <t>River</t> location. This ability may only be activated by an investigator attached to The Tyrian Galley.",
+                "flavor_text": "\"The western wind is blowing fair across the dark Aegean sea...\"",
+                "subtitle": "It Waits for Thee",
+                "traits": "Vehicle. Ship. "
+            },
+            "back": {}
+        },
+        "663eebb4-f39c-467d-932e-0d23daa1bd8b": {
+            "name": "Alle an Bord",
+            "front": {
+                "text": "Jeder Ort ist mit jedem benachbarten Ort verbunden.\n<for> Wenn sich ein Ermittler zwischen <t>Fluss</t>-Orten bewegt, w\u00e4hrend er nicht an Tyrische Galeere gebunden ist: Dieser Ermittler verliert alle verbleibenden Aktionen.                                           ",
+                "flavor_text": "Der Klang eines dr\u00f6hnenden Horns hallt \u00fcber das Wasser. Er kommt mir irgendwie bekannt vor, als w\u00fcrde er eine Erinnerung wecken. Etwas n\u00e4hert sich \u2026 Es ruft dich nach Hause \u2026"
+            },
+            "back": {
+                "name": "Ohne Paddel",
+                "text": "Alle \u00fcberlebenden Ermittler sind besiegt und erleiden 1 psychisches Trauma.\n\n\n",
+                "flavor_text": "Die Suche nach Miyu hat sich zu einem Kampf ums nackte \u00dcberleben entwickelt. Du bist ihrem Aufenthaltsort nicht n\u00e4her gekommen als zu Beginn, und der herannahende Nebel, der aus der Schlucht aufsteigt, verspottet dich, w\u00e4hrend er die Ufer verschlingt und dir jeden m\u00f6glichen Hafen vor den Augen verbirgt. Der stechende Schmerz in deinen Schl\u00e4fen wird st\u00e4rker, w\u00e4hrend das L\u00e4uten der Glocken lauter und n\u00e4her wird. Die Welt versinkt in Dunkelheit \u2026"
+            }
+        },
+        "221becb4-0723-47df-b931-23905a498161": {
+            "name": "Steigende Flut",
+            "front": {
+                "text": "Alle Orte sind mit jedem benachbarten Ort verbunden.\n<for> Wenn sich ein Ermittler zwischen <t>Fluss</t>-Orten bewegt, w\u00e4hrend er nicht an Tyrische Galeere gebunden ist: Dieser Ermittler verliert alle verbleibenden Aktionen.",
+                "flavor_text": "Deine Aktivit\u00e4ten im Delta sind nicht unbemerkt geblieben. Wilde Str\u00f6mungen brechen unter der ruhigen Wasseroberfl\u00e4che hervor und offenbaren das Aufw\u00fchlen ruheloser Geister, die unter der Brandung gefangen sind..."
+            },
+            "back": {
+                "name": "Shinigami",
+                "text": "Massiv. J\u00e4ger 1. Alarm. \n<spawn> Kaskaden-Endstation, falls m\u00f6glich. Andernfalls Fischerkai. \nShinigami k\u00f6nnen keine Orte betreten, die nicht zum <t>Fluss</t> geh\u00f6ren.",
+                "flavor_text": "Die Glocke l\u00e4utet f\u00fcr dich.",
+                "subtitle": "Der Mauteintreiber",
+                "victory": "Sieg 1.",
+                "traits": "Elite. Yokai."
+            }
+        },
+        "4d48285e-dc64-4e06-9ceb-f1c9cf65e613": {
+            "name": "Angelschnur und Bleigewicht",
+            "front": {
+                "text": "<obj> Ermittler an der Nebelschleier-Meerenge oder an der Kaskaden-Endstation k\u00f6nnen als Gruppe die erforderliche Anzahl an Hinweisen einsetzen, um voranzukommen.\n",
+                "flavor_text": "Es scheint, als sei Miyu auf dem Weg zu einem Ort namens \u201eOnigawa\u201c. Hier in der Gegend muss es einen Hinweis auf dessen Lage geben; hoffentlich k\u00f6nnt ihr ihn finden, bevor es zu sp\u00e4t ist."
+            },
+            "back": {
+                "name": "Vor den Augen",
+                "text": "(<resolution><b>A1</b>)",
+                "flavor_text": "In einem Moment der Verzweiflung sp\u00e4hst du durch den Sucher der Camera Obscura und versuchst, ein Foto zu schie\u00dfen. Langsam lichtet sich der dichte Nebel, der die Schlucht einh\u00fcllt, und gibt den Blick auf ein weitl\u00e4ufiges Heiligtum frei, das sich in die Felsen \u00fcber dir schmiegt..."
+            }
+        },
+        "9c5e6b98-735e-4b3f-a879-2653708c825a": {
+            "name": "Auf zum Angeln",
+            "front": {
+                "text": "<obj> Die Ermittler k\u00f6nnen gemeinsam die erforderliche Anzahl an Hinweisen einsetzen, um vorzur\u00fccken.",
+                "flavor_text": "Die Dokumente, die ihr am Hafen gefunden habt, deuten darauf hin, dass Mayus Schwester m\u00f6glicherweise \u00fcber den Fluss transportiert wurde. Miyu ist da drau\u00dfen, irgendwo, und ihr habt ein seet\u00fcchtiges Schiff \u2026 Zeit, sich an die Arbeit zu machen."
+            },
+            "back": {
+                "name": "Noch auf der Suche",
+                "text": "Lege den beiseite gelegten Ort Nebelschleier-Meeresenge verdeckt links neben den Ort ganz oben links ins Spiel. F\u00fcr den Rest des Szenarios gilt dieser Ort als an Nebelschleier-Meeresenge angrenzend (und umgekehrt).\nLege den beiseite gelegten Ort Kaskaden-Endstation verdeckt rechts neben den Ort ganz oben rechts ins Spiel. F\u00fcr den Rest des Szenarios gilt dieser Ort als an Kaskaden-Endstation angrenzend (und umgekehrt).\n\n",
+                "flavor_text": "Die Siedlungen entlang des Flusses scheinen daf\u00fcr verantwortlich zu sein, \u201eTribute\u201c f\u00fcr jemanden oder etwas namens \u201eOnigawa\u201c zu erbringen. K\u00f6nnte das der Grund sein, warum die M\u00e4dchen entf\u00fchrt wurden? Was auch immer dieses Onigawa ist \u2013 du musst es finden, und zwar schnell. Dir gehen langsam die Orte aus, an denen du suchen kannst, doch als sich der Nebel lichtet, kommen weitere interessante Gebiete entlang des Deltas zum Vorschein \u2026"
             }
         }
     },
