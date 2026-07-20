@@ -11,6 +11,9 @@
         },
         "9ab16e64-12db-4780-a632-56f71abcc53d": {
             "name": "scenarioset-3-b.png"
+        },
+        "196125a5-3d26-48ae-9eaf-b57e0b883196": {
+            "name": "encounter-sword-b.png"
         }
     },
     "cards": {
@@ -1070,7 +1073,7 @@
         "7164cffa-5b98-4593-8646-aee2dd9c95ae": {
             "name": "Hypnotischer Strudel",
             "front": {
-                "text": "<rev> H\u00e4nge <name> an den n\u00e4chstgelegenen Fluss-Ort ohne eine Kopie von <name> an. Maximal 1 pro Ort.\n<for> Am Ende der Ermittlerphase: Jeder Ermittler an diesem Ort muss eine <willpower>-Probe (4) durchf\u00fchren. Falls die Probe misslingt, f\u00fchre eine <agility>-Probe (3) durch. Falls auch diese Probe misslingt, nimm 1 Schaden.",
+                "text": "<rev> H\u00e4nge <name> an den n\u00e4chstgelegenen <t>Fluss</t>-Ort ohne eine Kopie von <name> an. Maximal 1 pro Ort.\n<for> Am Ende der Ermittlerphase: Jeder Ermittler an diesem Ort muss eine <willpower>-Probe (4) durchf\u00fchren. Falls die Probe misslingt, f\u00fchre eine <agility>-Probe (3) durch. Falls auch diese Probe misslingt, nimm 1 Schaden.",
                 "flavor_text": "Da unten ist irgendetwas...",
                 "traits": "Gefahr. "
             },
@@ -1097,7 +1100,7 @@
         "76f340ac-a34b-4781-9f78-582e1cb33354": {
             "name": "Phantomwirbel",
             "front": {
-                "text": "<rev> Falls die tyrische Galeere ersch\u00f6pft ist, erh\u00e4lt <name> Nachr\u00fcsten. Ansonsten, f\u00fchre eine <willpower>-Probe (3) durch. Falls die Probe misslingt, nimm 1 Horror und ersch\u00f6pfe die tyrische Galeere.",
+                "text": "<rev> Falls Tyrische Galeere ersch\u00f6pft ist, erh\u00e4lt <name> Nachr\u00fcsten. Ansonsten, f\u00fchre eine <willpower>-Probe (3) durch. Falls die Probe misslingt, nimm 1 Horror und ersch\u00f6pfe die tyrische Galeere.",
                 "flavor_text": "Die Haare im Nacken stehen dir zu Berge, w\u00e4hrend das Wasser in der N\u00e4he brodelt, als w\u00fcrde es von einem unsichtbaren Schiff aufgew\u00fchlt, und die Galeere ger\u00e4t in den Sog...",
                 "traits": "Schrecken."
             },
@@ -1285,7 +1288,7 @@
         "26035667-34a4-4e85-8262-fcc7a89687b2": {
             "name": "Urzeitlicher Dirigent",
             "front": {
-                "text": "Hinterhalt.\n<spawn> N\u00e4chsgelegener Fluss-Ort.\n<name> kann keine Nicht-Fluss-Orte betreten.",
+                "text": "Hinterhalt.\n<spawn> N\u00e4chsgelegener <t>Fluss</t>-Ort.\n<name> kann keine Nicht-<t>Fluss</t>-Orte betreten.",
                 "flavor_text": "Von der G\u00f6ttin mit biologischer Unsterblichkeit gesegnet, wachen die uralten Dirigenten seit unz\u00e4hligen \u00c4onen \u00fcber diese Gew\u00e4sser. ",
                 "traits": "Kreatur. Aquatisch."
             },
@@ -1427,10 +1430,10 @@
         "b2bb0623-7ab8-44ce-b673-0088001bfbcb": {
             "name": "Tyrische Galeere",
             "front": {
-                "text": "<free> If it is your turn: <b>Embark.</b> Attach your investigator to <name> or detach them from it. <i>(Limit once per turn.)</i>\n<action> If <name> is ready: Move <name> to an adjacent <t>River</t> location. This ability may only be activated by an investigator attached to The Tyrian Galley.",
-                "flavor_text": "\"The western wind is blowing fair across the dark Aegean sea...\"",
-                "subtitle": "It Waits for Thee",
-                "traits": "Vehicle. Ship. "
+                "text": "<free> Falls es dein Zug ist: <b>An Bord gehen.</b> H\u00e4nge deinen Ermittler an <name> an oder l\u00f6se ihn. <i>(Maximal einmal pro Zug.)</i>\n<action> Falls die <name> spielbereit ist: Bewege <name> an einen benachbarten <t>River</t>-Ort. Diese Aktion kann nur von einem Ermittler ausgel\u00f6st werden der an <name> angeh\u00e4ngt ist.",
+                "flavor_text": "\u201eDer Westwind weht sanft \u00fcber das dunkle \u00c4g\u00e4ische Meer \u2026\u201c",
+                "subtitle": "Sie wartet nur auf dich",
+                "traits": "Fahrzeug. Schiff. "
             },
             "back": {}
         },
@@ -1490,7 +1493,7 @@
             "front": {
                 "text": "<for> Nachdem <name> enth\u00fcllt wurde: Enth\u00fclle Karten vom Begegnungsdeck bis ein Gegner enth\u00fcllt wird, dann ziehe diesen. Mische alle anderen enth\u00fcllten Karten zur\u00fcck in das Begegnungsdeck.\n",
                 "flavor_text": "Auch wenn der zerstreute Abfall an den umliegenden Ufern erst k\u00fcrzliche Aktivit\u00e4ten vermuten l\u00e4sst, scheint eine Passage jenseits des Abgrunds des Wasserfalls unm\u00f6glich.",
-                "victory": "Victory 1.",
+                "victory": "Sieg 1.",
                 "traits": "Fluss."
             },
             "back": {
@@ -1639,6 +1642,436 @@
                 "flavor_text": "Ein zerfallener Altar einer uralten Gottheit vegetiert in den dunklen Untiefen unter der Oberfl\u00e4che des Sumpfes dahin.",
                 "traits": "Heiligtum."
             }
+        },
+        "4e69add1-e3fa-4377-89e5-1d36faed4b56": {
+            "name": "Camera Obscura",
+            "front": {
+                "text": "Du erh\u00e4ltst +1 auf deine geistige Gesundheit.\n<Action>: <i>An der Blende herumspielen.</i> <Int>-Probe (3). Bei Erfolg darf jeder Ermittler an deinem Ort 1 Horror heilen. <i>(Maximal ein Erfolg pro Spiel.)</i>",
+                "flavor_text": "Das Artefakt strahlt eine sanfte W\u00e4rme aus, die einem Trost spendet, aber ohne eine Art Folie scheint es nicht besonders n\u00fctzlich zu sein...",
+                "subtitle": "Kurioses Andenken",
+                "traits": "Gegenstand. Relikt."
+            },
+            "back": {}
+        },
+        "f1843a75-2d59-4204-b1dd-f00c39db58d6": {
+            "name": "Im Schatten der Braut",
+            "front": {
+                "text": "<rev> \u00dcberpr\u00fcfe das Kampagnenlogbuch. Wenn <i>Die Ermittler Mayu aus den F\u00e4ngen der blassen Braut\u201c</i> gerettet haben, bringe <name> in deiner Bedrohungszone ins Spiel. Andernfalls erh\u00e4lt <name> Nachr\u00fcsten.\n<for> Wenn du eine Fertigkeitsprobe bestehen w\u00fcrdest: Stattdessen scheiterst du automatisch bei dieser Probe. Wirf <name> ab.",
+                "flavor_text": "Sie ist fort \u2026 aber sie wird dich niemals loslassen.",
+                "traits": "Fluch."
+            },
+            "back": {}
+        },
+        "de116b68-4913-404d-96f6-2bcf6e5a6609": {
+            "name": "Untergehen oder schwimmen",
+            "front": {
+                "text": "<rev> Befindet sich die Tyrische Galeere nicht an deinem Standort, erh\u00e4lt <name> Nachr\u00fcsten. Andernfalls f\u00fchre eine <agility>-Probe (3) durch. Falls die Probe misslingt erleidest du 1 Schaden, ersch\u00f6pfst Tyrische Galeere und entfernst alle Ermittler von ihr.",
+                "flavor_text": "Eine unnat\u00fcrliche Welle erhebt sich aus der tosenden Brandung und droht, dich mitzurei\u00dfen...",
+                "traits": "Gefahr."
+            },
+            "back": {}
+        },
+        "05c55223-2a7c-4fe2-ab79-34bca7fab018": {
+            "name": "Seichter Gleiter",
+            "front": {
+                "text": "J\u00e4ger 1.\n<spawn> N\u00e4chstgelegener <t>Fluss</t>-Ort.",
+                "flavor_text": "Viele der im Wasser gefundenen, aufgebl\u00e4hten Leichen waren einst Fischer, die sich \u00fcber Bord gest\u00fcrzt hatten, in der Hoffnung, die ged\u00e4mpfte Serenade der Sirene deutlicher h\u00f6ren zu k\u00f6nnen.",
+                "traits": "Humanoid. Yokai."
+            },
+            "back": {}
+        },
+        "f3cf83e4-8a00-4c8f-94b1-ff16c163cbb0": {
+            "name": "Der ewige Krieg",
+            "front": {
+                "entries": [
+                    {
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "\u20131. Falls die Probe misslingt, nimm 1 Schaden."
+                    },
+                    {
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "\u20132. Falls die Probe misslingt, f\u00fcge dem Chaosbeutel entweder 1<curse>-Marker hinzu oder verliere eine Aktion."
+                    },
+                    {
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "\u20133. Falls die Probe misslingt, ersch\u00f6pfe entweder eine <t>Aspekt</t>-Story-Vorteilskarte, die du kontrollierst oder nimm 1 Horror."
+                    },
+                    {
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20134. Falls die Probe misslingt, bringe die oberste Karte des Rally-Decks ins Spiel und handle ihren Enth\u00fcllungseffekt ab."
+                    }
+                ],
+                "difficulty": "LEICHT/NORMAL"
+            },
+            "back": {
+                "entries": [
+                    {
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "Enth\u00fclle einen weiteren Marker. Falls die Probe misslingt, nimm 1 Schaden."
+                    },
+                    {
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "\u20133. Nachdem die Probe endet, musst du entweder dem Chaosbeutel 1 <curse>-Marker hinzuf\u00fcgen oder eine Aktion verlieren."
+                    },
+                    {
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "\u20134. Falls du eine ersch\u00f6pfte <t>Aspekt</t>-Story-Vorteilskarte kontrollierst misslingt diese Probe automatisch."
+                    },
+                    {
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20134. Nachdem die Probe endet, bringe die oberste Karte des Rally-Decks ins Spiel und handle ihren Enth\u00fcllungseffekt ab."
+                    }
+                ],
+                "difficulty": "SCHWER/EXPERTE"
+            }
+        },
+        "0167c0b8-6fcc-4850-ae26-5feb31787505": {
+            "name": "Der letzte Widerstand",
+            "front": {
+                "text": "<t>Elite</t>-Gegner im Spiel erhalten J\u00e4ger 1.\n<for> Zu Beginn der Ermittlerphase: Mische alle <t>Doktrin</t>-Karten im Spiel in das Rally-Deck, bringe dann die oberste Karte des Rally-Decks ins Spiel und f\u00fchre ihren <b>Enth\u00fcllungs</b>-Effekt aus. <i>(Lege diese Karte nach ihrer Abhandlung nicht ab; sie bleibt bis zu Beginn der n\u00e4chsten Ermittlerphase im Spiel.)</i>",
+                "flavor_text": "The sounds of fighting die down as Onigawa's ghostly defenders make one last desperate attempt to repel the invaders..."
+            },
+            "back": {
+                "name": "In die Flucht geschlagen",
+                "text": "Jeder \u00fcberlebende Ermittler wird besiegt.\n\n\n",
+                "flavor_text": "\u00dcberall um dich herum brechen Gefechte zwischen den Fu\u00dfsoldaten der Invasionsarmee und den geisterhaften Verteidigern von Onigawa aus. Ein Gef\u00fchl der Unausweichlichkeit \u00fcberkommt dich; dieser Krieg tobt schon l\u00e4nger, als du lebst, und du kannst nicht anders, als die Nerven zu verlieren, w\u00e4hrend das kakophone Klirren des Stahls immer n\u00e4her r\u00fcckt..."
+            }
+        },
+        "e4da54e2-ed14-45c7-9ee3-ced47dce7832": {
+            "name": "Schatten der Vergangenheit",
+            "front": {
+                "text": "<for> Zu Beginn der Ermittlerphase: Mische alle <t>Doktrin</t>-Karten im Spiel in das Rally-Deck, bringe dann die oberste Karte des Rally-Decks ins Spiel und f\u00fchre ihren <b>Enth\u00fcllungs</b>-Effekt aus. <i>(Lege diese Karte nach ihrer Abhandlung nicht ab; sie bleibt bis zu Beginn der n\u00e4chsten Ermittlerphase im Spiel.)</i>",
+                "flavor_text": "\u00dcberall um dich herum erwachen flackernde Bereiche der zerst\u00f6rten Stadt zum Leben, sodass du einen fl\u00fcchtigen Blick auf geisterhafte Verteidiger erhaschen kannst, die w\u00e4hrend einer gro\u00dfen Schlacht, die offenbar hier ausgetragen wurde, \u00fcberw\u00e4ltigt werden..."
+            },
+            "back": {
+                "name": "Totaler Krieg",
+                "text": "Der Ermittlungsleiter muss das Begegnungsdeck nach jedem <t>Elite</t>-Gegner durchsuchen und diesen ziehen.\nMische den Begegnungsdeck-Ablagestapel in das Begegnungsdeck.\n\n",
+                "flavor_text": "Krieg ist die H\u00f6lle. Du zuckst zusammen, als eine gespenstische Belagerungsmaschine hinter dir durch eine Mauer kracht, bevor sie sich augenblicklich in Staub aufl\u00f6st. Du bist zwar kein Milit\u00e4rexperte, aber die Verteidiger von Onigawa scheinen diese Schlacht zu verlieren. Und zwar deutlich. Wie oft hat sich dieser Phantomkrieg hier schon abgespielt? Hat sich das Ergebnis jemals ge\u00e4ndert? In der Ferne ert\u00f6nt ein weiteres Kriegshorn; die Verteidiger von Onigawa sammeln ihre Kr\u00e4fte f\u00fcr einen letzten Vorsto\u00df..."
+            }
+        },
+        "6104f378-af60-4f6a-8451-eb6270ed497c": {
+            "name": "Vor dem Sturm",
+            "front": {
+                "text": "<for> Sobald diese Agenda vorr\u00fcckt: Entferne kein Verderben von dieser Agenda.\n<i>(R\u00fccke diese Agenda nicht vor, bis du dazu angewiesen wirst.)</i>",
+                "flavor_text": "In der Luft liegt eine elektrisierende Spannung; etwas Uraltes und Vergessenes schwebt hier noch immer, und mit jedem Schritt f\u00e4llt dein Fu\u00df ein wenig schwerer..."
+            },
+            "back": {
+                "name": "In das Auge hinein",
+                "text": "Bringe die beiseite gelegten Orte Paraselen Plaza, K\u00f6nigspalast, Entweihter Tempel, Stehender Stein, \u00dcberwuchertes Grab, Verwirrende Serpentinenstra\u00dfe, Schwalbenschwanz-Gasthaus und Aussichtspunkt des Meisterspions verdeckt ins Spiel.\nMische den Begegnungs-Ablagestapel und das beiseite gelegte Begegnungsset <i>Belagerung von Onigawa</i> in das Begegnungsdeck.\n\n",
+                "flavor_text": "Als du durch das Tor schreitest, l\u00e4uft dir ein Schauer \u00fcber den R\u00fccken. Ein Wirbelwind aus rosa Bl\u00fctenbl\u00e4ttern fegt durch dein Blickfeld und blendet dich vor\u00fcbergehend; nachdem er vor\u00fcbergezogen ist, befindest du dich in einem langen Innenhof. Unter deinen F\u00fc\u00dfen bilden schmutzige Kopfsteinpflastersteine einen gepflasterten Weg bis zu dessen h\u00f6chstem Punkt, wo der riesige Mond perfekt eingerahmt in einem gewaltigen Torbogen thront. Rund um dich herum breitet sich eine weitl\u00e4ufige Stadt aus, gezeichnet von Narben, die von einer gro\u00dfen Schlacht erz\u00e4hlen. Ein Kriegshorn ert\u00f6nt, und das hohle Echo von klirrendem Stahl beginnt um dich herum anzuschwellen..."
+            }
+        },
+        "b7556345-e51a-4679-a819-d5fbc3c6e7e5": {
+            "name": "Die Tore st\u00fcrmen",
+            "front": {
+                "text": "<obj> Finde einen Weg in die mysteri\u00f6se Stadt.\n<i>(R\u00fccke diese Agenda nicht vor, bis du dazu angewiesen wirst.)</i>",
+                "flavor_text": "Die seltsame Festungsstadt, die die Schlucht \u00fcberragt, sticht unverkennbar ins Auge. Der Weg die steile Klippe hinauf f\u00fchrt zu einer Art Torhaus; wenn Miyu auf diesem Weg verschleppt wurde, muss es doch einen Weg ins Innere geben..."
+            },
+            "back": {
+                "name": "Manueller Noteingriff",
+                "text": "Jeder Ermittler verliert alle seine Hinweise.\nLege das beiseitegelegte Begegnungsset <i>Geisterhafter Groll</i> auf den Begegnungs-Ablagestapel.\n\u00dcberpr\u00fcfe das Kampagnenlogbuch. Falls <i>die Ermittler die Jungfrau des Schwarzwassers</i> entfesselt haben, durchsuche den Begegnungs-Ablagestapel nach dem Gegner Kayako (<i>Jungfrau des Schwarzwassers</i>) und bringe ihn ins Spiel.\nIst Agenda 1a aktiv, r\u00fccke vor.\n\n\n",
+                "flavor_text": "Mit nicht geringem Aufwand gelingt es dir, den morschen Mechanismus zu sabotieren, der die Tore verschlossen h\u00e4lt. Du atmest tief durch und bereitest dich mental darauf vor, doch kurz bevor du die Tore aufst\u00f6\u00dft, erregt ein hohles Ger\u00e4usch irgendwo in der Ferne, das wie das Pl\u00e4tschern von Wasser klingt, deine Aufmerksamkeit. Du strengst dich an, es noch einmal zu h\u00f6ren, doch Stille ist die einzige Antwort. Es ist wahrscheinlich nichts \u2026"
+            }
+        },
+        "2cb0562b-18d5-4c31-a95c-ebc5cb92a5cb": {
+            "name": "Ein Licht in der Dunkelheit",
+            "front": {
+                "text": "<obj> Finde einen Weg in die Nachtigallen-Vorhalle.\n<i>(R\u00fccke diese Agenda nicht vor, bis du dazu angewiesen wirst.)</i>",
+                "flavor_text": "Der Purpurrote Schmetterling strahlt eine Art Energiefeld aus, das die Zeitschleife, in der die Stadt gefangen ist, offenbar \u201estabilisiert\u201c; wenn sich die Erscheinungen ihm n\u00e4hern, stocken sie und weichen zur\u00fcck, als w\u00e4ren sie gel\u00e4hmt. Vielleicht kann er dir helfen, die Schutzzauber zu deaktivieren, die den Palast versiegeln..."
+            },
+            "back": {
+                "name": "Die andere Seite",
+                "text": "(<resolution><b>A1</b>)\n\n\n",
+                "flavor_text": "Mit Hilfe des purpurroten Schmetterlings gelingt es dir, die Schutzzauber zu sabotieren, die den Eingang zum Palast versiegeln. Die Kreatur, die von der Anstrengung sichtlich ersch\u00f6pft ist, zieht sich zu dir zur\u00fcck, und gemeinsam st\u00fcrmt ihr hinein und verriegelt die Tore hinter euch, bevor die geisterhaften Heerscharen, die sie in Schach gehalten hat, euch einholen k\u00f6nnen..."
+            }
+        },
+        "7ca3ebc1-6082-4388-a02a-10c9a2bd4695": {
+            "name": "Einbruchswarnung",
+            "front": {
+                "text": "<obj> Die Ermittler k\u00f6nnen am Ende der Runde die ben\u00f6tigten Hinweise ausgeben um vorzur\u00fccken.",
+                "flavor_text": "Sich in diesem Chaos zurechtzufinden, wird nicht einfach sein; viele Teile der Stadt sind v\u00f6llig zerst\u00f6rt oder anderweitig unzug\u00e4nglich. Die ohrenbet\u00e4ubenden Ger\u00e4usche des Krieges hallen \u00fcberall um dich herum wider, und Miyu k\u00f6nnte \u00fcberall sein..."
+            },
+            "back": {
+                "name": "Auf in die Schlacht!",
+                "text": "Bringe die beiseite gelegte Nachtigallen-Vorhalle verdeckt ins Spiel. Bringe das beiseite gelegte Story-Element Purpurroter Schmetterling (<i>Blendender Wegweiser</i>) im K\u00f6nigspalast ins Spiel.\nWenn Yuki Yagami einer der Ermittler in der Kampagne ist, muss dieser Spieler heimlich <b>Szenario-Zwischenspiel: Versiegelt</b> im Kampagnenleitfaden lesen.\nWenn es sich um Agenda 2a handelt, r\u00fccke vor.\n\n\n",
+                "flavor_text": "Wieder einmal hast du fast die ganze Stadt abgesucht, aber keine Spur von Miyu gefunden. Anscheinend haben sich Mitglieder des Hofes w\u00e4hrend der Belagerung im Palast verschanzt, doch ein magischer Schutzzauber, der den Eingang versiegelt, hindert dich daran, ins Innere zu gelangen. Gerade als du zu verzweifeln beginnst, taucht ein vertrautes rotes Leuchten im Innenhof auf \u2026"
+            }
+        },
+        "909c09f1-c2c2-4fcc-bf86-fab26761f377": {
+            "name": "Trostloser Ankerplatz",
+            "front": {
+                "text": "<action><action>: <i>Memento mori.</i> Heile 1 Horror von jedem Ermittler an deinem Ort. <i>(Maximal einmal pro Spiel.)</i>",
+                "flavor_text": "Diese als \u201eChochin\u201c bekannten Papierlaternen werden traditionell von den Angeh\u00f6rigen der k\u00fcrzlich Verstorbenen angez\u00fcndet, in der Hoffnung, dass diese Lichter ihre umherirrenden Seelen sicher ins Jenseits f\u00fchren m\u00f6gen.",
+                "traits": "Hafen."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Eine Flotte aus Papierlaternen tanzt in der Abendbrise davon.",
+                "traits": "Hafen."
+            }
+        },
+        "4d33eca4-667f-4583-a6bc-f0602e963b30": {
+            "name": "Purpurroter Schmetterling",
+            "front": {
+                "text": "<t>Geist</t>-Gegner am Ort von <name> erhalten Zur\u00fcckhaltend und verlieren J\u00e4ger.\n<action><action>: <b>Verhandlung.</b> <i>Die Siegel schw\u00e4chen.</i> F\u00fchre eine <combat>- oder <agility>-Probe (4) durch. Falls die Probe gelingt darfst du eine verbundenen <t>Verboten</t>-Ort enth\u00fcllen. <i>(Maximal einmal pro Spiel.)</i>",
+                "flavor_text": "Eine halbtransparente, rubinrote Sph\u00e4re umgibt das Wesen, erhellt die Umgebung und h\u00e4lt Feinde fern.",
+                "subtitle": "Blendender Wegweiser",
+                "traits": "Kreatur. Geist."
+            },
+            "back": {}
+        },
+        "8163573e-2c49-4ded-90cc-a39435ff1816": {
+            "name": "<size 90> Aussichtspunkt des Meisterspions",
+            "front": {
+                "text": "Nicht-<t>Elite</t>-Gegner am Aussichtspunkt des Meisterspions erhalten Hinterhalt.",
+                "flavor_text": "Der Turm selbst ist nur ein Ablenkungsman\u00f6ver. Die k\u00f6niglichen Attent\u00e4ter beobachteten aus einer H\u00f6hle in den Klippen oberhalb des Turms, wie Eindringlinge den Turm erklommen und sich dabei in eine ausweglose Lage man\u00f6vrierten, aus der es kein Entkommen gab.",
+                "victory": "Sieg 1.",
+                "traits": "Stadt. Turm."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Dieser opulente Turm diente einst als Machtzentrum des k\u00f6niglichen Meisterspions...",
+                "traits": "Stadt. Turm."
+            }
+        },
+        "b3996129-3a72-4d51-b69e-8eae84a1ea19": {
+            "name": "Entweihter Tempel",
+            "front": {
+                "text": "<for> Nachdem <name> enth\u00fcllt wurde: F\u00fcge dem Chaosbeutel pro Ermittler 1 <curse>-Marker hinzu.",
+                "flavor_text": "Alle Reliquien und heiligen Ikonen, die einst hier aufbewahrt wurden, sind l\u00e4ngst von Pl\u00fcnderern entwendet worden.",
+                "traits": "Stadt. Tempel."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Der kupferartige Geruch von Blut h\u00e4ngt noch immer in der Luft rund um diese uralte Kultst\u00e4tte.",
+                "traits": "Stadt. Tempel."
+            }
+        },
+        "4f151080-0218-4a67-85da-3a6c115d3428": {
+            "name": "K\u00f6nigspalast",
+            "front": {
+                "text": "<for> Zu Beginn der Gegnerphase: F\u00fcge dem Chaosbeutel pro Hinweis auf <name> 1 <curse>-Marker hinzu.",
+                "flavor_text": "Im Vergleich zum Rest der Stadt scheint der Palast w\u00e4hrend der Belagerung relativ wenig Schaden davongetragen zu haben...",
+                "traits": "Stadt. Festung."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Im Zentrum der Stadt steht eine gro\u00dfe Festung, die inmitten des Chaos unersch\u00fctterlich ihre Stellung h\u00e4lt.",
+                "traits": "Stadt. Festung."
+            }
+        },
+        "085b2a4d-3edb-421f-81e9-49b24f67b0f9": {
+            "name": "Nachtigallen-Vorhalle",
+            "front": {
+                "text": "<action> Falls keine Hinweise auf <name> liegen: R\u00fccke die Szene vor. <i>(Maximal einmal pro Spiel.)</i>",
+                "flavor_text": "Eine Anordnung ritueller Kerzen umgibt einen Kreis aus purpurroten Runen, die in den Boden eingraviert sind, der ein \u00fcbertriebenes Knarren von sich gibt, ganz gleich, wie behutsam man darauf tritt...",
+                "victory": "Sieg 1.",
+                "traits": "Stadt. Kultst\u00e4tte."
+            },
+            "back": {
+                "text": "Der Weg ist versiegelt. Ermittler k\u00f6nnen <name> nicht betreten.",
+                "flavor_text": "Eine Barriere aus purpurroten Runen, die in der Luft schwebt, wehrt deine Versuche ab, den Palast zu betreten.",
+                "traits": "Stadt. Verboten."
+            }
+        },
+        "ce994fbe-0181-43e1-82a2-4724abf84a9a": {
+            "name": "Paraselen Plaza",
+            "front": {
+                "text": "<t>Aspekt</t>-Story-Vorteilskarten, die von Ermittlern am <name> kontrolliert werden, werden in der Unterhaltsphase nicht bereit gemacht.",
+                "flavor_text": "Ein Wirbel aus Kirschbl\u00fcten umkreist einen verwelkten jungen Baum am anderen Ende des Hofes. Vielleicht ein l\u00e4ngst vergessener Vorfahr des Baumes, den du im Wald gesehen hast?",
+                "traits": "Stadt. Zentral."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Der Vollmond f\u00fcgt sich perfekt in den gewaltigen Torbogen ein, der \u00fcber dem Innenhof thront, als w\u00e4re er eigens zu diesem Zweck errichtet worden.",
+                "traits": "Stadt. Zentral."
+            }
+        },
+        "b37a6f42-a1f8-4d41-b783-757f0b658071": {
+            "name": "Schwalbenschwanz-Gasthaus",
+            "front": {
+                "text": "<b>Heimgesucht \u2014</b> Verliere 1 Ressource. <i>(L\u00f6se den Heimgesucht-Effekt dieses Ortes aus, sobald bei einer Ermittlung an diesem Ortes eine Probe misslingt.)</i>",
+                "flavor_text": "Diese geheimnisumwitterte Taverne diente als beliebter Treffpunkt f\u00fcr heimliche Rendezvous, sei es aus gesch\u00e4ftlichen oder privaten Gr\u00fcnden.",
+                "traits": "Stadt. Versteck."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Ein uriges Gasthaus am Rande der Stadt wird nach wie vor von geisterhaften G\u00e4sten bev\u00f6lkert.",
+                "traits": "Stadt. Versteck."
+            }
+        },
+        "ce6df126-2313-450d-8fe7-9f6a691e08db": {
+            "name": "Stehender Stein",
+            "front": {
+                "text": "<free>: <i>Die Schnitzereien untersuchen.</i> Mache eine <t>Aspekt</t>-Vorteilskarte die du kontrollierst spielbereit. <i>(Maximal einmal pro Spiel.)</i>",
+                "flavor_text": "Der Pakt zwischen dem g\u00f6ttlichen Pantheon und der K\u00f6nigsfamilie wurde durch eine uralte Inschrift besiegelt, die in diesen verwitterten Obelisken eingraviert ist.",
+                "subtitle": "Grab des zerbrochenen Pakts",
+                "traits": "Stadt. Kultst\u00e4tte."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Hinter dem Tempel steht ein gro\u00dfer, zerkl\u00fcfteter Stein, der von Kerzen und Opfergaben umgeben ist, was offenbar auf eine gewisse religi\u00f6se Bedeutung hindeutet.",
+                "traits": "Stadt. Kultst\u00e4tte."
+            }
+        },
+        "1efd5189-48a1-4675-889f-7c859ba1e93f": {
+            "name": "T\u00fcckischer Anstieg",
+            "front": {
+                "text": "<for> Nachdem du dich zu <name> bewegt hast: F\u00fchre eine <agility>-Probe (3) durch. Falls die Probe misslingt, nimm 1 Schaden.",
+                "flavor_text": "Die schlechte Zug\u00e4nglichkeit der Festung verschafft den Verteidigern einen erheblichen Vorteil.",
+                "traits": "Stufen."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Ein gewundener Pfad schl\u00e4ngelt sich den Hang der Felswand hinauf, die vom Hafen wegf\u00fchrt.",
+                "traits": "Stufen."
+            }
+        },
+        "c3f2f2ce-1e2b-475c-889b-3e19dd109051": {
+            "name": "Verwirrende Serpentinenstra\u00dfe",
+            "front": {
+                "text": "<for> Wenn ein Ermittler sich von <name> an einen unbekannten Ort bewegen m\u00f6chte: F\u00fchre eine <Willpower>-Probe (3) durch. Falls die Probe misslingt wird die Bewegung aufgehoben.<i>(die Kosten m\u00fcssen trotzdem bezahlt werden)</i>.",
+                "flavor_text": "Die kurvenreiche Stra\u00dfe scheint eigens daf\u00fcr konzipiert zu sein, den Uneingeweihten zu verwirren und die Orientierung zu rauben.",
+                "traits": "Stadt. Durchgang."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Laternen erhellen den gewundenen Gang, der zum Turm in der Ferne f\u00fchrt.",
+                "traits": "Stadt. Durchgang."
+            }
+        },
+        "f1e78b23-fa92-408b-b0e4-756d622a2182": {
+            "name": "Zerst\u00f6rtes Wachhaus",
+            "front": {
+                "text": "<action><action>: <i>Manueller Noteingriff.</i> F\u00fchre eine <combat>-Probe (5) durch. Verringere die Schwierigkeit dieser Probe um 1 f\u00fcr jeden Hinweis der von Ermittlern an <name> kontrolliert wird <i>(bis zu einem Minimum von 1)</i>. Falls die Probe gelingt, r\u00fccke die Szene vor. <i>(Maximal einmal pro Spiel.)</i>",
+                "flavor_text": "Die alten Tore werden durch einen ausgekl\u00fcgelten Mechanismus verschlossen gehalten, wodurch die Stadt effektiv von der Au\u00dfenwelt abgeschottet ist.",
+                "traits": "Stadt. Zugang."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Eine Reihe von Feuerstellen in der N\u00e4he flackert auf, als du dich dem Torhaus n\u00e4herst, das in die Stadt f\u00fchrt.",
+                "traits": "Stadt. Zugang."
+            }
+        },
+        "fe9a2301-719d-46c8-a738-72414a1ba15c": {
+            "name": "\u00dcberwuchertes Grab",
+            "front": {
+                "text": "<b>Heimgesucht \u2014</b> Ziehe die oberste Karte des Begegnungsdecks. <i>(L\u00f6se den Heimgesucht-Effekt dieses Ortes aus, sobald bei einer Ermittlung an diesem Ortes eine Probe misslingt.)</i>",
+                "flavor_text": "Seitdem diese Gr\u00e4ber ausgehoben wurden, ist genug Zeit vergangen, sodass die Natur begonnen hat, sie wieder an sich zur\u00fcckzugewinnen.",
+                "victory": "Sieg 1.",
+                "traits": "Stadt. Friedhof."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Hinter dem Tempel ragt ein Feld mit Grabsteinen aus einer unebenen Erhebung hervor.",
+                "traits": "Stadt. Friedhof."
+            }
+        },
+        "b99bd15d-b53e-4d78-82f4-d9cdc53a7836": {
+            "name": "Bewahre das, was unbezahlbar ist",
+            "front": {
+                "text": "<rev> Bewege jeden Ermittler einmal in Richtung K\u00f6nigspalast.",
+                "flavor_text": "Aus Angst vor einer drohenden Niederlage verbarrikadierte die k\u00f6nigliche Garde die \u00fcberlebenden Mitglieder des Hofes w\u00e4hrend der Belagerung im Palast \u2026 und k\u00e4mpfte bis zum Tod, um sicherzustellen, dass niemand sonst ihnen ins Innere folgen konnte.",
+                "traits": "Doktrin. Erinnerung."
+            },
+            "back": {}
+        },
+        "bcc82d44-4061-4988-bafc-c7a06fe93ce1": {
+            "name": "Dem Pantheon dienen",
+            "front": {
+                "text": "<rev> Ersch\u00f6pfe jede <t>Aspekt</t>-Story-Vorteilskarte, die von einem Ermittler kontrolliert wird. <t>Aspekt</t>-Vorteilskarten, die von Ermittlern kontrolliert werden, werden in der Unterhaltsphase nicht spielbereit gemacht.",
+                "flavor_text": "Die Schutzbarrieren, die Onigawa umgaben, wurden geschw\u00e4cht, als der ungest\u00fcme Prinz des g\u00f6ttlichen Pantheons auf dem Berg Kokoro gefangen gehalten wurde.",
+                "traits": "Doktrin. Erinnerung."
+            },
+            "back": {}
+        },
+        "4d0e6a2f-63c8-42ac-9d2d-b860fa5570d4": {
+            "name": "Den Bund einhalten",
+            "front": {
+                "text": "<rev> Jeder Ermittler muss eine <t>Aspekt</t>-Story-Vorteilskarte, die er kontrolliert ersch\u00f6pfen. Jeder Ermittler, der dies nicht kann, muss stattdessen 1 direkten Schrecken nehmen.",
+                "flavor_text": "Das Zerbrechen von Onigawas Bund mit den W\u00e4chtern war f\u00fcr alle sp\u00fcrbar, die zuvor ihren g\u00f6ttlichen Schutz genossen hatten.",
+                "traits": "Doktrin. Erinnerung."
+            },
+            "back": {}
+        },
+        "cc9884c1-4df4-4603-bd0d-9ed9bada3083": {
+            "name": "Der Tod ist f\u00fcr jeden unvermeidlich",
+            "front": {
+                "text": "<rev> Gegner erhalten +1 Entkommen bis zum Ende der Runde.",
+                "flavor_text": "Bevor es versenkt wurde, sorgte die Besatzung von Onigawas Flaggschiff, der Shingetsu, daf\u00fcr, dass das Schlachtschiff auf seiner Jungfernfahrt so viele feindliche Schiffe wie m\u00f6glich mit sich in den Untergang riss.",
+                "traits": "Doktrin. Erinnerung."
+            },
+            "back": {}
+        },
+        "544dd8d2-6386-4f20-bd1a-83e13ab73d1f": {
+            "name": "Der Tod ist nicht das Ende",
+            "front": {
+                "text": "<rev> Entferne alle Gegner, die keine <t>Elite</t>-Gegner sind, aus dem Spiel. Lege anschlie\u00dfend f\u00fcr jeden auf diese Weise entfernten Gegner 1 Verderbens-Marker auf die aktuelle Agenda.",
+                "flavor_text": "Als Onigawas B\u00fcndnis mit dem g\u00f6ttlichen Pantheon zerbrach, brachte dessen K\u00f6nigin bestimmte Opfer dar, um das \u00dcberleben ihres Volkes zu sichern.",
+                "traits": "Doktrin. Erinnerung."
+            },
+            "back": {}
+        },
+        "01f70831-95d9-4567-be02-85a5070322f4": {
+            "name": "Die Niedergeschlagenen freisprechen",
+            "front": {
+                "text": "<rev> Entferne 1 Verderben von der aktuellen Agenda. Der Ermittlungsleiter muss einen Ermittler ausw\u00e4hlen, der in diesem Zug alle seine verbleibenden Aktionen verliert.",
+                "flavor_text": "In den letzten Tagen der Belagerung wurde ein gefallener Held von Onigawa durch das selbstlose Opfer seiner K\u00f6nigin gerettet.",
+                "traits": "Doktrin. Erinnerung."
+            },
+            "back": {}
+        },
+        "9871174d-f0ea-45df-9187-83b4be1035f3": {
+            "name": "Die Toten ehren",
+            "front": {
+                "text": "<rev> Bis zum Ende der Runde kannst du, wann immer ein Gegner, der kein <t>Elite</t> ist, abgelegt werden soll, ihn stattdessen wieder in den Begegnungsstapel mischen. Wenn du dies tust, erh\u00e4ltst  du einen Hinweis von seinem Ort.",
+                "flavor_text": "Inmitten des Chaos der Belagerung griffen abtr\u00fcnnige Elemente innerhalb der Stadt zu immer verzweifelteren und gef\u00e4hrlicheren Mitteln, um Onigawas Verteidigung zu st\u00e4rken und ihre Verwundeten an die Front zur\u00fcckzubringen.",
+                "traits": "Doktrin. Erinnerung."
+            },
+            "back": {}
+        },
+        "625530a6-be90-409d-82e9-a00a8e0f8da4": {
+            "name": "Keine Waffe soll Erfolg haben",
+            "front": {
+                "text": "<rev> Der Ermittlungsleiter muss Karten vom Begegnungsstapel ablegen, bis ein Gegner aufgedeckt wird, und diesen Gegner dann ziehen.",
+                "flavor_text": "\u00dcberall um dich herum flimmern gespenstische Nachstellungen einer erbitterten Schlacht; selbst im Tod bleiben Onigawas Verteidiger standhaft.",
+                "traits": "Doktrin. Erinnerung."
+            },
+            "back": {}
+        },
+        "013b4f19-c271-4c5f-a07c-5ffc13f4e87d": {
+            "name": "Lieber der Tod als die Schande",
+            "front": {
+                "text": "<rev> Jeder Ermittler, an dessen Ort sich keine weiteren Ermittler befinden, zieht 1 Karte. Jeder andere Ermittler muss 1 Horror nehmen.",
+                "flavor_text": "Durch den Einfluss einer dunklen Macht in den Wahnsinn getrieben, griff der einst ehrenhafte Azurritter von Onigawa w\u00e4hrend der Belagerung zu brutalen Methoden, um die Moral zu st\u00e4rken und mutma\u00dfliche Verr\u00e4ter auszumerzen.",
+                "traits": "Doktrin. Erinnerung."
+            },
+            "back": {}
+        },
+        "5cd3b961-345a-472f-aef6-90d2bbc48562": {
+            "name": "Nimm nur das, was du brauchst",
+            "front": {
+                "text": "<rev> Jeder Ort erh\u00e4lt +1 Schleierwert bis zum Ende der Runde.",
+                "flavor_text": "Als der gro\u00dfe Kirschbaum im Zentrum der Stadt pl\u00f6tzlich verwelkte, f\u00fchrte dieses unheilvolle Zeichen selbst bei den treuesten Verteidigern Onigawas zu einem schweren Einbruch der Kampfmoral.",
+                "traits": "Doktrin. Erinnerung."
+            },
+            "back": {}
         }
     },
     "guides": [
