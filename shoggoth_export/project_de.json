@@ -8,6 +8,9 @@
         },
         "0cd539bd-6331-411e-966c-e0457e69abcd": {
             "name": "encounter-watery woes-b.png"
+        },
+        "9ab16e64-12db-4780-a632-56f71abcc53d": {
+            "name": "scenarioset-3-b.png"
         }
     },
     "cards": {
@@ -1480,6 +1483,161 @@
                 "name": "Noch auf der Suche",
                 "text": "Lege den beiseite gelegten Ort Nebelschleier-Meeresenge verdeckt links neben den Ort ganz oben links ins Spiel. F\u00fcr den Rest des Szenarios gilt dieser Ort als an Nebelschleier-Meeresenge angrenzend (und umgekehrt).\nLege den beiseite gelegten Ort Kaskaden-Endstation verdeckt rechts neben den Ort ganz oben rechts ins Spiel. F\u00fcr den Rest des Szenarios gilt dieser Ort als an Kaskaden-Endstation angrenzend (und umgekehrt).\n\n",
                 "flavor_text": "Die Siedlungen entlang des Flusses scheinen daf\u00fcr verantwortlich zu sein, \u201eTribute\u201c f\u00fcr jemanden oder etwas namens \u201eOnigawa\u201c zu erbringen. K\u00f6nnte das der Grund sein, warum die M\u00e4dchen entf\u00fchrt wurden? Was auch immer dieses Onigawa ist \u2013 du musst es finden, und zwar schnell. Dir gehen langsam die Orte aus, an denen du suchen kannst, doch als sich der Nebel lichtet, kommen weitere interessante Gebiete entlang des Deltas zum Vorschein \u2026"
+            }
+        },
+        "e2b493ed-e37a-478c-b833-0145f9aeffdb": {
+            "name": "Kaskaden-Endstation",
+            "front": {
+                "text": "<for> Nachdem <name> enth\u00fcllt wurde: Enth\u00fclle Karten vom Begegnungsdeck bis ein Gegner enth\u00fcllt wird, dann ziehe diesen. Mische alle anderen enth\u00fcllten Karten zur\u00fcck in das Begegnungsdeck.\n",
+                "flavor_text": "Auch wenn der zerstreute Abfall an den umliegenden Ufern erst k\u00fcrzliche Aktivit\u00e4ten vermuten l\u00e4sst, scheint eine Passage jenseits des Abgrunds des Wasserfalls unm\u00f6glich.",
+                "victory": "Victory 1.",
+                "traits": "Fluss."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Das Ger\u00e4usch rauschenden Wassers wird st\u00e4rker je n\u00e4her du kommst...",
+                "traits": "Fluss."
+            }
+        },
+        "20175298-0daa-4d8e-b147-1bf268a83429": {
+            "name": "K\u00fcstenfestung",
+            "front": {
+                "text": "<b>Heimgesucht \u2014</b> Lege eine Nicht-Schw\u00e4che-Karte von deiner Hand ab. <i>(F\u00fchre den Heimgesucht-Effekt dieses Ortes aus, nachdem eine Fertigkeitsprobe w\u00e4hrend des Ermittelns an der <name> fehlschl\u00e4gt.)</i>",
+                "flavor_text": "Treibgut, welches in die Str\u00f6mung gesogen wurde, zerschellt an den Steinklippen unter der Festung wie eine Rammbock.",
+                "traits": "Festung. Fluss."
+            },
+            "back": {
+                "name": "Unerforschte Feuchtgebiete",
+                "text": "",
+                "flavor_text": "Der m\u00e4andernde Fluss zweigt sich in mehrere kleine Nebenfl\u00fcsse auf, die allerlei Gegenden von Interesse entlang des Deltas verbergen.",
+                "traits": "Fluss."
+            }
+        },
+        "776a3ed6-c9af-4d7f-86ca-fe0d1e123ad3": {
+            "name": "Verlassene Werft",
+            "front": {
+                "text": "<b>Heimgesucht \u2014</b> Platziere einen deiner Hinweise auf <name>. <i>(F\u00fchre den Heimgesucht-Effekt dieses Ortes aus, nachdem eine Fertigkeitsprobe w\u00e4hrend des Ermittelns in der Verlassenen Werft fehlschl\u00e4gt.)</i>",
+                "flavor_text": "Eine schlichte Anlegestelle grenzt an ein gro\u00dfes Lagerhaus am Rande eines naheglegenen Sumpfes.",
+                "traits": "Dorf. Fluss."
+            },
+            "back": {
+                "name": "Unerforschte Feuchtgebiete",
+                "text": "",
+                "flavor_text": "Der m\u00e4andernde Fluss zweigt sich in mehrere kleine Nebenfl\u00fcsse auf, die allerlei Gegenden von Interesse entlang des Deltas verbergen.",
+                "traits": "Fluss."
+            }
+        },
+        "526f68c2-f313-4b26-852e-274639511957": {
+            "name": "Durchn\u00e4sste Ruinen",
+            "front": {
+                "text": "Hinweise k\u00f6nnen in <name> nur durch Ermitteln erhalten werden.",
+                "flavor_text": "Versunkene Bruchst\u00fccke eines zerfallenen Mauerwerks versperren den Weg; die zur\u00fcckgebliebenen \u00dcberreste eines Torbogens oder einer Br\u00fccke eines l\u00e4ngst vergangenen Zeitalters.",
+                "traits": "Ruinen. Fluss."
+            },
+            "back": {
+                "name": "Unerforschte Feuchtgebiete",
+                "text": "",
+                "flavor_text": "Der m\u00e4andernde Fluss zweigt sich in mehrere kleine Nebenfl\u00fcsse auf, die allerlei Gegenden von Interesse entlang des Deltas verbergen.",
+                "traits": "Fluss."
+            }
+        },
+        "39e83a4b-4665-43f4-9420-1dfba6ec4e32": {
+            "name": "Feuchtes Moor",
+            "front": {
+                "text": "<action> Falls keine Hinweise auf dem Feuchten Moor liegen: <i>Blicke in das Wasser.</i> F\u00fchre eine <willpower>- oder <agility>-Probe (3) durch. Falls die Probe gelingt, bringe den beiseite gelegten Ort Versunkener Schrein benachbart zu Feuchtes Moor verh\u00fcllt ins Spiel. <i>(Maximal einmal pro Spiel.)</i>",
+                "flavor_text": "Das verrottende Holz von uralten, zerfallenen Geb\u00e4uden treibt im tr\u00fcben Wasser.",
+                "traits": "Fluss."
+            },
+            "back": {
+                "name": "Unerforschte Feuchtgebiete",
+                "text": "",
+                "flavor_text": "Der m\u00e4andernde Fluss zweigt sich in mehrere kleine Nebenfl\u00fcsse auf, die allerlei Gegenden von Interesse entlang des Deltas verbergen.",
+                "traits": "Fluss."
+            }
+        },
+        "acdb2adf-eee1-4f31-90fb-729be71242ef": {
+            "name": "Fischerkai",
+            "front": {
+                "text": "<action>: <i>Die Ressourcen schwinden.</i> Durchsuche die obersten 5 Karten deines Decks nach einer <t>Gegenstand</t>- oder <t>Vorrat</t>-Karte und ziehe sie. Mische dein Deck. <i>(Maximal einmal pro Spiel.)</i>",
+                "flavor_text": "Die Dokumente, die du am Hafen gefunden hast, lassen vermuten, dass die vor kurzem versendeten Waren genau von diesem Kai abgesendet wurden.",
+                "traits": "Dorf. Hafen."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Ein einzelnes Schiff treibt ruhig im Wasser an der wackligen Anlegestelle.",
+                "traits": "Dorf. Hafen."
+            }
+        },
+        "4a66aac1-c67f-432f-b77a-d4ac69d0283e": {
+            "name": "Jagged Atoll",
+            "front": {
+                "text": "<for> When <name> is revealed: Place 1 doom on the current agenda.",
+                "flavor_text": "The architecture of the ominous isle \nsuggests military significance...",
+                "victory": " Victory 1.",
+                "traits": "Island. River."
+            },
+            "back": {
+                "name": "Uncharted Wetlands",
+                "text": "",
+                "flavor_text": "Der m\u00e4andernde Fluss zweigt sich in mehrere kleine Nebenfl\u00fcsse auf, die allerlei Gegenden von Interesse entlang des Deltas verbergen.",
+                "traits": "River."
+            }
+        },
+        "f63ba9a6-950b-4842-8b2b-a1dc3bd05852": {
+            "name": "Nebelschleier-Meeresenge",
+            "front": {
+                "text": "<for> Am Ende der Runde: Falls keine Hinweise auf der <name> liegen, platziere einen Hinweis auf dem Ort <i>(aus dem Vorrat).</i>\nGegner an der <name> erhalten +1 Entkommen.",
+                "flavor_text": "Flackernde Gl\u00fchw\u00fcrmchen schwirren am Rande des nebligen Fjords umher...",
+                "victory": "Sieg 1.",
+                "traits": "Fluss."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Eine dichte Wand aus Nebel bewacht, was auch immer hinter der M\u00fcndung der gewundenen Schlucht liegt.",
+                "traits": "Fluss."
+            }
+        },
+        "42dc447e-2e0d-46ec-8d73-f6be92eab423": {
+            "name": "Sandiger Schrein",
+            "front": {
+                "text": "<free>: <i>Sprich ein Gebet.</i> Mache eine <t>Aspekt</t>-Vorteilskarte, die du kontrollierst bereit. <i>(Maximal einmal pro Spiel.)</i>",
+                "flavor_text": "Eine gro\u00dfe Steinstatue ragt \u00fcber dem Tor, deren Schatten die dunklen Gesch\u00e4fte der Wegelagerer verdeckt.",
+                "subtitle": "Ehre unter Dieben?",
+                "traits": "Heiligtum."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Ein einsames Tor steht in v\u00f6lliger Stille auf einer Sandbank am hinteren Ende der H\u00f6hle.",
+                "traits": "Heiligtum."
+            }
+        },
+        "59dd8a7c-383a-4d06-8237-30ceae79e50c": {
+            "name": "Schmugglerbucht",
+            "front": {
+                "text": "<action> Falls keine Hinweise auf der <name> liegen: <i>Nur ein Lichtspiel.</i> Bringe den beiseite gelegten Ort Sandiger Schrein benachbart zur <name> verh\u00fcllt ins Spiel . <i>(Maximal einmal pro Spiel.)</i>",
+                "flavor_text": "Ein Riss in der Decke erhellt die H\u00f6hle mit sanftem Mondlicht und enth\u00fcllt dadurch die Geheimnisse des Verstecks.",
+                "traits": "Versteckl. Fluss."
+            },
+            "back": {
+                "name": "Unerforschte Feuchtgebiete",
+                "text": "",
+                "flavor_text": "Der m\u00e4andernde Fluss zweigt sich in mehrere kleine Nebenfl\u00fcsse auf, die allerlei Gegenden von Interesse entlang des Deltas verbergen.",
+                "traits": "Fluss."
+            }
+        },
+        "c1013f48-0e95-4e96-905f-ed9b184dd86a": {
+            "name": "Versunkener Schrein",
+            "front": {
+                "text": "<for> Am Ende der Ermittlerphase: Jeder Ermittler an diesem Ort nimmt 1 Schaden. \n<free>: <i>Was tot ist, kann niemals sterben.</i> Mache eine <t>Aspekt</t>-Vorteilskarte, die du kontrollierst bereit. <i>(Maximal einmal pro Spiel.)</i>",
+                "flavor_text": "Frische Opfergaben lassen vermuten, dass jemand oder etwas den Schrein pflegt, selbst nach seinem Einsturz...",
+                "subtitle": "Sitz des Koi-Imperators",
+                "victory": "Sieg 1.",
+                "traits": "Heiligtum."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Ein zerfallener Altar einer uralten Gottheit vegetiert in den dunklen Untiefen unter der Oberfl\u00e4che des Sumpfes dahin.",
+                "traits": "Heiligtum."
             }
         }
     },
