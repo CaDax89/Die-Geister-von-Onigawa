@@ -2281,6 +2281,126 @@
                 "traits": "Monster. Elite. Yokai. Verflucht."
             },
             "back": {}
+        },
+        "517398bd-4c05-4dbd-a197-3e0c8c9d0dbb": {
+            "name": "Augustende",
+            "front": {
+                "entries": [
+                    {
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "\u20131. Enth\u00fclle einen weiteren Marker."
+                    },
+                    {
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "\u20132. Falls die Probe misslingt, platziere 1 Hinweis auf den n\u00e4chstgelegenen <t>Hexe</t>-Gegner <i>(aus dem Markervorrat).</i>"
+                    },
+                    {
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "\u20133. Falls die Probe misslingt, f\u00fcge dem Chaosbeutel 1<frost>-Marker hinzu."
+                    },
+                    {
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20134. Falls die Probe misslingt, platziere 1 Verderben auf den n\u00e4chstgelegenen <t>Schlange</t>-Gegner."
+                    }
+                ],
+                "difficulty": "LEICHT/NORMAL"
+            },
+            "back": {
+                "entries": [
+                    {
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "\u20131. Enth\u00fclle einen weiteren Marker."
+                    },
+                    {
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "\u20133. Falls die Probe misslingt, platziere 1 Hinweis auf den n\u00e4chstgelegenen <t>Hexe</t>-Gegner <i>(aus dem Markervorrat).</i>"
+                    },
+                    {
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "\u20134. Falls die Probe misslingt, f\u00fcge dem Chaosbeutel 1<frost>-Marker hinzu."
+                    },
+                    {
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20135. Falls die Probe misslingt, platziere 1 Verderben auf den n\u00e4chstgelegenen <t>Schlange</t>-Gegner."
+                    }
+                ],
+                "difficulty": "SCHWER/EXPERTE"
+            }
+        },
+        "c9617fd8-6e2c-4149-99e6-6e2be704a702": {
+            "name": "Der Schlafende Riese",
+            "front": {
+                "text": "<i>(Zur Erinnerung: <frost>-Marker haben den Modifikator </i>\u201e\u20131, decke einen weiteren Marker auf.<i>\u201c. Wenn w\u00e4hrend einer einzelnen Fertigkeitsprobe zwei <fro>-Marker gezogen werden, ist der Wurf automatisch fehlgeschlagen und du ziehst f\u00fcr diese Probe keine weiteren Marker.)</i>",
+                "flavor_text": "Im Schatten des Kokoro-Berges wird die Luft um dich herum kalt. Der Boden vor dir ist mit elfenbeinfarbenen Flecken \u00fcbers\u00e4t, und die Feuchtigkeit deines nebligen Atems haftet an deinem Gesicht. Da dir die richtige Ausr\u00fcstung fehlt, vermutest du, dass du hier drau\u00dfen nicht lange durchhalten wirst..."
+            },
+            "back": {
+                "name": "Schl\u00e4ngeln",
+                "text": "F\u00fcge den beiseite gelegten Gegner Orochimaru <i>(Ewiger Schlummer)</i> dem Abschnitt \u201eJagdgr\u00fcnde\u201c der Szenariokarte hinzu. Er gilt f\u00fcr den Rest des Szenarios stets als im Spiel befindlich.\nMische den Rest des Begegnungssets <i>Schlummernde Schlangen</i> und den Begegnungs-Ablagestapel in das Begegnungsdeck.\n\n",
+                "flavor_text": "W\u00e4hrend du den Pass erkundest, schl\u00e4ngelt sich der Weg vor dir um eine klaffende Schlucht, und als du diese \u00fcberquerst, h\u00e4ltst du einen Moment inne, um durch eine L\u00fccke im Nebel zu dem hinaufzuschauen, von dem du annimmst, dass es der Gipfel sein muss. Seltsamerweise scheint sich die Schneedecke um den Gipfel des Berges herum \u201eauszubeulen\u201c und sich spiralf\u00f6rmig um dessen Umfang zu winden. Du fragst dich, wie sich diese \u201enat\u00fcrliche\u201c Kuriosit\u00e4t erkl\u00e4ren l\u00e4sst, als das Mondlicht durch den d\u00fcnner werdenden Nebel dringt und von der seltsamen Substanz reflektiert wird, wodurch die schwache Kontur eines sechseckigen Musters sichtbar wird, das in die elfenbeinfarbene Oberfl\u00e4che eingraviert ist; es erinnert dich an ineinandergreifende Platten, denkst du. Oder vielleicht an Schuppen..."
+            }
+        },
+        "a1509feb-8f5d-4dce-a99d-23ec6ef02e22": {
+            "name": "Ein ophidischer Albtraum",
+            "front": {
+                "text": "<i>(Zur Erinnerung: <frost>-Marker haben den Modifikator </i>\u201e\u20131, decke einen weiteren Marker auf.<i>\u201c. Wenn w\u00e4hrend einer einzelnen Fertigkeitsprobe zwei <fro>-Marker gezogen werden, ist der Wurf automatisch fehlgeschlagen und du ziehst f\u00fcr diese Probe keine weiteren Marker.)</i>",
+                "flavor_text": "Anscheinend nutzt eine unvorstellbar gro\u00dfe Schlange den Berg Kokoro als Nistplatz. Die gute Nachricht ist, dass sie vorerst zu schlafen scheint; du hast zwar keine Chance, sie zu besiegen, aber wenn du vorsichtig bist und Gl\u00fcck hast, kannst du dich vielleicht an ihr vorbeischleichen..."
+            },
+            "back": {
+                "name": "Schlangen auf dem Berg",
+                "text": "Falls Orochimaru <i>(Ewiger Schlummer)</i> im Spiel ist, drehe ihn um.\nOrochimaru <i>(Fluch des August)</i> f\u00fchrt gegen jeden Ermittler einen Gelegenheitsangriff durch.\nDrehe diese Agenda wieder um und lege f\u00fcr jeden <frost>-Marker im Chaosbeutel 1 Verderbensmarker darauf. <i>(Sie kann mehrmals vorr\u00fccken.)</i>\n\n\n",
+                "flavor_text": "Je n\u00e4her du dem Gipfel des Berges kommst, desto unerbittlicher werden die Angriffe der Schlange. Dort muss es etwas geben, das sie vor dir verbergen will, aber du bist dir nicht sicher, wie lange du ihr noch ausweichen kannst, und die Temperatur sinkt immer weiter, je h\u00f6her du steigst..."
+            }
+        },
+        "e4298a22-955f-4a8e-a027-8cc5ec115eb5": {
+            "name": "Winter Wanderland",
+            "front": {
+                "text": "<obj> Erkunde den Gebirgspass.\n<i>(R\u00fccke nicht vor, bis du dazu angewiesen wirst.)</i>",
+                "flavor_text": "Vor dir schl\u00e4ngelt sich ein Pfad durch die Schneewehe. Zahlreiche Fu\u00dfspuren auf dem Eis deuten darauf hin, dass hier vor kurzem jemand unterwegs war; falls Miyu diesen Weg genommen hat \u2026 Nun, dar\u00fcber m\u00f6chtest du eigentlich lieber nicht nachdenken \u2026"
+            },
+            "back": {
+                "name": "Jagdgr\u00fcnde",
+                "text": "Jeder Ermittler verliert alle seine Hinweise.\nF\u00fcge dem Chaosbeutel 1<frost>-Marker hinzu.\nNimm das beiseitegelegte Begegnungsset <i>Winterwinde</i> und lasse den beiseitegelegten Gegner Yuki-onna <i>(Die Mondk\u00f6nigin)</i> am Kokoro-Zugang erscheinen. Platziere anschlie\u00dfend 1 Hinweis auf Yuki-onna <i>(aus dem Markerpool.)</i> Mische den Rest des Begegnungssets <i>Winterwinde</i> und den Begegnungs-Ablagestapel in das Begegnungsdeck.\n\n",
+                "flavor_text": "Dein Marsch durch den Schnee kommt zum Stillstand, und du beschlie\u00dft, einen Moment innezuhalten, um wieder zu Atem zu kommen. Du stehst mitten auf einer weiten, offenen Ebene und machst dich auf das Schlimmste gefasst, als der Schneesturm um dich herum an St\u00e4rke zunimmt und sich zu einem immer heftiger werdenden Froststurm aufbaut. Deine Sicht sinkt auf nahezu null, und dir wird pl\u00f6tzlich bewusst, wie verwundbar du hier drau\u00dfen bist \u2013 allein und schutzlos. Du blinzelst, um den Schnee aus deinen Augen zu wischen, und als du sie wieder \u00f6ffnest, stellst du fest, dass du in der Mitte eines gro\u00dfen burgunderroten Kreises stehst, der aussieht, als w\u00e4re er gerade erst auf den lockeren Schnee gemalt worden. Das Glitzern ferner Gl\u00f6ckchen hallt \u00fcberall um dich herum wider..."
+            }
+        },
+        "697bf669-907e-4941-9cf4-e8f26e542212": {
+            "name": "Der tiefste Winter",
+            "front": {
+                "text": "<obj> Erkunde den Gebirgspass.\n<i>(R\u00fccke nicht vor, bis du dazu angewiesen wirst.)</i>",
+                "flavor_text": "Je n\u00e4her du dem Gipfel des Berges kommst, desto mehr werden deine Gedanken von Paranoia beherrscht. Da drau\u00dfen ist etwas, das sich im Schneegest\u00f6ber versteckt \u2013 dessen bist du dir sicher. Woher kommt es? Was will es? Warum ist es so kalt \u2026?"
+            },
+            "back": {
+                "name": "Der gefangene Prinz",
+                "text": "Jeder Ermittler verliert alle seine Hinweise.\nF\u00fcge dem Chaosbeutel 1<frost>-Marker hinzu.\nLies das <b>Szenario-Zwischenspiel: Der Zeuge </b> im Kampagnenleitfaden.\n",
+                "flavor_text": "Als du aus den Tiefen der H\u00f6hle emporsteigst und wieder ins Mondlicht trittst, f\u00e4llt dir als Erstes eine zerkl\u00fcftete Steinfl\u00e4che ins Auge, die eine kleine Spalte \u00fcbers\u00e4t, die aus der Felswand vor dir herausragt. Die Steine sind so geformt, dass die Formation den Fingern einer riesigen Hand gleicht, die sich gen Himmel reckt, und in der Mitte der Formation spr\u00fcht eine kleine, schimmernde Kuppel vor Energie. Du trittst vor, um einen genaueren Blick zu werfen, und w\u00e4hrend du dich der Formation n\u00e4herst, erkennst du allm\u00e4hlich eine Gestalt, die sich im Inneren der seltsamen Kuppel abzeichnet; es ist eine Art kleines Wesen. Ein Tier vielleicht. Obwohl es regungslos bleibt, wirkt der K\u00f6rper des Wesens \u00e4therisch und taucht vor deinen Augen wie eine geisterhafte Erscheinung immer wieder auf und verschwindet wieder. Vorsichtig n\u00e4herst du dich weiter, um es besser sehen zu k\u00f6nnen; du glaubst, seine d\u00fcrren Beine, einige Federn und einen Schnabel erkennen zu k\u00f6nnen \u2026"
+            }
+        },
+        "8f902c30-85de-4981-a159-1cf27802e8f3": {
+            "name": "Der Grund f\u00fcr diese Jahreszeit",
+            "front": {
+                "text": "<obj> Falls alle \u00fcberlebenden Ermittler aufgegeben haben, r\u00fccke vor.\n<i>(Hinweis: Befindet sich Yuki-onna zum Zeitpunkt dieses Schritts nicht im Siegpunktestapel, kann sie dich weiterhin verfolgen...)</i>",
+                "flavor_text": "Je h\u00f6her du in die Wolken aufsteigst, desto d\u00fcnner und k\u00e4lter wird die Luft. Du bist ersch\u00f6pft, aber du bist jetzt ganz nah dran; du sp\u00fcrst es. Etwas Uraltes lauert zwischen den Felsspitzen des Kokoro-Berges \u2026 du musst es nur finden, bevor das, was da drau\u00dfen lauert, dich findet."
+            },
+            "back": {
+                "name": "Schutz finden",
+                "text": "<b>Falls die Gegnerin Yuki-onna <i> (Die Mondk\u00f6nigin) </i> im Spiel war, w\u00e4hrend die Szene vorger\u00fcckt ist:</b>\n<i>Bevor du die Festung betrittst, wirfst du noch einen letzten, vorsichtigen Blick zur\u00fcck in den heulenden Schneesturm. Die Hexe, die dich verfolgt hat, ist immer noch irgendwo da drau\u00dfen \u2026 Du kannst nur hoffen, dass sie, was auch immer dieser Ort sein mag, sich genauso davor f\u00fcrchtet, ihn zu betreten, wie du \u2026</i>\n(<resolution><b>A1</b>)\n<hr>\n<b>Falls der Gegner Yuki-onna <i> (Die Mondk\u00f6nigin) </i> zu Beginn der Szene im Siegpunktestapel war:</b>\n<i>W\u00e4hrend du die Treppe zur Festung hinaufsteigst, kehren deine Gedanken zu der Hexe zur\u00fcck, die dich zuvor \u00fcberfallen hat. Was auch immer dieser Ort ist \u2013 sie schien verzweifelt versucht zu sein, dich davon abzuhalten, ihn zu erreichen \u2026 Du kannst nur hoffen, dass du keinen Fehler begangen hast, indem du hierhergekommen bist.</i>\n(<resolution><b>A2</b>)"
+            }
         }
     },
     "guides": [

@@ -77,7 +77,10 @@
             "name": "encounter-hands-b.png",
             "icon": "./images/encounter-hands-b.png",
             "id": "8eea5ad2-971a-4cf9-bba5-04717966b447",
-            "card_amount": 6
+            "card_amount": 6,
+            "meta": {
+                "tts": {}
+            }
         },
         {
             "name": "encounter-hauntedwoods-b.png",
@@ -113,7 +116,59 @@
             "name": "encounter-mountain-b.png",
             "icon": "./images/encounter-mountain-b.png",
             "id": "1b2b4978-17a9-4920-8a67-409629978ecd",
-            "card_amount": 26
+            "card_amount": 26,
+            "meta": {
+                "location_graph": {
+                    "4798a53b-f4aa-4542-ae09-60dab2ebcfb9_front": {
+                        "x": 200.0,
+                        "y": 0.0
+                    },
+                    "9d193aa0-9971-4081-a7f2-6e1396e5ca3b_front": {
+                        "x": 400.0,
+                        "y": 0.0
+                    },
+                    "fd298832-9b3d-4853-bf97-d02fbb175a1a_front": {
+                        "x": 600.0,
+                        "y": 0.0
+                    },
+                    "fa8ae1b1-9b29-4380-b42c-8c44243dabe8_front": {
+                        "x": 0.0,
+                        "y": 228.0
+                    },
+                    "e63ca3ff-cd8e-4cca-bb24-df033bd658cb_front": {
+                        "x": 200.0,
+                        "y": 228.0
+                    },
+                    "62d5408d-3511-4f34-ae7e-43decdf4bb03_front": {
+                        "x": 400.0,
+                        "y": 228.0
+                    },
+                    "2c49bd76-de4f-4147-829e-a76ebdcf59e4_front": {
+                        "x": 600.0,
+                        "y": 228.0
+                    },
+                    "9f5ca38d-90a0-4e73-bc68-ca7aabbc57ce_front": {
+                        "x": 0.0,
+                        "y": 456.0
+                    },
+                    "8ab50a09-11a0-4769-ad7e-22b4e9458f32_front": {
+                        "x": 200.0,
+                        "y": 456.0
+                    },
+                    "d634cd5d-87f7-46c1-8e8c-ad2be787a3e9_front": {
+                        "x": 400.0,
+                        "y": 456.0
+                    },
+                    "a4c15b8d-8e53-48b9-8bbb-7dbf81f3fddd_front": {
+                        "x": 600.0,
+                        "y": 456.0
+                    },
+                    "c5cb228e-af9f-4ca1-ba44-5b3280a7f528_front": {
+                        "x": 0.0,
+                        "y": 684.0
+                    }
+                }
+            }
         },
         {
             "name": "encounter-murderofcrows-b.png",
@@ -6748,7 +6803,20 @@
                         "token": "elder_thing",
                         "text": "\u20134. If you fail, place 1 doom on the nearest <t>Serpent</t> enemy."
                     }
-                ]
+                ],
+                "chaos_extra_region": {
+                    "x": 248,
+                    "y": 1600,
+                    "width": 1140,
+                    "height": 300
+                },
+                "chaos_region": {
+                    "x": 248,
+                    "y": 696,
+                    "width": 1300,
+                    "height": 890
+                },
+                "chaos_extra": "Hunting Grounds"
             },
             "back": {
                 "type": "chaos",
@@ -6770,7 +6838,20 @@
                         "text": "\u20135. If you fail, place 1 doom on the nearest <t>Serpent</t> enemy."
                     }
                 ],
-                "difficulty": "Hard/Expert"
+                "difficulty": "Hard/Expert",
+                "chaos_extra_region": {
+                    "x": 248,
+                    "y": 1600,
+                    "width": 1140,
+                    "height": 300
+                },
+                "chaos_region": {
+                    "x": 248,
+                    "y": 696,
+                    "width": 1300,
+                    "height": 890
+                },
+                "chaos_extra": "Hunting Grounds"
             },
             "encounter_number": "1",
             "project_number": "141",
@@ -6784,9 +6865,12 @@
                 "text": "<i>(Reminder: <fro> tokens have the modifier </i>\"\u20131, reveal another token.<i>\" If two <fro> tokens are resolved during a single skill test, the test automatically fails and you do not reveal any more tokens for that test.)</i>",
                 "flavor_text": "The air around you grows cold in the shadow of Mount Kokoro. The ground before you is littered with ivory flecks, and the moisture in your foggy breath sticks to your face. Lacking proper equipment, you suspect you won't last long out here...",
                 "illustration": "./images/richard-k-final-piece-png-2.jpg",
-                "doom": "5<per>",
+                "doom": "5",
                 "index": "1a",
-                "illustrator": "Illus. Richard K."
+                "illustrator": "Illus. Richard K.",
+                "illustration_pan_x": -1189.0,
+                "illustration_pan_y": 4.0,
+                "illustration_scale": 1.849
             },
             "back": {
                 "type": "agenda_back",
@@ -6805,9 +6889,11 @@
                 "text": "<i>(Reminder: <fro> tokens have the modifier </i>\"\u20131, reveal another token.<i>\" If two <fro> tokens are resolved during a single skill test, the test automatically fails and you do not reveal any more tokens for that test.)</i>",
                 "flavor_text": "Apparently, an impossibly large serpent is  using Mount Kokoro as its nesting grounds. The good news is that it seems to be sleeping, for now; there's no way you can hope to defeat it, but if you're careful, and lucky, you might be able to sneak past it...",
                 "illustration": "./images/71zGxcU1gkL.jpg",
-                "doom": "10<per>",
+                "doom": "10",
                 "index": "2a",
-                "illustrator": "Illus. Darenrin"
+                "illustrator": "Illus. Darenrin",
+                "illustration_pan_x": -51.0,
+                "illustration_pan_y": 0.0
             },
             "back": {
                 "type": "agenda_back",
@@ -6826,9 +6912,12 @@
                 "text": "<obj> Explore the mountain pass.\n<i>(Do not advance the act until you are instructed.)</i>",
                 "flavor_text": "Ahead of you, a winding path cuts through the snow bank. Numerous foot prints upon the ice suggest recent activity; if Miyu was taken this way... Well, you'd prefer not to think about it, really...",
                 "illustration": "./images/EMemNYiUYAAqlPI.jpeg",
-                "clues": "<dash><per>",
+                "clues": "?",
                 "index": "1a",
-                "illustrator": "Illus. Gu Zheng Wei"
+                "illustrator": "Illus. Gu Zheng Wei",
+                "illustration_pan_x": 931.0,
+                "illustration_pan_y": -74.0,
+                "illustration_scale": 0.52
             },
             "back": {
                 "type": "act_back",
@@ -6847,9 +6936,12 @@
                 "text": "<obj> Explore the mountain pass.\n<i>(Do not advance the act until you are instructed.)</i>",
                 "flavor_text": "You find yourself entertaining increasingly paranoid thoughts as you draw nearer to the mountain's summit. There's a prescence out there, hiding in the snowblind, you're certain of it. Where did it come from? What does it want? Why is it so cold...?",
                 "illustration": "./images/keoma-calandrini-reddragon2-copiar.jpg",
-                "clues": "<dash><per>",
+                "clues": "?",
                 "index": "2a",
-                "illustrator": "Illus. Keoma Calandrini"
+                "illustrator": "Illus. Keoma Calandrini",
+                "illustration_pan_x": -256.0,
+                "illustration_pan_y": -13.0,
+                "illustration_scale": 1.927
             },
             "back": {
                 "type": "act_back",
@@ -6868,9 +6960,12 @@
                 "text": "<obj> If each undefeated investigator has resigned, advance. \n<i>(Hint: If the Yuki-onna is not in the victory display when this advances, she may continue to pursue you...)</i>",
                 "flavor_text": "The air grows thinner, and colder, as you climb higher and higher into the clouds. You're exhausted, but you're close now; you can feel it. Something ancient dwells among the crags of Mount Kokoro...you just need to find it before whatever is out here finds you.",
                 "illustration": "./images/nik-dawson-yukionna.jpg",
-                "clues": "<dash><per>",
+                "clues": "<dash>",
                 "index": "3a",
-                "illustrator": "Illus. Grace Tran"
+                "illustrator": "Illus. Grace Tran",
+                "illustration_pan_x": 692.0,
+                "illustration_pan_y": 2.0,
+                "illustration_scale": 2.449
             },
             "back": {
                 "type": "act_back",
