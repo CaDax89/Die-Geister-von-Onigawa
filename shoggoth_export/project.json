@@ -2985,7 +2985,20 @@
                         "token": "elder_thing",
                         "text": "\u20133. If you fail, place one of your clues on your current location."
                     }
-                ]
+                ],
+                "chaos_extra_region": {
+                    "x": 248,
+                    "y": 1600,
+                    "width": 1140,
+                    "height": 300
+                },
+                "chaos_region": {
+                    "x": 248,
+                    "y": 696,
+                    "width": 1300,
+                    "height": 890
+                },
+                "chaos_extra": "Untended Graves"
             },
             "back": {
                 "type": "chaos",
@@ -3020,14 +3033,18 @@
                 "type": "agenda",
                 "flavor_text": "Though the slight chill nipping at your extremities urges you to tread carefully, you are certain you are alone here; the only sound that pierces the veil of eerie silence blanketing these woods is your own heartbeat.",
                 "illustration": "./images/jack-purdy-day-lit.jpg",
-                "doom": "4<per>",
+                "doom": "4",
                 "index": "1a",
-                "illustrator": "Illus. Jack Purdy"
+                "illustrator": "Illus. Jack Purdy",
+                "illustration_pan_x": -1000.0,
+                "illustration_pan_y": -61.0,
+                "illustration_scale": 1.644
             },
             "back": {
                 "type": "agenda_back",
                 "name": "Time Flies",
-                "text": "This leisurely hike through the woods has proven considerably more taxing than had you expected. As you wipe some errant spittle from the corner of your mouth, you suddenly notice that your breath is visible, hanging in the air before you like an apparition for the briefest of moments before evaporating into nothingness. You're not just imagining things: the chill has grown considerably more bitter since you entered the forest. Your head begins to ache as you try to catch a glimpse of the sky through the canopy overhead. It was a beautiful morning with clear skies when you departed the village; just how long have you been in here....?\nShuffle the set-aside <i>Fearsome Fog</i> encounter set and the encounter discard pile into the encounter deck.\n\n\n"
+                "text": "Shuffle the set-aside <i>Fearsome Fog</i> encounter set and the encounter discard pile into the encounter deck.\n\n\n",
+                "flavor_text": "This leisurely hike through the woods has proven considerably more taxing than had you expected. As you wipe some errant spittle from the corner of your mouth, you suddenly notice that your breath is visible, hanging in the air before you like an apparition for the briefest of moments before evaporating into nothingness. You're not just imagining things: the chill has grown considerably more bitter since you entered the forest. Your head begins to ache as you try to catch a glimpse of the sky through the canopy overhead. It was a beautiful morning with clear skies when you departed the village; just how long have you been in here....?"
             },
             "encounter_number": "2",
             "project_number": "2",
@@ -3040,9 +3057,12 @@
                 "type": "agenda",
                 "flavor_text": "Frankly, the foggy forest frequently feels far from friendly. From underfoot, the fetid fumes of fallow, festering fecundity fuel a frantic fight-or-flight frenzy, and further forth from your flank, the fluttering of foul flies frequenting the fragile, frozen-over flower fields fully forms a flickering flash of fickle fear. Forward feels foolhardy, but furtively fleeing for freedom feels futile...",
                 "illustration": "./images/jack-purdy-spooky-lit.jpg",
-                "doom": "7<per>",
+                "doom": "7",
                 "index": "2a",
-                "illustrator": "Illus. Jack Purdy"
+                "illustrator": "Illus. Jack Purdy",
+                "illustration_pan_x": -1031.0,
+                "illustration_pan_y": -84.0,
+                "illustration_scale": 1.644
             },
             "back": {
                 "type": "agenda_back",
@@ -3061,9 +3081,12 @@
                 "text": "Investigators may not commit cards to tests performed by other investigators. ",
                 "flavor_text": "\n<center><b> ...?</b>\n\n",
                 "illustration": "./images/jack-purdy-night-lit.jpg",
-                "doom": "8<per>",
+                "doom": "8",
                 "index": "3a",
-                "illustrator": "Illus. Jack Purdy"
+                "illustrator": "Illus. Jack Purdy",
+                "illustration_pan_x": -1012.0,
+                "illustration_pan_y": -43.0,
+                "illustration_scale": 1.644
             },
             "back": {
                 "type": "agenda_back",
@@ -3082,9 +3105,12 @@
                 "text": "<obj> <i>Find Takeshi's burial site.</i>\nWhen each surviving investigator <i>has paid their respects to Takeshi</i>, advance.",
                 "flavor_text": "The villagers mentioned Takeshi was buried somewhere in this forest, but neglected to elaborate further. Somehow, you feel like you'll know his final resting place when you see it...",
                 "illustration": "./images/ankush-sharma-ext-environmentconcept-japaneseshrine-02.jpg",
-                "clues": "<dash><per>",
+                "clues": "?",
                 "index": "1a",
-                "illustrator": "Illus. Ankush Sharma"
+                "illustrator": "Illus. Ankush Sharma",
+                "illustration_pan_x": -221.0,
+                "illustration_pan_y": -130.0,
+                "illustration_scale": 0.979
             },
             "back": {
                 "type": "act_back",
@@ -3102,10 +3128,13 @@
                 "type": "act",
                 "text": "<obj> <i>Chase the butterfly. </i>\nWhen the investigators <i>have both the\nblessings of the sun and moon</i>, advance.",
                 "flavor_text": "You find yourself entranced by the mysterious creature that has emerged from Takeshi's grave. Its softly fluttering wings emit a warm glow as it hypnotically dances around you, but when you reach out for it, it recoils from your touch. Is it afraid of you? Or leading you somewhere...?",
-                "illustration": "./images/nichelle-nolan-crimsonbutterfly-finalrgb-portfolio-artstation.jpg",
-                "clues": "<dash><per>",
+                "illustration": "C:/Users/cdpog/Documents/GitHub/Die-Geister-von-Onigawa/shoggoth_export/images/nichelle-nolan-crimsonbutterfly-finalrgb-portfolio-artstation.jpg",
+                "clues": "?",
                 "index": "2a",
-                "illustrator": "Illus. Nichelle Nolan"
+                "illustrator": "Illus. Nichelle Nolan",
+                "illustration_pan_x": -1017.0,
+                "illustration_pan_y": -184.0,
+                "illustration_scale": 2.036
             },
             "back": {
                 "type": "act_back",
@@ -3124,16 +3153,22 @@
                 "text": "<obj> If The Crimson Butterfly\nis at the Torii Gate location, advance.",
                 "flavor_text": "Something has come alive in the forest, and The Crimson Butterfly is clearly unsettled by it. Unfortunately, the forest feels like it has \"rearranged\" itself while you've been inside it, somehow obscuring the exit. You strongly feel you should find your way back to the gate...before whatever is out there finds you.",
                 "illustration": "./images/nicholas-glasson-okunoincemetery-1080-02.jpg",
-                "clues": "<dash><per>",
+                "clues": "?",
                 "index": "3a",
-                "illustrator": "Illus. Nicholas Glasson"
+                "illustrator": "Illus. Nicholas Glasson",
+                "illustration_pan_x": 96.0,
+                "illustration_pan_y": 0.0,
+                "illustration_scale": 1.522
             },
             "back": {
-                "type": "act_back",
+                "type": "act_agenda_full_back",
                 "illustration": "./images/bayu-dipura-portal.jpg",
                 "illustrator": "Illus. >Bayu Dipura",
                 "name": "The Hidden Village",
-                "text": "<i>The Crimson Butterfly vanishes from sight as it passes through the gateway and a yawning portal opens between its archways, casting the forest in a pale red light. On the other side of the crimson aperture, a rustic village beckons... </i>(<res>1)"
+                "text": "<i>The Crimson Butterfly vanishes from sight as it passes through the gateway and a yawning portal opens between its archways, casting the forest in a pale red light. On the other side of the crimson aperture, a rustic village beckons... </i>(<res>1)",
+                "illustration_pan_x": -200.0,
+                "illustration_pan_y": -562.0,
+                "illustration_scale": 1.363
             },
             "encounter_number": "7",
             "project_number": "7",
@@ -3148,24 +3183,30 @@
                 "text": "<action> If it is Act 3a: <b>Resign.</b> <i>You head back to the village.</i>",
                 "flavor_text": "You can't help but be slightly unnerved \nby the forest's deafening silence.",
                 "illustration": "./images/deniz-erkli-frame-3-edited-01.jpg",
-                "clues": "0<per>",
-                "shroud": "2<per>",
+                "clues": "0",
+                "shroud": "2",
                 "connection": "diamond",
                 "connections": [
                     "clover",
                     "hourglass",
                     "slash"
                 ],
-                "illustrator": "Illus. Deniz Erkli"
+                "illustrator": "Illus. Deniz Erkli",
+                "illustration_pan_x": -125.0,
+                "illustration_pan_y": 127.0,
+                "illustration_scale": 0.925
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/deniz-erkli-frame-3-edited-01.jpg",
                 "traits": "Woods.",
                 "text": "",
                 "flavor_text": "A modest stone archway bids you welcome \nto this tranquil sanctuary.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 127.0,
+                "illustration_pan_x": -125.0,
+                "illustration_scale": 0.925
             },
             "encounter_number": "8",
             "project_number": "8",
@@ -3180,24 +3221,30 @@
                 "text": "<free>: <i>Say a prayer.</i> Ready an <t>Aspect</t> asset you control. <i>(Limit once per game.)</i>",
                 "flavor_text": "Several of the shrines have fallen into disrepair, \nbut you can still make out the distinct shapes \nof the animal spirits they once honored.",
                 "illustration": "./images/connor-sheehan-jinji-grotto-enviro-001.jpg",
-                "clues": "1<per>",
-                "shroud": "3<per>",
+                "clues": "1",
+                "shroud": "3",
                 "connection": "clover",
                 "connections": [
                     "diamond",
                     "hourglass",
                     "triangle"
                 ],
-                "illustrator": "Illus. Connor Sheehan"
+                "illustrator": "Illus. Connor Sheehan",
+                "illustration_pan_x": -1103.0,
+                "illustration_pan_y": -115.0,
+                "illustration_scale": 0.992
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/connor-sheehan-jinji-grotto-enviro-001.jpg",
                 "traits": "Woods. Sanctum.",
                 "text": "",
                 "flavor_text": "A brook empties into a small reflecting pool, \nsurrounded by a collection of shrines.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -115.0,
+                "illustration_scale": 0.992,
+                "illustration_pan_x": -1103.0
             },
             "encounter_number": "9",
             "project_number": "9",
@@ -3213,8 +3260,8 @@
                 "text": "Enemies may not enter <name> and investigators may not enter <name> if an enemy is in their threat area.",
                 "flavor_text": "These traditional archways are constructed to demarcate the transition from the secular to the sacred.",
                 "illustration": "./images/gabriel-oliveira-simoes-250321-si-environment-03.jpg",
-                "clues": "0<per>",
-                "shroud": "4<per>",
+                "clues": "0",
+                "shroud": "4",
                 "connection": "hourglass",
                 "connections": [
                     "diamond",
@@ -3222,21 +3269,27 @@
                     "slash",
                     "triangle"
                 ],
-                "illustrator": "Illus. Gabriel Oliveira"
+                "illustrator": "Illus. Gabriel Oliveira",
+                "illustration_pan_x": -160.0,
+                "illustration_pan_y": 7.0,
+                "illustration_scale": 1.296
             },
             "back": {
                 "type": "location",
-                "illustration": "./images/0_",
+                "illustration": "./images/gabriel-oliveira-simoes-250321-si-environment-03.jpg",
                 "illustrator": "Illus. Gabriel Oliveira",
                 "name": "Torii Gate",
                 "subtitle": "A Way Out?",
                 "traits": "Woods.",
                 "text": "<action> Spend 1 <per> clues, as a group: Move The Crimson Butterfly 1 location towards <name>.",
                 "flavor_text": "The red paint on the gate is peeling. \nSomething is happening here...",
-                "shroud": "4<per>",
-                "clues": "0<per>",
+                "shroud": "4",
+                "clues": "0",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 7.0,
+                "illustration_pan_x": -160.0,
+                "illustration_scale": 1.296
             },
             "encounter_number": "10",
             "project_number": "10",
@@ -3252,14 +3305,17 @@
                 "flavor_text": " You're gonna walk down to...",
                 "illustration": "./images/BambooPath_3k.jpg",
                 "clues": "1<per>",
-                "shroud": "2<per>",
+                "shroud": "2",
                 "connection": "slash",
                 "connections": [
                     "diamond",
                     "hourglass",
                     "square"
                 ],
-                "illustrator": "Illus. Alex Alvarez"
+                "illustrator": "Illus. Alex Alvarez",
+                "illustration_pan_x": -593.0,
+                "illustration_pan_y": -100.0,
+                "illustration_scale": 0.896
             },
             "back": {
                 "type": "location_back",
@@ -3270,7 +3326,9 @@
                 "text": "",
                 "flavor_text": "A solemn expanse of tall trees, shrubbery, \nand stonework beckons you deeper into the woods.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_x": -265.0,
+                "illustration_pan_y": 226.0
             },
             "encounter_number": "11",
             "project_number": "11",
@@ -3286,14 +3344,17 @@
                 "flavor_text": "There's no obvious need for the trail to twist this circuitously, but an abundance of caution keeps you \nfrom straying too far from the beaten path.",
                 "illustration": "./images/alina-abaseva-9f44eedd-bffa-485b-a52a-e317751fc74a.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
+                "shroud": "3",
                 "connection": "triangle",
                 "connections": [
                     "clover",
                     "hourglass",
                     "circle"
                 ],
-                "illustrator": "Illus. Alina Abaseva"
+                "illustrator": "Illus. Alina Abaseva",
+                "illustration_pan_x": -184.0,
+                "illustration_pan_y": -36.0,
+                "illustration_scale": 0.999
             },
             "back": {
                 "type": "location_back",
@@ -3304,7 +3365,9 @@
                 "text": "",
                 "flavor_text": "A solemn expanse of tall trees, shrubbery, \nand stonework beckons you deeper into the woods.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 226.0,
+                "illustration_pan_x": -265.0
             },
             "encounter_number": "12",
             "project_number": "12",
@@ -3321,14 +3384,17 @@
                 "flavor_text": "The numerous bundles of rice littering \nthe secluded glen have been intentionally left to honor \nthe patron saint of fertility and agriculture.",
                 "illustration": "./images/marve-barg-fox-shrine-p6-cut.jpg",
                 "clues": "2<per>",
-                "shroud": "2<per>",
+                "shroud": "2",
                 "connection": "square",
                 "connections": [
                     "slash",
-                    "heartalt",
+                    "heart",
                     "star"
                 ],
-                "illustrator": "Illus. Marve Barg"
+                "illustrator": "Illus. Marve Barg",
+                "illustration_pan_x": -201.0,
+                "illustration_pan_y": -173.0,
+                "illustration_scale": 1.36
             },
             "back": {
                 "type": "location_back",
@@ -3339,7 +3405,13 @@
                 "text": "",
                 "flavor_text": "A solemn expanse of tall trees, shrubbery, \nand stonework beckons you deeper into the woods.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": [
+                    "slash",
+                    "heart",
+                    "star"
+                ],
+                "illustration_pan_y": 226.0,
+                "illustration_pan_x": -265.0
             },
             "encounter_number": "13",
             "project_number": "13",
@@ -3356,14 +3428,17 @@
                 "flavor_text": "The fable of the good-natured frog spirit \nand the treacherous scorpion who stung him is \na favorite among the children of Minakami.",
                 "illustration": "./images/rita-yuwei-li-painting3-project2-week10.jpg",
                 "clues": "2<per>",
-                "shroud": "3<per>",
+                "shroud": "3",
                 "connection": "circle",
                 "connections": [
                     "triangle",
-                    "heartalt",
+                    "heart",
                     "moon"
                 ],
-                "illustrator": "Illus. Rita Yuwei"
+                "illustrator": "Illus. Rita Yuwei",
+                "illustration_pan_x": -524.0,
+                "illustration_pan_y": 16.0,
+                "illustration_scale": 0.727
             },
             "back": {
                 "type": "location_back",
@@ -3374,7 +3449,13 @@
                 "text": "",
                 "flavor_text": "A solemn expanse of tall trees, shrubbery, \nand stonework beckons you deeper into the woods.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": [
+                    "triangle",
+                    "heart",
+                    "moon"
+                ],
+                "illustration_pan_y": 226.0,
+                "illustration_pan_x": -265.0
             },
             "encounter_number": "14",
             "project_number": "14",
@@ -3391,13 +3472,16 @@
                 "victory": " Victory 1.",
                 "illustration": "./images/muhammx-omar-2.jpg",
                 "clues": "2<per>",
-                "shroud": "4<per>",
-                "connection": "heartalt",
+                "shroud": "4",
+                "connection": "heart",
                 "connections": [
                     "square",
                     "circle"
                 ],
-                "illustrator": "Illus. Muhammed Omar"
+                "illustrator": "Illus. Muhammed Omar",
+                "illustration_pan_x": -301.0,
+                "illustration_pan_y": 203.0,
+                "illustration_scale": 1.2
             },
             "back": {
                 "type": "location_back",
@@ -3408,7 +3492,9 @@
                 "text": "",
                 "flavor_text": "A solemn expanse of tall trees, shrubbery, \nand stonework beckons you deeper into the woods.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 226.0,
+                "illustration_pan_x": -265.0
             },
             "encounter_number": "15",
             "project_number": "15",
@@ -3425,8 +3511,11 @@
                 "victory": " Victory 1.",
                 "illustration": "./images/jason-calvert-japanesegraveyard-composite.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
-                "illustrator": "Illus. Jason Calvert"
+                "shroud": "3",
+                "illustrator": "Illus. Jason Calvert",
+                "illustration_pan_x": -703.0,
+                "illustration_pan_y": 146.0,
+                "illustration_scale": 1.4
             },
             "back": {
                 "type": "location_back",
@@ -3437,7 +3526,10 @@
                 "text": "Untended Graves is connected to the <t>Woods</t> location that put it into play <i>(and vice versa).</i>",
                 "flavor_text": "A crowded collection of weathered \nstone markers catches your eye.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_x": -183.0,
+                "illustration_pan_y": 225.0,
+                "illustration_scale": 1.029
             },
             "encounter_number": "16",
             "project_number": "16",
@@ -3455,8 +3547,11 @@
                 "victory": " Victory 1.",
                 "illustration": "./images/sansar-tripathi-japanese-gravestone.jpg",
                 "clues": "1<per>",
-                "shroud": "4<per>",
-                "illustrator": "Illus. Sansar Tripathi"
+                "shroud": "4",
+                "illustrator": "Illus. Sansar Tripathi",
+                "illustration_pan_x": -4.0,
+                "illustration_pan_y": -474.0,
+                "illustration_scale": 0.856
             },
             "back": {
                 "type": "location_back",
@@ -3467,7 +3562,10 @@
                 "text": "Untended Graves is connected to the Woods location that put it into play <i>(and vice versa).</i>",
                 "flavor_text": "A crowded collection of weathered \nstone markers catches your eye.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 225.0,
+                "illustration_pan_x": -183.0,
+                "illustration_scale": 1.029
             },
             "encounter_number": "17",
             "project_number": "17",
@@ -3484,8 +3582,11 @@
                 "victory": " Victory 1.",
                 "illustration": "./images/roberto-herrera-28.jpg",
                 "clues": "1<per>",
-                "shroud": "2<per>",
-                "illustrator": "Illus. Roberto Herrera"
+                "shroud": "2",
+                "illustrator": "Illus. Roberto Herrera",
+                "illustration_pan_x": -248.0,
+                "illustration_pan_y": 200.0,
+                "illustration_scale": 1.111
             },
             "back": {
                 "type": "location_back",
@@ -3496,7 +3597,10 @@
                 "text": "Untended Graves is connected to the <t>Woods</t> location that put it into play <i>(and vice versa).</i>",
                 "flavor_text": "A crowded collection of weathered \nstone markers catches your eye.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 225.0,
+                "illustration_pan_x": -183.0,
+                "illustration_scale": 1.029
             },
             "encounter_number": "18",
             "project_number": "18",
@@ -3513,12 +3617,15 @@
                 "victory": " Victory 1.",
                 "illustration": "./images/samantha-loh-shan-min-night-2.jpg",
                 "clues": "1<per>",
-                "shroud": "4<per>",
+                "shroud": "4",
                 "connection": "moon",
                 "connections": [
                     "circle"
                 ],
-                "illustrator": "Illus. Samantha Loh"
+                "illustrator": "Illus. Samantha Loh",
+                "illustration_pan_x": -130.0,
+                "illustration_pan_y": 77.0,
+                "illustration_scale": 0.925
             },
             "back": {
                 "type": "location_back",
@@ -3529,7 +3636,10 @@
                 "text": "The passage is sealed. Investigators may not enter Secret Shrine.",
                 "flavor_text": "A mysterious effigy of a winged insect \nhangs over the blocked passageway...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_x": -579.0,
+                "illustration_pan_y": 23.0,
+                "illustration_scale": 0.7
             },
             "encounter_number": "19",
             "project_number": "19",
@@ -3546,12 +3656,15 @@
                 "victory": " Victory 1.",
                 "illustration": "./images/samantha-loh-shan-min-day-2.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
+                "shroud": "3",
                 "connection": "star",
                 "connections": [
                     "square"
                 ],
-                "illustrator": "Illus. Samantha Loh"
+                "illustrator": "Illus. Samantha Loh",
+                "illustration_pan_x": -167.0,
+                "illustration_pan_y": 18.0,
+                "illustration_scale": 0.999
             },
             "back": {
                 "type": "location_back",
@@ -3562,7 +3675,10 @@
                 "text": "The passage is sealed. Investigators may not enter Secret Shrine.",
                 "flavor_text": "A mysterious effigy of a winged insect \nhangs over the blocked passageway...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 23.0,
+                "illustration_pan_x": -579.0,
+                "illustration_scale": 0.7
             },
             "encounter_number": "20",
             "project_number": "20",
@@ -3584,7 +3700,11 @@
                 "horror": 0,
                 "flavor_text": "",
                 "illustration": "./images/fatal-1680000317659-3067.jpg",
-                "illustrator": "Illus. Tecmo"
+                "illustrator": "Illus. Tecmo",
+                "illustration_pan_x": -124.0,
+                "illustration_pan_y": 223.0,
+                "illustration_scale": 1.949,
+                "attack": "?"
             },
             "back": {
                 "type": "encounter"
@@ -3608,7 +3728,11 @@
                 "flavor_text": "The shambling corpse of this fallen warrior twitches \nand writhes with every agonizing step. ",
                 "victory": " Victory 1.",
                 "illustration": "./images/guillermo-martinez-first-masked-demon-espectro.jpg",
-                "illustrator": "Illus. Guillermo Martinez"
+                "illustrator": "Illus. Guillermo Martinez",
+                "attack": "4",
+                "illustration_pan_x": -41.0,
+                "illustration_pan_y": 791.0,
+                "illustration_scale": 1.644
             },
             "back": {
                 "type": "encounter"
@@ -3639,7 +3763,20 @@
                         "token": "elder_thing",
                         "text": "\u20133. If you fail, discard a non-weakness card from your hand."
                     }
-                ]
+                ],
+                "chaos_extra_region": {
+                    "x": 248,
+                    "y": 1600,
+                    "width": 1140,
+                    "height": 300
+                },
+                "chaos_region": {
+                    "x": 248,
+                    "y": 696,
+                    "width": 1300,
+                    "height": 890
+                },
+                "chaos_extra": "Explore Deck"
             },
             "back": {
                 "type": "chaos",
@@ -3661,7 +3798,20 @@
                         "text": "\u20134. After this test ends, discard a random non-weakness card from your hand."
                     }
                 ],
-                "difficulty": "Hard/Expert"
+                "difficulty": "Hard/Expert",
+                "chaos_extra_region": {
+                    "x": 248,
+                    "y": 1600,
+                    "width": 1140,
+                    "height": 300
+                },
+                "chaos_region": {
+                    "x": 248,
+                    "y": 696,
+                    "width": 1300,
+                    "height": 890
+                },
+                "chaos_extra": "Explore Deck"
             },
             "encounter_number": "1",
             "project_number": "23",
@@ -3674,9 +3824,12 @@
                 "type": "agenda",
                 "flavor_text": "The moon's pale light casts long shadows down the village's narrow alleyways and there is a rustic, time-lost quality to its decor and architecture that unnerves you; at first glance, the village seems deserted, but if the girls have been taken here, you'd better be prepared for anything... ",
                 "illustration": "./images/360_F_572780650_OeYtN0HcqQ0dmbBRb7gw2PnzoXQTQfQU.jpg",
-                "doom": "19<per>",
+                "doom": "19",
                 "index": "1a",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_x": -842.0,
+                "illustration_pan_y": -59.0,
+                "illustration_scale": 4.932
             },
             "back": {
                 "type": "agenda_back",
@@ -3697,7 +3850,10 @@
                 "illustration": "./images/i-gor-senza-titolo-0.jpg",
                 "clues": "4<per>",
                 "index": "1a",
-                "illustrator": "Illus. Igor Senza"
+                "illustrator": "Illus. Igor Senza",
+                "illustration_pan_x": -685.0,
+                "illustration_pan_y": -7.0,
+                "illustration_scale": 1.522
             },
             "back": {
                 "type": "act_back",
@@ -3716,9 +3872,12 @@
                 "text": "<obj> <i>Enter the manor.</i>\nIf there are no clues on Darkened Manor, immediately advance.",
                 "flavor_text": "Using the information on the notes you found, you should now be able to make it to the house on the hill if you can get to those stairs...",
                 "illustration": "./images/giada-franchi-casetta.jpg",
-                "clues": "<dash><per>",
+                "clues": "?",
                 "index": "2a",
-                "illustrator": "Illus. Giada Franchi"
+                "illustrator": "Illus. Giada Franchi",
+                "illustration_pan_x": 351.0,
+                "illustration_pan_y": -78.0,
+                "illustration_scale": 1.644
             },
             "back": {
                 "type": "act_back",
@@ -3737,9 +3896,12 @@
                 "text": "<obj> <i>Search the manor for signs of the missing girls. (You will be instructed when to advance.)</i>",
                 "flavor_text": "The dim light scatters inside the musty mansion's narrow halls, leaving you feeling more than slightly claustrophobic. The source of the screams you heard earlier must lay further within...but is anybody actually home?",
                 "illustration": "./images/yasuka-taira-unity-smxl1i24nl.jpg",
-                "clues": "<dash><per>",
+                "clues": "?",
                 "index": "3a",
-                "illustrator": "Illus. Yasuka Taira"
+                "illustrator": "Illus. Yasuka Taira",
+                "illustration_pan_x": 184.0,
+                "illustration_pan_y": 8.0,
+                "illustration_scale": 0.87
             },
             "back": {
                 "type": "act_back",
@@ -3758,9 +3920,12 @@
                 "text": "<obj> If The Pale Bride is in the victory display, advance.",
                 "flavor_text": "The young girl that the ghostly maiden has in her clutches must be one of the missing twins from Minakami. If you act quickly, you might still be able to save her...",
                 "illustration": "./images/theo-iparraguirre-fatalframe-concept-final.jpg",
-                "clues": "<dash><per>",
+                "clues": "<dash>",
                 "index": "4a",
-                "illustrator": "Illus. Theo Iparraguirre"
+                "illustrator": "Illus. Theo Iparraguirre",
+                "illustration_pan_x": -1660.0,
+                "illustration_pan_y": -744.0,
+                "illustration_scale": 2.709
             },
             "back": {
                 "type": "act_back",
@@ -3781,22 +3946,29 @@
                 "text": "<action>: <i>Deja vu?</i> Search the top 7 cards of your deck for a <t>Spirit</t> or <t>Spell</t> card and draw it. Shuffle your deck. <i>(Limit once per game.)</i>",
                 "flavor_text": "Despite its apparent restoration, \nthe gate now lies dormant.",
                 "illustration": "./images/samson-antony-torii-night-final.jpg",
-                "clues": "0<per>",
-                "shroud": "2<per>",
+                "clues": "0",
+                "shroud": "2",
                 "connection": "square",
                 "connections": [
                     "t"
                 ],
-                "illustrator": "Illus. Samson Antony"
+                "illustrator": "Illus. Samson Antony",
+                "illustration_pan_x": -23.0,
+                "illustration_pan_y": 219.0,
+                "illustration_scale": 1.167
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/samson-antony-torii-night-final.jpg",
                 "traits": "Village. Central.",
                 "text": "",
                 "flavor_text": "Are these the really same archways \nyou passed through in the forest?",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 219.0,
+                "illustration_pan_x": -23.0,
+                "illustration_scale": 1.167,
+                "illustrator": "Illus. Samson Antony"
             },
             "encounter_number": "7",
             "project_number": "29",
@@ -3812,7 +3984,7 @@
                 "flavor_text": "A cool breeze wafts through the center of the empty village.",
                 "illustration": "./images/olga-ok-final-village.jpg",
                 "clues": "2<per>",
-                "shroud": "3<per>",
+                "shroud": "3",
                 "connection": "t",
                 "connections": [
                     "square",
@@ -3822,16 +3994,25 @@
                     "hourglass",
                     "circle"
                 ],
-                "illustrator": "Illus. Olga Ok"
+                "illustrator": "Illus. Olga Ok",
+                "illustration_pan_x": -160.0,
+                "illustration_pan_y": 55.0,
+                "illustration_scale": 1.295
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/olga-ok-final-village.jpg",
                 "traits": "Village.",
                 "text": "",
                 "flavor_text": "Scattered, flickering lights line the vacant square...",
                 "connection": "<copy>",
-                "connections": []
+                "connections": [
+                    "square"
+                ],
+                "illustration_pan_y": 55.0,
+                "illustration_pan_x": -160.0,
+                "illustration_scale": 1.295,
+                "illustrator": "Illus. Olga Ok"
             },
             "encounter_number": "8",
             "project_number": "30",
@@ -3848,19 +4029,24 @@
                 "victory": " Victory 1.",
                 "illustration": "./images/giada-franchi-casetta.jpg",
                 "clues": "1<per>",
-                "shroud": "4<per>",
+                "shroud": "4",
                 "connection": "moon",
                 "connections": [
                     "hourglass"
                 ],
-                "illustrator": "Illus. Giada Franchi"
+                "illustrator": "Illus. Giada Franchi",
+                "illustration_pan_x": -436.0,
+                "illustration_pan_y": 226.0
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/giada-franchi-casetta.jpg",
                 "traits": "Village. Lodge.",
                 "text": "Investigators and enemies cannot enter Darkened Manor.",
-                "flavor_text": "The screams you heard seemed to originate from the mansion on the hill... But how to get there?"
+                "flavor_text": "The screams you heard seemed to originate from the mansion on the hill... But how to get there?",
+                "illustration_pan_y": 226.0,
+                "illustration_pan_x": -436.0,
+                "illustrator": "Illus. Giada Franchi"
             },
             "encounter_number": "9",
             "project_number": "31",
@@ -3877,21 +4063,22 @@
                 "victory": " Victory 1.",
                 "illustration": "./images/ezra-chan-asset.jpg",
                 "clues": "3<per>",
-                "shroud": "4<per>",
                 "connection": "cross",
                 "connections": [
                     "t"
                 ],
-                "illustrator": "Illus. Ezra Chan"
+                "illustrator": "Illus. Ezra Chan",
+                "shroud": "4"
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/ezra-chan-asset.jpg",
                 "traits": "Village. Fort.",
                 "text": "",
                 "flavor_text": "Though the structure has been badly damaged, \nthe sheer quantity of weapons lying strewn about the wreckage suggests it once quartered warriors.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustrator": "Illus. Ezra Chan"
             },
             "encounter_number": "10",
             "project_number": "32",
@@ -3908,13 +4095,15 @@
                 "victory": " Victory 1.",
                 "illustration": "./images/sara-savi-japanese-graveyard.jpg",
                 "clues": "2<per>",
-                "shroud": "3<per>",
+                "shroud": "3",
                 "connection": "hourglass",
                 "connections": [
                     "t",
                     "moon"
                 ],
-                "illustrator": "Illus. Sara Savi"
+                "illustrator": "Illus. Sara Savi",
+                "illustration_pan_x": -899.0,
+                "illustration_pan_y": 209.0
             },
             "back": {
                 "type": "location_back",
@@ -3924,7 +4113,9 @@
                 "text": "",
                 "flavor_text": "The winding stone staircase is so massive \nthat you cannot even see what awaits you at its summit.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 209.0,
+                "illustration_pan_x": -899.0
             },
             "encounter_number": "11",
             "project_number": "33",
@@ -3940,21 +4131,28 @@
                 "flavor_text": "The smell of rotting fish carcasses causes you to retch. Fortunately, there's no one around to see it.",
                 "illustration": "./images/tom-radford-image-1.jpg",
                 "clues": "2<per>",
-                "shroud": "3<per>",
+                "shroud": "3",
                 "connection": "triangle",
                 "connections": [
                     "t"
                 ],
-                "illustrator": "Illus. Tom Radford"
+                "illustrator": "Illus. Tom Radford",
+                "illustration_pan_x": -474.0,
+                "illustration_pan_y": -109.0,
+                "illustration_scale": 2.23
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/tom-radford-image-1.jpg",
                 "traits": "Village. Port.",
                 "text": "",
                 "flavor_text": "On the bank of a nearby river, the silhouette of \na wooden structure looming over a decrepit dock \npeeks out through a thin layer of fog.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -109.0,
+                "illustration_pan_x": -474.0,
+                "illustration_scale": 2.23,
+                "illustrator": "Illus. Tom Radford"
             },
             "encounter_number": "12",
             "project_number": "34",
@@ -3970,21 +4168,28 @@
                 "flavor_text": "The blight seeping into the soil \nhas spoiled many a harvest here.",
                 "illustration": "./images/HD-wallpaper-anime-scenery-art-japanese-sunset-sky-rice-japan-fantasy-fields-orginal-scenery.jpg",
                 "clues": "2<per>",
-                "shroud": "2<per>",
+                "shroud": "2",
                 "connection": "star",
                 "connections": [
                     "t"
                 ],
-                "illustrator": "Illus. Chansonk"
+                "illustrator": "Illus. Chansonk",
+                "illustration_pan_x": -289.0,
+                "illustration_pan_y": 97.0,
+                "illustration_scale": 2.88
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/HD-wallpaper-anime-scenery-art-japanese-sunset-sky-rice-japan-fantasy-fields-orginal-scenery.jpg",
                 "traits": "Village. Farm.",
                 "text": "",
                 "flavor_text": "At the edge of the village, fields of rice paddies \nbask in the scattered remnants of the dying light.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 97.0,
+                "illustration_pan_x": -289.0,
+                "illustration_scale": 2.88,
+                "illustrator": "Illus. Chansonk"
             },
             "encounter_number": "13",
             "project_number": "35",
@@ -4000,21 +4205,28 @@
                 "flavor_text": "",
                 "illustration": "./images/wishing-well-moon-silhouette-concept-image-showing-old-grassy-hill-night-front-full-starry-background-d-165646594.jpg",
                 "clues": "1<per>",
-                "shroud": "2<per>",
+                "shroud": "2",
                 "connection": "circle",
                 "connections": [
                     "t"
                 ],
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_x": -63.0,
+                "illustration_pan_y": -911.0,
+                "illustration_scale": 2.573
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/wishing-well-moon-silhouette-concept-image-showing-old-grassy-hill-night-front-full-starry-background-d-165646594.jpg",
                 "traits": "Village.",
                 "text": "",
                 "flavor_text": "\"Well, well, well... What do we have here?\"",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -911.0,
+                "illustration_pan_x": -63.0,
+                "illustration_scale": 2.573,
+                "illustrator": "Illus. Unknown"
             },
             "encounter_number": "14",
             "project_number": "36",
@@ -4031,15 +4243,19 @@
                 "text": "Limit 1 <t>Headgear</t> per investigator.\nYou get +1 <agility>. \n<action> Exile <name>: <b>Parley.</b> Discard a non-<t>Elite</t> enemy from your threat area.",
                 "cost": "3",
                 "flavor_text": "This ornamental mask was once worn by a royal retainer to conceal his trysts with a low-born attendant.",
+                "icons": "WA",
+                "illustration": "./images/mask-extend.png",
+                "illustrator": "Illus. Disse86",
                 "classes": [
                     "neutral"
                 ],
-                "icons": "WA",
-                "illustration": "./images/mask-extend.png",
-                "illustrator": "Illus. Disse86"
+                "level": "None",
+                "illustration_pan_x": 115.0,
+                "illustration_pan_y": 140.0,
+                "illustration_scale": 3.719
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "15",
             "project_number": "37",
@@ -4054,7 +4270,10 @@
                 "text": "<rev> Test <intellect> (X), where X is your current location's shroud value. If you fail, you must take 1 damage or place one of your clues on your location. If you fail by 2 or more, do both instead.",
                 "flavor_text": "The spirits of desecrated corpses wander through the village, mimicking the monotony of everyday routine. Are they real, or merely memories...?",
                 "illustration": "./images/nicolas-lizotte-nicolaslizotte-svafa-sigrun-full.jpg",
-                "illustrator": "Illus. Nicolas Lizotte"
+                "illustrator": "Illus. Nicolas Lizotte",
+                "illustration_pan_x": 143.0,
+                "illustration_pan_y": -41.0,
+                "illustration_scale": 1.136
             },
             "back": {
                 "type": "encounter"
@@ -4072,7 +4291,10 @@
                 "text": "<rev> Reveal a random token from the chaos bag. Then, if you revealed...\n<bullet> ...a <skull>, take 1 damage.\n<bullet> ...a <cultist>, take 1 horror.\n<bullet> ...a <tablet>, discard a card from your hand.\n<bullet> ...a <elder_thing>, lose an action on your next turn.\n<bullet> ...any other non-<elder_sign> token,\n           lose 1 resource.",
                 "flavor_text": "",
                 "illustration": "./images/edward-tsang-onmyoji-2.jpg",
-                "illustrator": "Illus. Edward Tsang"
+                "illustrator": "Illus. Edward Tsang",
+                "illustration_pan_x": 122.0,
+                "illustration_pan_y": -213.0,
+                "illustration_scale": 0.487
             },
             "back": {
                 "type": "encounter"
@@ -4090,7 +4312,9 @@
                 "text": "<rev> Test <willpower> (X), where X is your current location's shroud value. If you fail, you must either take 1 horror or move 1 location toward the nearest <t>Central</t> location. If you fail by 2 or more, do both instead.",
                 "flavor_text": "All around you, cured, painted hands \nhang from the walls; whether in celebration or in warning, you can't rightly say.",
                 "illustration": "./images/audrius-mitkus-kuuro-slap.jpg",
-                "illustrator": "Illus. Audrius Mitkus"
+                "illustrator": "Illus. Audrius Mitkus",
+                "illustration_pan_x": -133.0,
+                "illustration_pan_y": -363.0
             },
             "back": {
                 "type": "encounter"
@@ -4113,7 +4337,11 @@
                 "horror": 0,
                 "flavor_text": "\"There is no calamity greater than lavish desires.\" \n---Lao Tzu",
                 "illustration": "./images/mimeto_by_manzanedo_dcfvv9z-fullview.jpg",
-                "illustrator": "Illus. Manzanedo"
+                "illustrator": "Illus. Manzanedo",
+                "illustration_pan_x": -6.0,
+                "illustration_pan_y": 997.0,
+                "illustration_scale": 1.827,
+                "attack": "3"
             },
             "back": {
                 "type": "encounter"
@@ -4136,7 +4364,11 @@
                 "horror": 1,
                 "flavor_text": "Many warriors sought comfort from such maidens \non the eve before a great battle, and the sorrow \nof so many slain lovers weighs heavily \nupon their souls, even in death.",
                 "illustration": "./images/anna-astrid-hone-onna3.jpg",
-                "illustrator": "Illus. Anna Astrid"
+                "illustrator": "Illus. Anna Astrid",
+                "illustration_pan_x": -4.0,
+                "illustration_pan_y": 771.0,
+                "illustration_scale": 1.332,
+                "attack": "2"
             },
             "back": {
                 "type": "encounter"
@@ -4162,7 +4394,11 @@
                 "flavor_text": "For some reason, your thoughts turn to \nthe shambling corpse of the fallen warrior \nwho chased you through the woods...",
                 "victory": "Victory 1.",
                 "illustration": "./images/onisamurai.png",
-                "illustrator": "Illus. Mist XG"
+                "illustrator": "Illus. Mist XG",
+                "attack": "4",
+                "illustration_pan_x": -125.0,
+                "illustration_pan_y": 763.0,
+                "illustration_scale": 4.948
             },
             "back": {
                 "type": "encounter"
@@ -4180,7 +4416,10 @@
                 "text": "<rev> Attach <name> to the location with the most clues, and without a copy of <name> attached.\nIncrease the difficulty of the first test each investigator performs at the attached location during their turn by 1.",
                 "flavor_text": "It is said that when a tree has reached a century of life, \na divine spirit comes to dwell within it. To fell such a tree, \nfor any reason, would invite catastrophic misfortune.",
                 "illustration": "./images/alison-reimold-kodama.png",
-                "illustrator": "Illus. Alison Reimold"
+                "illustrator": "Illus. Alison Reimold",
+                "illustration_pan_x": 121.0,
+                "illustration_pan_y": -134.0,
+                "illustration_scale": 0.689
             },
             "back": {
                 "type": "encounter"
@@ -4247,9 +4486,11 @@
                 "text": "Each location is connected to each location adjacent to it.\n<for> After an investigator moves between <t>River</t> locations while not attached to The Tyrian Galley: That investigator loses all remaining actions.",
                 "flavor_text": "It's a silent night upon the river delta and its calm waters reflect the light of the full moon shinning brightly overhead. You cannot begin to fathom what dangers might lay ahead...",
                 "illustration": "./images/nick-night.jpg",
-                "doom": "4<per>",
+                "doom": "4",
                 "index": "1a",
-                "illustrator": "Illus. Nick Tesla"
+                "illustrator": "Illus. Nick Tesla",
+                "illustration_pan_x": -1399.0,
+                "illustration_pan_y": 11.0
             },
             "back": {
                 "type": "agenda_back",
@@ -4268,9 +4509,12 @@
                 "text": "All locations are connected to each adjacent location.\n<for> After an investigator moves between <t>River</t> locations while not attached to The Tyrian Galley: That investigator loses all remaining actions.",
                 "flavor_text": "Your activities on the delta have not gone unnoticed. Wild currents erupt from beneath the placid waters, revealing the churning of restless spirits trapped beneath the surf...",
                 "illustration": "./images/bastien-grivet-thebigone-bastiengrivet.jpg",
-                "doom": "5<per>",
+                "doom": "5",
                 "index": "2a",
-                "illustrator": "Illus. Bastien Grivet"
+                "illustrator": "Illus. Bastien Grivet",
+                "illustration_pan_x": -1419.0,
+                "illustration_pan_y": -10.0,
+                "illustration_scale": 1.777
             },
             "back": {
                 "type": "enemy",
@@ -4287,7 +4531,11 @@
                 "combat": "4<per>",
                 "evade": "4<per>",
                 "damage": 0,
-                "horror": 2
+                "horror": 2,
+                "attack": "4",
+                "illustration_pan_x": -5.0,
+                "illustration_pan_y": 745.0,
+                "illustration_scale": 0.856
             },
             "encounter_number": "3",
             "project_number": "59",
@@ -4301,9 +4549,12 @@
                 "text": "All locations are connected to each adjacent location.\n<for> After an investigator moves between <t>River</t> locations while not attached to The Tyrian Galley: That investigator loses all remaining actions.",
                 "flavor_text": "The sound of a bellowing horn rings out over the water. It feels familiar somehow, like a stirred memory. Something's coming... It's calling you home...",
                 "illustration": "./images/dawid-planeta-1beh.jpg",
-                "doom": "8<per>",
+                "doom": "8",
                 "index": "3a",
-                "illustrator": "Illus. David Planeta"
+                "illustrator": "Illus. David Planeta",
+                "illustration_pan_x": -369.0,
+                "illustration_pan_y": -752.0,
+                "illustration_scale": 0.905
             },
             "back": {
                 "type": "agenda_back",
@@ -4324,7 +4575,10 @@
                 "illustration": "./images/Fg40q7CaMAAlowz.jpeg",
                 "clues": "4<per>",
                 "index": "1a",
-                "illustrator": "Illus. Gu Zheng Wei"
+                "illustrator": "Illus. Gu Zheng Wei",
+                "illustration_pan_x": 958.0,
+                "illustration_pan_y": -16.0,
+                "illustration_scale": 2.644
             },
             "back": {
                 "type": "act_back",
@@ -4345,14 +4599,20 @@
                 "illustration": "./images/cezar-lasiewicki-oni-gates-guardian.jpg",
                 "clues": "4<per>",
                 "index": "2a",
-                "illustrator": "Illus. Cezar Lasiewicki"
+                "illustrator": "Illus. Cezar Lasiewicki",
+                "illustration_pan_x": -897.0,
+                "illustration_pan_y": 2.0,
+                "illustration_scale": 2.364
             },
             "back": {
-                "type": "act_back",
+                "type": "act_agenda_full_back",
                 "illustration": "./images/dmitry-zaviyalov-japanese-village-12.jpg",
                 "illustrator": "Illus. Dmitry Zaviyalov",
                 "name": "In Plain Sight",
-                "text": "<i>In a moment of desperation, you peer through the viewfinder of the Camera Obscura and attempt to snap a photo. Slowly, the dense fog smothering the gorge begins to disperse, revealing a sprawling sanctum nestled in the cliffs overhead...</i>  (<res>1)"
+                "text": "<i>In a moment of desperation, you peer through the viewfinder of the Camera Obscura and attempt to snap a photo. Slowly, the dense fog smothering the gorge begins to disperse, revealing a sprawling sanctum nestled in the cliffs overhead...</i>  (<res>1)",
+                "illustration_pan_x": -847.0,
+                "illustration_pan_y": -770.0,
+                "illustration_scale": 1.51
             },
             "encounter_number": "6",
             "project_number": "62",
@@ -4367,18 +4627,25 @@
                 "text": "<action>: <i>Running low.</i> Search the top 5 cards of your deck for an <t>Item</t> or <t>Supply</t> card and draw it. Shuffle your deck. <i>(Limit once per game.)</i>",
                 "flavor_text": " The documents you found by the harbor suggests recent shipments have been dispatched from these very docks.",
                 "illustration": "./images/tom-radford-image-1.jpg",
-                "clues": "0<per>",
-                "shroud": "2<per>",
-                "illustrator": "Illus. Tom Radford"
+                "clues": "0",
+                "shroud": "2",
+                "illustrator": "Illus. Tom Radford",
+                "illustration_pan_y": -109.0,
+                "illustration_pan_x": -474.0,
+                "illustration_scale": 2.23
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/tom-radford-image-1.jpg",
                 "traits": "Village. Port.",
                 "text": "",
                 "flavor_text": "A lonely ship rocks gently on the water by the rickety pier.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustrator": "Illus. Tom Radford",
+                "illustration_pan_y": -109.0,
+                "illustration_pan_x": -474.0,
+                "illustration_scale": 2.23
             },
             "encounter_number": "7",
             "project_number": "63",
@@ -4394,8 +4661,11 @@
                 "flavor_text": "A modest pier flanks a large warehouse \nat the edge of a nearby swamp.",
                 "illustration": "./images/julien-doyen-japanesehouse-doyenjulien-001.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
-                "illustrator": "Illus. Julien Doyen"
+                "shroud": "3",
+                "illustrator": "Illus. Julien Doyen",
+                "illustration_pan_x": -493.0,
+                "illustration_pan_y": 151.0,
+                "illustration_scale": 1.361
             },
             "back": {
                 "type": "location_back",
@@ -4406,7 +4676,10 @@
                 "text": "",
                 "flavor_text": "The winding river forks into several smaller tributaries, concealing areas of interest all along the delta.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_x": -314.0,
+                "illustration_pan_y": 184.0,
+                "illustration_scale": 0.621
             },
             "encounter_number": "8",
             "project_number": "64",
@@ -4422,7 +4695,7 @@
                 "flavor_text": "Flotsam caught in the undertow batters against the stone cliff beneath the barracks like a battering ram.",
                 "illustration": "./images/cezar-lasiewicki-oni-gates-guardian.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
+                "shroud": "3",
                 "illustrator": "Illus. Cezar Lasiewicki"
             },
             "back": {
@@ -4434,7 +4707,10 @@
                 "text": "",
                 "flavor_text": "The winding river forks into several smaller tributaries, concealing areas of interest all along the delta.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 184.0,
+                "illustration_pan_x": -314.0,
+                "illustration_scale": 0.621
             },
             "encounter_number": "9",
             "project_number": "65",
@@ -4450,12 +4726,15 @@
                 "flavor_text": "The rotting wood of ancient, dilapidated structures \nfloat in the murky water. ",
                 "illustration": "./images/mikhail-greuli-river-v1 (1).jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
+                "shroud": "3",
                 "connection": "triangle",
                 "connections": [
-                    "diamondalt"
+                    "diamond_alt"
                 ],
-                "illustrator": "Illus. Mikhail Greuli"
+                "illustrator": "Illus. Mikhail Greuli",
+                "illustration_pan_x": -238.0,
+                "illustration_pan_y": 99.0,
+                "illustration_scale": 0.707
             },
             "back": {
                 "type": "location_back",
@@ -4464,7 +4743,10 @@
                 "name": "Uncharted Wetlands",
                 "traits": "River.",
                 "text": "",
-                "flavor_text": "The winding river forks into several smaller tributaries, concealing areas of interest all along the delta."
+                "flavor_text": "The winding river forks into several smaller tributaries, concealing areas of interest all along the delta.",
+                "illustration_pan_y": 184.0,
+                "illustration_pan_x": -314.0,
+                "illustration_scale": 0.621
             },
             "encounter_number": "10",
             "project_number": "66",
@@ -4481,8 +4763,11 @@
                 "victory": " Victory 1.",
                 "illustration": "./images/d6a0bc8089d85ba2b7dc3a52dff1644e-700.jpg",
                 "clues": "1<per>",
-                "shroud": "5<per>",
-                "illustrator": "Illus. JJcanvas"
+                "shroud": "5",
+                "illustrator": "Illus. JJcanvas",
+                "illustration_pan_x": -476.0,
+                "illustration_pan_y": -11.0,
+                "illustration_scale": 2.0
             },
             "back": {
                 "type": "location_back",
@@ -4493,7 +4778,10 @@
                 "text": "",
                 "flavor_text": "The winding river forks into several smaller tributaries, concealing areas of interest all along the delta.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 184.0,
+                "illustration_pan_x": -314.0,
+                "illustration_scale": 0.621
             },
             "encounter_number": "11",
             "project_number": "67",
@@ -4509,7 +4797,7 @@
                 "flavor_text": "Through a chasm in the ceiling, the cavern is illuminated by soft moonlight, exposing the hideout's secrets.",
                 "illustration": "./images/ty-jontz-jtj-japan-asc-01-dof.jpg",
                 "clues": "1<per>",
-                "shroud": "2<per>",
+                "shroud": "2",
                 "connection": "moon",
                 "connections": [
                     "circle"
@@ -4523,7 +4811,10 @@
                 "name": "Uncharted Wetlands",
                 "traits": "River.",
                 "text": "",
-                "flavor_text": "The winding river forks into several smaller tributaries, concealing areas of interest all along the delta."
+                "flavor_text": "The winding river forks into several smaller tributaries, concealing areas of interest all along the delta.",
+                "illustration_pan_y": 184.0,
+                "illustration_pan_x": -314.0,
+                "illustration_scale": 0.621
             },
             "encounter_number": "12",
             "project_number": "68",
@@ -4539,8 +4830,11 @@
                 "flavor_text": "Submerged fragments of collapsed stonework \nobstruct the waterway; the forlorn remnants of \nan archway or bridge from a bygone era.",
                 "illustration": "./images/tom-capan-tom-capan-emissary.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
-                "illustrator": "Illus. Tom Capan"
+                "shroud": "3",
+                "illustrator": "Illus. Tom Capan",
+                "illustration_pan_x": -863.0,
+                "illustration_pan_y": 202.0,
+                "illustration_scale": 1.378
             },
             "back": {
                 "type": "location_back",
@@ -4551,7 +4845,10 @@
                 "text": "",
                 "flavor_text": "The winding river forks into several smaller tributaries, concealing areas of interest all along the delta.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 184.0,
+                "illustration_pan_x": -314.0,
+                "illustration_scale": 0.621
             },
             "encounter_number": "13",
             "project_number": "69",
@@ -4559,23 +4856,27 @@
             "id": "526f68c2-f313-4b26-852e-274639511957"
         },
         {
-            "name": "The Tyrian Galley",
+            "name": "<unique>The Tyrian Galley",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
                 "subtitle": "It Waits for Thee",
                 "traits": "Vehicle. Ship. ",
-                "text": "<free> If it is your turn: <b>Embark.</b> Attach your investigator to <name> or detach them from it. <i>(Limit once per turn.)</i>\n<action> If <name> is ready: Move <name> to an adjacent <t>River</t> location. This ability may only be activated by an investigator attached to The Tyrian Galley.",
+                "text": "<free> If it is your turn: <b>Embark.</b> Attach your investigator to The Tyrian Galley or detach them from it. <i>(Limit once per turn.)</i>\n<action> If The Tyrian Galley is ready: Move The Tyrian Galley to an adjacent <t>River</t> location. This ability may only be activated by an investigator attached to The Tyrian Galley.",
                 "cost": "<dash>",
                 "flavor_text": "\"The western wind is blowing fair across the dark Aegean sea...\"",
                 "classes": [
                     "neutral"
                 ],
                 "illustration": "./images/hassan-ashraf-hassan.jpg",
-                "illustrator": "Illus. Hassan Ashraf"
+                "illustrator": "Illus. Hassan Ashraf",
+                "level": "None",
+                "illustration_pan_x": 62.0,
+                "illustration_pan_y": -700.0,
+                "illustration_scale": 0.793
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "18",
             "project_number": "74",
@@ -4592,17 +4893,24 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/andreas-rocha-hiddenwatefall02.jpg",
                 "clues": "1<per>",
-                "shroud": "5<per>",
-                "illustrator": "Illus. Andreas Rocha"
+                "shroud": "5",
+                "illustrator": "Illus. Andreas Rocha",
+                "illustration_pan_x": -1437.0,
+                "illustration_pan_y": -506.0,
+                "illustration_scale": 1.904
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/andreas-rocha-hiddenwatefall02.jpg",
                 "traits": "River.",
                 "text": "",
                 "flavor_text": "The sound of rushing water intensifies \nas you draw nearer...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -506.0,
+                "illustration_pan_x": -1437.0,
+                "illustration_scale": 1.904,
+                "illustrator": "Illus. Andreas Rocha"
             },
             "encounter_number": "14",
             "project_number": "70",
@@ -4619,17 +4927,24 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/moojin-hanvit-night-at-fareast.jpg",
                 "clues": "1<per>",
-                "shroud": "4<per>",
-                "illustrator": "Illus. Moojin Hanvit"
+                "shroud": "4",
+                "illustrator": "Illus. Moojin Hanvit",
+                "illustration_pan_x": -14.0,
+                "illustration_pan_y": -237.0,
+                "illustration_scale": 1.644
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/moojin-hanvit-night-at-fareast.jpg",
                 "traits": "River.",
                 "text": "",
                 "flavor_text": "A thick wall of fog guards whatever lies \nbeyond the mouth of the winding canyon.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -237.0,
+                "illustration_pan_x": -14.0,
+                "illustration_scale": 1.644,
+                "illustrator": "Illus. Moojin Hanvit"
             },
             "encounter_number": "15",
             "project_number": "71",
@@ -4646,21 +4961,26 @@
                 "flavor_text": "A large stone statue looms over the gate, its shadow cloaking the brigands' dark dealings.",
                 "illustration": "./images/ty-jontz-jtj-japan-asc-09.jpg",
                 "clues": "1<per>",
-                "shroud": "2<per>",
+                "shroud": "2",
                 "connection": "circle",
                 "connections": [
                     "moon"
                 ],
-                "illustrator": "Illus. Ty Jontz"
+                "illustrator": "Illus. Ty Jontz",
+                "illustration_pan_x": -293.0,
+                "illustration_pan_y": 198.0
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/ty-jontz-jtj-japan-asc-09.jpg",
                 "traits": "Sanctum.",
                 "text": "",
                 "flavor_text": "A lonesome gate stands in solitude \non a sandy shoal at the rear of the cavern.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 198.0,
+                "illustration_pan_x": -293.0,
+                "illustrator": "Illus. Ty Jontz"
             },
             "encounter_number": "16",
             "project_number": "72",
@@ -4678,21 +4998,25 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/sunken shrine.jpg",
                 "clues": "1<per>",
-                "shroud": "4<per>",
-                "connection": "diamondalt",
+                "shroud": "4",
+                "connection": "diamond_alt",
                 "connections": [
                     "triangle"
                 ],
-                "illustrator": "Illus. Eazdd8"
+                "illustrator": "Illus. Eazdd8",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 136.0
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/sunken shrine.jpg",
                 "traits": "Sanctum.",
                 "text": "",
                 "flavor_text": "A fallen altar to an ancient deity languishes \nin the dark depths beneath the swamp's surface. ",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 136.0,
+                "illustrator": "Illus. Eazdd8"
             },
             "encounter_number": "17",
             "project_number": "73",
@@ -4725,7 +5049,9 @@
                 "text": "<rev> Check the Campaign Log. If <i>the investigators rescued Mayu from The Pale Bride</i>, put <name> into play in your threat area. Otherwise, <name> gains surge.\n<for> When you would succeed at a skill test: You automatically fail that test, instead. Discard <name>.",
                 "flavor_text": "She's gone...but she'll never let you go.",
                 "illustration": "./images/cC9cz7p1.jpg",
-                "illustrator": "Illus. Tecmo"
+                "illustrator": "Illus. Tecmo",
+                "illustration_pan_x": -199.0,
+                "illustration_pan_y": 6.0
             },
             "back": {
                 "type": "encounter"
@@ -4736,7 +5062,7 @@
             "id": "f1843a75-2d59-4204-b1dd-f00c39db58d6"
         },
         {
-            "name": "Camera Obscura",
+            "name": "<unique>Camera Obscura",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -4750,10 +5076,14 @@
                 ],
                 "icons": "Q",
                 "illustration": "./images/kurokosyou-.jpg",
-                "illustrator": "Illus. Kurokosyou"
+                "illustrator": "Illus. Kurokosyou",
+                "level": "None",
+                "illustration_pan_x": 31.0,
+                "illustration_pan_y": -175.0,
+                "illustration_scale": 1.015
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "22",
             "project_number": "78",
@@ -4781,7 +5111,20 @@
                         "token": "elder_thing",
                         "text": "\u20134. If you fail, put the top card of the rally deck into play and resolve its revelation effect."
                     }
-                ]
+                ],
+                "chaos_extra_region": {
+                    "x": 248,
+                    "y": 1600,
+                    "width": 1140,
+                    "height": 300
+                },
+                "chaos_region": {
+                    "x": 248,
+                    "y": 696,
+                    "width": 1300,
+                    "height": 890
+                },
+                "chaos_extra": "Rally Deck"
             },
             "back": {
                 "type": "chaos",
@@ -4803,7 +5146,20 @@
                         "text": "\u20134. After this test ends, put the top card of the rally deck into play and resolve its revelation effect."
                     }
                 ],
-                "difficulty": "Hard/Expert"
+                "difficulty": "Hard/Expert",
+                "chaos_extra_region": {
+                    "x": 248,
+                    "y": 1600,
+                    "width": 1140,
+                    "height": 300
+                },
+                "chaos_region": {
+                    "x": 248,
+                    "y": 696,
+                    "width": 1300,
+                    "height": 890
+                },
+                "chaos_extra": "Rally Deck"
             },
             "encounter_number": "1",
             "project_number": "79",
@@ -4817,9 +5173,12 @@
                 "text": "<for> When this agenda advances: Do not remove doom from this agenda.\n<i>(Do not advance this agenda until you are instructed.)</i>",
                 "flavor_text": "There's an electric tension in the air; something ancient and forgotten lingers here, and with every step your foot falls a little heavier...",
                 "illustration": "./images/zudarts-lee-by-zudarts-lee-concept-art-environments-aziia-no.jpg",
-                "doom": "<dash><per>",
                 "index": "1a",
-                "illustrator": "Illus. Jerome Comentale"
+                "illustrator": "Illus. Jerome Comentale",
+                "doom": "?",
+                "illustration_pan_x": -1330.0,
+                "illustration_pan_y": 19.0,
+                "illustration_scale": 2.089
             },
             "back": {
                 "type": "agenda_back",
@@ -4838,9 +5197,12 @@
                 "text": "<for> At the start of the investigation phase: Shuffle all <t>Doctrine</t> cards in play back into the rally deck, then put the top card of the rally deck into play and resolve its <b>Revelation</b> effect. <i>(Do not discard this card once it has been resolved; it remains in play until the start of the next investigation phase.)</i>",
                 "flavor_text": "Flickering pockets of the ruined city come to life all around you, allowing you to catch glimpses of ghostly defenders being overrun during a great battle that was apparently fought here...",
                 "illustration": "./images/ludovic-ribardiere-he-ev-vikingattack01-ludo-wip01.jpg",
-                "doom": "11<per>",
+                "doom": "11",
                 "index": "2a",
-                "illustrator": "Illus. Ludovic Ribardiere"
+                "illustrator": "Illus. Ludovic Ribardiere",
+                "illustration_pan_x": -463.0,
+                "illustration_pan_y": 2.0,
+                "illustration_scale": 0.977
             },
             "back": {
                 "type": "agenda_back",
@@ -4859,9 +5221,12 @@
                 "text": "<t>Elite</t> enemies in play gain Hunter 1.\n<for> At the start of the investigation phase: Shuffle all <t>Doctrine</t> cards in play back into the rally deck, then put the top card of the rally deck into play and resolve its <b>Revelation</b> effect. <i>(Do not discard this card once it has been resolved; it remains in play until the start of the next investigation phase.)</i>",
                 "flavor_text": "The sounds of fighting die down as Onigawa's ghostly defenders make one last desperate attempt to repel the invaders...",
                 "illustration": "./images/jasper-zhao-logo.jpg",
-                "doom": "6<per>",
+                "doom": "6",
                 "index": "3a",
-                "illustrator": "Illus. Jasper Zhao"
+                "illustrator": "Illus. Jasper Zhao",
+                "illustration_pan_x": -1962.0,
+                "illustration_pan_y": -122.0,
+                "illustration_scale": 1.492
             },
             "back": {
                 "type": "agenda_back",
@@ -4880,9 +5245,12 @@
                 "text": "<obj> Find a way to enter the mysterious city.\n<i>(Do not advance this act until you are instructed.)</i>",
                 "flavor_text": "The strange fortified city overlooking the gorge is unmistakably conspicuous. The path up the sheer cliff leads to some sort of gatehouse; if Miyu was taken this way, then there must be some way inside... ",
                 "illustration": "./images/1200x1200bf-60.jpg",
-                "clues": "<dash><per>",
+                "clues": "?",
                 "index": "1a",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_x": 838.0,
+                "illustration_pan_y": -280.0,
+                "illustration_scale": 1.598
             },
             "back": {
                 "type": "act_back",
@@ -4903,7 +5271,10 @@
                 "illustration": "./images/brian-valeza-sarimanok.jpg",
                 "clues": "5<per>",
                 "index": "2a",
-                "illustrator": "Illus. Brian Valeza"
+                "illustrator": "Illus. Brian Valeza",
+                "illustration_pan_x": 70.0,
+                "illustration_pan_y": 8.0,
+                "illustration_scale": 1.993
             },
             "back": {
                 "type": "act_back",
@@ -4922,9 +5293,11 @@
                 "text": "<obj> Find a way to enter Nightingale Antechamber.\n<i>(Do not advance this act until you are instructed.)</i>",
                 "flavor_text": "The Crimson Butterfly is emitting some kind of energy field that appears to be \"stabilizing\" the time loop the city is caught in; when the apparitions approach it, they stutter and recoil, as if paralyzed. Perhaps it can help you disable the wards sealing away the palace...",
                 "illustration": "./images/eidis-scarlet-new-year-baked.jpg",
-                "clues": "<dash><per>",
+                "clues": "?",
                 "index": "3a",
-                "illustrator": "Illus. Eidis Scarlet"
+                "illustrator": "Illus. Eidis Scarlet",
+                "illustration_pan_x": -120.0,
+                "illustration_pan_y": 0.0
             },
             "back": {
                 "type": "act_back",
@@ -4945,21 +5318,28 @@
                 "flavor_text": "Known as \"chochin,\" such paper lanterns are traditionally lit by loved ones of the recently deceased, in the hopes that such beacons will guide their wandering spirits safely to the afterlife.",
                 "illustration": "./images/noe-skabar-noe-skabar-nyanmar-01.jpg",
                 "clues": "1<per>",
-                "shroud": "2<per>",
-                "connection": "diamondalt",
+                "shroud": "2",
+                "connection": "diamond_alt",
                 "connections": [
-                    "doubleslash"
+                    "double_slash"
                 ],
-                "illustrator": "Illus. Noe Skabar"
+                "illustrator": "Illus. Noe Skabar",
+                "illustration_pan_x": -120.0,
+                "illustration_pan_y": 208.0,
+                "illustration_scale": 0.665
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/noe-skabar-noe-skabar-nyanmar-01.jpg",
                 "traits": "Port.",
                 "text": "",
                 "flavor_text": "<size 7.4>A flotilla of paper lanterns dances away on the evening breeze.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 208.0,
+                "illustration_pan_x": -120.0,
+                "illustrator": "Illus. Noe Skabar",
+                "illustration_scale": 0.665
             },
             "encounter_number": "8",
             "project_number": "86",
@@ -4974,23 +5354,30 @@
                 "text": "<for> After you move to <name>: Test <agility> (3). If you fail, take 1 damage.",
                 "flavor_text": "The precarious nature of the fortress's approach offers a significant defender's advantage.",
                 "illustration": "./images/keen-art-study-tree.jpg",
-                "clues": "0<per>",
-                "shroud": "4<per>",
-                "connection": "doubleslash",
+                "clues": "0",
+                "shroud": "4",
+                "connection": "double_slash",
                 "connections": [
-                    "diamondalt",
-                    "slashalt"
+                    "diamond_alt",
+                    "slash_alt"
                 ],
-                "illustrator": "Illus. Keen Art"
+                "illustrator": "Illus. Keen Art",
+                "illustration_pan_x": -223.0,
+                "illustration_pan_y": -1008.0,
+                "illustration_scale": 0.509
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/keen-art-study-tree.jpg",
                 "traits": "Steps.",
                 "text": "",
                 "flavor_text": "A winding trail snakes up the side of \nthe rock face leading away from the harbor.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -1008.0,
+                "illustration_pan_x": -223.0,
+                "illustrator": "Illus. Keen Art",
+                "illustration_scale": 0.509
             },
             "encounter_number": "9",
             "project_number": "87",
@@ -5006,22 +5393,29 @@
                 "flavor_text": "The old gates are held shut by an elaborate mechanism, effectively sealing the city away from the world.",
                 "illustration": "./images/10041659643_699b59aed1_b.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
-                "connection": "slashalt",
+                "shroud": "3",
+                "connection": "slash_alt",
                 "connections": [
-                    "doubleslash",
+                    "double_slash",
                     "moon"
                 ],
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_x": -116.0,
+                "illustration_pan_y": -701.0,
+                "illustration_scale": 2.306
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/10041659643_699b59aed1_b.jpg",
                 "traits": "City. Gateway.",
                 "text": "",
                 "flavor_text": "A collection of nearby braziers flickers to life as you approach the gatehouse leading into the city.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -701.0,
+                "illustration_pan_x": -116.0,
+                "illustrator": "Illus. Unknown",
+                "illustration_scale": 2.306
             },
             "encounter_number": "10",
             "project_number": "88",
@@ -5036,25 +5430,32 @@
                 "text": "<t>Aspect</t> story assets controlled by investigators at <name> do not ready during the upkeep phase.",
                 "flavor_text": "A gale of cherry blossoms circles a wilted sapling \nat the far end of the courtyard. A time-lost ancestor \nof the tree you saw in the forest, perhaps?",
                 "illustration": "./images/ramon-samagaio-pronto1.jpg",
-                "clues": "0<per>",
-                "shroud": "2<per>",
+                "clues": "0",
+                "shroud": "2",
                 "connection": "moon",
                 "connections": [
-                    "slashalt",
+                    "slash_alt",
                     "circle",
                     "hourglass",
-                    "circlealt"
+                    "circle_alt"
                 ],
-                "illustrator": "Illus. Ramon Samagaio"
+                "illustrator": "Illus. Ramon Samagaio",
+                "illustration_pan_x": -558.0,
+                "illustration_pan_y": -96.0,
+                "illustration_scale": 1.4
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/ramon-samagaio-pronto1.jpg",
                 "traits": "City. Central.",
                 "text": "",
                 "flavor_text": "The full moon aligns perfectly within the \nmassive archway looming over the courtyard, \nas if it was constructed for this very purpose.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -96.0,
+                "illustration_pan_x": -558.0,
+                "illustrator": "Illus. Ramon Samagaio",
+                "illustration_scale": 1.4
             },
             "encounter_number": "11",
             "project_number": "89",
@@ -5070,22 +5471,26 @@
                 "flavor_text": "Compared to the rest of the city, the palace appears to have suffered relatively little damage during the siege...",
                 "illustration": "./images/gao-zhingping-temple.jpg",
                 "clues": "1<per>",
-                "shroud": "5<per>",
-                "connection": "circlealt",
+                "shroud": "5",
+                "connection": "circle_alt",
                 "connections": [
                     "moon",
                     "cross"
                 ],
-                "illustrator": "Illus. Gao Zhingping"
+                "illustrator": "Illus. Gao Zhingping",
+                "illustration_pan_x": -803.0,
+                "illustration_pan_y": 237.0
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/gao-zhingping-temple.jpg",
                 "traits": "City. Fort.",
                 "text": "",
                 "flavor_text": "At the center of the city, \na large fortress stands resolute amidst the chaos.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 237.0,
+                "illustration_pan_x": -803.0
             },
             "encounter_number": "12",
             "project_number": "90",
@@ -5100,23 +5505,30 @@
                 "text": "<for> When an investigator would move from <name> to an unrevealed location: Test <willpower> (3). If you fail, cancel that movement <i>(still paying any costs)</i>.",
                 "flavor_text": "The circuitous highway seems specifically designed \nto confuse and disorient the uninitiated.",
                 "illustration": "./images/nick-melillo-shogunate-hero1.jpg",
-                "clues": "0<per>",
-                "shroud": "3<per>",
+                "clues": "0",
+                "shroud": "3",
                 "connection": "hourglass",
                 "connections": [
                     "moon",
                     "t"
                 ],
-                "illustrator": "Illus. Nick Melillo"
+                "illustrator": "Illus. Nick Melillo",
+                "illustration_pan_x": -287.0,
+                "illustration_pan_y": 194.0,
+                "illustration_scale": 1.154
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/nick-melillo-shogunate-hero1.jpg",
                 "traits": "City. Passageway.",
                 "text": "",
                 "flavor_text": "Lanterns alight the twisty corridor leading \ntoward the tower in the distance.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 194.0,
+                "illustration_pan_x": -287.0,
+                "illustrator": "Illus. Nick Melillo",
+                "illustration_scale": 1.154
             },
             "encounter_number": "13",
             "project_number": "91",
@@ -5132,22 +5544,29 @@
                 "flavor_text": "This secretive tavern served as a preferred location for clandestine liaisons, whether for business or pleasure.",
                 "illustration": "./images/jordi-navarrete-img-20211119-155925-971.jpg",
                 "clues": "1<per>",
-                "shroud": "4<per>",
+                "shroud": "4",
                 "connection": "t",
                 "connections": [
                     "hourglass",
                     "square"
                 ],
-                "illustrator": "Illus. Jordi Navarrete"
+                "illustrator": "Illus. Jordi Navarrete",
+                "illustration_pan_x": -11.0,
+                "illustration_pan_y": 175.0,
+                "illustration_scale": 0.856
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/jordi-navarrete-img-20211119-155925-971.jpg",
                 "traits": "City. Hideout.",
                 "text": "",
                 "flavor_text": "A quaint inn at the edge of the city \nremains occupied by ghostly patrons.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 175.0,
+                "illustration_pan_x": -11.0,
+                "illustrator": "Illus. Jordi Navarrete",
+                "illustration_scale": 0.856
             },
             "encounter_number": "14",
             "project_number": "92",
@@ -5164,21 +5583,28 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/isabella-karpinska-nightproject.jpg",
                 "clues": "1<per>",
-                "shroud": "5<per>",
+                "shroud": "5",
                 "connection": "square",
                 "connections": [
                     "t"
                 ],
-                "illustrator": "Illus. Isabella Karpinska"
+                "illustrator": "Illus. Isabella Karpinska",
+                "illustration_pan_x": -1049.0,
+                "illustration_pan_y": -109.0,
+                "illustration_scale": 1.4
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/isabella-karpinska-nightproject.jpg",
                 "traits": "City. Tower.",
                 "text": "",
                 "flavor_text": "This lavish tower once served as the seat of power \nfor the royal spymaster...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -109.0,
+                "illustration_pan_x": -1049.0,
+                "illustrator": "Illus. Isabella Karpinska",
+                "illustration_scale": 1.4
             },
             "encounter_number": "15",
             "project_number": "93",
@@ -5194,22 +5620,29 @@
                 "flavor_text": "Any relics or sacred icons that had once been housed here have long since been removed by looters.",
                 "illustration": "./images/daiki-tanaka-mansion.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
+                "shroud": "3",
                 "connection": "circle",
                 "connections": [
                     "moon",
                     "quote"
                 ],
-                "illustrator": "Illus. Daiki Tanaka"
+                "illustrator": "Illus. Daiki Tanaka",
+                "illustration_pan_x": -453.0,
+                "illustration_pan_y": 224.0,
+                "illustration_scale": 1.313
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/daiki-tanaka-mansion.jpg",
                 "traits": "City. Temple.",
                 "text": "",
                 "flavor_text": "The coppery stench of blood lingers in the air \nsurrounding this ancient place of worship.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 224.0,
+                "illustration_pan_x": -453.0,
+                "illustrator": "Illus. Daiki Tanaka",
+                "illustration_scale": 1.313
             },
             "encounter_number": "16",
             "project_number": "94",
@@ -5226,22 +5659,29 @@
                 "flavor_text": "The pact between the divine pantheon and \nthe royal family was sealed via an ancient inscription etched upon this weathered obelisk.",
                 "illustration": "./images/deanna-gow-4.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
+                "shroud": "3",
                 "connection": "quote",
                 "connections": [
                     "circle",
                     "clover"
                 ],
-                "illustrator": "Illus. Deanna Gow"
+                "illustrator": "Illus. Deanna Gow",
+                "illustration_pan_x": -288.0,
+                "illustration_pan_y": 196.0,
+                "illustration_scale": 1.111
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/deanna-gow-4.jpg",
                 "traits": "City. Ritual Site.",
                 "text": "",
                 "flavor_text": "A large, jagged stone behind the temple sits \nsurrounded by candles and offerings, \napparently indicating some sort of religious significance.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 196.0,
+                "illustration_pan_x": -288.0,
+                "illustrator": "Illus. Deanna Gow",
+                "illustration_scale": 1.111
             },
             "encounter_number": "17",
             "project_number": "95",
@@ -5258,21 +5698,28 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/emmanuel-bouley-ecran-illustration-finale-100-gauche.jpg",
                 "clues": "1<per>",
-                "shroud": "4<per>",
+                "shroud": "4",
                 "connection": "clover",
                 "connections": [
                     "quote"
                 ],
-                "illustrator": "Illus. Emmanuel Bouley"
+                "illustrator": "Illus. Emmanuel Bouley",
+                "illustration_pan_x": -13.0,
+                "illustration_pan_y": 185.0,
+                "illustration_scale": 1.181
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/emmanuel-bouley-ecran-illustration-finale-100-gauche.jpg",
                 "traits": "City. Graveyard.",
                 "text": "",
                 "flavor_text": "A field of grave markers protrudes \nfrom a rise of uneven earth behind the temple.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 185.0,
+                "illustration_pan_x": -13.0,
+                "illustrator": "Illus. Emmanuel Bouley",
+                "illustration_scale": 1.181
             },
             "encounter_number": "18",
             "project_number": "96",
@@ -5289,21 +5736,28 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/arkhipova-nadezda-highresscreenshot00012.jpg",
                 "clues": "2<per>",
-                "shroud": "3<per>",
+                "shroud": "3",
                 "connection": "cross",
                 "connections": [
-                    "circlealt"
+                    "circle_alt"
                 ],
-                "illustrator": "Illus. Arkhipova Nadezda"
+                "illustrator": "Illus. Arkhipova Nadezda",
+                "illustration_pan_x": -56.0,
+                "illustration_pan_y": 105.0,
+                "illustration_scale": 1.117
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/arkhipova-nadezda-highresscreenshot00012.jpg",
                 "traits": "City. Forbidden.",
                 "text": "The way is sealed. Investigators cannot enter <name>.",
                 "flavor_text": "A barrier of crimson runes hanging in the air \nrepels your attempts to enter the palace.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 105.0,
+                "illustration_pan_x": -56.0,
+                "illustrator": "Illus. Arkhipova Nadezda",
+                "illustration_scale": 1.117
             },
             "encounter_number": "19",
             "project_number": "97",
@@ -5311,7 +5765,7 @@
             "id": "085b2a4d-3edb-421f-81e9-49b24f67b0f9"
         },
         {
-            "name": "The Crimson Butterfly",
+            "name": "<unique>The Crimson Butterfly",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -5324,10 +5778,15 @@
                     "neutral"
                 ],
                 "illustration": "./images/2425da98c57c73dcea6e0bb3e1e951f9.jpg",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "level": "None",
+                "illustration_pan_x": -1465.0,
+                "illustration_pan_y": -3222.0,
+                "illustration_scale": 4.14,
+                "illustration_mirror": true
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "20",
             "project_number": "98",
@@ -5390,25 +5849,30 @@
                 "type": "agenda",
                 "flavor_text": "Flickering lights play tricks with the shadows as you navigate the palace's narrow corridors. Apart from the ghostly girl you encountered in the entryway, there are few signs of life inside the palace, but blackened hand prints stick to the walls like ash... Did anyone actually manage to ride out the siege from within these walls?",
                 "illustration": "./images/lisa-helmer-2.jpg",
-                "doom": "5<per>",
+                "doom": "5",
                 "index": "1a",
-                "illustrator": "Illus. Lisa Helmer"
+                "illustrator": "Illus. Lisa Helmer",
+                "illustration_pan_x": -908.0,
+                "illustration_pan_y": 8.0
             },
             "back": {
                 "type": "enemy",
                 "illustration": "./images/david-romero-hall-arms.jpg",
                 "illustrator": "Illus. David Romero",
-                "name": "The Offal Extremities",
+                "name": "<unique> The Offal Extremities",
                 "subtitle": "Diplomatic Outreach",
                 "traits": "Monster. Elite. Yokai.",
                 "text": "Massive. Hunter 1.\n<spawn> Dim Memorial.\n<fullnameb> cannot be defeated.\n<for> When any amount of damage would be placed on <fullnameb>: Remove 1 doom from it instead, or, if there is no doom on <fullnameb>, exhaust it.",
                 "flavor_text": "The royal ambassadors were always a real handful.",
                 "title": "<unique><name>",
-                "health": "-<per>",
+                "health": "?",
                 "combat": "4<per>",
-                "evade": "4<per>",
+                "evade": "4",
                 "damage": 2,
-                "horror": 1
+                "horror": 1,
+                "attack": "4",
+                "illustration_pan_x": -19.0,
+                "illustration_pan_y": 734.0
             },
             "encounter_number": "2",
             "project_number": "100",
@@ -5422,9 +5886,12 @@
                 "text": "<for> When the enemy phase begins: Place 1 doom on The Offal Extremities.",
                 "flavor_text": "A hideous, barrelling monstrosity has begun to stalk you through the halls of the palace, and suddenly the mysterious handprints covering every surface start to make a little more sense...",
                 "illustration": "./images/countinghouse.jpg",
-                "doom": "7<per>",
+                "doom": "7",
                 "index": "2a",
-                "illustrator": "Illus. Patschwork"
+                "illustrator": "Illus. Patschwork",
+                "illustration_pan_x": -140.0,
+                "illustration_pan_y": -80.0,
+                "illustration_scale": 2.877
             },
             "back": {
                 "type": "agenda_back",
@@ -5443,9 +5910,11 @@
                 "text": "The Offal Extremities gains Hunter 2. <i>(Multiple instances of the hunter keyword do not stack; use the highest value for X.)</i>\n<for>  When the enemy phase begins: Place 1 doom on The Offal Extremities.",
                 "flavor_text": "You can feel the creature is gaining confidence in its movements; where once it awkwardly fumbled for you in the dark, it now hunts you with a sense of purpose, almost like it has a taste for you...",
                 "illustration": "./images/Fhm2HO5agAAEc4Q.jpeg",
-                "doom": "12<per>",
+                "doom": "12",
                 "index": "3a",
-                "illustrator": "Illus. Gu Zheng Wei"
+                "illustrator": "Illus. Gu Zheng Wei",
+                "illustration_pan_x": -57.0,
+                "illustration_pan_y": -21.0
             },
             "back": {
                 "type": "agenda_back",
@@ -5466,7 +5935,9 @@
                 "illustration": "./images/alexander-baldwin-s-close-0000.jpg",
                 "clues": "5<per>",
                 "index": "1a",
-                "illustrator": "Illus. Alexander Baldwin"
+                "illustrator": "Illus. Alexander Baldwin",
+                "illustration_pan_x": 72.0,
+                "illustration_pan_y": -15.0
             },
             "back": {
                 "type": "act_back",
@@ -5485,9 +5956,12 @@
                 "text": "<obj> Explore the passageway under the palace.\n<i>(Do not advance this act until you are instructed.)</i>",
                 "flavor_text": "You begin to take notice of which floorboards creak and moan as you step on them, and when you stoop down to peer between the slats you can make out something moving below... There's definitely a sublevel underneath the palace; you just need to find a way to access it.",
                 "illustration": "./images/wes-fraser-wesfraser-workshopinteriorkeyshot.jpg",
-                "clues": "<dash><per>",
+                "clues": "?",
                 "index": "2a",
-                "illustrator": "Illus. Wes Fraser"
+                "illustrator": "Illus. Wes Fraser",
+                "illustration_pan_x": -228.0,
+                "illustration_pan_y": -262.0,
+                "illustration_scale": 0.83
             },
             "back": {
                 "type": "act_back",
@@ -5506,9 +5980,12 @@
                 "text": "<obj> <i>Escape the palace!</i>\nIf all surviving investigators are at Orphan's Gaze, you may advance.",
                 "flavor_text": "You hear the cracking of a wooden support beam collapsing in the entryway moments before a thick plume of black, acrid smoke stings your eyes. The palace is collapsing, probably due to the rapidly spreading fire, and now you can't get out the way you came in. You suspect---or maybe just hope---that Miyu was taken deeper into the palace, but every avenue you've explored only seems to lead to a dead end. There must be some other way out of here...",
                 "illustration": "./images/leo-pold-run1.jpg",
-                "clues": "<dash><per>",
+                "clues": "?",
                 "index": "3a",
-                "illustrator": "Illus. Zsolt Kosa"
+                "illustrator": "Illus. Zsolt Kosa",
+                "illustration_pan_x": -1166.0,
+                "illustration_pan_y": -404.0,
+                "illustration_scale": 1.208
             },
             "back": {
                 "type": "act_back",
@@ -5528,22 +6005,27 @@
                 "text": "<action> If there are no enemies in play and all locations in play are revealed: <b>Resign.</b> <i>This can't be real...</i>",
                 "flavor_text": "The girl is gone, but you swear you keep catching glimpses of her out of the corner of your eye...",
                 "illustration": "./images/adam-milicevic-tatari-2.jpg",
-                "clues": "0<per>",
-                "shroud": "2<per>",
+                "clues": "0",
+                "shroud": "2",
                 "connection": "triangle",
                 "connections": [
-                    "circlealt"
+                    "circle_alt"
                 ],
-                "illustrator": "Illus. Adam Milcevic"
+                "illustrator": "Illus. Adam Milcevic",
+                "illustration_pan_x": -80.0,
+                "illustration_pan_y": 215.0
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/adam-milicevic-tatari-2.jpg",
                 "traits": "Ground Floor. Central.",
                 "text": "",
                 "flavor_text": "The entrance is surprisingly cramped; \nit resembles an apartment more than a palace.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustrator": "Illus. Adam Milcevic",
+                "illustration_pan_y": 215.0,
+                "illustration_pan_x": -80.0
             },
             "encounter_number": "8",
             "project_number": "106",
@@ -5559,14 +6041,16 @@
                 "flavor_text": "A candlelit memorial honors the memory \nof former paragons of Onigawa.",
                 "illustration": "./images/dco2xno-8a905c38-81ca-4368-9cff-8e8aedb4bb2b.jpg",
                 "clues": "1<per>",
-                "shroud": "2<per>",
-                "connection": "circlealt",
+                "shroud": "2",
+                "connection": "circle_alt",
                 "connections": [
                     "clover",
                     "triangle",
                     "t"
                 ],
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 85.0
             },
             "back": {
                 "type": "location_back",
@@ -5577,7 +6061,10 @@
                 "text": "",
                 "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_x": -1046.0,
+                "illustration_pan_y": -60.0,
+                "illustration_scale": 1.4
             },
             "encounter_number": "9",
             "project_number": "107",
@@ -5592,14 +6079,17 @@
                 "text": "<action>: <i>Tea ceremony?</i> Test <willpower> (3). If you succeed, each investigator at <name> may heal 1 horror. <i>(Group limit one success per game.)</i>",
                 "flavor_text": "The teapot on the table in the small \nreception area is still warm...",
                 "illustration": "./images/ness-hughes-night-time-scene-final.jpg",
-                "clues": "0<per>",
-                "shroud": "3<per>",
+                "clues": "0",
+                "shroud": "3",
                 "connection": "clover",
                 "connections": [
                     "hourglass",
-                    "circlealt"
+                    "circle_alt"
                 ],
-                "illustrator": "Illus. Ness Hughes"
+                "illustrator": "Illus. Ness Hughes",
+                "illustration_pan_x": -394.0,
+                "illustration_pan_y": 102.0,
+                "illustration_scale": 1.2
             },
             "back": {
                 "type": "location_back",
@@ -5610,7 +6100,10 @@
                 "text": "",
                 "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -60.0,
+                "illustration_pan_x": -1046.0,
+                "illustration_scale": 1.4
             },
             "encounter_number": "10",
             "project_number": "108",
@@ -5625,14 +6118,17 @@
                 "text": "<reaction> After you discover the last clue from <name>: Draw a card. <i>(Limit once per game.)</i>",
                 "flavor_text": " Nearly all of the paper talismans on the wall \nare burned beyond legibility...",
                 "illustration": "./images/anais-de-smet-highresscreenshot00008.jpg",
-                "clues": "2<per>",
-                "shroud": "5<per>",
+                "clues": "2",
+                "shroud": "5",
                 "connection": "t",
                 "connections": [
-                    "circlealt",
+                    "circle_alt",
                     "circle"
                 ],
-                "illustrator": "Illus. Anais de Smet"
+                "illustrator": "Illus. Anais de Smet",
+                "illustration_pan_x": -569.0,
+                "illustration_pan_y": 94.0,
+                "illustration_scale": 1.446
             },
             "back": {
                 "type": "location_back",
@@ -5643,7 +6139,13 @@
                 "text": "",
                 "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": [
+                    "circle_alt",
+                    "circle"
+                ],
+                "illustration_pan_y": -60.0,
+                "illustration_pan_x": -1046.0,
+                "illustration_scale": 1.4
             },
             "encounter_number": "11",
             "project_number": "109",
@@ -5658,15 +6160,18 @@
                 "text": "<hau> Discard the top card of your deck. If it is a weakness, draw it. <i>(Trigger this location's haunted effect whenever you fail a skill test while investigating <name>.)</i>",
                 "flavor_text": "The royal servants were confined to a small dormitory on the far side of the palace; out of sight, out of mind.",
                 "illustration": "./images/thomas-zacari-0019.jpg",
-                "clues": "1<per>",
-                "shroud": "2<per>",
+                "clues": "1",
+                "shroud": "2",
                 "connection": "hourglass",
                 "connections": [
-                    "doubleslash",
+                    "double_slash",
                     "clover",
                     "quote"
                 ],
-                "illustrator": "Illus. Tommaso Raso"
+                "illustrator": "Illus. Tommaso Raso",
+                "illustration_pan_x": -880.0,
+                "illustration_pan_y": -766.0,
+                "illustration_scale": 2.057
             },
             "back": {
                 "type": "location_back",
@@ -5677,7 +6182,14 @@
                 "text": "",
                 "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": [
+                    "double_slash",
+                    "clover",
+                    "quote"
+                ],
+                "illustration_pan_y": -60.0,
+                "illustration_pan_x": -1046.0,
+                "illustration_scale": 1.4
             },
             "encounter_number": "12",
             "project_number": "110",
@@ -5695,12 +6207,14 @@
                 "victory": " Victory 1.",
                 "illustration": "./images/pat-suchatsirikul-1.jpg",
                 "clues": "1<per>",
-                "shroud": "4<per>",
-                "connection": "doubleslash",
+                "shroud": "4",
+                "connection": "double_slash",
                 "connections": [
                     "hourglass"
                 ],
-                "illustrator": "Illus. Pat Suchatsirikul"
+                "illustrator": "Illus. Pat Suchatsirikul",
+                "illustration_pan_x": -78.0,
+                "illustration_pan_y": 198.0
             },
             "back": {
                 "type": "location_back",
@@ -5711,7 +6225,10 @@
                 "text": "",
                 "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -60.0,
+                "illustration_pan_x": -1046.0,
+                "illustration_scale": 1.4
             },
             "encounter_number": "13",
             "project_number": "111",
@@ -5727,14 +6244,17 @@
                 "flavor_text": "An overhead lantern sways in an unfelt breeze \nas shadows dance around the edges of the junction...",
                 "illustration": "./images/adam-milicevic-tatari-1.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
+                "shroud": "3",
                 "connection": "circle",
                 "connections": [
                     "diamond",
                     "t",
                     "moon"
                 ],
-                "illustrator": "Illus. Adam Milcevic"
+                "illustrator": "Illus. Adam Milcevic",
+                "illustration_pan_x": -903.0,
+                "illustration_pan_y": -314.0,
+                "illustration_scale": 1.122
             },
             "back": {
                 "type": "location_back",
@@ -5745,7 +6265,10 @@
                 "text": "",
                 "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -60.0,
+                "illustration_pan_x": -1046.0,
+                "illustration_scale": 1.4
             },
             "encounter_number": "14",
             "project_number": "112",
@@ -5763,12 +6286,15 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/alyssa-helferty-untitled-artwork-11.jpg",
                 "clues": "1<per>",
-                "shroud": "5<per>",
+                "shroud": "5",
                 "connection": "moon",
                 "connections": [
                     "circle"
                 ],
-                "illustrator": "Illus. Alyssa Helferty"
+                "illustrator": "Illus. Alyssa Helferty",
+                "illustration_pan_x": -1202.0,
+                "illustration_pan_y": -167.0,
+                "illustration_scale": 0.803
             },
             "back": {
                 "type": "location_back",
@@ -5779,7 +6305,10 @@
                 "text": "",
                 "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -60.0,
+                "illustration_pan_x": -1046.0,
+                "illustration_scale": 1.4
             },
             "encounter_number": "15",
             "project_number": "113",
@@ -5796,13 +6325,15 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/josh-durham-fantasy-interior-3.jpg",
                 "clues": "1<per>",
-                "shroud": "4<per>",
+                "shroud": "4",
                 "connection": "quote",
                 "connections": [
                     "hourglass",
-                    "heartalt"
+                    "heart"
                 ],
-                "illustrator": "Illus. Josh Durham"
+                "illustrator": "Illus. Josh Durham",
+                "illustration_pan_x": -784.0,
+                "illustration_pan_y": 232.0
             },
             "back": {
                 "type": "location_back",
@@ -5813,7 +6344,13 @@
                 "text": "",
                 "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": [
+                    "hourglass",
+                    "heart"
+                ],
+                "illustration_pan_y": -60.0,
+                "illustration_pan_x": -1046.0,
+                "illustration_scale": 1.4
             },
             "encounter_number": "16",
             "project_number": "114",
@@ -5830,15 +6367,18 @@
                 "victory": " Victory 1.",
                 "illustration": "./images/anais-de-smet-highresscreenshot00003.jpg",
                 "clues": "1<per>",
-                "shroud": "4<per>",
-                "connection": "heartalt",
+                "shroud": "4",
+                "connection": "heart",
                 "connections": [
                     "quote",
                     "star",
                     "square",
                     "diamond"
                 ],
-                "illustrator": "Illus. Anais De Smet"
+                "illustrator": "Illus. Anais De Smet",
+                "illustration_pan_x": -956.0,
+                "illustration_pan_y": -207.0,
+                "illustration_scale": 1.968
             },
             "back": {
                 "type": "location_back",
@@ -5849,7 +6389,10 @@
                 "text": "",
                 "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -60.0,
+                "illustration_pan_x": -1046.0,
+                "illustration_scale": 1.4
             },
             "encounter_number": "17",
             "project_number": "115",
@@ -5865,13 +6408,15 @@
                 "flavor_text": "The flickering candlelight casts long shadows \nacross the cramped bedchamber.",
                 "illustration": "./images/dcnrk9n-5b98d6c3-b8cd-4946-ab3c-8f89d00eec29.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
+                "shroud": "3",
                 "connection": "diamond",
                 "connections": [
-                    "heartalt",
+                    "heart",
                     "circle"
                 ],
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_x": -8.0,
+                "illustration_pan_y": -344.0
             },
             "back": {
                 "type": "location_back",
@@ -5882,7 +6427,13 @@
                 "text": "",
                 "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": [
+                    "heart",
+                    "circle"
+                ],
+                "illustration_pan_y": -60.0,
+                "illustration_pan_x": -1046.0,
+                "illustration_scale": 1.4
             },
             "encounter_number": "18",
             "project_number": "116",
@@ -5897,13 +6448,16 @@
                 "text": "<for> When <name> is revealed: Add 1<per> <curse> tokens to the chaos bag. If you cannot, place 1 doom on the current agenda, instead.",
                 "flavor_text": "An unsettling sculpture of a young girl's face in the \nrecessed wall stares through you with its empty eyes...",
                 "illustration": "./images/asim-a-steckel-rengoku-prop-curator-door-2-asimsteckel.jpg",
-                "clues": "0<per>",
-                "shroud": "5<per>",
+                "clues": "0",
+                "shroud": "5",
                 "connection": "star",
                 "connections": [
-                    "heartalt"
+                    "heart"
                 ],
-                "illustrator": "Illus. Asim Steckel"
+                "illustrator": "Illus. Asim Steckel",
+                "illustration_pan_x": -929.0,
+                "illustration_pan_y": -391.0,
+                "illustration_scale": 2.334
             },
             "back": {
                 "type": "location_back",
@@ -5914,7 +6468,10 @@
                 "text": "",
                 "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -60.0,
+                "illustration_pan_x": -1046.0,
+                "illustration_scale": 1.4
             },
             "encounter_number": "19",
             "project_number": "117",
@@ -5931,12 +6488,15 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/occoultya-artstatverblood.jpg",
                 "clues": "1<per>",
-                "shroud": "4<per>",
+                "shroud": "4",
                 "connection": "square",
                 "connections": [
-                    "circlealt"
+                    "circle_alt"
                 ],
-                "illustrator": "Illus. David Skalesky"
+                "illustrator": "Illus. David Skalesky",
+                "illustration_pan_x": -100.0,
+                "illustration_pan_y": -367.0,
+                "illustration_scale": 0.925
             },
             "back": {
                 "type": "location_back",
@@ -5948,8 +6508,11 @@
                 "flavor_text": "A pool of blood disappears \nbeneath the uneven floorboards...",
                 "connection": "<copy>",
                 "connections": [
-                    "heartalt"
-                ]
+                    "circle_alt"
+                ],
+                "illustration_pan_x": -510.0,
+                "illustration_pan_y": 208.0,
+                "illustration_scale": 1.556
             },
             "encounter_number": "20",
             "project_number": "118",
@@ -5964,7 +6527,10 @@
                 "text": "<rev> Test <willpower> (3). If you fail, you must discard a non-weakness asset from your hand or play area. If you cannot, take 2 damage instead.",
                 "flavor_text": "A spectral handmaiden shrieks as the monster lurking in her hair begins to feast on rotten sundries...\nand anything else within reach.",
                 "illustration": "./images/nariyuki-shimamoto-futakuchinew2-666.jpg",
-                "illustrator": "Illus. Nariyuki Shimamoto"
+                "illustrator": "Illus. Nariyuki Shimamoto",
+                "illustration_pan_x": -20.0,
+                "illustration_pan_y": 7.0,
+                "illustration_scale": 0.856
             },
             "back": {
                 "type": "encounter"
@@ -5982,7 +6548,9 @@
                 "text": "<rev> Test <agility> (3). If you fail, attach <name> to the nearest location without a copy of <name> attached. Limit 1 per location.\n<for> When the investigation phase begins: Each enemy and each investigator at the attached location takes 1 damage.",
                 "flavor_text": "Hungry flames begin leaping from torches and lanterns, racing up into the rafters of the palace...",
                 "illustration": "./images/fire.png",
-                "illustrator": "Illus. Mario Wibisono"
+                "illustrator": "Illus. Mario Wibisono",
+                "illustration_pan_x": -22.0,
+                "illustration_pan_y": 6.0
             },
             "back": {
                 "type": "encounter"
@@ -6000,7 +6568,10 @@
                 "text": "<rev> Add 1 <curse> token to the chaos bag, if able, and then test <willpower> (3). If you fail, take 1 horror. When this test ends, return any <curse> tokens revealed during this test to the chaos bag instead of returning them to the token pool.",
                 "flavor_text": "The shrill chords of a haunting melody grow and diminish in volume as you move from room to room...",
                 "illustration": "./images/melanie-rohmer-illus-shamisen.jpg",
-                "illustrator": "Illus. Melanie Rohmer"
+                "illustrator": "Illus. Melanie Rohmer",
+                "illustration_pan_x": 115.0,
+                "illustration_pan_y": -12.0,
+                "illustration_scale": 1.511
             },
             "back": {
                 "type": "encounter"
@@ -6023,7 +6594,11 @@
                 "horror": 1,
                 "flavor_text": "The royal consorts often abstained from meals in order \nto maintain their figure, but the ghastly maw \nnow concealed beneath their raven locks does \nnot share their \"dietary restrictions.\"",
                 "illustration": "./images/futakuchi-onna.jpg",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "attack": "3",
+                "illustration_pan_x": 3.0,
+                "illustration_pan_y": 848.0,
+                "illustration_scale": 2.055
             },
             "back": {
                 "type": "encounter"
@@ -6046,7 +6621,11 @@
                 "horror": 1,
                 "flavor_text": "Telling ghost stories was forbidden inside the royal palace for fear it would summon the \"aoandon,\" trickster spirits that would snuff out light sources and attack unsuspecting victims in the darkness.",
                 "illustration": "./images/ao.png",
-                "illustrator": "Illus. Infraberry"
+                "illustrator": "Illus. Infraberry",
+                "attack": "3",
+                "illustration_pan_x": 10.0,
+                "illustration_pan_y": 941.0,
+                "illustration_scale": 2.74
             },
             "back": {
                 "type": "encounter"
@@ -6069,7 +6648,10 @@
                 "horror": 0,
                 "flavor_text": "Reports of various tools and other everyday objects coming to life and \"attacking\" the commoners were often treated by the court mystics with skepticism...",
                 "illustration": "./images/jakub-bachna-tojiro.jpg",
-                "illustrator": "Illus. Jakub Bachna"
+                "illustrator": "Illus. Jakub Bachna",
+                "attack": "3",
+                "illustration_pan_x": 9.0,
+                "illustration_pan_y": 878.0
             },
             "back": {
                 "type": "encounter"
@@ -6080,7 +6662,7 @@
             "id": "d0487fac-52e0-434e-b597-d74200caa5f9"
         },
         {
-            "name": "Bloodstained Almanac",
+            "name": "<unique>Bloodstained Almanac",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -6095,10 +6677,17 @@
                 ],
                 "icons": "IQ",
                 "illustration": "./images/tiago-fernandes-20180420-map.jpg",
-                "illustrator": "Illus. Tiago Fernandes"
+                "illustrator": "Illus. Tiago Fernandes",
+                "level": "None",
+                "slots": [
+                    "hand"
+                ],
+                "illustration_pan_x": -53.0,
+                "illustration_pan_y": 260.0,
+                "illustration_scale": 0.875
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "41",
             "project_number": "139",
@@ -6106,7 +6695,7 @@
             "id": "2fb9d966-6663-4db5-a034-59d89113c505"
         },
         {
-            "name": "Camera Obscura",
+            "name": "<unique>Camera Obscura",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -6121,10 +6710,17 @@
                 ],
                 "icons": "QQ",
                 "illustration": "./images/kurokosyou-.jpg",
-                "illustrator": "Illus. Kurokosyou"
+                "illustrator": "Illus. Kurokosyou",
+                "level": "None",
+                "illustration_pan_x": 29.0,
+                "illustration_pan_y": -179.0,
+                "illustration_scale": 1.015,
+                "slots": [
+                    "hand"
+                ]
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "42",
             "project_number": "140",
@@ -8222,7 +8818,10 @@
                 "horror": 0,
                 "flavor_text": "It is said that crows carry the souls of the departed to the land of the dead. Some also believe that when that soul harbors terrible sorrow, a crow may also bring that soul back to put wrong things right.",
                 "illustration": "./images/maciej-laszkiewicz-crow-token1.jpg",
-                "illustrator": "Illus. Maciej Laszkiewicz"
+                "illustrator": "Illus. Maciej Laszkiewicz",
+                "attack": "2",
+                "illustration_pan_x": -10.0,
+                "illustration_pan_y": 886.0
             },
             "back": {
                 "type": "encounter"
@@ -8240,7 +8839,10 @@
                 "text": "<rev> Put <name> into play in your threat area.\nYou cannot play assets or perform move actions. \n<action>: Test <combat> (3). You get +1 <combat> skill value for each time this ability has been activated this round. If you succeed, discard <name>.",
                 "flavor_text": "Nothing good can grow here.",
                 "illustration": "./images/hongqi-zhang-the-forest.jpg",
-                "illustrator": "Illus. Hongqi Zhang"
+                "illustrator": "Illus. Hongqi Zhang",
+                "illustration_pan_x": -183.0,
+                "illustration_pan_y": -16.0,
+                "illustration_scale": 1.073
             },
             "back": {
                 "type": "encounter"
@@ -8258,7 +8860,10 @@
                 "text": "<rev> You must either lose 2 resources or take 1 damage. If you control an exhausted <t>Aspect</t> story asset, <name> gains surge.",
                 "flavor_text": "Their shrines aren't the only things that have fallen.",
                 "illustration": "./images/jonas-ellermann-1.jpg",
-                "illustrator": "Illus. Jonas Ellermann"
+                "illustrator": "Illus. Jonas Ellermann",
+                "illustration_pan_x": -437.0,
+                "illustration_pan_y": -6.0,
+                "illustration_scale": 1.178
             },
             "back": {
                 "type": "encounter"
@@ -8276,7 +8881,10 @@
                 "text": "<rev> Attach <name> to the nearest location without a copy of Fungal Growth attached. Limit 1 per location.\n<for> At the end of the investigation phase: Each investigator at the attached location takes 1 damage.",
                 "flavor_text": "The nauseating stench of rot nourishing the ground \nbeneath your feet hangs heavily in the air.",
                 "illustration": "./images/kumaran-handy-dioeye-toxic-forest-from-nausicaa-and-the-valley-of-the-wind-mo-0e531570-c355-43dd-8dc2-d0537e3811e6.jpg",
-                "illustrator": "Illus. Kumaran Handy"
+                "illustrator": "Illus. Kumaran Handy",
+                "illustration_pan_x": 139.0,
+                "illustration_pan_y": -98.0,
+                "illustration_scale": 0.688
             },
             "back": {
                 "type": "encounter"
@@ -8294,7 +8902,10 @@
                 "text": "<rev> Discard a random non-weakness asset or event card from your hand. Then, test <willpower> (X), where X is the printed resource cost of the discarded card. If you fail or no card is discarded in this way, you cannot perform move actions until the end of the round. ",
                 "flavor_text": "Suspended from a tree branch, the cold body of a young child sways gently in the breeze. She is fourteen forever.",
                 "illustration": "./images/michael-macrae-3-so-you-have-come-to-visit-me-by-themichaelmacrae-d84j16p.jpg",
-                "illustrator": "Illus. Michael MacRaw"
+                "illustrator": "Illus. Michael MacRaw",
+                "illustration_pan_x": 102.0,
+                "illustration_pan_y": -201.0,
+                "illustration_scale": 0.734
             },
             "back": {
                 "type": "encounter"
@@ -8312,7 +8923,10 @@
                 "text": "<rev> Test <agility> (X), where X is the shroud value of your current location. If you fail, you must take 1 horror and move to a revealed connecting location.",
                 "flavor_text": "Large, glowing eyes leer at you through the thicket... and you're not sticking around to find out \nto whom they belong.",
                 "illustration": "./images/chuy-de-leon-witch-07-b-artstation.jpg",
-                "illustrator": "Illus. Chuy De Leon"
+                "illustrator": "Illus. Chuy De Leon",
+                "illustration_pan_x": -344.0,
+                "illustration_pan_y": -12.0,
+                "illustration_scale": 1.459
             },
             "back": {
                 "type": "encounter"
@@ -8330,7 +8944,10 @@
                 "text": "<rev> Put <name> into play in your threat area.\nTreat assets in your play area that take up an ally slot as though their text boxes were blank (except for traits). \n<reaction> At the end of the round: Discard <name>.",
                 "flavor_text": "Something doesn't sound right...",
                 "illustration": "./images/ivana-besevic-img-20200417-122609-670.jpg",
-                "illustrator": "Illus. Ivana Besevic"
+                "illustrator": "Illus. Ivana Besevic",
+                "illustration_pan_x": 94.0,
+                "illustration_pan_y": -200.0,
+                "illustration_scale": 2.255
             },
             "back": {
                 "type": "encounter"
@@ -8371,7 +8988,11 @@
                 "horror": 1,
                 "flavor_text": "A razor's edge separates life and death.",
                 "illustration": "./images/daniel-mallada-rodriguez-samuraighost.jpg",
-                "illustrator": "Illus. Daniel Mallada Rodriguez"
+                "illustrator": "Illus. Daniel Mallada Rodriguez",
+                "illustration_pan_x": -939.0,
+                "illustration_pan_y": -252.0,
+                "illustration_scale": 2.609,
+                "attack": "3"
             },
             "back": {
                 "type": "encounter"
@@ -8389,7 +9010,10 @@
                 "text": "<rev> The investigators suffer no ill effects. Remove <name> from the game.",
                 "flavor_text": "You pull up a bucket...and find nothing inside \nbut foul, brackish water.",
                 "illustration": "./images/pickman1864587212533565320.png",
-                "illustrator": "Illus. Roberto Catarinicchia"
+                "illustrator": "Illus. Roberto Catarinicchia",
+                "illustration_pan_x": -446.0,
+                "illustration_pan_y": -595.0,
+                "illustration_scale": 1.739
             },
             "back": {
                 "type": "encounter"
@@ -8407,7 +9031,10 @@
                 "text": "<rev> Any one investigator may add the set-aside Shishio's Guile <i>(Guise of the Baleful Retainer)</i> to their deck and immediately put it into play <i>(without paying its resource cost).</i> This does not count toward their deck limit. Remove <name> from the game.",
                 "flavor_text": "You pull up a bucket...and find a soggy piece of traditional headdress submerged within.",
                 "illustration": "./images/mask-extend.png",
-                "illustrator": "Illus. Disse86"
+                "illustrator": "Illus. Disse86",
+                "illustration_pan_x": 125.0,
+                "illustration_pan_y": -24.0,
+                "illustration_scale": 3.719
             },
             "back": {
                 "type": "encounter"
@@ -8445,21 +9072,28 @@
                 "flavor_text": "The mountain in the distance---which you believe \nthe villagers refer to as \"Mount Kokoro\"---reflects \nthe light of the moon like a warning beacon...",
                 "illustration": "./images/william-stocks-l-japanesehouse-master-0075.jpg",
                 "clues": "1<per>",
-                "shroud": "2<per>",
-                "connection": "squarealt",
+                "shroud": "2",
+                "connection": "square_alt",
                 "connections": [
-                    "moonalt"
+                    "moon"
                 ],
-                "illustrator": "Illus. Paul Carstens"
+                "illustrator": "Illus. Paul Carstens",
+                "illustration_pan_x": -280.0,
+                "illustration_pan_y": 193.0,
+                "illustration_scale": 0.87
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/william-stocks-l-japanesehouse-master-0075.jpg",
                 "traits": "Central. Ground Floor.",
                 "text": "",
                 "flavor_text": "An eerie quiet muffles your footsteps \nas you step inside the manor...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 193.0,
+                "illustration_pan_x": -280.0,
+                "illustration_scale": 0.87,
+                "illustrator": "Illus. Paul Carstens"
             },
             "encounter_number": "1",
             "project_number": "293",
@@ -8475,22 +9109,29 @@
                 "flavor_text": "A cherry blossom tree watches over \nthe small meditation pool.",
                 "illustration": "./images/michael-hyman-frame000527.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
-                "connection": "moonalt",
+                "shroud": "3",
+                "connection": "moon",
                 "connections": [
-                    "squarealt",
-                    "circlealt"
+                    "square_alt",
+                    "circle_alt"
                 ],
-                "illustrator": "Illus. Michael Hyman"
+                "illustrator": "Illus. Michael Hyman",
+                "illustration_pan_x": -489.0,
+                "illustration_pan_y": -105.0,
+                "illustration_scale": 1.4
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/michael-hyman-frame000527.jpg",
                 "traits": "Ground Floor.",
                 "text": "Investigators may not move to <name> from a location with clues on it.",
                 "flavor_text": "The manor wraps around an open air garden, \ncomplete with an artificial water feature...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -105.0,
+                "illustration_pan_x": -489.0,
+                "illustrator": "Illus. Michael Hyman",
+                "illustration_scale": 1.4
             },
             "encounter_number": "2",
             "project_number": "294",
@@ -8506,22 +9147,29 @@
                 "flavor_text": "The thin, filthy mats on the floor \ndon't look particularly comfortable...",
                 "illustration": "./images/michael-hyman-c8eb3b-62454f1d65454da686d84d9854914f49.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
-                "connection": "circlealt",
+                "shroud": "3",
+                "connection": "circle_alt",
                 "connections": [
-                    "moonalt",
-                    "crossalt"
+                    "moon",
+                    "cross_alt"
                 ],
-                "illustrator": "Illus. Michael Hyman"
+                "illustrator": "Illus. Michael Hyman",
+                "illustration_pan_x": -560.0,
+                "illustration_pan_y": -469.0,
+                "illustration_scale": 1.763
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/michael-hyman-c8eb3b-62454f1d65454da686d84d9854914f49.jpg",
                 "traits": "Ground Floor.",
                 "text": "Investigators may not move to <name> from a location with clues on it.",
                 "flavor_text": "A fine layer of dust glazes everything dwelling \nwithin the manor's sleeping quarters.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -469.0,
+                "illustration_pan_x": -530.0,
+                "illustration_scale": 1.763,
+                "illustrator": "Illus. Michael Hyman"
             },
             "encounter_number": "3",
             "project_number": "295",
@@ -8538,21 +9186,28 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/nick-melillo-shogunate-hero2.jpg",
                 "clues": "2<per>",
-                "shroud": "4<per>",
-                "connection": "crossalt",
+                "shroud": "4",
+                "connection": "cross_alt",
                 "connections": [
-                    "circlealt"
+                    "circle_alt"
                 ],
-                "illustrator": "Illus. Nick Melillo"
+                "illustrator": "Illus. Nick Melillo",
+                "illustration_pan_x": -352.0,
+                "illustration_pan_y": 191.0,
+                "illustration_scale": 1.154
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/nick-melillo-shogunate-hero2.jpg",
                 "traits": "Ground Floor.",
                 "text": "Investigators may not move to <name> from a location with clues on it.",
                 "flavor_text": "The splash of fresh arterial spray on the door \nsuggests the training room was used recently...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 191.0,
+                "illustration_pan_x": -352.0,
+                "illustrator": "Illus. Nick Melillo",
+                "illustration_scale": 1.154
             },
             "encounter_number": "4",
             "project_number": "296",
@@ -8560,13 +9215,13 @@
             "id": "6feef1df-736e-4981-ac70-4d71ff9023b5"
         },
         {
-            "name": "Mayu Tachibana",
+            "name": "<unique> Mayu Tachibana",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
                 "subtitle": "A Missing Twin?",
                 "traits": "Ally. Bystander.",
-                "text": "<for> When <name> is defeated:(<res>1</res>)",
+                "text": "<for> When Mayu Tachibana is defeated:(<res>1</res>)",
                 "cost": "<dash>",
                 "health": "4",
                 "sanity": "<dash>",
@@ -8575,10 +9230,11 @@
                     "neutral"
                 ],
                 "illustration": "./images/mayutachibana-4x.jpg",
-                "illustrator": "Illus. Tecmo"
+                "illustrator": "Illus. Tecmo",
+                "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "5",
             "project_number": "297",
@@ -8586,7 +9242,7 @@
             "id": "fcc0a495-98e9-43c9-819f-57c6eb45a236"
         },
         {
-            "name": "The Pale Bride",
+            "name": "<unique>The Pale Bride",
             "front": {
                 "type": "enemy",
                 "title": "<unique><name>",
@@ -8601,7 +9257,11 @@
                 "flavor_text": "She'll love you to death.",
                 "victory": "Victory 1.",
                 "illustration": "./images/palemistress.png",
-                "illustrator": "Illus. Tecmo"
+                "illustrator": "Illus. Tecmo",
+                "attack": "4",
+                "illustration_pan_x": -164.0,
+                "illustration_pan_y": 1144.0,
+                "illustration_scale": 2.069
             },
             "back": {
                 "type": "encounter"
@@ -8624,7 +9284,11 @@
                 "horror": 0,
                 "flavor_text": "Ivory ash peels from the creature's limbs \nas it moves, revealing charred skin concealed \nbeneath the alabaster foundation.",
                 "illustration": "./images/usfr-larynsson-20210604w1.jpg",
-                "illustrator": "Illus. UsFR Larynsson"
+                "illustrator": "Illus. UsFR Larynsson",
+                "attack": "3",
+                "illustration_pan_x": -80.0,
+                "illustration_pan_y": 1006.0,
+                "illustration_scale": 0.925
             },
             "back": {
                 "type": "encounter"
@@ -8642,7 +9306,10 @@
                 "text": "<rev> Put <name> into play in your threat area. Then, if there are 3 or more copies of Celestial Cascade in your threat area, you are defeated and suffer a mental trauma. \nEnemies in your threat area get +1 fight and +1 evade.\n<action> Exhaust an <t>Aspect</t> story asset you control: Discard all copies of <name> from your threat area. ",
                 "flavor_text": "The moon's intensity hampers your aspect's abilities...\nand empowers the restless spirits.",
                 "illustration": "./images/ismail-inceoglu-fullmoon.jpg",
-                "illustrator": "Illus. Ismail Inceoglu"
+                "illustrator": "Illus. Ismail Inceoglu",
+                "illustration_pan_x": -682.0,
+                "illustration_pan_y": 7.0,
+                "illustration_scale": 1.049
             },
             "back": {
                 "type": "encounter"
@@ -8660,7 +9327,9 @@
                 "text": "<rev> Discard the top 3 cards of your deck. If any weaknesses are discarded in this way, draw them.",
                 "flavor_text": "You must be imagining things, but \nevery time you turn your back, the moon seems \nto hang lower and larger in the sky...",
                 "illustration": "./images/broken-sigil-4th-try.jpg",
-                "illustrator": "Illus. Broken Sigil"
+                "illustrator": "Illus. Broken Sigil",
+                "illustration_pan_x": -293.0,
+                "illustration_pan_y": -7.0
             },
             "back": {
                 "type": "encounter"
@@ -8678,7 +9347,10 @@
                 "text": "<rev> Put <name> into play in your threat area. \n<for> When your turn ends: Take 1 damage.\n<action>: Test <combat> or <agility> (3). If you succeed, discard <name>. This test's difficulty is reduced by 1 for each time this ability has been activated this round.",
                 "flavor_text": "You watch a bubble float up from beneath the water's surface and are suddenly overcome with the sensation of drowning...",
                 "illustration": "./images/c6cbb7d8f3dacba76a83f8b83e1d1f2e.jpg",
-                "illustrator": "Illus. ookidraws"
+                "illustrator": "Illus. ookidraws",
+                "illustration_pan_x": 61.0,
+                "illustration_pan_y": -17.0,
+                "illustration_scale": 1.703
             },
             "back": {
                 "type": "encounter"
@@ -8696,7 +9368,9 @@
                 "text": "<rev> Put <name> into play in your threat area.\n<for> After you fail a skill test: Flip a clue at your location to its doom side. If there are no clues at your location, place 1 clue on your location <i>(from the token pool)</i> instead.\n<reaction> At the end of your turn: Discard Eternal Blue.",
                 "flavor_text": "The porcelain skin of the ghostly children gliding through the murky waters all around you shimmers under the pale moonlight...",
                 "illustration": "./images/d4rot50-7e337be1-3e75-416e-9c28-84e05188f943.jpg",
-                "illustrator": "Illus. Sean Soong"
+                "illustrator": "Illus. Sean Soong",
+                "illustration_pan_x": -942.0,
+                "illustration_pan_y": 0.0
             },
             "back": {
                 "type": "encounter"
@@ -8707,7 +9381,7 @@
             "id": "a97d3635-b835-4c17-8ccb-79d7bc4dbcc8"
         },
         {
-            "name": "Kappa",
+            "name": "<unique>Kappa",
             "front": {
                 "type": "enemy",
                 "title": "<unique><name>",
@@ -8722,7 +9396,8 @@
                 "flavor_text": "In the water, there is no escape for anyone who crosses a Kappa. On land, however, it is possible to outwit one; the honorable yokai will feel obliged to return a bow, and so can be tricked into spilling the precious water contained in the dish it carries.",
                 "victory": "Victory 1.",
                 "illustration": "./images/andrew-gibbons-kappa-900-andrew-gibbons-n.jpg",
-                "illustrator": "Illus. Andrew Gibbons"
+                "illustrator": "Illus. Andrew Gibbons",
+                "attack": "2"
             },
             "back": {
                 "type": "encounter"
@@ -8745,7 +9420,10 @@
                 "horror": 1,
                 "flavor_text": "Many of the bloated bodies found in the water were once fisherman who threw themselves overboard in the hopes of hearing the siren's muted serenade more clearly.",
                 "illustration": "./images/db1jpsy-c006b3ef-0f27-4c71-bb45-c9397357cb51.jpg",
-                "illustrator": "Illus. Ysvyri"
+                "illustrator": "Illus. Ysvyri",
+                "attack": "2",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 797.0
             },
             "back": {
                 "type": "encounter"
@@ -8756,7 +9434,7 @@
             "id": "8f1d784e-98ec-44df-9bec-80041d89eff0"
         },
         {
-            "name": "Buwaya",
+            "name": "<unique>Buwaya",
             "front": {
                 "type": "enemy",
                 "title": "<unique><name>",
@@ -8771,7 +9449,11 @@
                 "flavor_text": "It is said that the Buwaya carries a chest or \ncoffin-like saddle on its back in which it entombs \nthe unsuspecting victims it captures.",
                 "victory": "Victory 1.",
                 "illustration": "./images/brian-valeza-buwaya.jpg",
-                "illustrator": "Illus. Brian Valeza"
+                "illustrator": "Illus. Brian Valeza",
+                "attack": "3",
+                "illustration_pan_x": -146.0,
+                "illustration_pan_y": 859.0,
+                "illustration_scale": 2.152
             },
             "back": {
                 "type": "encounter"
@@ -8794,7 +9476,11 @@
                 "horror": 0,
                 "flavor_text": "Blessed by the goddess with biological immortality, \nthe ancient conductors have watched over \nthese waters for untold aeons.",
                 "illustration": "./images/margaux-valonia-meduses-jpeg-a4.jpg",
-                "illustrator": "Illus. Margaux Valonia"
+                "illustrator": "Illus. Margaux Valonia",
+                "attack": "3",
+                "illustration_pan_x": -772.0,
+                "illustration_pan_y": 1033.0,
+                "illustration_scale": 0.974
             },
             "back": {
                 "type": "encounter"
@@ -8812,7 +9498,10 @@
                 "text": "<rev> Attach <name> to the nearest <t>River</t> location without a copy of Hypnotic Whirlpool attached. Limit 1 per location.\n<for> When the investigation phase ends: Each investigator at the attached location must test <willpower> (4). Each investigator who fails must test <agility> (3). Each investigator who fails this second test must take 1\u00a0damage.",
                 "flavor_text": "\"There's something down there...\"",
                 "illustration": "./images/3c262e1c05ca0122a086f93c68933a95.jpg",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_x": -237.0,
+                "illustration_pan_y": -97.0,
+                "illustration_scale": 2.412
             },
             "back": {
                 "type": "encounter"
@@ -8830,7 +9519,10 @@
                 "text": "<rev> If The Tyrian Galley is exhausted, <name> gains surge. Otherwise, test <willpower> (3). If you fail, take 1 horror and exhaust The Tyrian Galley.",
                 "flavor_text": "The hairs on your neck stand on end as the nearby water churns as if displaced by an illusory vessel, and the galley is caught in the undertow...",
                 "illustration": "./images/alex-rommel-ghost-ship-2016-08-28-hdr-1000.jpg",
-                "illustrator": "Illus. Alex Rommel"
+                "illustrator": "Illus. Alex Rommel",
+                "illustration_pan_x": -150.0,
+                "illustration_pan_y": -642.0,
+                "illustration_scale": 1.918
             },
             "back": {
                 "type": "encounter"
@@ -8849,7 +9541,9 @@
                 "flavor_text": "A young girl floats to the surface of the water, surrounded by a vanguard of beautifully painted fish...",
                 "victory": "Victory 1.",
                 "illustration": "./images/tiphaine-jego-carpeskoi-3noncensured.jpg",
-                "illustrator": "Illus. Tiphaine Jego"
+                "illustrator": "Illus. Tiphaine Jego",
+                "illustration_pan_x": -70.0,
+                "illustration_pan_y": -77.0
             },
             "back": {
                 "type": "encounter"
@@ -8872,7 +9566,10 @@
                 "horror": 1,
                 "flavor_text": "The nure-onna are said to imitate distressed mothers crying out for their infants in order to attract \"help\" from unsuspecting sailors and fishermen.",
                 "illustration": "./images/bennitt-helga-lamia.jpg",
-                "illustrator": "Illus. Helga Le"
+                "illustrator": "Illus. Helga Le",
+                "attack": "3",
+                "illustration_pan_x": -10.0,
+                "illustration_pan_y": 1103.0
             },
             "back": {
                 "type": "encounter"
@@ -8890,7 +9587,9 @@
                 "text": "<rev> The lead investigator must discard cards from the top card of the encounter deck until an enemy is revealed and then draw that enemy.",
                 "flavor_text": "Ghostly reenactments of a pitched battle \nflicker all around you; even in death, \nOnigawa's defenders remain true.",
                 "illustration": "./images/jakub-rozalski-evil-shogun-small.jpg",
-                "illustrator": "Illus. Jakub Rozalski"
+                "illustrator": "Illus. Jakub Rozalski",
+                "illustration_pan_x": -280.0,
+                "illustration_pan_y": -6.0
             },
             "back": {
                 "type": "encounter"
@@ -8908,7 +9607,10 @@
                 "text": "<rev> Enemies get +1 fight until the end of the round.",
                 "flavor_text": "Before it was scuttled, the crew of Onigawa's \nflagship, the Shingetsu, ensured that \nthe battleship took as many enemy vessels with \nit as possible during its maiden voyage.",
                 "illustration": "./images/ysabel-li-render02.jpg",
-                "illustrator": "Illus. Ysabel Li"
+                "illustrator": "Illus. Ysabel Li",
+                "illustration_pan_x": -210.0,
+                "illustration_pan_y": -1.0,
+                "illustration_scale": 1.178
             },
             "back": {
                 "type": "encounter"
@@ -8926,7 +9628,10 @@
                 "text": "<rev> Each investigator with no other investigators at their location draws 1 card. Each other investigator must take 1 horror.",
                 "flavor_text": "Driven mad by the influence of a dark power, the once honorable Azure Knight of Onigawa employed brutal methods to \"bolster\" morale and root out suspected traitors during the siege.",
                 "illustration": "./images/f54c1592a290754a1b8ca017b3d5ee4d.jpg",
-                "illustrator": "Illus. harng"
+                "illustrator": "Illus. harng",
+                "illustration_pan_x": 129.0,
+                "illustration_pan_y": -2.0,
+                "illustration_scale": 1.127
             },
             "back": {
                 "type": "encounter"
@@ -8944,7 +9649,10 @@
                 "text": "<rev> Exhaust each <t>Aspect</t> story asset controlled by an investigator. <t>Aspect</t> assets controlled by investigators do not ready during the next upkeep phase.",
                 "flavor_text": "The wards protecting Onigawa were weakened when the impetuous prince of the divine pantheon was imprisoned upon Mount Kokoro.",
                 "illustration": "./images/davey-baker-d39e983c-8a27-47ea-be51-6cd2b22a8673.jpg",
-                "illustrator": "Illus. Davey Baker"
+                "illustrator": "Illus. Davey Baker",
+                "illustration_pan_x": 83.0,
+                "illustration_pan_y": 2.0,
+                "illustration_scale": 1.577
             },
             "back": {
                 "type": "encounter"
@@ -8962,7 +9670,9 @@
                 "text": "<rev> Each investigator must exhaust an <t>Aspect</t> story asset they control. Each investigator who cannot must take 1 direct horror instead.",
                 "flavor_text": "The shattering of Onigawa's covenant with the Guardians was felt by all those who previously \nenjoyed their divine protection.",
                 "illustration": "./images/tumblr_llgi3qFWVQ1qf7osdo1_1280.jpg",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_x": 60.0,
+                "illustration_pan_y": -132.0
             },
             "back": {
                 "type": "encounter"
@@ -8980,7 +9690,10 @@
                 "text": "<rev> Each location gets +1 shroud until the end of the round.",
                 "flavor_text": "When the great cherry blossom tree at the \ncenter of the city suddenly wilted, this ill omen \nresulted in a critical morale failure among even \nthe most loyal of Onigawa's defenders.",
                 "illustration": "./images/leo-pold-1.jpg",
-                "illustrator": "Illus. Leo Pold"
+                "illustrator": "Illus. Leo Pold",
+                "illustration_pan_x": -696.0,
+                "illustration_pan_y": -3.0,
+                "illustration_scale": 1.523
             },
             "back": {
                 "type": "encounter"
@@ -8998,7 +9711,9 @@
                 "text": "<rev> Until the end of the round, any time a non-<t>Elite</t> enemy would be discarded, you may shuffle it back into the encounter deck, instead. If you do, you may discover a clue from its location.",
                 "flavor_text": "During the chaos of the siege, rogue elements within \nthe city employed increasingly desperate and \ndangerous means to bolster Onigawa's defenses and return their wounded to the frontlines.",
                 "illustration": "./images/arthur-yuan-rl-splashart.jpg",
-                "illustrator": "Illus. Arthur Yuan"
+                "illustrator": "Illus. Arthur Yuan",
+                "illustration_pan_x": -652.0,
+                "illustration_pan_y": -6.0
             },
             "back": {
                 "type": "encounter"
@@ -9016,7 +9731,10 @@
                 "text": "<rev> Move each investigator 1 location towards Royal Palace.",
                 "flavor_text": "Fearing imminent defeat, the royal guard barricaded the surviving members of the court within the palace during the siege...and fought to the death to ensure no one else would be able to follow them inside.",
                 "illustration": "./images/mert-genccinar-samuraiverse-final.jpg",
-                "illustrator": "Illus. Mert Genccinar"
+                "illustrator": "Illus. Mert Genccinar",
+                "illustration_pan_x": -609.0,
+                "illustration_pan_y": -357.0,
+                "illustration_scale": 1.682
             },
             "back": {
                 "type": "encounter"
@@ -9034,7 +9752,10 @@
                 "text": "<rev> Discard all non-<t>Elite</t> enemies from play, then, for each enemy discarded in this way, place 1 doom on the current agenda.",
                 "flavor_text": "When Onigawa's accord with the divine pantheon \nwas severed, its Queen made certain sacrifices \nto ensure her people would endure.",
                 "illustration": "./images/z-wu-fp2.jpg",
-                "illustrator": "Illus. Gu Zheng Wei"
+                "illustrator": "Illus. Gu Zheng Wei",
+                "illustration_pan_x": -137.0,
+                "illustration_pan_y": -2.0,
+                "illustration_scale": 0.608
             },
             "back": {
                 "type": "encounter"
@@ -9052,7 +9773,9 @@
                 "text": "<rev> Remove 1 doom from the current agenda. The lead investigator must choose one investigator to lose all of their remaining actions this turn.",
                 "flavor_text": "In the final days of the siege, a fallen \nchampion of Onigawa was redeemed \nby the selfless sacrifice of its queen consort.",
                 "illustration": "./images/muhammx-fajri-untitled-1-copy.jpg",
-                "illustrator": "Illus. Muhammed Fajri"
+                "illustrator": "Illus. Muhammed Fajri",
+                "illustration_pan_x": -768.0,
+                "illustration_pan_y": -6.0
             },
             "back": {
                 "type": "encounter"
@@ -9063,7 +9786,7 @@
             "id": "01f70831-95d9-4567-be02-85a5070322f4"
         },
         {
-            "name": "Kayako",
+            "name": "<unique>Kayako",
             "front": {
                 "type": "enemy",
                 "title": "<unique><name>",
@@ -9077,7 +9800,10 @@
                 "horror": 1,
                 "flavor_text": "Centuries have passed, but the Maiden of the Black Water still holds onto her grudge...",
                 "illustration": "./images/feig-felipe-perez-174-shiryo-rgb.jpg",
-                "illustrator": "Illus. Feig Felipe Perez"
+                "illustrator": "Illus. Feig Felipe Perez",
+                "attack": "3",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 1099.0
             },
             "back": {
                 "type": "encounter"
@@ -9095,7 +9821,10 @@
                 "text": "Peril.\n<rev> If Kayako is in play, place 1 doom on her and heal all damage from her. Otherwise, search the encounter deck for Kayako <i>(Maiden of the Black Water)</i> and draw her. Shuffle the encounter deck.",
                 "flavor_text": "She hasn't forgotten...and she hasn't forgiven.",
                 "illustration": "./images/rafael-paulo-lino-kayako-saeki-uban-legend-a4.jpg",
-                "illustrator": "Illus. Rafael Paulo Lino"
+                "illustrator": "Illus. Rafael Paulo Lino",
+                "illustration_pan_x": 146.0,
+                "illustration_pan_y": -355.0,
+                "illustration_scale": 0.734
             },
             "back": {
                 "type": "encounter"
@@ -9113,7 +9842,10 @@
                 "text": "<rev> Attach <name> to the nearest location without a copy of <name> attached. Limit 1 per location.\nEnemies at the attached location gain retaliate.\n<reaction> After an enemy is defeated at the attached location: Discard <name>.",
                 "flavor_text": " The fires of war made quick work of the cramped city.",
                 "illustration": "./images/dao-trong-le-4.jpg",
-                "illustrator": "Illus. Dao Trong"
+                "illustrator": "Illus. Dao Trong",
+                "illustration_pan_x": -212.0,
+                "illustration_pan_y": 1.0,
+                "illustration_scale": 1.131
             },
             "back": {
                 "type": "encounter"
@@ -9136,7 +9868,11 @@
                 "horror": 1,
                 "flavor_text": "For many soldiers, the siege of Onigawa never ended.",
                 "illustration": "./images/jasper-zhao-2.jpg",
-                "illustrator": "Illus. Jasper Zhao"
+                "illustrator": "Illus. Jasper Zhao",
+                "illustration_pan_x": -540.0,
+                "illustration_pan_y": 946.0,
+                "illustration_scale": 1.057,
+                "attack": "3"
             },
             "back": {
                 "type": "encounter"
@@ -9159,7 +9895,11 @@
                 "horror": 1,
                 "flavor_text": "The invaders' orders were clear: \nno one would be allowed to return home \nuntil they had captured the palace.",
                 "illustration": "./images/wenjun-lin-b41da91f31ae449c9e32d6af62579f9a-source.jpg",
-                "illustrator": "Illus. Wenjun Lin"
+                "illustrator": "Illus. Wenjun Lin",
+                "attack": "3",
+                "illustration_pan_x": -91.0,
+                "illustration_pan_y": 1108.0,
+                "illustration_scale": 1.211
             },
             "back": {
                 "type": "encounter"
@@ -9177,7 +9917,10 @@
                 "text": "<rev> Test <willpower> (X), where X is the shroud value of your location. If you fail, put 1 additional card from the top of the rally deck into play at the start of the next investigation phase <i>(and resolve its revelation effect).</i>",
                 "flavor_text": "Before the pantheon fell, the Tengu were the sworn \ndefenders of the Stewards of August. During the siege, \nthey were recalled to the protect the city, \nleaving Mount Kokoro defenseless.",
                 "illustration": "./images/de12vn9-a5bf6df4-b596-4b12-98bd-4ba631bda42a.jpg",
-                "illustrator": "Illus. Antonio J. Manzanedo"
+                "illustrator": "Illus. Antonio J. Manzanedo",
+                "illustration_pan_x": 98.0,
+                "illustration_pan_y": -279.0,
+                "illustration_scale": 1.547
             },
             "back": {
                 "type": "encounter"
@@ -9203,7 +9946,11 @@
                 "flavor_text": " The Azure Zealot was the first of Onigawa's champions to be seduced by an ancient evil, but he would not be the last.",
                 "victory": "Victory 1.",
                 "illustration": "./images/sergei-dorokhin-2.jpg",
-                "illustrator": "Illus. Sergei Dorokhin"
+                "illustrator": "Illus. Sergei Dorokhin",
+                "attack": "4",
+                "illustration_pan_x": -326.0,
+                "illustration_pan_y": 1133.0,
+                "illustration_scale": 1.165
             },
             "back": {
                 "type": "encounter"
@@ -9229,7 +9976,11 @@
                 "flavor_text": "<name>'s summary execution during the siege led many soldiers to question their commanders' methods.",
                 "victory": "Victory 1.",
                 "illustration": "./images/image-asset.jpeg",
-                "illustrator": "Illus. Laurel D. Austin"
+                "illustrator": "Illus. Laurel D. Austin",
+                "attack": "3",
+                "illustration_pan_x": -55.0,
+                "illustration_pan_y": 1079.0,
+                "illustration_scale": 2.131
             },
             "back": {
                 "type": "encounter"
@@ -9248,7 +9999,9 @@
                 "flavor_text": "The heavens and the earth trembled in equal measure when the guardian Tsurugi forsook his own divinity in order to join the fray.",
                 "victory": "Victory 1.",
                 "illustration": "./images/aboy-ningthouja-demon-samurai-concept.jpg",
-                "illustrator": "Illus. Aboy Ningthouja"
+                "illustrator": "Illus. Aboy Ningthouja",
+                "illustration_pan_x": -391.0,
+                "illustration_pan_y": 0.0
             },
             "back": {
                 "type": "encounter"
@@ -9274,7 +10027,11 @@
                 "flavor_text": "In the fires of war, Onigawa's most craven general bargained with a dark power to obtain the strength \nneeded to vanquish an entire army.",
                 "victory": "Victory 1.",
                 "illustration": "./images/dominik-mayer-demonwarrior-full.jpg",
-                "illustrator": "Illus. Dominik Mayer"
+                "illustrator": "Illus. Dominik Mayer",
+                "attack": "4",
+                "illustration_pan_x": -720.0,
+                "illustration_pan_y": 872.0,
+                "illustration_scale": 1.216
             },
             "back": {
                 "type": "encounter"
@@ -9292,7 +10049,9 @@
                 "text": "Peril.\n<rev> Choose an <t>Elite</t> enemy in play. Move the chosen enemy one location towards your current location and then test <willpower> (X), where X is the chosen enemy's evade value. If you fail, place 1 doom on the chosen enemy.",
                 "flavor_text": "No matter where you run, they always catch you...",
                 "illustration": "./images/a18ec1eb9aed2205c6437c06c72ad0cc.jpg",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_x": -14.0,
+                "illustration_pan_y": -196.0
             },
             "back": {
                 "type": "encounter"
@@ -9303,7 +10062,7 @@
             "id": "dcea82e6-5dd2-439a-b0de-a79c05de45a3"
         },
         {
-            "name": "Bondage Mannequin",
+            "name": "<unique>Bondage Mannequin",
             "front": {
                 "type": "enemy",
                 "title": "<unique><name>",
@@ -9318,7 +10077,11 @@
                 "flavor_text": "As the appetites of the court grew increasingly depraved, \nso too were the creations the royal dollmaker \nwas tasked with constructing...",
                 "victory": "Victory 1.",
                 "illustration": "./images/mushk-rizvi-alpha-t3.jpg",
-                "illustrator": "Illus. Mushk Rizvi"
+                "illustrator": "Illus. Mushk Rizvi",
+                "attack": "3",
+                "illustration_pan_x": -108.0,
+                "illustration_pan_y": 1065.0,
+                "illustration_scale": 1.141
             },
             "back": {
                 "type": "encounter"
@@ -9329,7 +10092,7 @@
             "id": "d9bbc939-b717-4d97-a77c-265355fc14bf"
         },
         {
-            "name": "Hinnagami",
+            "name": "<unique>Hinnagami",
             "front": {
                 "type": "enemy",
                 "title": "<unique><name>",
@@ -9344,7 +10107,10 @@
                 "flavor_text": "Once rumors began to spread that the dolls crafted by the royal dollmaker brought good fortune to their recipients, her services became in increasingly high demand...",
                 "victory": "Victory 1.",
                 "illustration": "./images/kati-sarin-s-0-puppet-re.jpg",
-                "illustrator": "Illus. Sarin Singhasaneh"
+                "illustrator": "Illus. Sarin Singhasaneh",
+                "attack": "4",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 828.0
             },
             "back": {
                 "type": "encounter"
@@ -9355,7 +10121,7 @@
             "id": "d247ddb7-1b33-49f8-bb9a-0a5ec9f11fc0"
         },
         {
-            "name": "\"Madame\" Bai",
+            "name": "<unique>\"Madame\" Bai",
             "front": {
                 "type": "enemy",
                 "title": "<unique><name>",
@@ -9370,7 +10136,10 @@
                 "flavor_text": "Lady Bai was once the court's apothecary, well versed in the use and treatment of exotic poisons. When she was betrayed by a treasonous subordinate during the siege, the royal dollmaker offered a way to extend her \"life\" indefinitely...",
                 "victory": "Victory 1.",
                 "illustration": "./images/wes-fraser-wesfraser-baiillustration.jpg",
-                "illustrator": "Illus. Wes Fraser"
+                "illustrator": "Illus. Wes Fraser",
+                "attack": "3",
+                "illustration_pan_x": -371.0,
+                "illustration_pan_y": 1104.0
             },
             "back": {
                 "type": "encounter"
@@ -9381,7 +10150,7 @@
             "id": "03f02070-0a08-4c03-858a-ca106fb8b687"
         },
         {
-            "name": "Yatsukahaki",
+            "name": "<unique>Yatsukahaki",
             "front": {
                 "type": "enemy",
                 "title": "<unique><name>",
@@ -9396,7 +10165,12 @@
                 "flavor_text": "The torsos of three concubines appear to have been inartfully \"stitched\" together, giving the monstrous creature \nthe resemblance of a centipede...",
                 "victory": "Victory 1.",
                 "illustration": "./images/pedro-sena-ddw4f8s-69a9107a-1c20-4eaa-9a33-8d4515a57f4e.jpg",
-                "illustrator": "Illus. Pedro Sena"
+                "illustrator": "Illus. Pedro Sena",
+                "attack": "4",
+                "illustration_pan_x": -116.0,
+                "illustration_pan_y": 497.0,
+                "illustration_mirror": true,
+                "illustration_scale": 1.918
             },
             "back": {
                 "type": "encounter"
@@ -9415,7 +10189,10 @@
                 "flavor_text": "The intricate construction of the mannequins you've seen in the palace suggest a practiced hand...",
                 "victory": "Victory 1.",
                 "illustration": "./images/voices_in_my_head_by_xiaofanchuanart_dez35ko-fullview.jpg",
-                "illustrator": "Illus. Xiaofan Zhang"
+                "illustrator": "Illus. Xiaofan Zhang",
+                "illustration_pan_x": 123.0,
+                "illustration_pan_y": -917.0,
+                "illustration_scale": 1.762
             },
             "back": {
                 "type": "encounter"
@@ -10330,7 +11107,7 @@
             "id": "646677ca-17a0-4257-9d4a-272c986116eb"
         },
         {
-            "name": "Mayu Tachibana",
+            "name": "<unique>Mayu Tachibana",
             "front": {
                 "type": "asset",
                 "title": "<unique><name>",
@@ -10347,10 +11124,11 @@
                 ],
                 "icons": "IA",
                 "illustration": "./images/mayutachibana-4x.jpg",
-                "illustrator": "Illus. Tecmo"
+                "illustrator": "Illus. Tecmo",
+                "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "1",
             "project_number": "432",
@@ -10365,10 +11143,12 @@
                 "text": "<rev> Test <willpower> (3). If you fail, you must either place 1 doom on the current agenda or take 1 direct damage.",
                 "flavor_text": "She was young, innocent, and beautiful...\nand now she's gone.",
                 "classes": [
-                    "storyweakness"
+                    "weakness"
                 ],
                 "illustration": "./images/mayutachibana3.jpg",
-                "illustrator": "Illus. <family \"ArnoPro-Bold\">Tecmo"
+                "illustrator": "Illus. <family \"ArnoPro-Bold\">Tecmo",
+                "illustration_pan_x": -112.0,
+                "illustration_pan_y": 17.0
             },
             "back": {
                 "type": "player"

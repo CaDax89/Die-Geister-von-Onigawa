@@ -2220,7 +2220,7 @@
             }
         },
         "dcea82e6-5dd2-439a-b0de-a79c05de45a3": {
-            "name": "Beh\u00e4nde und gef\u00e4hrlich",
+            "name": "Greifende Gefahr",
             "front": {
                 "text": "Wagnis.\n<rev> W\u00e4hle einen <t>Elite</t>-Gegner im Spiel aus. Verschiebe den ausgew\u00e4hlten Gegner um eine Position in Richtung deiner aktuellen Position und f\u00fchre anschlie\u00dfend eine <Willpower>-Probe (X) durch, wobei X dem Entkommenswert des ausgew\u00e4hlten Gegners entspricht. Wenn die Probe nicht gelingt, lege 1 Verderbensmarker auf den ausgew\u00e4hlten Gegner.",
                 "flavor_text": "Egal, wohin du rennst, sie fangen dich immer ein...",
@@ -2229,12 +2229,12 @@
             "back": {}
         },
         "03f02070-0a08-4c03-858a-ca106fb8b687": {
-            "name": "\"Madame\" Bai",
+            "name": "<unique>\"Madame\" Bai",
             "front": {
-                "text": "Ambush. Hunter 1.\n<for> When the enemy phase begins: Add 1 <curse> to the chaos bag.",
-                "flavor_text": "Lady Bai was once the court's apothecary, well versed in the use and treatment of exotic poisons. When she was betrayed by a treasonous subordinate during the siege, the royal dollmaker offered a way to extend her \"life\" indefinitely...",
-                "subtitle": "Serpentis Mannequin",
-                "victory": "Victory 1.",
+                "text": "Hinterhalt. J\u00e4ger 1.\n<for> Sobald die Gegnerphase beginnt: F\u00fcge dem Chaosbeutel 1 <curse>-Marker hinzu.",
+                "flavor_text": "Lady Bai war einst die Hofapothekerin und kannte sich bestens mit der Anwendung und Behandlung exotischer Gifte aus. Als sie w\u00e4hrend der Belagerung von einem verr\u00e4terischen Untergebenen hintergangen wurde, bot ihr der k\u00f6nigliche Puppenmacher einen Weg an, ihr \u201eLeben\u201c auf unbestimmte Zeit zu verl\u00e4ngern \u2026",
+                "subtitle": "Schlangen-Mannequin",
+                "victory": "Sieg 1.",
                 "traits": "Automata. Elite. Cursed."
             },
             "back": {}
@@ -2251,13 +2251,34 @@
             "back": {}
         },
         "d9bbc939-b717-4d97-a77c-265355fc14bf": {
-            "name": "Bondage-Mannequin",
+            "name": "<unique>Bondage-Mannequin",
             "front": {
                 "text": "J\u00e4ger 1.\n<spawn> Beliebiger leerer Ort.\n<for> Nachdem <name> sich bewegt: Platziere 1 Schaden auf <name>.\n",
                 "flavor_text": "Je verdorbener die Gel\u00fcste am Hof wurden, desto verdorbener wurden auch die Kreationen, mit deren Anfertigung der k\u00f6nigliche Puppenmacher beauftragt war...",
                 "subtitle": "Das Vergn\u00fcgen liegt ganz bei ihr",
                 "victory": "Sieg 1.",
                 "traits": "Automata. Elite. Verflucht."
+            },
+            "back": {}
+        },
+        "5b767cb6-3aa6-44c2-a02f-125f580ea665": {
+            "name": "Akribische Handarbeit",
+            "front": {
+                "text": "Wagnis.\n<rev> Lies <b>Szenario-Zwischenspiel: Das Handwerk des Meisters</b> im Kampagnenleitfaden.",
+                "flavor_text": "Die aufwendige Konstruktion der Mannequins, die du im Palast gesehen hast, l\u00e4sst auf eine ge\u00fcbte Hand schlie\u00dfen...",
+                "victory": "Sieg 1.",
+                "traits": "Mysterium."
+            },
+            "back": {}
+        },
+        "62623cb1-a72c-4ccf-a611-6965592de90d": {
+            "name": "<unique>Yatsukahaki",
+            "front": {
+                "text": "J\u00e4ger 1.\n<spawn> Beliebiger leerer Ort.\n<for> Sobald die Gegnerphase beginnt: F\u00fcge dem Chaosbeutel 1 <curse>-Marker hinzu.",
+                "flavor_text": "Die Oberk\u00f6rper von drei Konkubinen scheinen ungeschickt miteinander \u201evern\u00e4ht\u201c worden zu sein, wodurch das monstr\u00f6se Wesen die \u00c4hnlichkeit eines Tausendf\u00fc\u00dflers erh\u00e4lt...",
+                "subtitle": "Das Meisterwerk des Puppenmachers",
+                "victory": "Sieg 1.",
+                "traits": "Monster. Elite. Yokai. Verflucht."
             },
             "back": {}
         }
