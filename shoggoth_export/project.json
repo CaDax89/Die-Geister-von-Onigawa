@@ -6985,22 +6985,27 @@
                 "text": "<for> When the investigation phase ends: Each investigator at <name> must test <willpower> (2). If you fail, take 1 horror.",
                 "flavor_text": "Utilizing the palace's escape route carried such dishonor that none who did so ever returned.",
                 "illustration": "./images/gaiyin-highresscreenshot00006.jpg",
-                "clues": "0<per>",
-                "shroud": "2<per>",
+                "clues": "0",
+                "shroud": "2",
                 "connection": "moon",
                 "connections": [
-                    "squarealt"
+                    "square_alt"
                 ],
-                "illustrator": "Illus. Gaiyin"
+                "illustrator": "Illus. Gaiyin",
+                "illustration_pan_x": -387.0,
+                "illustration_pan_y": 226.0
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/gaiyin-highresscreenshot00006.jpg",
                 "traits": "Surface.",
                 "text": "",
                 "flavor_text": "This hidden passage was built for use \nby members of the royal court as a secret \nescape route from the palace in times of crisis.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 226.0,
+                "illustration_pan_x": -387.0,
+                "illustrator": "Illus. Gaiyin"
             },
             "encounter_number": "7",
             "project_number": "147",
@@ -7015,9 +7020,9 @@
                 "text": "<action><action>: <i>Thin ice.</i> Discover a clue from <name>. <i>(Limit once per investigator.)</i>",
                 "flavor_text": "A gentle layer of frost coats the stone staircase leading up to the gate that marks the edge of the mountain pass.",
                 "illustration": "./images/surendra-rajawat-torriigate-web.jpg",
-                "clues": "2<per>",
-                "shroud": "2<per>",
-                "connection": "squarealt",
+                "clues": "2",
+                "shroud": "2",
+                "connection": "square_alt",
                 "connections": [
                     "moon",
                     "slash"
@@ -7033,7 +7038,10 @@
                 "text": "As an additional cost to enter Mountain Pass, investigators must spend 1 additional action for each clue on their current location.",
                 "flavor_text": "A treacherous path cuts through the blinding snow, \nslowly guiding you towards the summit...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_x": -420.0,
+                "illustration_pan_y": 180.0,
+                "illustration_scale": 1.596
             },
             "encounter_number": "8",
             "project_number": "148",
@@ -7049,13 +7057,16 @@
                 "flavor_text": "The Guardians mercifully granted those who abandoned the palace one last chance to reclaim their honor.",
                 "illustration": "./images/arthur-yuan-rl-concept-environment-ukigumo-mountain-town.jpg",
                 "clues": "1<per>",
-                "shroud": "2<per>",
+                "shroud": "2",
                 "connection": "slash",
                 "connections": [
-                    "squarealt",
-                    "circlealt"
+                    "square_alt",
+                    "circle_alt"
                 ],
-                "illustrator": "Illus. Arthur Yuan"
+                "illustrator": "Illus. Arthur Yuan",
+                "illustration_pan_x": -565.0,
+                "illustration_pan_y": 122.0,
+                "illustration_scale": 0.675
             },
             "back": {
                 "type": "location_back",
@@ -7066,7 +7077,10 @@
                 "text": "As an additional cost to enter Mountain Pass, investigators must spend 1 additional action for each clue on their current location.",
                 "flavor_text": "A treacherous path cuts through the blinding snow, \nslowly guiding you towards the summit...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 180.0,
+                "illustration_pan_x": -420.0,
+                "illustration_scale": 1.596
             },
             "encounter_number": "9",
             "project_number": "149",
@@ -7083,13 +7097,15 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/annie-doyon-sholzi-sekiro-arena.jpg",
                 "clues": "1<per>",
-                "shroud": "4<per>",
-                "connection": "circlealt",
+                "shroud": "4",
+                "connection": "circle_alt",
                 "connections": [
                     "slash",
-                    "crossalt"
+                    "cross_alt"
                 ],
-                "illustrator": "Illus. strigiformes"
+                "illustrator": "Illus. strigiformes",
+                "illustration_pan_x": -492.0,
+                "illustration_pan_y": 203.0
             },
             "back": {
                 "type": "location_back",
@@ -7100,7 +7116,10 @@
                 "text": "As an additional cost to enter Mountain Pass, investigators must spend 1 additional action for each clue on their current location.",
                 "flavor_text": "A treacherous path cuts through the blinding snow, \nslowly guiding you towards the summit...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 180.0,
+                "illustration_pan_x": -420.0,
+                "illustration_scale": 1.596
             },
             "encounter_number": "10",
             "project_number": "150",
@@ -7115,14 +7134,17 @@
                 "text": "<for> After <name> is revealed: Advance the act. <i>(Group limit once per game.)</i>\n<for> When the investigation phase ends: If there are fewer than 1<per> clues on <name>, place 1 clue on it <i>(from the token pool)</i>.",
                 "flavor_text": "The meaning behind the mysterious rune carved into the snow bank is immediately clear: Turn back. Now.",
                 "illustration": "./images/callen-zeiferz-desmond-snow-ritual.jpg",
-                "clues": "2<per>",
-                "shroud": "3<per>",
-                "connection": "crossalt",
+                "clues": "2",
+                "shroud": "3",
+                "connection": "cross_alt",
                 "connections": [
-                    "circlealt",
+                    "circle_alt",
                     "triangle"
                 ],
-                "illustrator": "Illus. Callen Zeiferz"
+                "illustrator": "Illus. Callen Zeiferz",
+                "illustration_pan_x": -245.0,
+                "illustration_pan_y": 195.0,
+                "illustration_scale": 1.111
             },
             "back": {
                 "type": "location_back",
@@ -7133,7 +7155,10 @@
                 "text": "As an additional cost to enter Mountain Pass, investigators must spend 1 additional action for each clue on their current location.",
                 "flavor_text": "A treacherous path cuts through the blinding snow, \nslowly guiding you towards the summit...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 180.0,
+                "illustration_pan_x": -420.0,
+                "illustration_scale": 1.596
             },
             "encounter_number": "11",
             "project_number": "151",
@@ -7149,13 +7174,15 @@
                 "flavor_text": "The rushing sound of a nearby waterfall draws your attention to the yawning mouth of a crystalline colonnade.",
                 "illustration": "./images/sebastian-kowoll-icecaves2.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
+                "shroud": "3",
                 "connection": "triangle",
                 "connections": [
-                    "crossalt",
+                    "cross_alt",
                     "hourglass"
                 ],
-                "illustrator": "Illus. Sebastian Kowoll"
+                "illustrator": "Illus. Sebastian Kowoll",
+                "illustration_pan_x": -668.0,
+                "illustration_pan_y": 198.0
             },
             "back": {
                 "type": "location_back",
@@ -7166,7 +7193,10 @@
                 "text": "Investigators must spend 1 additional action to move to Mountain Pass for each clue on their current location.",
                 "flavor_text": "A treacherous path cuts through the blinding snow, slowly guiding you towards the summit...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 180.0,
+                "illustration_pan_x": -420.0,
+                "illustration_scale": 1.596
             },
             "encounter_number": "12",
             "project_number": "152",
@@ -7184,13 +7214,16 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/ronan-mahon-algormortis-rmahon-beauty-01.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
+                "shroud": "3",
                 "connection": "hourglass",
                 "connections": [
                     "triangle",
                     "cross"
                 ],
-                "illustrator": "Illus. Raphaelle Deslandes"
+                "illustrator": "Illus. Raphaelle Deslandes",
+                "illustration_pan_x": -643.0,
+                "illustration_pan_y": -107.0,
+                "illustration_scale": 1.4
             },
             "back": {
                 "type": "location_back",
@@ -7201,7 +7234,10 @@
                 "text": "As an additional cost to enter Mountain Pass, investigators must spend 1 additional action for each clue on their current location.",
                 "flavor_text": "A treacherous path cuts through the blinding snow, \nslowly guiding you towards the summit...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 180.0,
+                "illustration_pan_x": -420.0,
+                "illustration_scale": 1.596
             },
             "encounter_number": "13",
             "project_number": "153",
@@ -7218,13 +7254,16 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/benjamin-roach-upsurge-studios-crypt-shots-02.jpg",
                 "clues": "1<per>",
-                "shroud": "4<per>",
+                "shroud": "4",
                 "connection": "cross",
                 "connections": [
                     "hourglass",
                     "diamond"
                 ],
-                "illustrator": "Illus. Benjamin Roach"
+                "illustrator": "Illus. Benjamin Roach",
+                "illustration_pan_x": -400.0,
+                "illustration_pan_y": 109.0,
+                "illustration_scale": 1.246
             },
             "back": {
                 "type": "location_back",
@@ -7235,7 +7274,10 @@
                 "text": "As an additional cost to enter Mountain Pass, investigators must spend 1 additional action for each clue on their current location.",
                 "flavor_text": "A treacherous path cuts through the blinding snow, \nslowly guiding you towards the summit...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 180.0,
+                "illustration_pan_x": -420.0,
+                "illustration_scale": 1.596
             },
             "encounter_number": "14",
             "project_number": "154",
@@ -7251,13 +7293,16 @@
                 "flavor_text": "The chill grows bitter still as you watch \nhypnotic rays of moonlight scatter across the jagged crystalline formations flanking the narrow bridge.",
                 "illustration": "./images/mark-yong-mark.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
+                "shroud": "3",
                 "connection": "diamond",
                 "connections": [
                     "cross",
                     "circle"
                 ],
-                "illustrator": "Illus. Zhengyi Wang"
+                "illustrator": "Illus. Zhengyi Wang",
+                "illustration_pan_x": -472.0,
+                "illustration_pan_y": 205.0,
+                "illustration_scale": 1.663
             },
             "back": {
                 "type": "location_back",
@@ -7268,7 +7313,10 @@
                 "text": "As an additional cost to enter Mountain Pass, investigators must spend 1 additional action for each clue on their current location.",
                 "flavor_text": "A treacherous path cuts through the blinding snow, \nslowly guiding you towards the summit...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 180.0,
+                "illustration_pan_x": -420.0,
+                "illustration_scale": 1.596
             },
             "encounter_number": "15",
             "project_number": "155",
@@ -7285,13 +7333,16 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/andrii-shafetov-signal-tower-hue.jpg",
                 "clues": "1<per>",
-                "shroud": "4<per>",
+                "shroud": "4",
                 "connection": "circle",
                 "connections": [
                     "diamond",
-                    "heartalt"
+                    "heart"
                 ],
-                "illustrator": "Illus. Andrii Shafetov"
+                "illustrator": "Illus. Andrii Shafetov",
+                "illustration_pan_x": -3360.0,
+                "illustration_pan_y": -1121.0,
+                "illustration_scale": 1.441
             },
             "back": {
                 "type": "location_back",
@@ -7302,7 +7353,10 @@
                 "text": "As an additional cost to enter Mountain Pass, investigators must spend 1 additional action for each clue on their current location.",
                 "flavor_text": "A treacherous path cuts through the blinding snow, \nslowly guiding you towards the summit...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 180.0,
+                "illustration_pan_x": -420.0,
+                "illustration_scale": 1.596
             },
             "encounter_number": "16",
             "project_number": "156",
@@ -7318,13 +7372,16 @@
                 "flavor_text": "The volcanic activity of the mountain \nhas produced a number of geothermal pools \nperpetually replenished by melted ice flow.",
                 "illustration": "./images/irene-gufydraws-agnoletti-bg-4.jpg",
                 "clues": "1<per>",
-                "shroud": "2<per>",
+                "shroud": "2",
                 "connection": "heartalt",
                 "connections": [
                     "circle",
-                    "doubleslash"
+                    "double_slash"
                 ],
-                "illustrator": "Illus. Rene Agnoletti"
+                "illustrator": "Illus. Rene Agnoletti",
+                "illustration_pan_x": -93.0,
+                "illustration_pan_y": 213.0,
+                "illustration_scale": 1.92
             },
             "back": {
                 "type": "location_back",
@@ -7335,7 +7392,10 @@
                 "text": "As an additional cost to enter Mountain Pass, investigators must spend 1 additional action for each clue on their current location.",
                 "flavor_text": "A treacherous path cuts through the blinding snow, \nslowly guiding you towards the summit...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 180.0,
+                "illustration_pan_x": -420.0,
+                "illustration_scale": 1.596
             },
             "encounter_number": "17",
             "project_number": "157",
@@ -7351,13 +7411,16 @@
                 "flavor_text": "Carved directly into the rock face, intimidating statues \nof Onigawa's former rulers watch over the \nnarrow causeway leading to the mountain summit.",
                 "illustration": "./images/tom-sanders-7.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
+                "shroud": "3",
                 "connection": "doubleslash",
                 "connections": [
-                    "heartalt",
+                    "heart",
                     "square"
                 ],
-                "illustrator": "Illus. Tom Sanders"
+                "illustrator": "Illus. Tom Sanders",
+                "illustration_pan_x": -261.0,
+                "illustration_pan_y": 199.0,
+                "illustration_scale": 1.161
             },
             "back": {
                 "type": "location_back",
@@ -7368,7 +7431,10 @@
                 "text": "As an additional cost to enter Mountain Pass, investigators must spend 1 additional action for each clue on their current location.",
                 "flavor_text": "A treacherous path cuts through the blinding snow, \nslowly guiding you towards the summit...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 180.0,
+                "illustration_pan_x": -420.0,
+                "illustration_scale": 1.596
             },
             "encounter_number": "18",
             "project_number": "158",
@@ -7385,12 +7451,15 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/sargis-ter-grigoryan-1.jpg",
                 "clues": "1<per>",
-                "shroud": "4<per>",
+                "shroud": "4",
                 "connection": "square",
                 "connections": [
-                    "doubleslash"
+                    "double_slash"
                 ],
-                "illustrator": "Illus. Sargis Ter-Grigoryan"
+                "illustrator": "Illus. Sargis Ter-Grigoryan",
+                "illustration_pan_x": -371.0,
+                "illustration_pan_y": 203.0,
+                "illustration_scale": 1.154
             },
             "back": {
                 "type": "location_back",
@@ -7401,7 +7470,10 @@
                 "text": "As an additional cost to enter Mountain Pass, investigators must spend 1 additional action for each clue on their current location.",
                 "flavor_text": "A treacherous path cuts through the blinding snow, \nslowly guiding you towards the summit...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 180.0,
+                "illustration_pan_x": -420.0,
+                "illustration_scale": 1.596
             },
             "encounter_number": "19",
             "project_number": "159",

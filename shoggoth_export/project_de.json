@@ -17,6 +17,9 @@
         },
         "4f485ace-5d62-4c3e-905b-194d814443b1": {
             "name": "encounter-candle-b.png"
+        },
+        "1b2b4978-17a9-4920-8a67-409629978ecd": {
+            "name": "encounter-mountain-b.png"
         }
     },
     "cards": {
@@ -2399,7 +2402,194 @@
             },
             "back": {
                 "name": "Schutz finden",
-                "text": "<b>Falls die Gegnerin Yuki-onna <i> (Die Mondk\u00f6nigin) </i> im Spiel war, w\u00e4hrend die Szene vorger\u00fcckt ist:</b>\n<i>Bevor du die Festung betrittst, wirfst du noch einen letzten, vorsichtigen Blick zur\u00fcck in den heulenden Schneesturm. Die Hexe, die dich verfolgt hat, ist immer noch irgendwo da drau\u00dfen \u2026 Du kannst nur hoffen, dass sie, was auch immer dieser Ort sein mag, sich genauso davor f\u00fcrchtet, ihn zu betreten, wie du \u2026</i>\n(<resolution><b>A1</b>)\n<hr>\n<b>Falls der Gegner Yuki-onna <i> (Die Mondk\u00f6nigin) </i> zu Beginn der Szene im Siegpunktestapel war:</b>\n<i>W\u00e4hrend du die Treppe zur Festung hinaufsteigst, kehren deine Gedanken zu der Hexe zur\u00fcck, die dich zuvor \u00fcberfallen hat. Was auch immer dieser Ort ist \u2013 sie schien verzweifelt versucht zu sein, dich davon abzuhalten, ihn zu erreichen \u2026 Du kannst nur hoffen, dass du keinen Fehler begangen hast, indem du hierhergekommen bist.</i>\n(<resolution><b>A2</b>)"
+                "text": "<b>Falls die Gegnerin Yuki-onna <i> (Die Mondk\u00f6nigin) </i> im Spiel war, w\u00e4hrend die Szene vorger\u00fcckt ist:</b>\n<blockquote>Bevor du die Festung betrittst, wirfst du noch einen letzten, vorsichtigen Blick zur\u00fcck in den heulenden Schneesturm. Die Hexe, die dich verfolgt hat, ist immer noch irgendwo da drau\u00dfen \u2026 Du kannst nur hoffen, dass sie, was auch immer dieser Ort sein mag, sich genauso davor f\u00fcrchtet, ihn zu betreten, wie du \u2026</blockquote>\n(<resolution><b>A1</b>)\n<hr>\n<b>Falls der Gegner Yuki-onna <i> (Die Mondk\u00f6nigin) </i> zu Beginn der Szene im Siegpunktestapel war:</b>\n<blockquote>W\u00e4hrend du die Treppe zur Festung hinaufsteigst, kehren deine Gedanken zu der Hexe zur\u00fcck, die dich zuvor \u00fcberfallen hat. Was auch immer dieser Ort ist \u2013 sie schien verzweifelt versucht zu sein, dich davon abzuhalten, ihn zu erreichen \u2026 Du kannst nur hoffen, dass du keinen Fehler begangen hast, indem du hierhergekommen bist.</blockquote>\n(<resolution><b>A2</b>)"
+            }
+        },
+        "fd298832-9b3d-4853-bf97-d02fbb175a1a": {
+            "name": "Exodus-Pagode",
+            "front": {
+                "text": "<for> Sobald die Ermittlerphase endet: Jeder Ermittler an der <name> f\u00fchrt eine <willpower>-Probe (2) durch. Falls die Probe misslingt, nimm 1 Horror.",
+                "flavor_text": "Die Nutzung des Fluchtwegs des Palastes war mit einer solchen Schande verbunden, dass niemand, der dies tat, jemals zur\u00fcckkehrte.",
+                "traits": "Oberseite."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Dieser Geheimgang wurde f\u00fcr die Mitglieder des K\u00f6nigshofs angelegt, um in Krisenzeiten als geheimer Fluchtweg aus dem Palast zu dienen.",
+                "traits": "Oberseite."
+            }
+        },
+        "4798a53b-f4aa-4542-ae09-60dab2ebcfb9": {
+            "name": "Atempause des Feiglings",
+            "front": {
+                "text": "<action>: <b>Verhandlung.</b> <i>St\u00fcrze dich die Klippen hinab.</i> Alle Gegner, die mit dir in einen Kampf verwickelt sind werden besiegt. Du bist besiegt und erleidest ein k\u00f6rperliches Trauma.",
+                "flavor_text": "Die W\u00e4chter gew\u00e4hrten denjenigen, die den Palast verlassen hatten, gn\u00e4digerweise eine letzte Chance, ihre Ehre wiederherzustellen.",
+                "traits": "Berg. Durchgang."
+            },
+            "back": {
+                "name": "Gebirgspass",
+                "text": "Als zus\u00e4tzliche Kosten f\u00fcr das Betreten von Gebirgspass m\u00fcssen Ermittler f\u00fcr jeden Hinweis an ihrem aktuellen Ort eine zus\u00e4tzliche Aktion aufwenden.",
+                "flavor_text": "Ein t\u00fcckischer Pfad schl\u00e4ngelt sich durch den blendenden Schnee und f\u00fchrt dich langsam zum Gipfel...",
+                "traits": "Berg."
+            }
+        },
+        "f54bfa62-e922-4dcc-9632-77ac04a175d3": {
+            "name": "Augusts Ende",
+            "front": {
+                "text": "<b>Heimgesucht \u2014</b> Platziere 1 Hinweis auf <name> <i>(aus dem Markervorrat)</i>.",
+                "flavor_text": "Bevor der Bund gebrochen wurde, wurden Onigawas Schreinm\u00e4gde im Tempel von August aufgezogen und ausgebildet, um sie auf ein Leben im Dienst vorzubereiten.",
+                "victory": "Sieg 1.",
+                "traits": "Berg. Heiligtum. Ruinen."
+            },
+            "back": {
+                "name": "Gebirgspass",
+                "text": "Als zus\u00e4tzliche Kosten f\u00fcr das Betreten von Gebirgspass m\u00fcssen Ermittler f\u00fcr jeden Hinweis an ihrem aktuellen Ort eine zus\u00e4tzliche Aktion aufwenden.",
+                "flavor_text": "Ein t\u00fcckischer Pfad schl\u00e4ngelt sich durch den blendenden Schnee und f\u00fchrt dich langsam zum Gipfel...",
+                "traits": "Berg."
+            }
+        },
+        "9f5ca38d-90a0-4e73-bc68-ca7aabbc57ce": {
+            "name": "Blutrotes Omen",
+            "front": {
+                "text": "<for> Nachdem <name> enth\u00fcllt wurde: R\u00fccke die Szene vor. <i>(Maximal einmal pro Spiel.)</i>\n<for> Sobald die Ermittlerphase endet: Falls weniger als 1<per_large> Hinweise auf <name> liegen, platziere 1 Hinweis aus dem Markervorrat darauf.",
+                "flavor_text": "Die Bedeutung der geheimnisvollen Rune, die in die Schneewehe geritzt wurde, ist sofort klar: Kehr um. Sofort.",
+                "traits": "Berg. Ritualst\u00e4tte."
+            },
+            "back": {
+                "name": "Gebirgspass",
+                "text": "Als zus\u00e4tzliche Kosten f\u00fcr das Betreten von Gebirgspass m\u00fcssen Ermittler f\u00fcr jeden Hinweis an ihrem aktuellen Ort eine zus\u00e4tzliche Aktion aufwenden.\n \n",
+                "flavor_text": "Ein t\u00fcckischer Pfad schl\u00e4ngelt sich durch den blendenden Schnee und f\u00fchrt dich langsam zum Gipfel...",
+                "traits": "Berg."
+            }
+        },
+        "9d193aa0-9971-4081-a7f2-6e1396e5ca3b": {
+            "name": "Empyreanische Weite",
+            "front": {
+                "text": "<for> Sobald <name> enth\u00fcllt wurde: F\u00fcge dem Chaosbeutel einen <frost>-Marker hinzu. Falls dies nicht m\u00f6glich ist, f\u00fcge dem Chaosbeutel stattdessen 2<curse>-Marker hinzu.",
+                "flavor_text": "Die K\u00e4lte wird noch bei\u00dfender, w\u00e4hrend du beobachtest, wie hypnotische Mondstrahlen \u00fcber die zerkl\u00fcfteten, kristallartigen Formationen streuen, die die schmale Br\u00fccke flankieren.",
+                "traits": "Berg. Durchgang."
+            },
+            "back": {
+                "name": "Gebirgspass",
+                "text": "Als zus\u00e4tzliche Kosten f\u00fcr das Betreten von Gebirgspass m\u00fcssen Ermittler f\u00fcr jeden Hinweis an ihrem aktuellen Ort eine zus\u00e4tzliche Aktion aufwenden.",
+                "flavor_text": "Ein t\u00fcckischer Pfad schl\u00e4ngelt sich durch den blendenden Schnee und f\u00fchrt dich langsam zum Gipfel...",
+                "traits": "Berg."
+            }
+        },
+        "fa8ae1b1-9b29-4380-b42c-8c44243dabe8": {
+            "name": "Gefrorener Altar",
+            "front": {
+                "text": "<free>: <i>Sprich ein Gebet.</i> Mache eine <t>Aspekt</t>-Vorteilskarte bereit, die du kontrollierst. <i>(Maximal einmal pro Spiel.)</i>",
+                "flavor_text": "Einst von den Rangern des Augusts sorgf\u00e4ltig gepflegt, ruht der Schrein dieses W\u00e4chters nun in einem eisigen Grab.",
+                "subtitle": "Schrein von Yukihyo",
+                "victory": "Sieg 1.",
+                "traits": "Berg. H\u00f6hle. Heiligtum."
+            },
+            "back": {
+                "name": "Gebirgspass",
+                "text": "Als zus\u00e4tzliche Kosten f\u00fcr das Betreten von Gebirgspass m\u00fcssen Ermittler f\u00fcr jeden Hinweis an ihrem aktuellen Ort eine zus\u00e4tzliche Aktion aufwenden.",
+                "flavor_text": "Ein t\u00fcckischer Pfad schl\u00e4ngelt sich durch den blendenden Schnee und f\u00fchrt dich langsam zum Gipfel...",
+                "traits": "Berg."
+            }
+        },
+        "e63ca3ff-cd8e-4cca-bb24-df033bd658cb": {
+            "name": "Gletscher-Arkade",
+            "front": {
+                "text": "Als zus\u00e4tzliche Kosten um die <name> verlassen zu k\u00f6nnen: F\u00fchre eine <agility>-Probe (3) durch. Falls die Probe misslingt, nimm 1 Schaden. Falls ein <frost>-Marker w\u00e4hrend dieser Probe enth\u00fcllt wird misslingt die Probe automatisch.",
+                "flavor_text": "Das Rauschen eines nahegelegenen Wasserfalls lenkt deine Aufmerksamkeit auf die weit ge\u00f6ffnete M\u00fcndung einer kristallklaren S\u00e4ulenhalle.",
+                "traits": "Berg. H\u00f6hle."
+            },
+            "back": {
+                "name": "Gebirgspass",
+                "text": "Als zus\u00e4tzliche Kosten f\u00fcr das Betreten von Gebirgspass m\u00fcssen Ermittler f\u00fcr jeden Hinweis an ihrem aktuellen Ort eine zus\u00e4tzliche Aktion aufwenden.",
+                "flavor_text": "Ein t\u00fcckischer Pfad schl\u00e4ngelt sich durch den blendenden Schnee und f\u00fchrt dich langsam zum Gipfel...",
+                "traits": "Berg."
+            }
+        },
+        "62d5408d-3511-4f34-ae7e-43decdf4bb03": {
+            "name": "Reichweite des Kanon",
+            "front": {
+                "text": "<for> Sobald <name> enth\u00fcllt wurde: R\u00fccke die Szene vor. <i>(Maximal einmal pro Spiel.)</i>",
+                "flavor_text": "Ein merkw\u00fcrdiger Felsvorsprung ragt aus einem nahegelegenen Felsen hervor, als w\u00fcrde eine offene Hand nach dem Himmel greifen.",
+                "victory": "Sieg 1.",
+                "traits": "Berg. Heiligtum."
+            },
+            "back": {
+                "name": "Gebirgspass",
+                "text": "Als zus\u00e4tzliche Kosten f\u00fcr das Betreten von Gebirgspass m\u00fcssen Ermittler f\u00fcr jeden Hinweis an ihrem aktuellen Ort eine zus\u00e4tzliche Aktion aufwenden.",
+                "flavor_text": "Ein t\u00fcckischer Pfad schl\u00e4ngelt sich durch den blendenden Schnee und f\u00fchrt dich langsam zum Gipfel...",
+                "traits": "Berg."
+            }
+        },
+        "8ab50a09-11a0-4769-ad7e-22b4e9458f32": {
+            "name": "Schneebedeckte Festung",
+            "front": {
+                "text": "<action> Falls keine Hinweise auf <name> liegen, gib alle deine Hinweise aus: <b>Aufgeben.</b> <i>Du suchst Schutz in der Festung.</i>",
+                "flavor_text": "Diese uralte Festung wurde von den Offizieren des August als Geburtsort der W\u00e4chter angesehen.",
+                "victory": "Sieg 1.",
+                "traits": "Berg. Festung."
+            },
+            "back": {
+                "name": "Gebirgspass",
+                "text": "Als zus\u00e4tzliche Kosten f\u00fcr das Betreten von Gebirgspass m\u00fcssen Ermittler f\u00fcr jeden Hinweis an ihrem aktuellen Ort eine zus\u00e4tzliche Aktion aufwenden.",
+                "flavor_text": "Ein t\u00fcckischer Pfad schl\u00e4ngelt sich durch den blendenden Schnee und f\u00fchrt dich langsam zum Gipfel...",
+                "traits": "Berg."
+            }
+        },
+        "d634cd5d-87f7-46c1-8e8c-ad2be787a3e9": {
+            "name": "Schweflige Quellen",
+            "front": {
+                "text": "<action>: <i>Annehmlichkeiten des \"Alltags\"</i>. Du kannst entweder 1 Schad und 1 Horror deines Ermittlers heilen oder den Chaosbeutel nach 1 <frost>-Marker durchsuchen und diesen in den Markervorrat zur\u00fccklegen.<i>(Maximal einmal pro Ermittler.)</i>",
+                "flavor_text": "Die vulkanische Aktivit\u00e4t des Berges hat eine Reihe von geothermischen Becken entstehen lassen, die st\u00e4ndig durch schmelzendes Gletschereis gespeist werden.",
+                "traits": "Berg. Lagerplatz."
+            },
+            "back": {
+                "name": "Gebirgspass",
+                "text": "Als zus\u00e4tzliche Kosten f\u00fcr das Betreten von Gebirgspass m\u00fcssen Ermittler f\u00fcr jeden Hinweis an ihrem aktuellen Ort eine zus\u00e4tzliche Aktion aufwenden.",
+                "flavor_text": "Ein t\u00fcckischer Pfad schl\u00e4ngelt sich durch den blendenden Schnee und f\u00fchrt dich langsam zum Gipfel...",
+                "traits": "Berg."
+            }
+        },
+        "a4c15b8d-8e53-48b9-8bbb-7dbf81f3fddd": {
+            "name": "Terrasse des Gerichts",
+            "front": {
+                "text": "<b>Heimgesucht \u2014</b> Nimm 1 Horror.",
+                "flavor_text": "Direkt in die Felswand gehauen, wachen einsch\u00fcchternde Statuen der ehemaligen Herrscher von Onigawa \u00fcber den schmalen Fu\u00dfweg, der zum Gipfel des Berges f\u00fchrt.",
+                "traits": "Berg. Durchgang."
+            },
+            "back": {
+                "name": "Gebirgspass",
+                "text": "Als zus\u00e4tzliche Kosten f\u00fcr das Betreten von Gebirgspass m\u00fcssen Ermittler f\u00fcr jeden Hinweis an ihrem aktuellen Ort eine zus\u00e4tzliche Aktion aufwenden.",
+                "flavor_text": "Ein t\u00fcckischer Pfad schl\u00e4ngelt sich durch den blendenden Schnee und f\u00fchrt dich langsam zum Gipfel...",
+                "traits": "Berg."
+            }
+        },
+        "2c49bd76-de4f-4147-829e-a76ebdcf59e4": {
+            "name": "Weg zum Kokoro",
+            "front": {
+                "text": "<action><action>: <i>D\u00fcnnes Eis.</i> Entdecke einen Hinweis am <name>. <i>(Maximal einmal pro Ermittler.)</i>",
+                "flavor_text": "Eine d\u00fcnne Frostschicht bedeckt die Steintreppe, die hinauf zum Tor f\u00fchrt, das den Rand des Gebirgspasses markiert.",
+                "traits": "Oberseite. Stufen."
+            },
+            "back": {
+                "name": "Gebirgspass",
+                "text": "Als zus\u00e4tzliche Kosten f\u00fcr das Betreten von Gebirgspass m\u00fcssen Ermittler f\u00fcr jeden Hinweis an ihrem aktuellen Ort eine zus\u00e4tzliche Aktion aufwenden.",
+                "flavor_text": "Ein t\u00fcckischer Pfad schl\u00e4ngelt sich durch den blendenden Schnee und f\u00fchrt dich langsam zum Gipfel...",
+                "traits": "Berg."
+            }
+        },
+        "c5cb228e-af9f-4ca1-ba44-5b3280a7f528": {
+            "name": "Winterkalte Katakomben",
+            "front": {
+                "text": "<b>Heimgesucht \u2014</b> Ziehe die oberste Karte des Begegnungsdecks.",
+                "flavor_text": "Die geehrten Helden wurden in dieser eisigen Gruft beigesetzt, damit ihre sterblichen \u00dcberreste gut erhalten blieben, falls die W\u00e4chter ihre treuen Diener jemals wieder ben\u00f6tigen sollten.",
+                "victory": "Sieg 1.",
+                "traits": "Berg. H\u00f6hle. Friedhof."
+            },
+            "back": {
+                "name": "Gebirgspass",
+                "text": "Als zus\u00e4tzliche Kosten f\u00fcr das Betreten von Gebirgspass m\u00fcssen Ermittler f\u00fcr jeden Hinweis an ihrem aktuellen Ort eine zus\u00e4tzliche Aktion aufwenden.",
+                "flavor_text": "Ein t\u00fcckischer Pfad schl\u00e4ngelt sich durch den blendenden Schnee und f\u00fchrt dich langsam zum Gipfel...",
+                "traits": "Berg."
             }
         }
     },
