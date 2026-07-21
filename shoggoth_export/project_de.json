@@ -14,6 +14,9 @@
         },
         "196125a5-3d26-48ae-9eaf-b57e0b883196": {
             "name": "encounter-sword-b.png"
+        },
+        "4f485ace-5d62-4c3e-905b-194d814443b1": {
+            "name": "encounter-candle-b.png"
         }
     },
     "cards": {
@@ -284,7 +287,8 @@
             },
             "back": {
                 "name": "In ihren H\u00e4nden",
-                "text": "Dir wird klar, dass du nicht einmal mehr den geringsten Versuch unternimmst, nach Miyu zu suchen; deine ganze Aufmerksamkeit gilt nun ausschlie\u00dflich dem Ausweichen vor den Monstern, die durch die G\u00e4nge des Palastes patrouillieren. Du rennst los und suchst verzweifelt nach einem Weg aus dem Palast...\nJeder Ermittler, der nicht aufgegeben hat, wird besiegt.\n\n\n"
+                "text": "Jeder Ermittler, der nicht aufgegeben hat, wird besiegt.\n\n\n",
+                "flavor_text": "Dir wird klar, dass du nicht einmal mehr den geringsten Versuch unternimmst, nach Miyu zu suchen; deine ganze Aufmerksamkeit gilt nun ausschlie\u00dflich dem Ausweichen vor den Monstern, die durch die G\u00e4nge des Palastes patrouillieren. Du rennst los und suchst verzweifelt nach einem Weg aus dem Palast..."
             }
         },
         "8f0e6e41-31a5-4b22-9518-9fff0baa2245": {
@@ -304,7 +308,7 @@
                 "flavor_text": "Flackernde Lichter spielen mit den Schatten, w\u00e4hrend du durch die engen G\u00e4nge des Palastes schreitest. Abgesehen von dem geisterhaften M\u00e4dchen, dem du im Eingangsbereich begegnet bist, gibt es im Inneren des Palastes kaum Anzeichen von Leben, doch geschw\u00e4rzte Handabdr\u00fccke haften wie Asche an den W\u00e4nden \u2026 Hat es tats\u00e4chlich jemand geschafft, die Belagerung hinter diesen Mauern zu \u00fcberstehen?"
             },
             "back": {
-                "name": "The Offal Extremities",
+                "name": "<unique> Innereien und Extremit\u00e4ten",
                 "text": "Gewaltig. J\u00e4ger 1.\n<spawn> Schlichtes Denkmal.\nInnereien und Extremit\u00e4ten k\u00f6nnen nicht besiegt werden.\n<for> Wenn Schaden zugef\u00fcgt werden w\u00fcrde: Entferne stattdessen 1 Verderben von dieser Karte oder, falls sich kein Verderben darauf befindet, ersch\u00f6pfe es.",
                 "flavor_text": "Mit den k\u00f6niglichen Botschafter hatte man immer alle H\u00e4nde voll zu tun.",
                 "subtitle": "Diplomatische Kontaktaufnahme",
@@ -314,12 +318,13 @@
         "000c23ab-cfc4-4a73-9032-5343898639fc": {
             "name": "H\u00e4nde weg!",
             "front": {
-                "text": "<for> Zu Beginn der Gegnerphase: Lege 1 Verderben auf Innereien und Extremit\u00e4ten.",
+                "text": "<for> Zu Beginn der Gegnerphase: Platziere 1 Verderben auf Innereien und Extremit\u00e4ten.",
                 "flavor_text": "Ein abscheuliches, rasendes Ungeheuer verfolgt dich nun durch die Hallen des Palastes, und pl\u00f6tzlich ergeben die mysteri\u00f6sen Handabdr\u00fccke, die jede Oberfl\u00e4che bedecken, ein wenig mehr Sinn \u2026"
             },
             "back": {
-                "name": "Lending a Hand",
-                "text": "Trotz eurer gr\u00f6\u00dften Anstrengungen scheint es euch nur zu gelingen, die Kreatur vor\u00fcbergehend aufzuhalten; jedes Mal, wenn es euch gelingt, eines ihrer gelblichen Gliedma\u00dfen abzuhacken, taucht eifrig ein neues aus dem Inneren der sich windenden Masse auf, um dessen Platz einzunehmen. Schlimmer noch: Der bei\u00dfende Gestank von Rauch und brennendem Holz hat begonnen, in jedem Raum des Palastes zu verharren...\nMische das beiseitegelegte H\u00e4ndischer Horror-Begegnungsset und den Begegnungs-Ablagestapel in das Begegnungsdeck ein.\nLege 1 Verderben auf jeden Gegner im Spiel.\n\n"
+                "name": "Unter die Arme greifen",
+                "text": "Mische das beiseitegelegte H\u00e4ndischer Horror-Begegnungsset und den Begegnungs-Ablagestapel in das Begegnungsdeck ein.\nLege 1 Verderben auf jeden Gegner im Spiel.\n\n",
+                "flavor_text": "Trotz eurer gr\u00f6\u00dften Anstrengungen scheint es euch nur zu gelingen, die Kreatur vor\u00fcbergehend aufzuhalten; jedes Mal, wenn es euch gelingt, eines ihrer gelblichen Gliedma\u00dfen abzuhacken, taucht eifrig ein neues aus dem Inneren der sich windenden Masse auf, um dessen Platz einzunehmen. Schlimmer noch: Der bei\u00dfende Gestank von Rauch und brennendem Holz hat begonnen, in jedem Raum des Palastes zu verharren..."
             }
         },
         "e2f5d4db-bb23-43a3-90d1-8dda38bfa574": {
@@ -364,7 +369,8 @@
             },
             "back": {
                 "name": "Sackgassen",
-                "text": "Du hast immer wieder das Gef\u00fchl, einen fl\u00fcchtigen Blick auf das M\u00e4dchen zu erhaschen, das dich aus dem Schatten beobachtet hat, doch wann immer du dich umdrehst, ist sie nirgends zu sehen. Miyu \u2013 falls sie es wirklich war \u2013 scheint sich ziemlich gut versteckt zu haben\u2026\nDu schaust nach unten und seufzt, als dir bewusst wird, dass du in einer Lache frischen Blutes stehst. Als du deinen Fu\u00df aus der Blutlache hebst, bemerkst du, dass die Lache eine scharfe Kante hat, als w\u00fcrde das Blut durch einen Spalt im Boden abflie\u00dfen...\nLege die Karte Versteckter Durchgang verdeckt ins Spiel.\n\n\n"
+                "text": "Lege die Karte Versteckter Durchgang verdeckt ins Spiel.\n\n\n",
+                "flavor_text": "Du hast immer wieder das Gef\u00fchl, einen fl\u00fcchtigen Blick auf das M\u00e4dchen zu erhaschen, das dich aus dem Schatten beobachtet hat, doch wann immer du dich umdrehst, ist sie nirgends zu sehen. Miyu \u2013 falls sie es wirklich war \u2013 scheint sich ziemlich gut versteckt zu haben\u2026\nDu schaust nach unten und seufzt, als dir bewusst wird, dass du in einer Lache frischen Blutes stehst. Als du deinen Fu\u00df aus der Blutlache hebst, bemerkst du, dass die Lache eine scharfe Kante hat, als w\u00fcrde das Blut durch einen Spalt im Boden abflie\u00dfen..."
             }
         },
         "c53361f3-af93-4aed-967e-a5984046e4f6": {
@@ -423,7 +429,7 @@
             },
             "back": {
                 "name": "Mit den Augen eines Kindes",
-                "text": "<b>Falls die Ermittler die h\u00e4ngende Schaufensterpuppe noch nicht geborgen und die weggeworfene Schaufensterpuppe noch nicht gefunden haben:</b>\nTrotz aller Bem\u00fchungen kannst du den Zweck der seltsamen Skulptur hinter dem Altar nicht erkennen; ein kaum wahrnehmbarer Haarriss, der quer \u00fcber die Mitte des Gesichts verl\u00e4uft, verspottet dich. Dir f\u00e4llt auf, dass beide Augenh\u00f6hlen hohl sind, als h\u00e4tte dort urspr\u00fcnglich etwas Platz finden sollen...\nDrehe diese Szene wieder um. (Du kannst sie sp\u00e4ter erneut vorr\u00fccken.)\n<hr>\n<b>Wenn die Ermittler sowohl die h\u00e4ngende Puppe als auch die weggeworfene Puppe geborgen haben:</b>\nInstinktiv setzt ihr die Schaufensterpuppen in die Augenh\u00f6hlen der Skulptur ein. Als ihr zur\u00fccktretet, gibt ein Uhrwerkmechanismus hinter der Wand ein ged\u00e4mpftes Klicken von sich \u2026 und das Gesicht des Kindes gleitet auf und gibt einen versteckten Durchgang frei. Ihr eilt durch die \u00d6ffnung und bemerkt kaum, wie sich die Skulptur hinter euch wieder schlie\u00dft \u2026(<resolution>A1)\n\n"
+                "text": "<b>Falls die Ermittler die h\u00e4ngende Schaufensterpuppe noch nicht geborgen und die weggeworfene Schaufensterpuppe noch nicht gefunden haben:</b>\nTrotz aller Bem\u00fchungen kannst du den Zweck der seltsamen Skulptur hinter dem Altar nicht erkennen; ein kaum wahrnehmbarer Haarriss, der quer \u00fcber die Mitte des Gesichts verl\u00e4uft, verspottet dich. Dir f\u00e4llt auf, dass beide Augenh\u00f6hlen hohl sind, als h\u00e4tte dort urspr\u00fcnglich etwas Platz finden sollen...\nDrehe diese Szene wieder um. (Du kannst sie sp\u00e4ter erneut vorr\u00fccken.)\n<hr>\n<b>Wenn die Ermittler sowohl die h\u00e4ngende Puppe als auch die weggeworfene Puppe geborgen haben:</b>\nInstinktiv setzt ihr die Schaufensterpuppen in die Augenh\u00f6hlen der Skulptur ein. Als ihr zur\u00fccktretet, gibt ein Uhrwerkmechanismus hinter der Wand ein ged\u00e4mpftes Klicken von sich \u2026 und das Gesicht des Kindes gleitet auf und gibt einen versteckten Durchgang frei. Ihr eilt durch die \u00d6ffnung und bemerkt kaum, wie sich die Skulptur hinter euch wieder schlie\u00dft \u2026(<resolution>A1)"
             }
         },
         "47850c36-6532-419f-a153-5c4279cdbc51": {
@@ -500,7 +506,7 @@
                 "traits": "Erdgeschoss. Heiligtum."
             },
             "back": {
-                "name": "Palace Wing",
+                "name": "Palastfl\u00fcgel",
                 "text": "",
                 "flavor_text": "Seltsame Spaliere aus roten Ranken scheinen das Innere des Palastes \u00fcberwuchert zu haben...",
                 "traits": "Erdgeschoss."
@@ -566,7 +572,7 @@
         "c823572e-1bc4-4c9b-82ca-64f8cc2da8ae": {
             "name": "Eingangshalle",
             "front": {
-                "text": "<action> Wenn sich keine Gegner im Spiel befinden und alle Orte im Spiel aufgedeckt sind: Gib auf. Das kann doch nicht wahr sein...",
+                "text": "<action> Wenn sich keine Gegner im Spiel befinden und alle Orte im Spiel aufgedeckt sind: <b>Aufgeben.</b> Das kann doch nicht wahr sein...",
                 "flavor_text": "Das M\u00e4dchen ist weg, aber du k\u00f6nntest schw\u00f6ren, dass du sie immer wieder aus dem Augenwinkel siehst...",
                 "traits": "Erdgeschoss. Zentral."
             },
@@ -638,7 +644,7 @@
                 "traits": "Erdgeschoss."
             },
             "back": {
-                "name": "Palace Wing",
+                "name": "Palastfl\u00fcgel",
                 "text": "",
                 "flavor_text": "Seltsame Spaliere aus roten Ranken scheinen das Innere des Palastes \u00fcberwuchert zu haben...",
                 "traits": "Erdgeschoss."
@@ -677,14 +683,14 @@
         "516ac804-ddb2-45e7-bb37-fee9f5a856a5": {
             "name": "Meditationskammer",
             "front": {
-                "text": "<free> Fl\u00fcstere ein Gebet. Mache eine <b>Aspekt</b>-<br>Vorteilskarte bereit, die du kontrollierst. (Maximal einmal pro Spiel.)",
+                "text": "<free> Fl\u00fcstere ein Gebet. Mache eine <b>Aspekt</b>-Vorteilskarte bereit, die du kontrollierst. (Maximal einmal pro Spiel.)",
                 "flavor_text": "Das reflektierte Licht des zerbrochenen Spiegels, der \u00fcber dem schlichten Schrein h\u00e4ngt, desorientiert dich...",
                 "subtitle": "Schrein des Kujaku",
                 "victory": "Sieg 1.",
                 "traits": "Erdgeschoss. Heiligtum."
             },
             "back": {
-                "name": "Palace Wing",
+                "name": "Palastfl\u00fcgel",
                 "text": "",
                 "flavor_text": "Seltsame Spaliere aus roten Ranken scheinen das Innere des Palastes \u00fcberwuchert zu haben...",
                 "traits": "Erdgeschoss."
@@ -713,7 +719,7 @@
                 "traits": "Erdgeschoss. Durchgang."
             },
             "back": {
-                "name": "Palace Wing",
+                "name": "Palastfl\u00fcgel",
                 "text": "",
                 "flavor_text": "Seltsame Spaliere aus roten Ranken scheinen das Innere des Palastes \u00fcberwuchert zu haben...",
                 "traits": "Erdgeschoss."
@@ -742,7 +748,7 @@
                 "traits": "Erdgeschoss. Werkstatt."
             },
             "back": {
-                "name": "Palace Wing",
+                "name": "Palastfl\u00fcgel",
                 "text": "",
                 "flavor_text": "Seltsame Spaliere aus roten Ranken scheinen das Innere des Palastes \u00fcberwuchert zu haben...",
                 "traits": "Erdgeschoss."
@@ -756,7 +762,7 @@
                 "traits": "Erdgeschoss."
             },
             "back": {
-                "name": "Palace Wing",
+                "name": "Palastfl\u00fcgel",
                 "text": "",
                 "flavor_text": "Seltsame Spaliere aus roten Ranken scheinen das Innere des Palastes \u00fcberwuchert zu haben...",
                 "traits": "Erdgeschoss."
@@ -765,12 +771,12 @@
         "835cc6de-b44d-44cf-b7de-3f962eda5eac": {
             "name": "Schlichtes Denkmal",
             "front": {
-                "text": "<b>Heimgesucht </b> -- Enth\u00fclle einen Chaosmarker aus dem Chaosbeutel. Wenn es sich um einen Nicht-<elder_sign>- oder <blessing>- symbol handelt, nimm 1 Horror. (L\u00f6se den Heimgesucht-Effekt dieses Ortes aus, sobald die Probe einer Ermittlung an diesem Ortes fehlschl\u00e4gt.)",
+                "text": "<b>Heimgesucht </b> -- Enth\u00fclle einen Chaosmarker aus dem Chaosbeutel. Wenn es sich um einen Nicht-<elder_sign>- oder <blessing>- symbol handelt, nimm 1 Horror. (L\u00f6se den Heimgesucht-Effekt dieses Ortes aus, sobald die Probe einer Ermittlung an diesem Ort fehlschl\u00e4gt.)",
                 "flavor_text": "Eine Gedenkfeier bei Kerzenschein ehrt das Andenken an ehemalige Helden von Onigawa.",
                 "traits": "Erdgeschoss."
             },
             "back": {
-                "name": "Palace Wing",
+                "name": "Palastfl\u00fcgel",
                 "text": "",
                 "flavor_text": "Seltsame Spaliere aus roten Ranken scheinen das Innere des Palastes \u00fcberwuchert zu haben...",
                 "traits": "Erdgeschoss."
@@ -871,7 +877,7 @@
                 "traits": "Keller. Ritualst\u00e4tte."
             },
             "back": {
-                "name": "Concealed Passageway",
+                "name": "Versteckter Durchgang",
                 "text": "",
                 "flavor_text": "Eine Blutlache verschwindet unter den unebenen Dielen...",
                 "traits": "Erdgeschoss. Durchgang."
@@ -900,7 +906,7 @@
                 "traits": "Erdgeschoss."
             },
             "back": {
-                "name": "Palace Wing",
+                "name": "Palastfl\u00fcgel",
                 "text": "",
                 "flavor_text": "Seltsame Spaliere aus roten Ranken scheinen das Innere des Palastes \u00fcberwuchert zu haben...",
                 "traits": "Erdgeschoss."
@@ -1029,7 +1035,7 @@
             "name": "Flammenwoge",
             "front": {
                 "text": "<rev> F\u00fchre eine <agility>-Probe (3) durch. Wenn die Probe misslingt, h\u00e4nge <name> diese Karte an den n\u00e4chstgelegenen Ort ohne eine Kopie von <name> an. Maximal 1 pro Ort.\n<for>Wenn die Ermittlerphase beginnt: Jeder Gegner und jeder Ermittler am angeh\u00e4ngten Ort erleidet 1 Schaden.",
-                "flavor_text": "<family \"ArnoPro-Italic\"><size 7.5>Hungry flames begin leaping from torches and lanterns, racing up into the rafters of the palace...",
+                "flavor_text": "Heftige Flammen schlagen aus Fackeln und Laternen empor und breiten sich rasch bis in die Dachsparren des Palastes aus...",
                 "traits": "Gefahr."
             },
             "back": {}
@@ -1306,8 +1312,8 @@
         "2f53d528-be8d-4e93-ad69-3a5d9ea17c94": {
             "name": "Camera Obscura",
             "front": {
-                "text": "Du erh\u00e4ltst +1 <willpower>.\n<action> Wenn <name> bereit ist: <b>Ausweichen.</b> Addiere deine <Willenskraft> zu deinem Fertigkeitswert f\u00fcr diese Probe. Wenn du erfolgreich bist und es sich bei dem entkommenen Gegner um einen <t>Geist</t>- oder <t>Yokai</t>-Gegner handelt, kannst du <name> ersch\u00f6pfen, um ihm 1 Schaden zuzuf\u00fcgen.",
-                "flavor_text": "The strange contraption seems to generate its own phantom film specifically designed to capture images of spirits...",
+                "text": "Du erh\u00e4ltst +1 <willpower>.\n<action> Wenn <name> bereit ist: <b>Ausweichen.</b> Addiere deine <Willpower> zu deinem Fertigkeitswert f\u00fcr diese Probe. Wenn du erfolgreich bist und es sich bei dem entkommenen Gegner um einen <t>Geist</t>- oder <t>Yokai</t>-Gegner handelt, kannst du <name> ersch\u00f6pfen, um ihm 1 Schaden zuzuf\u00fcgen.",
+                "flavor_text": "Das seltsame Ger\u00e4t scheint seinen eigenen Phantomfilm zu erzeugen, der speziell daf\u00fcr entwickelt wurde, Bilder von Geistern aufzunehmen...",
                 "subtitle": "Gespenstisches Filament",
                 "traits": "Gegenstand. Werkzeug. Relikt. Okkult. "
             },
@@ -2070,6 +2076,188 @@
                 "text": "<rev> Jeder Ort erh\u00e4lt +1 Schleierwert bis zum Ende der Runde.",
                 "flavor_text": "Als der gro\u00dfe Kirschbaum im Zentrum der Stadt pl\u00f6tzlich verwelkte, f\u00fchrte dieses unheilvolle Zeichen selbst bei den treuesten Verteidigern Onigawas zu einem schweren Einbruch der Kampfmoral.",
                 "traits": "Doktrin. Erinnerung."
+            },
+            "back": {}
+        },
+        "0ffb27ce-a439-4f20-82b9-cc946ff048d8": {
+            "name": "<unique> Kayako",
+            "front": {
+                "text": "J\u00e4ger 2.\n<spawn> Trostloser Ankerplatz.\n<b>Rache</b> -- Anstatt Kayako abzulegen, entferne allen Schaden und Verderben von ihr, dann ersch\u00f6pfe Kakayo und bewege sie zu Trostloser Ankerplatz.",
+                "flavor_text": "Jahrhunderte sind vergangen, doch die Jungfrau vom Schwarzen Wasser hegt immer noch ihren Groll\u2026",
+                "subtitle": "Jungfrau vom Schwarzen Wasser",
+                "traits": "Yokai. Elite. Cursed."
+            },
+            "back": {}
+        },
+        "9d6c6700-0e3c-4877-9b85-16774381c9c3": {
+            "name": "Unverziehen",
+            "front": {
+                "text": "Wagnis.\n<rev> Wenn Kayako im Spiel ist, lege 1 Verderben auf sie und heile den gesamten Schaden von ihr. Ansonsten suche Kayako <i>(Jungfrau des Schwarzen Wassers)</i> im Begegnungsdeck und ziehe sie. Mische den Begegnungsstapel.",
+                "flavor_text": "Sie hat es nicht vergessen \u2026 und vergeben hat sie es auch nicht.",
+                "traits": "Omen."
+            },
+            "back": {}
+        },
+        "b3cb1fee-1899-4328-80e1-7503851ffa4d": {
+            "name": "Aschenes Fegefeuer",
+            "front": {
+                "text": "<rev> H\u00e4nge <name> an den n\u00e4chstgelegenen Ort ohne Kopie von <name> an. Maximal 1 pro Ort. Gegner an diesem Ort erhalten Zur\u00fcckschlagen.\n<reaction> Nachdem ein Gegner an diesem Ort besiegt wird: Lege <name> ab.",
+                "flavor_text": " Die Feuer des Krieges machten der \u00fcberf\u00fcllten Stadt schnell ein Ende.",
+                "traits": "Macht."
+            },
+            "back": {}
+        },
+        "7fc998ce-607f-4b63-a8b2-dc26f5e2d943": {
+            "name": "Neuer Koloss",
+            "front": {
+                "text": "Wagnis.\n<rev> F\u00fcr jeden Ort an dem mindestens 1 Ermittler ist, musst du eines der Folgenden w\u00e4hlen:\n <bullet> F\u00fcge jedem Ermittler und Gegner an diesem Ort 1 Schaden zu.\n <bullet> Drehe einen Hinweis an diesem Ort auf seine Verderbensseite um.\nPlatziere <name> danach im Siegpunktestapel.\n",
+                "flavor_text": "Himmel und Erde erbebten gleicherma\u00dfen, als der W\u00e4chter Tsurugi seine eigene G\u00f6ttlichkeit aufgab, um sich in den Kampf zu st\u00fcrzen.",
+                "victory": "Sieg 1.",
+                "traits": "Macht."
+            },
+            "back": {}
+        },
+        "be4a1e72-02eb-405c-af77-55de943459c5": {
+            "name": "Taktiken der Tengu",
+            "front": {
+                "text": "<rev> F\u00fchre eine <willpower>-Probe (X) aus, wobei X der Schleierwert deines Ortes ist. Falls die Probe misslingt, bringe 1 zus\u00e4tzliche Karten oben vom Rally-Deck zu Beginn der n\u00e4chsten Ermittlerphase ins Spiel <i>(und handle ihren Enth\u00fcllungseffekt ab).</i>",
+                "flavor_text": "Bevor das Pantheon fiel, waren die Tengu die geschworenen Besch\u00fctzer der Verwalter des August. W\u00e4hrend der Belagerung wurden sie zur\u00fcckgerufen, um die Stadt zu verteidigen, wodurch der Berg Kokoro schutzlos blieb.",
+                "traits": "Falle."
+            },
+            "back": {}
+        },
+        "1102ba26-9b14-477a-b938-39913ab10137": {
+            "name": "Azurblauer Eiferer",
+            "front": {
+                "text": "Hinterhalt.\n<spawn> Aussichtspunkt des Meisterspions.\n<for> Sobald die Gegnerphase beginnt: F\u00fcge dem Chaosbeutel 1 <curse>-Marker hinzu.",
+                "flavor_text": "Der Azurblaue Eiferer war der erste von Onigawas Meistern, der von einem uralten \u00dcbel verf\u00fchrt wurde, doch er sollte nicht der letzte sein.",
+                "subtitle": "Verr\u00e4ter von Onigawa",
+                "victory": "Sieg 1.",
+                "traits": "Humanoid. Elite. Geist. Verflucht."
+            },
+            "back": {}
+        },
+        "4381f6d1-1bf2-4765-a1cc-75d0e9e01d39": {
+            "name": "H\u00fcllenlegion",
+            "front": {
+                "text": "Gewaltig.\n<for> Nachdem H\u00fcllenlegion ins Spiel kommt: Platziere 1 Verderben darauf.",
+                "flavor_text": "F\u00fcr viele Soldaten endete die Belagerung von Onigawa nie.",
+                "traits": "Bataillon. Geist. Verflucht."
+            },
+            "back": {}
+        },
+        "ffa146e1-582c-4f06-b11f-f607084def7e": {
+            "name": "Jadegr\u00fcner Kavalier",
+            "front": {
+                "text": "Alamiert.\n<spawn> \u00dcberwuchertes Grab.\n<for> Sobald die Gegnerphase beginnt: F\u00fcge dem Chaosbeutel 1 <curse>-Marker hinzu.\n",
+                "flavor_text": "Die schnelle Hinrichtung des Jadegr\u00fcnen Kavaliers w\u00e4hrend der Belagerung veranlasste viele Soldaten, die Vorgehensweise ihrer Befehlshaber in Frage zu stellen.",
+                "subtitle": "M\u00e4rtyrer von Onigawa",
+                "victory": "Sieg 1.",
+                "traits": "Humanoid. Elite. Geist. Verflucht."
+            },
+            "back": {}
+        },
+        "b62ed98f-c2b0-48ba-83a8-15dc2b152eb4": {
+            "name": "Scharlachroter Partisan",
+            "front": {
+                "text": "<spawn> Stehender Stein.\n<for> Sobald die Gegnerphase beginnt: F\u00fcge dem Chaosbeutel 1 <curse>-Marker hinzu.",
+                "flavor_text": "In den Wirren des Krieges schloss Onigawas feigster General einen Pakt mit einer dunklen Macht, um die Kraft zu erlangen, die n\u00f6tig war, eine ganze Armee zu besiegen.",
+                "subtitle": "R\u00e4cher von Onigawa",
+                "victory": "Sieg 1.",
+                "traits": "Humanoid. Elite. Geist. Verflucht."
+            },
+            "back": {}
+        },
+        "6859abcd-3f68-4305-972f-915617f38ee4": {
+            "name": "Unbarmherziger Pl\u00fcnderer",
+            "front": {
+                "text": "<b>Vorteil</b> -- Lege eine Nicht-Schw\u00e4che-Karte von deiner Hand ab. <i>(F\u00fchre den Vorteil-Effekt jedes Mal aus, wenn dieser Gegner in einen Kampf verwickelt wird.)</i>\n<b>Rache</b> -- Heile 1 Schaden von einem Ermittler an deinem Ort. <i>(Nachdem du diesen Gegner besieht hast, musst du den Rache-Effekt sofort ausl\u00f6sen, falls m\u00f6glich.)</i>",
+                "flavor_text": "Die Befehle der Invasoren waren eindeutig: Niemand durfte nach Hause zur\u00fcckkehren, bevor sie den Palast eingenommen hatten.",
+                "traits": "Humanoid. Geist. Verflucht."
+            },
+            "back": {}
+        },
+        "36587cbf-cb22-4d96-b8d8-83ddb74295e6": {
+            "name": "Anschlagtafel",
+            "front": {
+                "text": "<reaction> Nachdem du den letzten Hinweis an der <name> entdeckt hast: Ziehe eine Karte. <i>(Maximal einmal pro Spiel.)</i>",
+                "flavor_text": "Fast alle Papiertalismane an der Wand sind so stark verbrannt, dass sie nicht mehr lesbar sind...",
+                "traits": "Erdgeschoss."
+            },
+            "back": {
+                "name": "Palastfl\u00fcgel",
+                "text": "",
+                "flavor_text": "Seltsame Spaliere aus roten Ranken scheinen das Innere des Palastes \u00fcberwuchert zu haben...",
+                "traits": "Erdgeschoss."
+            }
+        },
+        "52cb680d-2cf0-41fe-9c79-7b6fd3a0afba": {
+            "name": "Blick des Waisenkindes",
+            "front": {
+                "text": "<for> Sobald <name> enth\u00fcllt wurde: F\u00fcge dem Chaosbeutel 1<per_large> <curse>-Marker hinzu. Wenn das nicht m\u00f6glich ist, platziere stattdessen 1 Verderben auf die aktuelle Agenda.",
+                "flavor_text": "Eine beunruhigende Skulptur, die das Gesicht eines jungen M\u00e4dchens darstellt und in die Wand eingelassen ist, starrt einen mit ihren leeren Augen an...",
+                "traits": "Erdgeschoss."
+            },
+            "back": {
+                "name": "Palastfl\u00fcgel",
+                "text": "",
+                "flavor_text": "Seltsame Spaliere aus roten Ranken scheinen das Innere des Palastes \u00fcberwuchert zu haben...",
+                "traits": "Erdgeschoss."
+            }
+        },
+        "b3fa255b-09f2-46e2-8fbf-17219027656d": {
+            "name": "Chashitsu Annex",
+            "front": {
+                "text": "<action>: <i>Teezeremonie?</i> F\u00fchre eine <willpower>-Probe (3) durch. Falls die Probe gelingt, jeder Ermittler am <name> darf 1 Horror heilen. <i>(Maximal einmal pro Spiel.)</i>",
+                "flavor_text": "Die Teekanne auf dem Tisch im kleinen Empfangsbereich ist noch warm...",
+                "traits": "Erdgeschoss."
+            },
+            "back": {
+                "name": "Palastfl\u00fcgel",
+                "text": "",
+                "flavor_text": "Seltsame Spaliere aus roten Ranken scheinen das Innere des Palastes \u00fcberwuchert zu haben...",
+                "traits": "Erdgeschoss."
+            }
+        },
+        "dcea82e6-5dd2-439a-b0de-a79c05de45a3": {
+            "name": "Beh\u00e4nde und gef\u00e4hrlich",
+            "front": {
+                "text": "Wagnis.\n<rev> W\u00e4hle einen <t>Elite</t>-Gegner im Spiel aus. Verschiebe den ausgew\u00e4hlten Gegner um eine Position in Richtung deiner aktuellen Position und f\u00fchre anschlie\u00dfend eine <Willpower>-Probe (X) durch, wobei X dem Entkommenswert des ausgew\u00e4hlten Gegners entspricht. Wenn die Probe nicht gelingt, lege 1 Verderbensmarker auf den ausgew\u00e4hlten Gegner.",
+                "flavor_text": "Egal, wohin du rennst, sie fangen dich immer ein...",
+                "traits": "Falle."
+            },
+            "back": {}
+        },
+        "03f02070-0a08-4c03-858a-ca106fb8b687": {
+            "name": "\"Madame\" Bai",
+            "front": {
+                "text": "Ambush. Hunter 1.\n<for> When the enemy phase begins: Add 1 <curse> to the chaos bag.",
+                "flavor_text": "Lady Bai was once the court's apothecary, well versed in the use and treatment of exotic poisons. When she was betrayed by a treasonous subordinate during the siege, the royal dollmaker offered a way to extend her \"life\" indefinitely...",
+                "subtitle": "Serpentis Mannequin",
+                "victory": "Victory 1.",
+                "traits": "Automata. Elite. Cursed."
+            },
+            "back": {}
+        },
+        "d247ddb7-1b33-49f8-bb9a-0a5ec9f11fc0": {
+            "name": "<unique>Hinnagami",
+            "front": {
+                "text": "Zur\u00fcckhaltend.\n<spawn> Blutroter Altar.\n<for> Sobald die Gegnerphase beginnt: Platziere 1 Verderben 1 auf jeden <t>Elite</t>-Gegner.",
+                "flavor_text": "Nachdem sich Ger\u00fcchte verbreitet hatten, dass die vom k\u00f6niglichen Puppenmacher gefertigten Puppen ihren Besitzern Gl\u00fcck br\u00e4chten, wurden seine Dienste immer gefragter...",
+                "subtitle": "Meisterin der Puppen",
+                "victory": "Sieg 1.",
+                "traits": "Humanoid. Elite. Geist. Verflucht."
+            },
+            "back": {}
+        },
+        "d9bbc939-b717-4d97-a77c-265355fc14bf": {
+            "name": "Bondage-Mannequin",
+            "front": {
+                "text": "J\u00e4ger 1.\n<spawn> Beliebiger leerer Ort.\n<for> Nachdem <name> sich bewegt: Platziere 1 Schaden auf <name>.\n",
+                "flavor_text": "Je verdorbener die Gel\u00fcste am Hof wurden, desto verdorbener wurden auch die Kreationen, mit deren Anfertigung der k\u00f6nigliche Puppenmacher beauftragt war...",
+                "subtitle": "Das Vergn\u00fcgen liegt ganz bei ihr",
+                "victory": "Sieg 1.",
+                "traits": "Automata. Elite. Verflucht."
             },
             "back": {}
         }
