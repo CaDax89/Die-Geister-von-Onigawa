@@ -8497,7 +8497,20 @@
                         "token": "elder_thing",
                         "text": "\u20134. If you fail, perform a <b>Sacrifice</b>. "
                     }
-                ]
+                ],
+                "chaos_extra_region": {
+                    "x": 248,
+                    "y": 1600,
+                    "width": 1140,
+                    "height": 300
+                },
+                "chaos_region": {
+                    "x": 248,
+                    "y": 696,
+                    "width": 1300,
+                    "height": 890
+                },
+                "chaos_extra": "Sacrifice Deck"
             },
             "back": {
                 "type": "chaos",
@@ -8519,7 +8532,20 @@
                         "text": "\u20134. After this test ends, perform a <b>Sacrifice</b>."
                     }
                 ],
-                "difficulty": "Hard/Expert"
+                "difficulty": "Hard/Expert",
+                "chaos_extra_region": {
+                    "x": 248,
+                    "y": 1600,
+                    "width": 1140,
+                    "height": 300
+                },
+                "chaos_region": {
+                    "x": 248,
+                    "y": 696,
+                    "width": 1300,
+                    "height": 890
+                },
+                "chaos_extra": "Sacrifice Deck"
             },
             "encounter_number": "1",
             "project_number": "221",
@@ -8533,9 +8559,12 @@
                 "text": "<for> When the mythos phase ends: Perform a <b>Sacrifice</b>.",
                 "flavor_text": "The strange priest who has abducted Miyu is performing a profane ritual to drain the girl of her essence and summon his dark master to this world. To fuel the ritual and strengthen the magical barrier protecting them, wayward souls are being called to the gallows from all corners of Onigawa, across all time and space...",
                 "illustration": "./images/jesse-pak-3-oni-char-illustration.jpg",
-                "doom": "7<per>",
+                "doom": "7",
                 "index": "1a",
-                "illustrator": "Illus. Jesse Pak"
+                "illustrator": "Illus. Jesse Pak",
+                "illustration_pan_x": -203.0,
+                "illustration_pan_y": -20.0,
+                "illustration_scale": 0.809
             },
             "back": {
                 "type": "agenda_back",
@@ -8554,9 +8583,12 @@
                 "text": "<for> When the mythos phase ends: Perform a <b>Sacrifice</b>.\n<for> Do not remove doom from any other card in play when this agenda advances.",
                 "flavor_text": "With every sacrifice that fuels his resurrection, Moloch's intangible essence grows closer to gaining a physical foothold into this world...",
                 "illustration": "./images/michelle-schulz-michimyers-oni-artstationg.jpg",
-                "doom": "8<per>",
+                "doom": "8",
                 "index": "2a",
-                "illustrator": "Illus. Michelle Schulz"
+                "illustrator": "Illus. Michelle Schulz",
+                "illustration_pan_x": -158.0,
+                "illustration_pan_y": -54.0,
+                "illustration_scale": 0.793
             },
             "back": {
                 "type": "agenda_back",
@@ -8571,13 +8603,17 @@
         {
             "name": "All Hope Shall Perish",
             "front": {
-                "type": "agenda",
+                "type": "act_agenda_full",
                 "text": "<for> When the mythos phase ends: Perform two <b>Sacrifices</b>.",
                 "flavor_text": "Despite your amateur interventions---or, perhaps, because of them---Moloch walks the world once more, and he has no purpose other than to gorge himself on Onigawa's misery. Creation itself trembles; without the strength of the Guardians left to oppose him, is there any hope...? ",
-                "illustration": "./images/michelle-schulz-michimyers-oni-artstationg.jpg",
+                "illustration": "C:/Users/cdpog/Documents/GitHub/Die-Geister-von-Onigawa/shoggoth_export/images/agenda full.jpg",
                 "doom": "19<per>",
                 "index": "3a",
-                "illustrator": "Illus. Michelle Schulz"
+                "illustrator": "Illus. Michelle Schulz",
+                "illustration_pan_x": -28.0,
+                "illustration_pan_y": -448.0,
+                "illustration_scale": 1.92,
+                "clues": "19"
             },
             "back": {
                 "type": "agenda_back",
@@ -8598,7 +8634,9 @@
                 "illustration": "./images/cmy-cai-v01-copy.jpg",
                 "clues": "3<per>",
                 "index": "1a",
-                "illustrator": "Illus. Cmy Cai"
+                "illustrator": "Illus. Cmy Cai",
+                "illustration_pan_x": -254.0,
+                "illustration_pan_y": 0.0
             },
             "back": {
                 "type": "act_back",
@@ -8617,9 +8655,12 @@
                 "text": "<obj> If there are no clues on the Harvest Moon location, advance.",
                 "flavor_text": "It's been there, all along, watching you, and it's helped---or hampered---your investigation every step of the way. Maybe the answers you seek are written in the stars...or maybe you've just finally lost your mind?",
                 "illustration": "./images/rutger-van-de-steeg-supermoon.jpg",
-                "clues": "<dash><per>",
+                "clues": "?",
                 "index": "2a",
-                "illustrator": "Illus. Rutger van de Steeg"
+                "illustrator": "Illus. Rutger van de Steeg",
+                "illustration_pan_x": -1696.0,
+                "illustration_pan_y": -8.0,
+                "illustration_scale": 1.448
             },
             "back": {
                 "type": "act_back",
@@ -8638,9 +8679,12 @@
                 "text": "<obj> If there are 4 or more <blessing> tokens sealed on Smoldering Spawn, advance.",
                 "flavor_text": "The bloody crescent on the moon's surface appears to be some kind of oval container nestled in the center of a large crater. It's warm to the touch... Perhaps there's some way to open it...?",
                 "illustration": "./images/asanee-srikijvilaikul-firedragonegg.jpg",
-                "clues": "<dash><per>",
+                "clues": "?",
                 "index": "3a",
-                "illustrator": "Illus. Asanee Srikijvilaikul"
+                "illustrator": "Illus. Asanee Srikijvilaikul",
+                "illustration_pan_x": 719.0,
+                "illustration_pan_y": -8.0,
+                "illustration_scale": 1.278
             },
             "back": {
                 "type": "act_back",
@@ -8659,9 +8703,12 @@
                 "text": "<b>Reminder</b> -- Harmony tokens count as both a <blessing> and a <curse> token and, during skill tests the performing investigator may choose which of the two to resolve them as. Resolved harmony tokens are returned to the chaos bag after the test ends.\n<obj> If there are 8 harmony tokens in the chaos bag, or Moloch is in the victory display, advance.",
                 "flavor_text": "You would not believe it had you not seen it with your own two eyes. The relic upon the moon's surface was no mere anomaly; it was the sacred vessel for a Guardian's rebirth...",
                 "illustration": "./images/japanese_koi_fish.jpg",
-                "clues": "<dash><per>",
+                "clues": "?",
                 "index": "4a",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_x": 903.0,
+                "illustration_pan_y": -640.0,
+                "illustration_scale": 1.554
             },
             "back": {
                 "type": "act_back",
@@ -8682,17 +8729,24 @@
                 "flavor_text": "Pieces of the cathedral are now scattered across \nan archipelago of tiny floating islands \nthat revolve around Mount Kokoro's summit.",
                 "illustration": "./images/sandra-duchiewicz-house-of-spirits.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
-                "illustrator": "Illus. Sandra Duchiewicz"
+                "shroud": "3",
+                "illustrator": "Illus. Sandra Duchiewicz",
+                "illustration_pan_x": -1326.0,
+                "illustration_pan_y": 224.0,
+                "illustration_scale": 1.668
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/sandra-duchiewicz-house-of-spirits.jpg",
                 "traits": "Mountain. Shattered.",
                 "text": "",
                 "flavor_text": "The cathedral that once stood before you is gone...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 224.0,
+                "illustration_pan_x": -1326.0,
+                "illustrator": "Illus. Sandra Duchiewicz",
+                "illustration_scale": 1.668
             },
             "encounter_number": "9",
             "project_number": "229",
@@ -8708,18 +8762,25 @@
                 "text": "Torii Nexus is connected to all revealed locations (and vice versa.)\n<action><action>: <i>A leap of faith.</i> Move to an unrevealed <t>Shattered</t> location. <i>(Limit once per round.)</i>",
                 "flavor_text": "Once upon a time, it brought you to this place.... \nMaybe, when it's all over, it can send you home.",
                 "illustration": "./images/nariyuki-shimamoto-curse7-666.jpg",
-                "clues": "0<per>",
-                "shroud": "5<per>",
-                "illustrator": "Illus. Nariyuki Shimamoto"
+                "clues": "0",
+                "shroud": "5",
+                "illustrator": "Illus. Nariyuki Shimamoto",
+                "illustration_pan_x": -88.0,
+                "illustration_pan_y": 224.0,
+                "illustration_scale": 0.925
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/nariyuki-shimamoto-curse7-666.jpg",
                 "traits": "Gateway.",
                 "text": "",
                 "flavor_text": "You notice each floating island contains \nits own Torii gate that perfectly aligns with the moon...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 224.0,
+                "illustration_pan_x": -88.0,
+                "illustrator": "Illus. Nariyuki Shimamoto",
+                "illustration_scale": 0.925
             },
             "encounter_number": "10",
             "project_number": "230",
@@ -8735,17 +8796,24 @@
                 "flavor_text": "Streaming waterfalls pour off the edges \nof these islands, leading to high humidity...",
                 "illustration": "./images/float-island-man-human-wallpaper-preview.jpg",
                 "clues": "1<per>",
-                "shroud": "4<per>",
-                "illustrator": "Illus. Unknown"
+                "shroud": "4",
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_x": -802.0,
+                "illustration_pan_y": 117.0,
+                "illustration_scale": 3.414
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/float-island-man-human-wallpaper-preview.jpg",
                 "traits": "Jungle. Shattered.",
                 "text": "",
                 "flavor_text": "The thermal energy produced by the cataclysm \nseems to have caused the glaciers on these \nfloating chunks of Mount Kokoro to thaw...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 117.0,
+                "illustration_pan_x": -802.0,
+                "illustrator": "Illus. Unknown",
+                "illustration_scale": 3.414
             },
             "encounter_number": "11",
             "project_number": "231",
@@ -8762,17 +8830,24 @@
                 "flavor_text": "\"There was, in their city, a bronze image of Cronus... \nsuch that each of the children, when placed thereon, \nrolled down and fell into a gaping pit filled with fire...\"\n---Bibliotheca Historica ",
                 "illustration": "./images/project-eluune-porte-02-rendu-final-1.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
-                "illustrator": "Illus. Project Eluune"
+                "shroud": "3",
+                "illustrator": "Illus. Project Eluune",
+                "illustration_pan_x": 1.0,
+                "illustration_pan_y": 226.0,
+                "illustration_scale": 0.428
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/project-eluune-porte-02-rendu-final-1.jpg",
                 "traits": "Ruins. Shattered.",
                 "text": "",
                 "flavor_text": "Onigawa was not the first civilization that \nMoloch has brought to heel; through these \ncollapsed and decaying arches, you can catch fleeting glimpses of times and places long since past... ",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 226.0,
+                "illustration_pan_x": 1.0,
+                "illustrator": "Illus. Project Eluune",
+                "illustration_scale": 0.428
             },
             "encounter_number": "12",
             "project_number": "232",
@@ -8788,17 +8863,24 @@
                 "flavor_text": "The warmth of the foundry below ensures \nthe spring's pure waters never freeze over.",
                 "illustration": "./images/412918-blackangel.jpg",
                 "clues": "1<per>",
-                "shroud": "2<per>",
-                "illustrator": "Illus. Sahir Khan"
+                "shroud": "2",
+                "illustrator": "Illus. Sahir Khan",
+                "illustration_pan_x": -450.0,
+                "illustration_pan_y": 64.0,
+                "illustration_scale": 1.944
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/412918-blackangel.jpg",
                 "traits": "Aquatic. Shattered.",
                 "text": "",
                 "flavor_text": "A punchbowl nested among Mount Kokoro's ice-capped crags features a purifying pond, said to be the very spring the Guardians used to rest their weary spirits.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 64.0,
+                "illustration_pan_x": -450.0,
+                "illustrator": "Illus. Sahir Khan",
+                "illustration_scale": 1.944
             },
             "encounter_number": "13",
             "project_number": "233",
@@ -8814,21 +8896,26 @@
                 "flavor_text": "At the far end of the shattered ruins, \nthe large skull of some ancient creature rests in repose...",
                 "illustration": "./images/zhengyi-wang-path-of-decay.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
-                "connection": "slashalt",
+                "shroud": "3",
+                "connection": "slash_alt",
                 "connections": [
                     "square"
                 ],
-                "illustrator": "Illus. Zhengyi Wang"
+                "illustrator": "Illus. Zhengyi Wang",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": -152.0
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/zhengyi-wang-path-of-decay.jpg",
                 "traits": "Sanctum. Ruins.",
                 "text": "The way is blocked. Investigators may not enter <name>.",
                 "flavor_text": "Floating pillars and toppled spires \nare all that remain of the hidden temple...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -152.0,
+                "illustration_pan_x": 0.0,
+                "illustrator": "Illus. Zhengyi Wang"
             },
             "encounter_number": "14",
             "project_number": "234",
@@ -8845,22 +8932,29 @@
                 "flavor_text": "Was this colossal creature once a Guardian...?",
                 "illustration": "./images/n-ix-game-amp-vr-studio-3.jpg",
                 "clues": "1<per>",
-                "shroud": "5<per>",
+                "shroud": "5",
                 "connection": "square",
                 "connections": [
-                    "slashalt"
+                    "slash_alt"
                 ],
-                "illustrator": "Illus. Nix"
+                "illustrator": "Illus. Nix",
+                "illustration_pan_x": -793.0,
+                "illustration_pan_y": 179.0,
+                "illustration_scale": 0.778
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/n-ix-game-amp-vr-studio-3.jpg",
                 "name": "Profane Altar",
                 "traits": "Ritual Site.",
                 "text": "The way is blocked. Investigators may not enter Profane Altar.",
                 "flavor_text": "The skeletal remains of an ancient colossus \nsurround an altar of bone...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 179.0,
+                "illustration_pan_x": -793.0,
+                "illustrator": "Illus. Nix",
+                "illustration_scale": 0.778
             },
             "encounter_number": "15",
             "project_number": "235",

@@ -20,6 +20,9 @@
         },
         "1b2b4978-17a9-4920-8a67-409629978ecd": {
             "name": "encounter-mountain-b.png"
+        },
+        "caac83c5-2469-4f8d-8806-3090b1c263e8": {
+            "name": "encounter-throne-b.png"
         }
     },
     "cards": {
@@ -3116,6 +3119,245 @@
                 "traits": "Omen."
             },
             "back": {}
+        },
+        "d66bdd3a-5636-40da-98e2-c5babb855082": {
+            "name": "Die schwarze Ernte",
+            "front": {
+                "entries": [
+                    {
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "\u2013X. X ist die Zahl der aktuellen Agenda."
+                    },
+                    {
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "\u20132. Falls die Probe misslingt, f\u00fcge dem Chaosbeutel 1 <curse>-Marker hinzu."
+                    },
+                    {
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "\u20133. Falls die Probe misslingt, durchsuche den Chaosbeutel nach 1 <blessing>-Marker und lege ihn in den Markervorrat zur\u00fcck. Fall du dies nicht kannst, nimm stattdessen 1 Horror."
+                    },
+                    {
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20134. Falls die Probe misslingt, bringe ein <b>Opfer</b> dar."
+                    }
+                ],
+                "difficulty": "LEICHT/NORMAL"
+            },
+            "back": {
+                "entries": [
+                    {
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "\u2013X. X ist die Zahl der aktuellen Szene."
+                    },
+                    {
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "\u20133. Falls die Probe misslingt, f\u00fcge dem Chaosbeutel 1 <curse>-Marker hinzu."
+                    },
+                    {
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "\u20134. Nachdem die Probe beendet wurde, durchsuche den Chaosbeutel nach 1 <blessing>-Marker und lege ihn in den Markervorrat zur\u00fcck. Fall du dies nicht kannst, nimm stattdessen 1 Horror."
+                    },
+                    {
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20134. Nachdem die Probe beendet wurde, bringe ein <b>Opfer</b> dar."
+                    }
+                ],
+                "difficulty": "Hard/Expert"
+            }
+        },
+        "dda9e452-281d-4184-a4ad-9cc1f88157ed": {
+            "name": "Alle Hoffnung schwindet",
+            "front": {
+                "text": "<for> Sobald die Mythosphase endet: Bringe zwei <b>Opfer</b> dar.",
+                "flavor_text": "Trotz eurer amateurhaften Eingriffe \u2013 oder vielleicht gerade deswegen \u2013 wandelt Moloch erneut auf der Welt, und sein einziges Ziel ist es, sich an Onigawas Leid zu laben. Die Sch\u00f6pfung selbst zittert; gibt es noch Hoffnung, da die W\u00e4chter nicht mehr die Kraft haben, sich ihm entgegenzustellen...?"
+            },
+            "back": {
+                "name": "Am Ende",
+                "text": "(<resolution><b>A4</b>)\n\n\n",
+                "flavor_text": "Es hat keinen Sinn. Wie die Verwalter des August vor dir, die Mondk\u00f6nigin und sogar die W\u00e4chter selbst hast auch du es lediglich geschafft, Molochs unvermeidliches Kommen hinauszuz\u00f6gern. Er ist die Verk\u00f6rperung der Angst, und nichts kann ihn nun noch aufhalten \u2026\nWehe den Besiegten."
+            }
+        },
+        "3205d061-7372-4ee6-aa2b-87e0b149c503": {
+            "name": "F\u00fcrchte dich nicht vor dem Sensenmann",
+            "front": {
+                "text": "<for> Sobald die Mythosphase endet: Bringe ein <b>Opfer</b> dar.",
+                "flavor_text": "Der seltsame Priester, der Miyu entf\u00fchrt hat, f\u00fchrt ein profanes Ritual durch, um dem M\u00e4dchen ihre Lebenskraft zu entziehen und seinen dunklen Meister in diese Welt zu beschw\u00f6ren. Um das Ritual zu n\u00e4hren und die magische Barriere zu st\u00e4rken, die sie sch\u00fctzt, werden verlorene Seelen aus allen Ecken von Onigawa, \u00fcber alle Zeiten und R\u00e4ume hinweg, zum Galgen gerufen \u2026"
+            },
+            "back": {
+                "name": "Minuten bis Mitternacht",
+                "text": "Mische Hirte der Schwarzen Ernte in das Opferdeck ein.\nPlatziere 1 Verderben auf Miyu Tachibana <i>(Verloren und Gefunden)</i>.\nDrehe die Zerkl\u00fcftete Kathedrale auf ihre enth\u00fcllte Seite.\nBringe den beiseite gelegten Gegner Moloch <i>(Die H\u00f6llenmaschine)</i> am Ort Profaner Altar ins Spiel.\nMische den Begegnungs-Ablagestapel in das Begegnungsdeck.\n",
+                "flavor_text": "W\u00e4hrend immer mehr Seelen auf dem profanen Altar der Kathedrale geopfert werden, beginnt der K\u00f6rper des Hirten zu pulsieren und taucht, je st\u00e4rker die Kraft des Rituals wird, mal auf, mal verschwindet er wieder. Eine geisterhafte Silhouette, die aus einem h\u00f6llischen Ort stammt, den du dir nicht einmal ansatzweise vorstellen kannst, taucht aus dem \u00c4ther auf und nimmt nach und nach den Platz des Hirten ein \u2026\nDir l\u00e4uft die Zeit davon. Moloch ist ganz in der N\u00e4he \u2026"
+            }
+        },
+        "377c6ba4-fe18-4746-bf93-b52811c7da54": {
+            "name": "Eine Maschine f\u00fcr Schweine",
+            "front": {
+                "text": "<for> Sobald die Mythosphase endet: Bringe ein <b>Opfer</b> dar.\n<for> Entferne kein Verderben von anderen Karten au\u00dfer dieser Agenda, wenn diese vorr\u00fcckt.",
+                "flavor_text": "Mit jedem Opfer, das seine Auferstehung befeuert, r\u00fcckt Molochs immaterielle Essenz dem Ziel n\u00e4her, in dieser Welt einen physischen Halt zu finden..."
+            },
+            "back": {
+                "name": "Wenn man vom Teufel spricht",
+                "text": "Mische den Begegnungs-Ablagestapel in das Begegnungsdeck. Drehe den Ort Profaner Altar auf die enth\u00fcllte Seite.\nDrehe den Gegner Moloch <i>(Die H\u00f6llenmaschine)</i> auf die Seite Moloch <i>(Der Geist von Onigawa)</i>.\nBefindet sich Miyu Tachibana <i>(Verloren und Gefunden)</i> am Ort Profaner Altar, bewege alles auf ihr liegendes Verderben auf Moloch <i>(Der Geist von Onigawa)</i> und mische Miyu Tachibana anschlie\u00dfend in den Opferstapel ein.",
+                "flavor_text": "Miyu keucht: Es klingt wie ein Todesr\u00f6cheln. Man sp\u00fcrt, wie sie dahinschwindet, und, gest\u00e4rkt durch das sinnlose Gemetzel, nimmt Molochs flackernder Schatten allm\u00e4hlich Gestalt an \u2026"
+            }
+        },
+        "e0d5f1e6-93da-45df-9b82-e15ad37b7c82": {
+            "name": "H\u00f6heres Terrain",
+            "front": {
+                "text": "<action> Falls sich keine Hinweise an deinem Ort befinden: Drehe den Ort Torii Nexus auf seine enth\u00fcllte Seite. <i>(Maximal einmal pro Spiel.)</i>\n<obj> Ermittler am Torii Nexus k\u00f6nnen als Gruppe die erforderliche Anzahl an Hinweisen ausgeben, um vorzur\u00fccken.",
+                "flavor_text": "Die Katastrophe hat dich sowohl von deinen Begleitern als auch von Miyu getrennt. Du musst einen Weg finden, euch wieder zu vereinen..."
+            },
+            "back": {
+                "name": "Die Sterne \u00fcber uns",
+                "text": "Bringe den beiseite gelegten Ort Herbstmond verdeckt ins Spiel.\n\n\n",
+                "flavor_text": "Mit Hilfe des Torii-Tors ist es dir gelungen, zu mehreren der anderen schwebenden Inseln zu gelangen, doch keine davon scheint dich der Kathedrale n\u00e4her zu bringen. Du drehst dich um und machst dich bereit, zum Felsvorsprung zur\u00fcckzukehren und einen neuen Plan auszuarbeiten, als dir auff\u00e4llt, dass die Torii-Tore auf jeder Insel perfekt auf den mit Runen markierten Mond ausgerichtet sind...\nDu holst die Camera Obscura hervor und versuchst, den Mond durch das dir am n\u00e4chsten gelegene Torii-Tor zu fotografieren. Als der Ausl\u00f6ser klickt, verwandelt sich das Bild im Portal augenblicklich in eine leblose, felsige Weite..."
+            }
+        },
+        "b95e4e29-64fa-4c04-bd3f-405d9f10d7f6": {
+            "name": "Ein kleiner Schritt",
+            "front": {
+                "text": "<obj> Falls sich keine Hinweise auf dem Ort Erntemond befinden, r\u00fccke vor.",
+                "flavor_text": "Es war die ganze Zeit da, hat dich beobachtet und deine Ermittlungen bei jedem Schritt unterst\u00fctzt \u2013 oder behindert. Vielleicht stehen die Antworten, nach denen du suchst, in den Sternen geschrieben \u2026 oder vielleicht hast du einfach nur endg\u00fcltig den Verstand verloren?"
+            },
+            "back": {
+                "name": "Ein gewaltiger Sprung",
+                "text": "Bringe den beiseite gelegten Gegner \u201eBrodelnde Brut\u201c <i>(Was im Feuer verloren ging)</i> am Ort Erntemond ins Spiel.\n\n\n",
+                "flavor_text": "Na, du hast es geschafft: Du bist zum Mond geflogen. Und \u00fcberraschenderweise ist dir dabei nichts wirklich Schreckliches passiert. Allerdings ist es hier oben \u00fcberraschend hei\u00df, und der Mond steht noch so hoch am Himmel, dass dir die d\u00fcnne Luft langsam Migr\u00e4ne bereitet. Nicht umsonst, aber warum bist du \u00fcberhaupt hier...?\nDu schaffst es, \u00fcber die felsige Oberfl\u00e4che des Mondes herumzuspringen, bis du schlie\u00dflich das Zentrum der in die Oberfl\u00e4che eingravierten Rune erreichst. In einem riesigen Krater glimmt ein seltsames Objekt wie Holzkohle..."
+            }
+        },
+        "13752132-4a00-4068-8d52-f00312c47985": {
+            "name": "Tiefer Einschlag",
+            "front": {
+                "text": "<obj> Falls 4 oder mehr <blessing>-Marker auf Brodelnder Brut versiegelt sind, r\u00fccke vor.",
+                "flavor_text": "Der blutrote Halbmond auf der Mondoberfl\u00e4che scheint eine Art ovaler Beh\u00e4lter zu sein, der in der Mitte eines gro\u00dfen Kraters liegt. Er f\u00fchlt sich warm an \u2026 Vielleicht gibt es eine M\u00f6glichkeit, ihn zu \u00f6ffnen \u2026?"
+            },
+            "back": {
+                "name": "G\u00f6tter unter uns",
+                "text": "Entferne alle Marker auf Brodelnder Brut und entferne die Karte aus dem Spiel.\nMische alle sechs <t>Avatar</t>-Story-Vorteilskarten aus dem Begegnungsset <i>\u201eIn Flammen geschmiedet\u201c</i> zusammen und \u00fcberpr\u00fcfe dann das Kampagnenlogbuch, um mit dem entsprechenden Abschnitt fortzufahren:\n<hr>\n<b>Falls die Ermittler </b><bi>die heilige Gie\u00dferei sabotiert haben</bi>:\nDecke drei der gemischten Karten nach dem Zufallsprinzip auf. Der Ermittlungsleiter muss eine davon ausw\u00e4hlen, die am Erntemond ins Spiel gebracht wird. Entferne die nicht ausgew\u00e4hlten Karten sowie alle nicht aufgedeckten Karten aus dem Spiel.\n<hr>\n<b>Falls die Ermittler </b><bi>den Amboss der Entstehung aktiviert haben</bi>:\nW\u00e4hle eine der gemischten Karten nach dem Zufallsprinzip aus und bringe sie am Erntemond ins Spiel. Entferne die restlichen Karten aus dem Spiel.",
+                "flavor_text": "Du siehst zu, wie das eif\u00f6rmige Objekt die Energie, die du unter so gro\u00dfen Anstrengungen erzeugt hast, wie eine Art karmisches Fass ohne Boden aufsaugt. Gerade als du die Hoffnung aufgeben willst, bricht es pl\u00f6tzlich auf, und eine Flammens\u00e4ule schie\u00dft aus der Oberfl\u00e4che des Mondes hervor \u2026"
+            }
+        },
+        "798ab361-d037-4076-bb29-93eb2b637161": {
+            "name": "Ausgleich schaffen",
+            "front": {
+                "text": "<b>Erinnerung</b> -- Harmonie-Marker gelten sowohl als <blessing>- als auch als <curse>-Marker. Bei Fertigkeitsproben kann der ausf\u00fchrende Ermittler w\u00e4hlen, als welchen der beiden er sie abhandeln m\u00f6chte. Abgehandelte Harmonie-Marker werden nach Beendigung der Probe in den Chaosbeutel zur\u00fcckgelegt.\n<obj> Falls sich 8 Harmonie-Marker im Chaosbeutel befinden oder sich Moloch im Siegpunktestapel befindet, r\u00fccke vor.",
+                "flavor_text": "Man w\u00fcrde es nicht glauben, wenn man es nicht mit eigenen Augen gesehen h\u00e4tte. Das Relikt auf der Mondoberfl\u00e4che war keine blo\u00dfe Anomalie; es war das heilige Gef\u00e4\u00df f\u00fcr die Wiedergeburt eines W\u00e4chters..."
+            },
+            "back": {
+                "name": "Was versprochen wurde",
+                "text": "<b>Falls Moloch </b><bi>(Der Geist von Onigawa)</bi> <b>sich im Siegpunktestapel befand als diese Szene vorger\u00fcckt ist:</b>\n<blockquote>Moloch heult auf, w\u00e4hrend er unter deinem unerbittlichen Angriff taumelt; er hatte offensichtlich nicht damit gerechnet, dass du in der Lage bist, ihm Schaden zuzuf\u00fcgen. Seine burgunderrote Haut verwandelt sich in Asche, w\u00e4hrend seine verdorbene Essenz allm\u00e4hlich den Halt an seiner physischen Gestalt verliert. Der Boden unter dir beginnt zu beben; in der Verwirrung schnappst du dir schnell Miyu vom Altar, bevor du dich in das n\u00e4chste Torii-Tor st\u00fcrzt...</blockquote>\n(<resolution><b>A2</b>)\n<hr>\n<b>Falls sich 8 Harmonie-Marker im Chaosbeutel befanden, als dies voranschritt:</b>\n<blockquote>Gest\u00e4rkt durch deine F\u00fcrsorge st\u00fcrzt sich der wiedergeborene W\u00e4chter auf die Kathedrale, um Moloch frontal anzugreifen. Knistern magische Energieblitze \u00fcber die Landschaft, w\u00e4hrend sie Schl\u00e4ge austauschen, und die Wucht ihres Duells schleudert dich in das Portal eines nahegelegenen Torii-Tors \u2026</blockquote>\n(<resolution><b>A1</b>)\n\n"
+            }
+        },
+        "b1019be5-1e72-41fc-a2f3-0c57ea728b7e": {
+            "name": "Offenes Weltenkn\u00e4uel",
+            "front": {
+                "text": "<reaction> Nachdem du erfolgreich an diesem Ort ermittelt hast: Anstatt Hinweise zu entdecken, kannst du stattdessen dem Chaosbeutel bis zu X <curse>-Marker hinzuf\u00fcgen, wobei X die Differenz ist, um die du erfolgreich warst.",
+                "flavor_text": "\u201eIn ihrer Stadt stand eine Bronzestatue des Kronos \u2026, sodass jedes der Kinder, sobald es darauf gesetzt wurde, hinunterrollte und in eine klaffende, mit Feuer gef\u00fcllte Grube st\u00fcrzte \u2026\u201c\n---Bibliotheca Historica",
+                "subtitle": "Die Zukunft weigerte sich, sich zu \u00e4ndern",
+                "traits": "Ruinen. Zerst\u00f6rt."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Onigawa war nicht die erste Zivilisation, die Moloch in die Knie gezwungen hat; durch diese eingest\u00fcrzten und verfallenden B\u00f6gen kann man fl\u00fcchtige Einblicke in l\u00e4ngst vergangene Zeiten und Orte erhaschen...",
+                "traits": "Ruinen. Zerst\u00f6rt."
+            }
+        },
+        "1b35afc2-3676-4dea-af8d-978b5917493d": {
+            "name": "Profaner Altar",
+            "front": {
+                "text": "<action> Gib X Hinweise aus: F\u00fcge dem Chaosbeutel insgesamt bis zu X <blessing>- und/oder <curse>-Marker hinzu.\n",
+                "flavor_text": "War dieses riesige Wesen einst ein W\u00e4chter...?",
+                "subtitle": "Schrein des Moloch",
+                "traits": "Ritualst\u00e4tte."
+            },
+            "back": {
+                "name": "Profaner Altar",
+                "text": "Der Weg ist versperrt. Ermittler k\u00f6nnen <name> nicht betreten.",
+                "flavor_text": "Die Skelettreste eines uralten Kolosses umgeben einen Altar aus Knochen...",
+                "traits": "Ritualst\u00e4tte."
+            }
+        },
+        "13dca30b-2999-4194-abe3-8f4a3b615a15": {
+            "name": "Terramorpher Regenwald",
+            "front": {
+                "text": "<reaction> Nachdem du erfolgreich an diesem Ort ermittelt hast: Anstatt Hinweise zu entdecken, kannst du stattdessen dem Chaosbeutel bis zu X <blessing>-Marker hinzuf\u00fcgen, wobei X die Differenz ist, um die du erfolgreich warst.",
+                "flavor_text": "Von den R\u00e4ndern dieser Inseln st\u00fcrzen rauschende Wasserf\u00e4lle hinab, was zu hoher Luftfeuchtigkeit f\u00fchrt...",
+                "traits": "Dschungel. Zerst\u00f6rt."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Der durch die Katastrophe freigesetzte W\u00e4rmeenergie scheint dazu gef\u00fchrt zu haben, dass die Gletscher auf diesen schwimmenden Brocken des Berges Kokoro geschmolzen sind...",
+                "traits": "Dschungel. Zerst\u00f6rt."
+            }
+        },
+        "ede58bb6-2fed-435b-a464-eee447dd5fbb": {
+            "name": "Torii Nexus",
+            "front": {
+                "text": "Torii Nexus ist mit allen enth\u00fcllten Orten verbunden (und umgekehrt.)\n<action><action>: <i>Sprung ins Ungewisse.</i> Bewege dich zu einem verh\u00fcllten <t>Zerst\u00f6rt</t>-Ort. <i>(Maximal einmal pro Runde.)</i>",
+                "flavor_text": "Es war einmal, da hat es dich an diesen Ort gebracht \u2026 Vielleicht kann es dich, wenn alles vorbei ist, wieder nach Hause bringen.",
+                "subtitle": "\u00dcberall, auf einmal",
+                "traits": "Tor."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Man bemerkt, dass jede schwebende Insel ein eigenes Torii-Tor besitzt, das genau auf den Mond ausgerichtet ist...",
+                "traits": "Tor."
+            }
+        },
+        "20ed54bf-6b29-481b-ba1d-04da160c19cb": {
+            "name": "Zerbrochenes Felsenriff",
+            "front": {
+                "text": "<for> Sobald die Ermittlerphase beginnt: Falls weniger als 1<per_large> Hinweis auf <name> liegen, platziere einen Hinweis darauf <i>(aus dem Markervorrat).</i>",
+                "flavor_text": "Teile der Kathedrale sind nun \u00fcber einen Archipel aus winzigen schwimmenden Inseln verstreut, die um den Gipfel des Kokoro-Berges kreisen.",
+                "traits": "Berg. Zerst\u00f6rt."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Die Kathedrale, die einst vor dir stand, ist verschwunden...",
+                "traits": "Berg. Zerst\u00f6rt."
+            }
+        },
+        "bdb85d45-a28c-46a5-b839-205f03b96b77": {
+            "name": "Zerst\u00f6rte Kathedrale",
+            "front": {
+                "text": "<action> Lege eine Nicht-Schw\u00e4che-Karte von deiner Hand ab: F\u00fcge dem Chaosbeutel 1 <blessing> oder 1 <curse>-Marker hinzu.",
+                "flavor_text": "Ganz am anderen Ende der zerkl\u00fcfteten Ruinen ruht der gro\u00dfe Sch\u00e4del eines uralten Wesens...",
+                "traits": "Heiligtum. Ruinen."
+            },
+            "back": {
+                "text": "Der Weg ist versperrt. Ermittler k\u00f6nnen <name> nicht betreten.",
+                "flavor_text": "Schwebende S\u00e4ulen und umgest\u00fcrzte T\u00fcrme sind alles, was von dem verborgenen Tempel \u00fcbrig geblieben ist...",
+                "traits": "Heiligtum. Ruinen."
+            }
+        },
+        "63db5e5d-0d2c-4989-af13-64d47d8d4358": {
+            "name": "\u00dcberlaufendes Becken",
+            "front": {
+                "text": " Gegner an <name> erhalten \"<b>Rache</b> -- Entferne 1 Verderben von einem beliebigen Gegner im Spiel. <i>(Gegner im Opferbereich befinden sich im Spiel.)</i>\"\n<action> Nimm 1 Schaden: F\u00fcge dem Chaosbeutel 1 <blessing>-Marker hinzu.",
+                "flavor_text": "Die W\u00e4rme der darunter liegenden Gie\u00dferei sorgt daf\u00fcr, dass das reine Quellwasser niemals zufriert.",
+                "traits": "Aquatisch. Zerst\u00f6rt."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Inmitten der eisbedeckten Felsen des Berges Kokoro liegt eine nat\u00fcrliche Mulde, in der sich ein reinigender Teich befindet, von dem man sagt, er sei jene Quelle, an der die W\u00e4chter einst ihre ersch\u00f6pften Seelen zur Ruhe kommen lie\u00dfen.",
+                "traits": "Aquatisch. Zerst\u00f6rt."
+            }
         }
     },
     "guides": [
