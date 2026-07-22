@@ -167,7 +167,8 @@
                         "x": 0.0,
                         "y": 684.0
                     }
-                }
+                },
+                "tts": {}
             }
         },
         {
@@ -7488,7 +7489,10 @@
                 "text": "<rev>  Reveal a random token from the chaos bag. If it is a <fail> or <fro> token, take 1 horror. Otherwise, you must add 1 <fro> token to the chaos bag. If you cannot, add 1 doom to the current agenda instead.",
                 "flavor_text": "You shiver as the air grows \nnoticeably colder around you...",
                 "illustration": "./images/frostbite.png",
-                "illustrator": "Illus. <family \"ArnoPro-Bold\">Unknown"
+                "illustrator": "Illus. <family \"ArnoPro-Bold\">Unknown",
+                "illustration_pan_x": 129.0,
+                "illustration_pan_y": -39.0,
+                "illustration_scale": 2.22
             },
             "back": {
                 "type": "encounter"
@@ -7499,24 +7503,6 @@
             "id": "a541191b-4ab7-4afd-8aa5-0e19df8e9040"
         },
         {
-            "name": "Chilblains",
-            "front": {
-                "type": "treachery",
-                "traits": "Injury.",
-                "text": "<rev> Test <willpower> (4). If you fail, put <name> into play in your threat area.\nYou cannot trigger <action>, <free>, or <reaction> abilities on assets you control that take up at least 1 hand slot.\n<reaction> When your turn ends: Discard <name>.",
-                "flavor_text": "Your hands begin to go numb as \na thin layer of frost coats your fingers...",
-                "illustration": "./images/nepenthesgrasp2.png",
-                "illustrator": "Illus. Drew Lundquist"
-            },
-            "back": {
-                "type": "encounter"
-            },
-            "encounter_number": "23-25",
-            "project_number": "163",
-            "encounter_set": "1b2b4978-17a9-4920-8a67-409629978ecd",
-            "id": "52008262-6239-4172-8eff-a5fded0b131f"
-        },
-        {
             "name": "Coldsnap",
             "front": {
                 "type": "treachery",
@@ -7524,7 +7510,10 @@
                 "text": "<rev> Test <combat> or <agility> (3). If you fail, you must either discard an asset from your hand or play area that takes up at least 1 ally slot or add a <fro> token to the chaos bag.",
                 "flavor_text": "\"Where did everybody go...?\"",
                 "illustration": "./images/ina-wong-mythgard-locked-in-ice-done-ttd.jpg",
-                "illustrator": "Illus. Ina Wong"
+                "illustrator": "Illus. Ina Wong",
+                "illustration_pan_x": 27.0,
+                "illustration_pan_y": 9.0,
+                "illustration_scale": 1.161
             },
             "back": {
                 "type": "encounter"
@@ -7542,7 +7531,10 @@
                 "text": "<rev> Attach <name> to the nearest unrevealed <t>Mountain</t> location without a copy of Thin Ice attached. Limit 1 per location.\n<for> When the investigation phase ends: Each investigator at the attached location must reveal a random chaos token from the chaos bag. If you reveal a <fro> token, you must take 2 damage.",
                 "flavor_text": "\"It'll be fine... Probably.\"",
                 "illustration": "./images/jonathon-frederick-materials-naturematerialsice-screenshot-8.jpg",
-                "illustrator": "Illus. Jonathon Frederick"
+                "illustrator": "Illus. Jonathon Frederick",
+                "illustration_pan_x": -508.0,
+                "illustration_pan_y": -91.0,
+                "illustration_scale": 1.374
             },
             "back": {
                 "type": "encounter"
@@ -7568,7 +7560,11 @@
                 "flavor_text": "The Jorugumo has been known to play matchmaker, forever in search of suitable suitors for her myriad \"daughters\"...",
                 "victory": "Victory 1.",
                 "illustration": "./images/igor-grechanyi-jorogumo-final.jpg",
-                "illustrator": "Illus. Igor Grechanyi"
+                "illustrator": "Illus. Igor Grechanyi",
+                "illustration_pan_x": -192.0,
+                "illustration_pan_y": 949.0,
+                "illustration_scale": 1.199,
+                "attack": "3"
             },
             "back": {
                 "type": "encounter"
@@ -7594,7 +7590,11 @@
                 "flavor_text": " The Konohana Sakuya is said to be a friendly \ntree spirit whose calming presence tames the \nfires in the belly of Mount Kokoro.",
                 "victory": " Victory 1.",
                 "illustration": "./images/beatriz-bollain-konohanasakuya-hime.jpg",
-                "illustrator": "Illus. Beatriz Bollain"
+                "illustrator": "Illus. Beatriz Bollain",
+                "illustration_pan_x": -100.0,
+                "illustration_pan_y": 1030.0,
+                "illustration_scale": 0.925,
+                "attack": "3"
             },
             "back": {
                 "type": "encounter"
@@ -7620,7 +7620,11 @@
                 "flavor_text": "Ever since the noble protector of Mount Kororo succumbed \nto the venom of the Orochimaru, the Rangers of August \nhave reported sightings of an ursine silhouette \nshambling through the forests... ",
                 "victory": "Victory 0.",
                 "illustration": "./images/worasak-suwannarach-postbear4.jpg",
-                "illustrator": "Illus. Worasak Suwannarach"
+                "illustrator": "Illus. Worasak Suwannarach",
+                "illustration_pan_x": -441.0,
+                "illustration_pan_y": 794.0,
+                "illustration_scale": 0.812,
+                "attack": "1"
             },
             "back": {
                 "type": "encounter"
@@ -10402,7 +10406,11 @@
                 "horror": 0,
                 "flavor_text": "The eternal nemesis of the Guardian Jiraiya, the fearsome Orochimaru slipped into silent repose after his prey \"eluded\" him once the pantheon fell.",
                 "illustration": "./images/surendra-rajawat-protector-v1.jpg",
-                "illustrator": "Illus. Surendra Rajawat"
+                "illustrator": "Illus. Surendra Rajawat",
+                "attack": "4",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 460.0,
+                "illustration_scale": 1.644
             },
             "back": {
                 "type": "enemy",
@@ -10414,11 +10422,14 @@
                 "text": "Massive. Alert.\n<b>Revenge</b> -- Instead of discarding <name>, remove all damage and doom from it and flip it instead.\nOrochimaru has +1<per> health and is considered to be at every investigator's location.",
                 "flavor_text": "The Stewards of August believed the Orochimaru possesses nine separate heads, though none of their rangers ever lived long enough to actually count of all them.",
                 "title": "<unique><name>",
-                "health": "3<per>",
+                "health": "3",
                 "combat": "4<per>",
-                "evade": "4<per>",
+                "evade": "4",
                 "damage": 1,
-                "horror": 0
+                "horror": 0,
+                "attack": "4",
+                "illustration_pan_x": 19.0,
+                "illustration_pan_y": 817.0
             },
             "encounter_number": "5",
             "project_number": "373",
@@ -10433,7 +10444,9 @@
                 "text": "Peril.\n<rev> If Orochimaru <i>(Eternal Slumber)</i> is in play, flip it. Test <agility> (3). If you fail, shuffle <name> back into the encounter deck and Orochimaru <i>(Bane of August)</i> makes an immediate attack against you.",
                 "flavor_text": "You feel Mount Kokoro tremble in fear as the alabaster serpent rejoins the hunt. There is nowhere to hide...",
                 "illustration": "./images/z-w-gu-sg3.jpg",
-                "illustrator": "Illus. Gu Zheng Wei"
+                "illustrator": "Illus. Gu Zheng Wei",
+                "illustration_pan_x": -58.0,
+                "illustration_pan_y": 0.0
             },
             "back": {
                 "type": "encounter"
@@ -10451,7 +10464,10 @@
                 "text": "Peril.\n<rev> If Yuki-onna is in the victory display, put her into play at the Scarlet Omen location, place <name> in the victory display, and place 1 clue <i>(from the token pool)</i> on Yuki-onna for each copy of <name> in the victory display. Otherwise, place <name> in the victory display and take 1 horror.",
                 "flavor_text": "It's been so long since she had a warm meal...",
                 "illustration": "./images/helena-nikulina-yuki-onna-ii.jpg",
-                "illustrator": "Illus. Helena Nikulina"
+                "illustrator": "Illus. Helena Nikulina",
+                "illustration_pan_x": 113.0,
+                "illustration_pan_y": -398.0,
+                "illustration_scale": 2.136
             },
             "back": {
                 "type": "encounter"
@@ -10477,7 +10493,8 @@
                 "flavor_text": "Travelers braving snowstorms in Minakami are often warned of the \nYuki-onna, who is said to prey on weak-willed men to drain \ntheir vitality and leave them as frostbitten corpses.",
                 "victory": "Victory 1.",
                 "illustration": "./images/emmanuel-bouley-yuki-onna-rough-11.jpg",
-                "illustrator": "Illus. Emmanuel Bouley"
+                "illustrator": "Illus. Emmanuel Bouley",
+                "attack": "3"
             },
             "back": {
                 "type": "encounter"
@@ -10505,10 +10522,11 @@
                 ],
                 "icons": "WIQ",
                 "illustration": "./images/yukionna.jpg",
-                "illustrator": "Illus. valeofox"
+                "illustrator": "Illus. valeofox",
+                "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "1",
             "project_number": "383",
@@ -10529,10 +10547,14 @@
                     "neutral"
                 ],
                 "illustration": "./images/dmitry-desyatov-blood-magic-jpg.jpg",
-                "illustrator": "Illus. Dmitry Desyatov"
+                "illustrator": "Illus. Dmitry Desyatov",
+                "level": "None",
+                "illustration_pan_x": -303.0,
+                "illustration_pan_y": 269.0,
+                "illustration_scale": 2.301
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "2",
             "project_number": "384",
@@ -11345,6 +11367,26 @@
             "project_number": "437",
             "encounter_set": "ab1646e6-575e-430a-b26a-1a66ac40e727",
             "id": "43c9bb22-ebab-4e61-aedb-ae1baec486a1"
+        },
+        {
+            "name": "Chilblains",
+            "front": {
+                "type": "treachery",
+                "traits": "Injury.",
+                "text": "<rev> Test <willpower> (4). If you fail, put <name> into play in your threat area.\nYou cannot trigger <action>, <free>, or <reaction> abilities on assets you control that take up at least 1 hand slot.\n<reaction> When your turn ends: Discard <name>.",
+                "flavor_text": "Your hands begin to go numb as \na thin layer of frost coats your fingers...",
+                "illustration": "./images/nepenthesgrasp2.png",
+                "illustrator": "Illus. Drew Lundquist",
+                "illustration_pan_x": -49.0,
+                "illustration_pan_y": -416.0
+            },
+            "back": {
+                "type": "encounter"
+            },
+            "encounter_number": "23-25",
+            "project_number": "163",
+            "encounter_set": "1b2b4978-17a9-4920-8a67-409629978ecd",
+            "id": "f30820ad-4852-417a-957f-30b0a245aabe"
         }
     ],
     "guides": [

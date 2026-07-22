@@ -2349,7 +2349,7 @@
         "c9617fd8-6e2c-4149-99e6-6e2be704a702": {
             "name": "Der Schlafende Riese",
             "front": {
-                "text": "<i>(Zur Erinnerung: <frost>-Marker haben den Modifikator </i>\u201e\u20131, decke einen weiteren Marker auf.<i>\u201c. Wenn w\u00e4hrend einer einzelnen Fertigkeitsprobe zwei <fro>-Marker gezogen werden, ist der Wurf automatisch fehlgeschlagen und du ziehst f\u00fcr diese Probe keine weiteren Marker.)</i>",
+                "text": "<i>(Zur Erinnerung: <frost>-Marker haben den Modifikator </i>\u201e\u20131, decke einen weiteren Marker auf.<i>\u201c. Wenn w\u00e4hrend einer einzelnen Fertigkeitsprobe zwei <frost>-Marker gezogen werden, ist der Wurf automatisch fehlgeschlagen und du ziehst f\u00fcr diese Probe keine weiteren Marker.)</i>",
                 "flavor_text": "Im Schatten des Kokoro-Berges wird die Luft um dich herum kalt. Der Boden vor dir ist mit elfenbeinfarbenen Flecken \u00fcbers\u00e4t, und die Feuchtigkeit deines nebligen Atems haftet an deinem Gesicht. Da dir die richtige Ausr\u00fcstung fehlt, vermutest du, dass du hier drau\u00dfen nicht lange durchhalten wirst..."
             },
             "back": {
@@ -2361,7 +2361,7 @@
         "a1509feb-8f5d-4dce-a99d-23ec6ef02e22": {
             "name": "Ein ophidischer Albtraum",
             "front": {
-                "text": "<i>(Zur Erinnerung: <frost>-Marker haben den Modifikator </i>\u201e\u20131, decke einen weiteren Marker auf.<i>\u201c. Wenn w\u00e4hrend einer einzelnen Fertigkeitsprobe zwei <fro>-Marker gezogen werden, ist der Wurf automatisch fehlgeschlagen und du ziehst f\u00fcr diese Probe keine weiteren Marker.)</i>",
+                "text": "<i>(Zur Erinnerung: <frost>-Marker haben den Modifikator </i>\u201e\u20131, decke einen weiteren Marker auf.<i>\u201c. Wenn w\u00e4hrend einer einzelnen Fertigkeitsprobe zwei <frost>-Marker gezogen werden, ist der Wurf automatisch fehlgeschlagen und du ziehst f\u00fcr diese Probe keine weiteren Marker.)</i>",
                 "flavor_text": "Anscheinend nutzt eine unvorstellbar gro\u00dfe Schlange den Berg Kokoro als Nistplatz. Die gute Nachricht ist, dass sie vorerst zu schlafen scheint; du hast zwar keine Chance, sie zu besiegen, aber wenn du vorsichtig bist und Gl\u00fcck hast, kannst du dich vielleicht an ihr vorbeischleichen..."
             },
             "back": {
@@ -2378,7 +2378,7 @@
             },
             "back": {
                 "name": "Jagdgr\u00fcnde",
-                "text": "Jeder Ermittler verliert alle seine Hinweise.\nF\u00fcge dem Chaosbeutel 1<frost>-Marker hinzu.\nNimm das beiseitegelegte Begegnungsset <i>Winterwinde</i> und lasse den beiseitegelegten Gegner Yuki-onna <i>(Die Mondk\u00f6nigin)</i> am Kokoro-Zugang erscheinen. Platziere anschlie\u00dfend 1 Hinweis auf Yuki-onna <i>(aus dem Markerpool.)</i> Mische den Rest des Begegnungssets <i>Winterwinde</i> und den Begegnungs-Ablagestapel in das Begegnungsdeck.\n\n",
+                "text": "Jeder Ermittler verliert alle seine Hinweise.\nF\u00fcge dem Chaosbeutel 1<frost>-Marker hinzu.\nNimm das beiseitegelegte Begegnungsset <i>Winterwinde</i> und lasse den beiseitegelegten Gegner Yuki-onna <i>(Die Mondk\u00f6nigin)</i> am Kokoro-Zugang erscheinen. Platziere anschlie\u00dfend 1 Hinweis auf Yuki-onna <i>(aus dem Markerpool.)</i> Mische den Rest des Begegnungssets <i>Winterwinde</i> und den Begegnungs-Ablagestapel in das Begegnungsdeck.",
                 "flavor_text": "Dein Marsch durch den Schnee kommt zum Stillstand, und du beschlie\u00dft, einen Moment innezuhalten, um wieder zu Atem zu kommen. Du stehst mitten auf einer weiten, offenen Ebene und machst dich auf das Schlimmste gefasst, als der Schneesturm um dich herum an St\u00e4rke zunimmt und sich zu einem immer heftiger werdenden Froststurm aufbaut. Deine Sicht sinkt auf nahezu null, und dir wird pl\u00f6tzlich bewusst, wie verwundbar du hier drau\u00dfen bist \u2013 allein und schutzlos. Du blinzelst, um den Schnee aus deinen Augen zu wischen, und als du sie wieder \u00f6ffnest, stellst du fest, dass du in der Mitte eines gro\u00dfen burgunderroten Kreises stehst, der aussieht, als w\u00e4re er gerade erst auf den lockeren Schnee gemalt worden. Das Glitzern ferner Gl\u00f6ckchen hallt \u00fcberall um dich herum wider..."
             }
         },
@@ -2410,12 +2410,12 @@
             "front": {
                 "text": "<for> Sobald die Ermittlerphase endet: Jeder Ermittler an der <name> f\u00fchrt eine <willpower>-Probe (2) durch. Falls die Probe misslingt, nimm 1 Horror.",
                 "flavor_text": "Die Nutzung des Fluchtwegs des Palastes war mit einer solchen Schande verbunden, dass niemand, der dies tat, jemals zur\u00fcckkehrte.",
-                "traits": "Oberseite."
+                "traits": "Ebene."
             },
             "back": {
                 "text": "",
                 "flavor_text": "Dieser Geheimgang wurde f\u00fcr die Mitglieder des K\u00f6nigshofs angelegt, um in Krisenzeiten als geheimer Fluchtweg aus dem Palast zu dienen.",
-                "traits": "Oberseite."
+                "traits": "Ebene."
             }
         },
         "4798a53b-f4aa-4542-ae09-60dab2ebcfb9": {
@@ -2568,7 +2568,7 @@
             "front": {
                 "text": "<action><action>: <i>D\u00fcnnes Eis.</i> Entdecke einen Hinweis am <name>. <i>(Maximal einmal pro Ermittler.)</i>",
                 "flavor_text": "Eine d\u00fcnne Frostschicht bedeckt die Steintreppe, die hinauf zum Tor f\u00fchrt, das den Rand des Gebirgspasses markiert.",
-                "traits": "Oberseite. Stufen."
+                "traits": "Ebene. Stufen."
             },
             "back": {
                 "name": "Gebirgspass",
@@ -2591,6 +2591,149 @@
                 "flavor_text": "Ein t\u00fcckischer Pfad schl\u00e4ngelt sich durch den blendenden Schnee und f\u00fchrt dich langsam zum Gipfel...",
                 "traits": "Berg."
             }
+        },
+        "a541191b-4ab7-4afd-8aa5-0e19df8e9040": {
+            "name": "Gehirnfrost",
+            "front": {
+                "text": "<rev>  Enth\u00fclle einen zuf\u00e4lligen Marker aus dem Chaosbeutel. Falls es ein <auto_fail>- oder <frost>-Marker ist, nimm 1 Horror. Ansonsten f\u00fcge dem Chaosbeutel einen <frost>-Marker hinzu. Falls dies nicht m\u00f6glich ist, f\u00fcge der Agenda 1 Verderben hinzu.",
+                "flavor_text": "Du zitterst, als die Luft um dich herum sp\u00fcrbar k\u00e4lter wird...",
+                "traits": "Gefahr."
+            },
+            "back": {}
+        },
+        "cadd9435-8920-4867-a9e2-b36c695e1e0a": {
+            "name": "D\u00fcnnes Eis",
+            "front": {
+                "text": "<rev> H\u00e4nge <name> an den n\u00e4chstgelegenen nicht enth\u00fcllten <t>Berg</t>-Ort ohne Kopie von <name> an. Maximal 1 pro Ort.\n<for> Sobald die Ermittlerphase endet: Jeder Ermittler an diesem Ort muss einen zuf\u00e4lligen Marker aus dem Chaosbeutel enth\u00fcllen. Falls ein <frost>-Marker enth\u00fcllt wird, nimm 2 Schaden.",
+                "flavor_text": "\u201eDas wird schon gut gehen \u2026 wahrscheinlich.\u201c",
+                "traits": "Gefahr."
+            },
+            "back": {}
+        },
+        "96352c7c-e747-46e7-ae74-843b79e5c2d2": {
+            "name": "K\u00e4lteeinbruch",
+            "front": {
+                "text": "<rev> F\u00fchre eine <combat>- oder <agility>-Probe (3) durch. Falls die Probe misslingt, musst du entweder eine Verb\u00fcndeter-Vorteilskarte von deiner Hand oder aus dem Spiel ablegen oder dem Chaosbeutel einen <frost>-Marker hinzuf\u00fcgen.",
+                "flavor_text": "\"Wo sind alle hin...?\"",
+                "traits": "Gefahr."
+            },
+            "back": {}
+        },
+        "b52c4b49-3e0e-4c55-85fa-29b962889e01": {
+            "name": "<unique>Jorogumo",
+            "front": {
+                "text": "J\u00e4ger 1.\n<prey> Geringster <agility>-Wert.\n<b>Vorteil </b>-- Bis zum Ende der Runde muss als zus\u00e4tzliche Kosten, um sich vom Ort von <name> wegzubewegen, eine zus\u00e4tzliche Aktion ausgegeben werden.",
+                "flavor_text": "Die Jorugumo ist daf\u00fcr bekannt, als Ehevermittlerin zu fungieren und stets auf der Suche nach geeigneten Partnern f\u00fcr ihre unz\u00e4hligen \u201eT\u00f6chter\u201c zu sein...",
+                "subtitle": "Weber des verworrenen Netzes",
+                "victory": "Sieg 1.",
+                "traits": "Monster. Elite. Yokai."
+            },
+            "back": {}
+        },
+        "ddcc2089-e81b-4011-b73d-5192f6c8a280": {
+            "name": "<unique>Konohana Sakuya",
+            "front": {
+                "text": "Zur\u00fcckhaltend.\n<spawn> N\u00e4chstgelegener nicht enth\u00fcllter Ort.\n<for> Sobald die Ermittlerphase beginnt: F\u00fcge dem Chaosbeutel 1 <frost>-Marker hinzu.",
+                "flavor_text": "Konohana Sakuya gilt als freundlicher Baumgeist, dessen beruhigende Pr\u00e4senz die Feuer im Inneren des Berges Kokoro z\u00e4hmt.",
+                "subtitle": "Die Trauerweide",
+                "victory": "Sieg 1.",
+                "traits": "Monster. Elite. Yokai."
+            },
+            "back": {}
+        },
+        "a01eb7fc-1b11-4571-963e-4446ba95353b": {
+            "name": "<unique>Onikuma",
+            "front": {
+                "text": "Zur\u00fcckhaltend. Zur\u00fcckschlagen.\n<spawn> N\u00e4chstgelegener nicht enth\u00fcllter Ort.\n<for> Sobald die Gegnerphase beginnt: Platziere 1 Verderben auf Onikuma.",
+                "flavor_text": "Seitdem der edle Besch\u00fctzer des Berges Kororo dem Gift des Orochimaru erlag, berichten die Ranger von August von Sichtungen einer b\u00e4renartigen Gestalt, die durch die W\u00e4lder wandert...",
+                "subtitle": "Der letzte W\u00e4chter",
+                "victory": "Sieg 0.",
+                "traits": "Gro\u00dfer Alter. Elite. Verflucht."
+            },
+            "back": {}
+        },
+        "f30820ad-4852-417a-957f-30b0a245aabe": {
+            "name": "Frostbeulen",
+            "front": {
+                "text": "<rev> F\u00fchre eine <willpower>-Probe (4) durch. Falls die Probe misslingt, bringe <name> in deiner Bedrohungszone ins Spiel.\nDu kannst keine <action>-, <free>-, oder <reaction>-F\u00e4higkeiten auf Vorteilskarten ausl\u00f6sen, die mindestens 1 Handslot ben\u00f6tigen.\n<reaction> Sobald dein Zug endet: Lege <name> ab.",
+                "flavor_text": "Deine H\u00e4nde fangen an, taub zu werden, w\u00e4hrend sich eine d\u00fcnne Frostschicht auf deinen Fingern bildet...",
+                "traits": "Verletzung."
+            },
+            "back": {}
+        },
+        "2660a523-6f3d-497f-9502-7c2e0419e972": {
+            "name": "Den Schl\u00e4fer erwecken",
+            "front": {
+                "text": "Wagnis.\n<rev> Falls Orochimaru <i>(Ewiger Schlummer)</i> im Spiel ist, drehe ihn um. F\u00fchre eine <agility>-Probe (3) durch. Falls die Probe misslingt, mische <Name> zur\u00fcck in den Begegnungsstapel, und Orochimaru <i>(Fluch des August)</i> greift dich sofort an.",
+                "flavor_text": "Du sp\u00fcrst, wie der Berg Kokoro vor Angst erbebt, als sich die alabasterfarbene Schlange wieder der Jagd anschlie\u00dft. Es gibt kein Versteck mehr \u2026",
+                "traits": "Patzer."
+            },
+            "back": {}
+        },
+        "6887b82b-3762-4e8b-88b2-2043d2510473": {
+            "name": "Lawine!",
+            "front": {
+                "text": "<rev> F\u00fchre eine <agility>-Probe (3) durch. Falls die Probe misslingt, nimm 1 Schaden und bewege dich f\u00fcr jeden Punkt, um den die Probe misslungen ist in Richtung des n\u00e4chstgelegenen <t>Ebenen</t>-Ortes.",
+                "flavor_text": "Das Winden der Schlange hat den Boden aufgelockert; man h\u00f6rt das Rauschen des Windes, nur wenige Augenblicke bevor man sp\u00fcrt, wie der Boden unter den F\u00fc\u00dfen bebt...",
+                "traits": "Gefahr."
+            },
+            "back": {}
+        },
+        "8905e0ba-49ba-4b8a-aaf5-ab9db0ba97e3": {
+            "name": "<unique>Orochimaru",
+            "front": {
+                "text": "Gewaltig. Gesch\u00fctzt. Zur\u00fcckhaltend.\nOrochimaru erh\u00e4lt +1<per_large> Ausdauer und und gilt als an jedem Ort der Ermittler befindlich.",
+                "flavor_text": "Der gef\u00fcrchtete Orochimaru, der ewige Erzfeind des W\u00e4chters Jiraiya, versank in stillen Schlaf, nachdem ihm seine Beute nach dem Untergang des Pantheons \u201eentkommen\u201c war.",
+                "subtitle": "Ewiger Schlummer",
+                "traits": "Gro\u00dfer Alter. Elite. Schlange."
+            },
+            "back": {
+                "name": "<unique>Orochimaru",
+                "text": "Gewaltig. Alamiert.\n<b>Rache</b> -- Anstatt Orochimaru abzulegen, lege allen Schaden und Verderben von Orochimaru ab und drehe ihn um.\nOrochimaru erh\u00e4lt +1<per_large> Ausdauer und und gilt als an jedem Ort der Ermittler befindlich.",
+                "flavor_text": "Die Offiziere von August glaubten, dass Orochimaru neun verschiedene K\u00f6pfe habe, obwohl keiner ihrer Ranger jemals lange genug lebte, um sie tats\u00e4chlich alle zu z\u00e4hlen.",
+                "subtitle": "Fluch des August",
+                "traits": "Gro\u00dfer Alter. Elite. Schlange."
+            }
+        },
+        "d1687df2-4198-475a-9ba6-e4f46aba3988": {
+            "name": "<unique>Eisgebundener Fetisch",
+            "front": {
+                "text": "Dauerhaft. Nur f\u00fcr das Deck von Yuki Yagami. \nDu erh\u00e4ltst +1 <willpower> und das Merkmal <t>Vampir</t>.\n<reaction> Nachdem du einen Gegner besiegst, ersch\u00f6pfe Eisgebundener Fetisch: Heile 1 Schaden von deinem Ermittler.",
+                "flavor_text": "Dein Herz schl\u00e4gt schneller, als die durchscheinende Kugel einen sanften, vertrauten Puls aussendet...",
+                "subtitle": "Segen der Mondk\u00f6nigin",
+                "traits": "Gegenstand. Relikt. Okkult."
+            },
+            "back": {}
+        },
+        "9d33ade4-0c51-4287-ae3f-117c81b8d691": {
+            "name": "<unique>K\u00f6nigin Kaoru ",
+            "front": {
+                "text": "Du hast 1 zus\u00e4tzlichen Arkan-Slot. \n<reaction> Sobald ein Gegner an deinem Ort besiegt wird, ersch\u00f6pfe K\u00f6nigin Kaoru: Heile 1 Schaden von einer Karte, die du kontrollierst.",
+                "flavor_text": "Einst vom Wahnsinn der Verderbnis Molochs verf\u00fchrt, sucht der edle Geist von Onigawas \u201eVampir-K\u00f6nigin\u201c S\u00fchne f\u00fcr ihre vergangenen Verfehlungen.",
+                "subtitle": "Erste der Nachtgefallenen",
+                "traits": "Verb\u00fcndeter. Vampir. Hexe. Geist."
+            },
+            "back": {}
+        },
+        "e66eb2a0-e7ff-4698-9e13-8bf061feb04c": {
+            "name": "Gnadenloser Winter",
+            "front": {
+                "text": "Wagnis.\n<rev> Befindet sich Yuki-onna im Siegpunktestapel, bringe sie am Ort Blutrotes Omen ins Spiel, lege <name> auf den Siegpunktestapel und lege f\u00fcr jedes Exemplar von <name> im Siegpunktestapel 1 Hinweis <i>(aus dem Spielsteinvorrat)</i> auf Yuki-onna. Ansonsten lege <name> in den Siegpunktestapel und nimm 1 Horror.",
+                "flavor_text": "Es ist schon so lange her, dass sie eine warme Mahlzeit gegessen hat...",
+                "traits": "Macht."
+            },
+            "back": {}
+        },
+        "114a0775-118e-487d-9e1f-d2fd7580cc4e": {
+            "name": "<unique>Yuki-onna",
+            "front": {
+                "text": "J\u00e4ger X. Alamiert.\n<for> Sobald die Gegnerphase beginnt: Bewege 1 Hinweis von Yuki-onnas Ort auf Yuki-onna.\n<b>Rache</b> -- Platziere alle Hinweise von Yuki-onna auf ihren Ort.\nYuki-onna erh\u00e4lt +X Ausdauer. X ist die Anzahl an Hinweisen auf ihr.",
+                "flavor_text": "Reisende, die sich in Minakami den Schneest\u00fcrmen stellen, werden oft vor Yuki-onna gewarnt, die angeblich willensschwache M\u00e4nner heimsucht, um ihnen ihre Lebenskraft zu rauben und sie als erfrorene Leichen zur\u00fcckzulassen.",
+                "subtitle": "Die Mondk\u00f6nigin",
+                "victory": "Sieg 1.",
+                "traits": "Hexe. Elite. Geist. Verflucht."
+            },
+            "back": {}
         }
     },
     "guides": [
