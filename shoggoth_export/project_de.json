@@ -26,7 +26,7 @@
         "5e67f290-7b28-47c2-ace9-c50c0d33fc29": {
             "name": "<unique>Midoris List",
             "front": {
-                "text": "<action> Wenn <name> bereit ist: Kampf. F\u00fcge deine <agility>-Fertigkeit zu deinem Fertigkeitswert f\u00fcr diesen Angriff hinzu. Wenn du mit 2 oder mehr Punkten Erfolg hast, verursacht dieser Angriff +1 Schaden. Wenn du diese Fertigkeitsprobe nicht bestehst, ersch\u00f6pfe <name>, um stattdessen automatisch zu bestehen.",
+                "text": "<action> Wenn Midoris List bereit ist: <b>Kampf. </b> F\u00fcge deine <agility>-Fertigkeit zu deinem Fertigkeitswert f\u00fcr diesen Angriff hinzu. Wenn du mit 2 oder mehr Punkten Erfolg hast, verursacht dieser Angriff +1 Schaden. Wenn du diese Fertigkeitsprobe nicht bestehst, ersch\u00f6pfe Midoris List, um stattdessen automatisch zu bestehen.",
                 "flavor_text": "Midori war die weiseste aller W\u00e4chterinnen; ihre diplomatischen F\u00e4higkeiten waren entscheidend f\u00fcr den Abschluss des Paktes mit Onigawa.",
                 "subtitle": "Entermesser der Morgenr\u00f6te",
                 "traits": "Gegenstand. Relikt. Waffe. Nahkampf."
@@ -235,8 +235,8 @@
                 "traits": "Erinnerung."
             },
             "back": {
-                "name": "Feder des Kanon",
-                "text": "Feder des Kanon kann das Spiel nicht verlasseen.\n<action> Wenn Feder des Kanon bereit ist: Kampf. F\u00fcge deine h\u00f6chste Nicht-<combat>-Fertigkeit zu deinem Fertigkeitswert f\u00fcr diese Probe hinzu. Dieser Angriff f\u00fcgt +1<per_large> Schaden zu. Wenn die Probe fehlschl\u00e4gt, musst du entweder ein Opfer bringen oder Feder des Kanon ersch\u00f6pfen.",
+                "name": "<unique>Feder des Kanon",
+                "text": "Feder des Kanon kann das Spiel nicht verlasseen.\n<action> Wenn Feder des Kanon bereit ist: <b>Kampf. </b>. F\u00fcge deine h\u00f6chste Nicht-<combat>-Fertigkeit zu deinem Fertigkeitswert f\u00fcr diese Probe hinzu. Dieser Angriff f\u00fcgt +1<per_large> Schaden zu. Wenn die Probe fehlschl\u00e4gt, musst du entweder ein Opfer bringen oder Feder des Kanon ersch\u00f6pfen.",
                 "flavor_text": "...aber zusammen, w\u00e4re ihre Macht unaufhaltsam.",
                 "subtitle": "R\u00e4cher des Pantheons",
                 "traits": "Gegenstand. Relikt. Waffe. Nahkampf."
@@ -265,7 +265,7 @@
         "c7e01081-7106-4fcf-9871-45dccf95a6b1": {
             "name": "<unique>Tsurugis Macht",
             "front": {
-                "text": "<action> Wenn <name> bereit ist: Kampf. F\u00fcge deine <willpower> zu deinem Fertigkeitswert f\u00fcr diesen Angriff hinzu. Wenn du mit 2 oder mehr Punkten Erfolg hast, verursacht dieser Angriff +1 Schaden. Wenn du diese Fertigkeitsprobe nicht bestehst, ersch\u00f6pfe <name>, um stattdessen automatisch zu bestehen.",
+                "text": "<action> Wenn Tsurugis Macht bereit ist: <b>Kampf. </b>F\u00fcge deine <willpower> zu deinem Fertigkeitswert f\u00fcr diesen Angriff hinzu. Wenn du mit 2 oder mehr Punkten Erfolg hast, verursacht dieser Angriff +1 Schaden. Wenn du diese Fertigkeitsprobe nicht bestehst, ersch\u00f6pfe Tsurugis Macht, um stattdessen automatisch zu bestehen.",
                 "flavor_text": "Tsurugi galt als der m\u00e4chtigste aller W\u00e4chter; sein Atem war der Treibstoff, der das Feuer unter dem Berg Kokoro entfachte.",
                 "subtitle": "Klinge der D\u00e4mmerung",
                 "traits": "Gegenstand. Relikt. Waffe. Nahkampf."
@@ -2732,6 +2732,388 @@
                 "subtitle": "Die Mondk\u00f6nigin",
                 "victory": "Sieg 1.",
                 "traits": "Hexe. Elite. Geist. Verflucht."
+            },
+            "back": {}
+        },
+        "6fb5eb18-18c6-43ea-bf95-70429b539233": {
+            "name": "Die geschmolzene Waffenkammer",
+            "front": {
+                "entries": [
+                    {
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "\u20131. Falls die Probe misslingt, lege die oberste Karte des Begegnungsdecks ab bis ein Gegner enth\u00fcllt wird und ziehe diesen."
+                    },
+                    {
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "\u20132. Falls die Probe misslingt, f\u00fcge dem Chaosbeutel 2 <curse>-Marker hinzu."
+                    },
+                    {
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "\u20133 falls du eine spielbereite <t>Aspekt</t>-Vorteilskarte kontrollierst. Ansonsten, \u20134."
+                    },
+                    {
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20134. Falls die Probe misslingt, platziere 1 Verderben auf der Agenda."
+                    }
+                ],
+                "difficulty": "LEICHT/NORMAL"
+            },
+            "back": {
+                "entries": [
+                    {
+                        "token": [
+                            "skull"
+                        ],
+                        "text": "\u20132. Falls die Probe misslingt, lege die oberste Karte des Begegnungsdecks ab bis ein Gegner enth\u00fcllt wird und ziehe diesen."
+                    },
+                    {
+                        "token": [
+                            "cultist"
+                        ],
+                        "text": "\u20133. Nachdem die Probe endet, f\u00fcge dem Chaosbeutel 2 <curse>-Marker hinzu."
+                    },
+                    {
+                        "token": [
+                            "tablet"
+                        ],
+                        "text": "\u20134. Falls du eine ersch\u00f6pfte <t>Aspekt</t>-Vorteilskarte kontrollierst misslingt die Probe automatisch."
+                    },
+                    {
+                        "token": [
+                            "elder_thing"
+                        ],
+                        "text": "\u20134. Nachdem die Probe endet, platziere 1 Verderben auf der Agenda."
+                    }
+                ],
+                "difficulty": "Hard/Expert"
+            }
+        },
+        "a8bd3199-d477-4010-b426-877b9c01546c": {
+            "name": "Raus aus dem Tiegel",
+            "front": {
+                "flavor_text": "Die ru\u00dfbeladene Luft erschwert dir das Atmen im Inneren des Vulkans, und du lockerst deinen Kragen, w\u00e4hrend die Lachen aus geschmolzenem Gestein dir Wolken feuchter Luft ins Gesicht speien. Allein schon die Temperatur macht es gef\u00e4hrlich, sich zu lange in dieser Umgebung aufzuhalten..."
+            },
+            "back": {
+                "name": "In das Feuer hinein",
+                "text": "Jeder Ermittler nimmt 2 Schaden und/oder Horror.\nR\u00fccke die Agenda vor. <i>(Diese kann mehrere Male vorr\u00fccken.)</i>\n\n\n",
+                "flavor_text": "Schwei\u00dfperlen brennen in deinen Augen, als du inneh\u00e4ltst, um wieder zu Atem zu kommen. Du bist dir nicht sicher, wie lange du das noch durchhalten kannst; deine Vorr\u00e4te gehen zur Neige und die dr\u00fcckende Hitze ist einfach unertr\u00e4glich..."
+            }
+        },
+        "70cf8ba4-64a8-405c-a56a-e2a87142fe41": {
+            "name": "Gef\u00e4hrliche Stoffe",
+            "front": {
+                "text": "<obj> <i>Die feindliche Umgebung \u00fcberstehen.</i> Die Ermittler k\u00f6nnen als Gruppe die erforderliche Anzahl an Hinweisen ausgeben, um vorzur\u00fccken.",
+                "flavor_text": "Die \u201eprimitiven\u201c Maschinen der Gie\u00dferei scheinen autonom zu arbeiten; ein komplexes System von Kan\u00e4len leitet den Lavastrom zu gro\u00dfen Schmelz\u00f6fen, und ein kompliziertes Geflecht aus Zahnr\u00e4dern und Ketten sch\u00fcttet das Roherz in Wagen, die zwischen kleineren \u00d6fen hin und her rasen. Doch zu welchem Zweck? Was wurde hier geschmiedet?"
+            },
+            "back": {
+                "name": "M\u00fche und Not",
+                "text": "Bringe die beiseitegelegten Orte Brandschneise und Amboss der Sch\u00f6pfung verdeckt ins Spiel. Anschlie\u00dfend m\u00fcssen die Ermittler entscheiden <i>(w\u00e4hle eine Option)</i>:\n<hr>\n<bi><bullet> Sabotiere die Gie\u00dferei: </bi>\nBringe den beiseitegelegten Ort Fokussierende Blende verdeckt ins Spiel und entferne das aktuelle Szenen-Deck aus dem Spiel. Bringe die beiseite gelegten Szenen 2a und 3a als neuen Szenen-Deck ins Spiel.\n<hr>\n<bi><bullet>Die Schmiede in Beschlag nehmen.</bi>\nBringe den beiseite gelegten Ort Schmelztiegel verdeckt ins Spiel und entferne das aktuelle Szenen-Deck aus dem Spiel. Bringe die beiseite gelegten Szenen 2c und 3c als neuen Szenen-Deck ins Spiel.",
+                "flavor_text": "Der L\u00f6wenanteil des Erzes und des Magmas scheint entweder in Kan\u00e4le umgeleitet zu werden, die einen gro\u00dfen, geschw\u00e4rzten Amboss versorgen, der auf einer Granitplattform nahe dem Scheitelpunkt des Vulkans ruht, oder ein un\u00fcberwindbares, loderndes Portal nahe der oberen Caldera zu befeuern. Vielleicht gelingt es dir, die Mechanismen, die diese antreiben, zu st\u00f6ren \u2026 oder die Maschinerie sogar zu deinem Vorteil zu nutzen?\n"
+            }
+        },
+        "02cc5839-845b-4318-b93b-2e1ab249b422": {
+            "name": "Abfallschleuse",
+            "front": {
+                "text": "<for> Sobald <name> enth\u00fcllt wurde: \u00dcberpr\u00fcfe das Kampagnenlogbuch. Falls <i>Mayu alleine nach Miyu sucht</i>, muss der Ermittlungsleiter das <b>Szenario-Zwischenspiel: Auf dem hei\u00dfen Stuhl</b> im Kampagnenleitfaden lesen. Ansonsten, platziere den beiseite gelegten Gegner Wachschor oben auf das Begegnungsdeck.",
+                "flavor_text": "Wer M\u00fcll vermeidet, kommt gut \u00fcber die Runden.",
+                "traits": "Vulkan. Tiefen."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Die Abfallnebenprodukte vieler T\u00e4tigkeiten der Gie\u00dferei werden alle zur Verbrennung in diese grauenhafte Abfallschleuse geleitet...",
+                "traits": "Vulkan. Tiefen."
+            }
+        },
+        "966056db-a44e-4566-8998-34539484bcc0": {
+            "name": "Aschgraue Nische",
+            "front": {
+                "text": "Ermittler an <name> erhalten w\u00e4hrend der Unterhaltsphase keine Ressourcen.",
+                "flavor_text": "Die hei\u00dfe Luft, die aus dem brodelnden Magma unter dir heraufstr\u00f6mt, brennt in deinen Augen\u2026",
+                "traits": "Vulkan. Zentral."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Aus der brodelnden Lava unterhalb der schmalen Spalte steigen giftige D\u00e4mpfe auf.",
+                "traits": "Vulkan. Zentral."
+            }
+        },
+        "78cedbcd-8106-4ee0-9c80-0999c89d86cf": {
+            "name": "Mannequin-Gigant",
+            "front": {
+                "text": "<b>Heimgesucht \u2014</b> Nimm 1 Horror. <i>(L\u00f6se den Heimgesucht-Effekt dieses Ortes aus, sobald bei einer Ermittlung an diesem Ortes eine Probe misslingt.)</i>",
+                "flavor_text": "Die Vorstellung, wozu eine R\u00fcstung dieser Gr\u00f6\u00dfe dienen k\u00f6nnte, l\u00e4sst die Fantasie ins Unermessliche schweifen, doch es scheint klar zu sein, dass sie nicht daf\u00fcr bestimmt war, von einem sterblichen Wesen getragen zu werden...",
+                "subtitle": "Mantel von Tsurugi",
+                "traits": "Vulkan. Anlage."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Umgeben von provisorischen Ger\u00fcsten ruht eine riesige zeremonielle R\u00fcstung an der Wand des Vulkans...",
+                "traits": "Vulkan. Tiefen."
+            }
+        },
+        "6539d02d-5f5a-4d74-9271-883e3efa9e91": {
+            "name": "Schlackegrube",
+            "front": {
+                "text": "Als zus\u00e4tzliche Kosten, um sich von <name> wegzubewegen, m\u00fcssen Ermittler eine zus\u00e4tzliche Aktion ausgeben.",
+                "flavor_text": "Du wei\u00dft nicht genug \u00fcber Lava, um zu wissen, ob sie fest genug ist, um darauf zu laufen, wenn sie abgek\u00fchlt ist \u2026 und du hast ganz sicher nicht vor, das herauszufinden.",
+                "traits": "Vulkan. Tiefen."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Ein Feld aus abk\u00fchlender Lava bildet einen unsteten Archipel aus verkohltem Material und Asche.",
+                "traits": "Vulkan. Tiefen."
+            }
+        },
+        "18aa49eb-9bd0-47e4-bf5a-64fe7ecd5075": {
+            "name": "Tsurugis Rastplatz",
+            "front": {
+                "text": "<free>: <i>Sprich ein Gebet.</i> Mache eine <t>Aspekt</t>-Vorteilskarte, die du kontrollierst, spielbereit. <i>(Maximal einmal pro Spiel.)</i>",
+                "flavor_text": "Der Drachenw\u00e4chter Tsurugi war daf\u00fcr bekannt, Knochen als Opfergaben anzunehmen \u2026 vorzugsweise solche, die den Leichen seiner Feinde entrissen worden waren.",
+                "subtitle": "Schrein der Ryu",
+                "traits": "Vulkan. Heiligtum."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Ein seltsamer Sarkophag, in Ketten gelegt und von Knochen umgeben, beobachtet unheilvoll von einer nahegelegenen Klippe aus das Geschehen in der Gie\u00dferei.",
+                "traits": "Vulkan. Tiefen."
+            }
+        },
+        "68281a94-d0bb-47f1-9bc3-aa6b1d562717": {
+            "name": "Hitzewelle",
+            "front": {
+                "text": "<rev> F\u00fchre eine <willpower>-Probe (3) durch. Falls die Probe misslingt, verliere X Ressourcen, wobei X die Anzahl an Orten ist, die du von Aschgraue Nische entfernt bist.",
+                "flavor_text": "Dehydrated due to the intense heat of the volcano, you begin to hallucinate sinister shapes emerging from within the flickering flames...",
+                "traits": "Gefahr."
+            },
+            "back": {}
+        },
+        "235a640f-47f9-4c3c-8260-0193d25ef749": {
+            "name": "In der Halle des Bergk\u00f6nigs",
+            "front": {
+                "text": "<rev> Bringe entweder <name> anngeh\u00e4ngt an die aktuelle Agenda ins Spiel oder f\u00fcge jedem Ermittler und <t>Verb\u00fcndeter</t>-Vorteilskarte im Spiel 1 Horror zu.\nJeder <t>Vulkan</t>-Ort erh\u00e4lt +1 Schleierwert.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "flavor_text": "Als die Kr\u00e4fte der Gie\u00dfereischmiede nachlie\u00dfen, bestand ihre letzte vorgeschriebene Aufgabe darin, das Feuer noch ein letztes Mal anzufachen.",
+                "traits": "Macht."
+            },
+            "back": {}
+        },
+        "1a090340-bda4-4f25-bd9f-4be3be53cc9a": {
+            "name": "Schnellkochtopf",
+            "front": {
+                "text": "<rev> F\u00fchre eine <willpower>-Probe (3) durch. Falls die Probe misslingt, musst du entweder eine zuf\u00e4llige Nicht-Schw\u00e4che-Karte von deiner Hand ablegen oder 2 Schaden nehmen. Falls die Probe um 3 oder mehr misslingt, mache stattdessen beides.",
+                "flavor_text": "Die Feuer der heiligen Gie\u00dferei brannten die Verunreinigungen aus vielen verschiedenen \u201eMaterialien\u201c heraus...",
+                "traits": "Gefahr."
+            },
+            "back": {}
+        },
+        "c1b59e8a-4390-420e-b7c5-8ea1b2af899d": {
+            "name": "Sicherheitsl\u00fccke",
+            "front": {
+                "text": "<rev> Falls sich keine Gegner im Spiel befinden, erh\u00e4lt <name> Nachr\u00fcsten. Andernfalls w\u00e4hle einen Gegner im Spiel aus und f\u00fchre eine <combat>-Probe (X) durch, wobei X der Kampfwert des ausgew\u00e4hlten Gegners ist. Misslingt die Probe, platziere 1 Verderben auf dem Gegner.",
+                "flavor_text": "Als die meisten Einwohner von Onigawa w\u00e4hrend der Belagerung verzweifelten, sah der gefangene Orochimaru darin lediglich eine Chance.",
+                "traits": "Patzer."
+            },
+            "back": {}
+        },
+        "249aaa49-23ac-475f-b4f6-cce7b7767e94": {
+            "name": "Versengt",
+            "front": {
+                "text": "<rev> F\u00fchre eine <agility>-Probe (3) durch. Falls die Probe misslingt, musst du entweder einen Nicht-Schw\u00e4che-Gegenstand-Karte aus deiner Hand oder deinem Spielbereich ablegen und mindestens 1 Handslot ben\u00f6tigt, oder f\u00fcr jeden Punkt, um den die Probe misslungen ist, 1 Schaden nehmen.",
+                "flavor_text": "Eine Flammenfont\u00e4ne schie\u00dft aus einem nahegelegenen Lavasee empor und versengt deine nackte Haut...",
+                "traits": "Verletzung."
+            },
+            "back": {}
+        },
+        "8333f8f9-e860-4915-b6cb-b22c65f5bb05": {
+            "name": "Aschene Manifestation",
+            "front": {
+                "text": "Hinterhalt.\n<b>Revenge</b> -- Platziere 1 Verderben auf der aktuellen Agenda.",
+                "flavor_text": "Man kann nur vermuten, dass dieser verkohlte Golem die \u00dcberreste eines der Arbeiter der Gie\u00dferei sein muss...\n",
+                "traits": "Monster. Elemental. Yokai."
+            },
+            "back": {}
+        },
+        "e34eb742-d19a-49dd-8ab2-620e6ba0b50d": {
+            "name": "Schatten von Wukong",
+            "front": {
+                "text": "J\u00e4ger 1. Alamiert.\n<spawn> Schlackegrube.",
+                "flavor_text": "Nachdem einst ein B\u00fcrgerkrieg die Einheit des Pantheons bedroht hatte, verf\u00fcgte Kanon, dass der abtr\u00fcnnige W\u00e4chter Wukong als Strafe f\u00fcr die Anstiftung zur Meuterei \u201eneu geschmiedet\u201c werden solle.",
+                "subtitle": "Aufgegebener Aspekt ",
+                "victory": "Sieg 1.",
+                "traits": "Monster. Elite. Yokai."
+            },
+            "back": {}
+        },
+        "44478b2e-998f-4871-ae85-11736e7c0021": {
+            "name": "Z\u00fcndvorrichtung",
+            "front": {
+                "text": "J\u00e4ger 2. \n<b>Revenge</b> -- Verliere alle verbliebenen Aktionen und beende deinen Zug.",
+                "flavor_text": "Die Wanyudo waren einst die Diener des W\u00e4chters Tsurugi und mit der Instandhaltung der heiligen Gie\u00dferei betraut.",
+                "traits": "Monster. Yokai."
+            },
+            "back": {}
+        },
+        "2e806ab3-df2d-493f-9471-07972a6e58aa": {
+            "name": "Ein totales Chaos",
+            "front": {
+                "text": "<obj> Finde die Energiequelle der Gie\u00dferei. <i>(R\u00fccke nicht vor, bis du dazu angewiesen wirst.)</i>",
+                "flavor_text": "Je weiter du in die Tiefen des Vulkans hinabsteigst, desto st\u00e4rker sp\u00fcrst du, wie die Hitze zunimmt, und in der Ferne f\u00e4llt dein Blick auf die Silhouette einer seltsamen Kugel; vielleicht ist das die verzauberte Energiequelle der Gie\u00dferei...?"
+            },
+            "back": {
+                "name": "Unscharf",
+                "text": "Jeder Ermittler muss eine Kopie der beiseite gelegten Verratskarte Siedepunkt ziehen und sie in seiner Bedrohungszone ins Spiel bringen.\nBringe den beiseite gelegten Gegner Kurama Tengu <i>(Die Hand des Moloch)</i> an der Brandschneise ins Spiel.\n\u00dcberpr\u00fcfe das Kampagnenlogbuch und platziere X Verderben auf Kurama Tengu, wobei X der Anzahl der <i>zur Ruhe gebetteten Meister von Onigawa </i>entspricht.\nMische den  Begegnungs-Ablagestapel in das Begegnungsdeck.\n\n\n",
+                "flavor_text": "Die flammende Kugel verfolgt dich, w\u00e4hrend du die Tiefen der H\u00f6hle umrundest, ihr sengender Blick bleibt ununterbrochen auf dich gerichtet. Die Hitze nimmt zu, je n\u00e4her du ihr kommst, und f\u00fcr einen Moment f\u00fchlst du eine Verbundenheit mit dem Strom gequ\u00e4lter Seelen, die in ihrem Gravitationsfeld gefangen sind. Sie blickt durch dich hindurch, urteilt schweigend \u00fcber dich, und dann \u2026 entlastet sich etwas in deiner Brust, als w\u00fcrde Luft durch ein winziges Loch entweichen. Die Augenlinse rei\u00dft und zersplittert dann wie Glas, wobei ihre gl\u00fchenden Scherben in den Abgrund darunter st\u00fcrzen. Die H\u00f6hle bebt und wirft dich fast von deinem prek\u00e4ren Ausguck, und du schaffst es gerade noch, zur\u00fcck auf festen Boden zu springen, bevor das Lavafeld abk\u00fchlt und zu einem verkohlten Gletscher aus Knochen und Asche erstarrt \u2026\nVon deinem Aussichtspunkt aus kannst du gerade noch einen fl\u00fcchtigen Blick auf das lodernde Portal am Gipfel des Vulkans erhaschen, gerade rechtzeitig, um zu sehen, wie sich seine feurige Barriere zur\u00fcckzieht \u2026 und eine dunkle Gestalt aus den Schatten dahinter hervortritt. Ein Strom von Geistern scheint die grimmige Waffe zu umkreisen, die sie tr\u00e4gt, und du sp\u00fcrst, wie der Boden unter deinen F\u00fc\u00dfen zischt \u2026"
+            }
+        },
+        "48613f23-9bfc-4eb6-a5f1-13f6139d2890": {
+            "name": "Brandschutz\u00fcbung",
+            "front": {
+                "text": "<obj> Finde einen Weg die Schmiede wieder zu aktivieren. <i>(R\u00fccke nicht vor, bis du dazu angewiesen wirst.)</i>",
+                "flavor_text": "Ja, die Schmiede ist, sagen wir mal, \u201everfallen\u201c, aber man sp\u00fcrt, wie die Geschichte durch die W\u00e4nde des Vulkans pulsiert; einst wurden hier gro\u00dfartige Waffen und R\u00fcstungen geschmiedet, bestimmt f\u00fcr Helden und die Verfechter der G\u00f6tter. Vielleicht k\u00f6nnten sie das mit ein wenig Hilfe wieder tun \u2026"
+            },
+            "back": {
+                "name": "Raucherpause",
+                "text": "Jeder Ermittler muss eine Kopie der beiseite gelegten Verratskarte Siedepunkt ziehen und sie in seiner Bedrohungszone ins Spiel bringen.\nBringe den beiseite gelegten Gegner \"Sensei\" Kanuti <i>(Meister der Schmiede)</i> am Amboss der Entstehung ins Spiel.\n\u00dcberpr\u00fcfe das Kampagnenlogbuch und platziere X Verderben auf \"Sensei\" Kanuti, wobei X der Anzahl der <i>zur Ruhe gebetteten Meister von Onigawa </i>entspricht.\nMische den  Begegnungs-Ablagestapel in das Begegnungsdeck.\n\n",
+                "flavor_text": "Du beobachtest, wie das Magma die Rinne des Schmelztiegels hinunterflie\u00dft und in den Ofen gelangt, der sich \u00fcber dem geschw\u00e4rzten Amboss darunter befindet. Das geschmolzene Gestein flie\u00dft dann in zwei Formen \u00fcber dem Amboss, die vor Hitze zischen\u2026 Gerade als du dich darauf vorbereitest, deine Wachsamkeit zu verringern, w\u00e4hrend die Maschinen ihre Arbeit verrichten, beginnt die Lava, die die Granitplattform umgibt, pl\u00f6tzlich \u00fcberzukochen, und eine riesige Kreatur taucht mit einem tierischen Br\u00fcllen auf \u2013 sichtlich ver\u00e4rgert \u00fcber deinen Versuch, sich ihre Werkzeuge \u201eanzueignen\u201c..."
+            }
+        },
+        "1bb9c007-8583-4935-8495-8964fa2ad9e4": {
+            "name": "Ein Herausforderer naht",
+            "front": {
+                "text": "<for> Zu Beginn der Gegnerphase: Befindet sich kein Ermittler am Ort von Kurama Tengu, r\u00fccke die aktuelle Agenda vor.\n<obj> Falls sich alle \u00fcberlebenden Ermittler an der Brandschneise befinden und Kurama Tengu sich im Siegpunktstapel befindet, r\u00fccke vor.",
+                "flavor_text": "Der Weg ist frei, doch nun wirst du von einem geheimnisvollen Krieger verfolgt. Seine geschw\u00e4rzte R\u00fcstung \u00e4hnelt oberfl\u00e4chlich betrachtet einigen der Modelle, die du w\u00e4hrend der Belagerung des Palasts bei Onigawas Verteidigern gesehen hast, und doch \u2026"
+            },
+            "back": {
+                "name": "Herausforderung angenommen",
+                "text": "(<resolution><b>A1</b>)\n\n\n",
+                "flavor_text": "Der geheimnisvolle Eindringling wehrt deine Schl\u00e4ge ab und startet seine eigenen Angriffe ohne Ehre und Menschlichkeit, doch durch List gelingt es dir, die Oberhand zu gewinnen; du t\u00e4uschst an und lockst ihn zu einem Gegenangriff, der ihn am Rand einer Klippe aus dem Gleichgewicht bringt, und landest einen Folgeangriff, der ihn aus dem Gleichgewicht bringt.\nWie eine Sternschnuppe st\u00fcrzt er durch die Luft hinab in einen Lavasee unter ihm. Eine gewaltige Feuers\u00e4ule schie\u00dft an der Stelle empor, an der er aufgeschlagen ist \u2026 gefolgt von einem hohlen Kriegsschrei, der vom Rand des Vulkans widerhallt, w\u00e4hrend gespenstische Lichtpartikel an dir vorbeisteigen und auf den purpurroten Mond zufliegen. Hoffentlich ist das das letzte Mal, dass du ihn siehst, wer auch immer er gewesen sein mag \u2026"
+            }
+        },
+        "c7fb3282-dd82-4b7d-b7ae-ab3feb84b64b": {
+            "name": "Werkzeuge des Meisters",
+            "front": {
+                "text": "<for> Zu Beginn der Gegnerphase: Befindet sich kein Ermittler am Ort von \"Sensei\" Kanuti, r\u00fccke die aktuelle Agenda vor.\n<obj> Falls sich alle \u00fcberlebenden Ermittler am Amboss der Entstehung befinden und \"Sensei\" Kanuti sich im Siegpunktstapel befindet, r\u00fccke vor.",
+                "flavor_text": "Somehow, you get the sense that this massive creature is the master of the forge. Its ceremonial armor resembles an oversized version of some of the mantles you observed on Onigawa's defenders during the siege, and yet..."
+            },
+            "back": {
+                "name": "In Flammen geschmiedet",
+                "text": "(<resolution><b>A2</b>)\n\n\n",
+                "flavor_text": "Schlie\u00dflich gibt der Riese nach und schleicht sich mit einem gequ\u00e4lten St\u00f6hnen davon, um sich erneut unter der Oberfl\u00e4che der Lava zu verbergen.\nWie auf ein Stichwort zerbrechen die \u00fcber dem Amboss h\u00e4ngenden Gussformen, und als die geschmolzenen Klingen auf der geschw\u00e4rzten Oberfl\u00e4che des Ambosses zur Ruhe kommen, wei\u00dft du, was zu tun ist; du hebst einen Hammer, der in der N\u00e4he liegt, \u00fcber deinen Kopf und h\u00e4mmerst eine ganze Weile lang wie wild auf das Metall ein, um es in Form zu bringen und sein Potenzial zu entfalten \u2026"
+            }
+        },
+        "57747e02-9da4-4a5e-a3e2-d44c873b4499": {
+            "name": "Amboss der Entstehung",
+            "front": {
+                "text": "<t>Aspekt</t>-Story-Vorteilskarten, die von Ermittlern am <name> kontrolliert werden, werden in der Unterhaltsphase nicht spielbereit gemacht.",
+                "flavor_text": "Der Legende nach wurden die Seelen der W\u00e4chter auf genau diesem Amboss geschmiedet.",
+                "subtitle": "Die Aspekt-Schmiede",
+                "victory": "Sieg 1.",
+                "traits": "Vulkan. Uralt."
+            },
+            "back": {
+                "flavor_text": "\u00dcber der Schmelzfront schwebt eine geheimnisvolle Granitplattform, die das Gewicht eines geschw\u00e4rzten Ambosses tr\u00e4gt...",
+                "traits": "Vulkan. Uralt."
+            }
+        },
+        "63f3dc3a-1fcf-4910-9e16-27d0928dc9a4": {
+            "name": "Brandschneise",
+            "front": {
+                "text": "<action> Gib X Hinweise aus: <b>Kampf.</b> Anstatt deines <combat>-Wertes kannst du deinen <intellect>-Wert f\u00fcr diese Probe verwenden. Dieser Angriff kann einen Gegner treffen, der bis zu X Orte entfernt ist.",
+                "flavor_text": "Obsidian stairs lead to a flaming portal \nat the tip of a massive stone blade...",
+                "subtitle": "Die letzte Stellung",
+                "victory": "Sieg 1.",
+                "traits": "Vulkan. Tor."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Am oberen Rand der Schlucht kann man die Silhouette eines riesigen Schwertes erkennen, das die Erde spaltet...",
+                "traits": "Vulkan. Tor."
+            }
+        },
+        "fc6531d9-eeba-4720-8e4a-c3e6d752ffb4": {
+            "name": "Fokussierende Blende",
+            "front": {
+                "text": "<action> Falls Szene 2a aktuell ist und sich keine Hinweise auf <name> befinden, ersch\u00f6pfe eine <t>Aspekt</t>-Story-Vorteilskarte, die du kontrollierst: <i>Auge um Auge.</i> R\u00fccke vor.",
+                "flavor_text": "Der Halbgott Izanagi opferte seine Augen, um Sonne und Mond zu erschaffen, als seine Gemahlin Izanami in die Unterwelt verschwand. Nur wenige wissen, dass sie ihm diese Tat mit gleicher M\u00fcnze heimzahlte...",
+                "subtitle": "Auge von Izanami",
+                "victory": "Sieg 1.",
+                "traits": "Vulkan. Vergessen."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Man nimmt an, dass das Feuer erstmals in dieses Land gelangte, als der W\u00e4chter Tsurugi, der eine Flamme zum H\u00e4rten seiner Klinge ben\u00f6tigte, sein Gro\u00dfschwert in den unber\u00fchrten Boden stie\u00df und den Berg Kokoro aus der Landschaft durchschnitt...",
+                "traits": "Vulkan. Vergessen."
+            }
+        },
+        "3a8ceebf-7bef-49d9-9060-f24943ba45d1": {
+            "name": "Schmelztiegel",
+            "front": {
+                "text": "<action> Falls Szene 2c aktiv ist und sich keine Hinweise auf <name> befinden, lege 3 Karten von deiner Hand ab: <i>Manueller Noteingriff.</i>  R\u00fccke vor.",
+                "flavor_text": "Eine Reihe von Mechanismen scheint es dir zu erm\u00f6glichen, den Lavastrom umzuleiten; vielleicht kannst du ihn nutzen, um die Schmiede zu befeuern?",
+                "victory": "Sieg 1.",
+                "traits": "Vulkan. Insel."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Eine schwebende Plattform nahe der hinteren Wand scheint das abflie\u00dfende Wasser aus einem der oberen Lavabecken aufzufangen und es in eine Reihe von Kan\u00e4len umzuleiten...",
+                "traits": "Vulkan. Insel."
+            }
+        },
+        "31b7ecb6-ed98-4a29-aa25-5f4053cb77dc": {
+            "name": "Siedepunkt",
+            "front": {
+                "text": "<for> Wenn du in deinem Zug eine Fertigkeitsprobe initiierst: Erh\u00f6he den Schwierigkeitsgrad dieser Probe um 1 f\u00fcr jede Probe, die du in diesem Zug bestanden hast.\n<for> Nachdem dir in deinem Zug eine Fertigkeitsprobe nicht gelungen ist: Mache den n\u00e4chstgelegenen <t>Elite</t>-Gegner spielbereit.",
+                "flavor_text": "Warte nicht, bis das Eisen hei\u00df ist, um zuzuschlagen; du musst es durch das Zuschlagen selbst hei\u00df machen.",
+                "traits": "Macht."
+            },
+            "back": {}
+        },
+        "444adcea-4caa-41f2-899d-7e011533ba17": {
+            "name": "<unique>Kurama Tengu",
+            "front": {
+                "text": "J\u00e4ger 2. Zur\u00fcckschlagen.\n<spawn> Brandschneise.\n<for> Sobald die Gegnerphase beginnt: F\u00fcge dem Chaosbeutel 1<per_large> <curse>-Marker hinzu.",
+                "flavor_text": "Aus der Asche des Konflikts, der Onigawa verw\u00fcstet hatte, erhob sich ein neuer Held. Seine R\u00fccksichtslosigkeit im Kampf wurde nur noch von seiner Treue gegen\u00fcber seinem dunklen Schutzherrn \u00fcbertroffen.",
+                "subtitle": "Die Hand des Moloch",
+                "victory": "Victory 1.",
+                "traits": "Humanoid. Elite. Yokai. Verflucht."
+            },
+            "back": {}
+        },
+        "c9ba3ee9-f3fd-4211-8553-a1b919d08ecf": {
+            "name": "<unique>Wachschor",
+            "front": {
+                "text": "Gewaltig. J\u00e4ger 1.\n<spawn> Abfallschleuse.\n<name> kann keine Gelegenheitsangriffe ausf\u00fchren.",
+                "flavor_text": "Eines der Gesichter in der sich windenden Masse aus geschmolzenem Wachs hat etwas beunruhigend Vertrautes an sich...",
+                "subtitle": "Zuwachs und Schwund",
+                "victory": "Sieg 1.",
+                "traits": "Monster. Elite. Yokai."
+            },
+            "back": {}
+        },
+        "bf57416d-05e1-4002-97f8-4efd49d3bf01": {
+            "name": "<unique>\u201cSensei\" Kanuti",
+            "front": {
+                "text": "Gewaltig. Alamiert. Patrouille (Amboss der Entstehung)\n<spawn> Amboss der Entstehung.",
+                "flavor_text": "Kanuti war ein freundlicher Riese, der diese L\u00e4nder bewohnte, als die W\u00e4chter noch jung waren. Nachdem diese an die Macht gekommen waren, w\u00fcrdigte Tsurugi Kanutis St\u00e4rke, indem er ihn mit einer lebenslangen Ernennung zu seinem pers\u00f6nlichen Schmiedemeister \u201eehrte\u201c.",
+                "subtitle": "Meister der Schmiede",
+                "victory": "Victory 1.",
+                "traits": "Monster. Elite. Yokai."
+            },
+            "back": {}
+        },
+        "f944d082-bdf9-4b0e-b7b8-5d462d41e419": {
+            "name": "Mondriss",
+            "front": {
+                "text": "<rev> Lege die obersten 5 Karten deines Decks ab. Falls dadurch Schw\u00e4chen abgelegt werden, ziehe diese. Dann, falls durch diesen Effekt keine Schw\u00e4che gezogen wurde, f\u00fchre eine <willpower>-Probe (3) durch. Falls die Probe misslingt, musst du entweder 1 direkten Horror nehmen oder eine <t>Aspekt</t>-Vorteilskarte, die du kontrollierst, ersch\u00f6pfen.",
+                "flavor_text": "Das seltsame Licht, das vom blutbefleckten Mond reflektiert wird, desorientiert dich...",
+                "traits": "Omen."
             },
             "back": {}
         }

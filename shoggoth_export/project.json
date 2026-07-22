@@ -7690,9 +7690,12 @@
                 "type": "agenda",
                 "flavor_text": "The soot-laden air makes it difficult for you to breathe inside the volcano, and you loosen your collar as the pools of molten rock belch clouds of humid air onto your face. The temperature alone makes it dangerous for you to remain in this environment for very long...",
                 "illustration": "./images/pedro-sena-embrance.jpg",
-                "doom": "4<per>",
+                "doom": "4",
                 "index": "1a",
-                "illustrator": "Illus. Pedro Sena"
+                "illustrator": "Illus. Pedro Sena",
+                "illustration_pan_x": -614.0,
+                "illustration_pan_y": -8.0,
+                "illustration_scale": 2.113
             },
             "back": {
                 "type": "agenda_back",
@@ -7713,7 +7716,10 @@
                 "illustration": "./images/jeryce-dianingana-main-8k-optimized.jpg",
                 "clues": "4<per>",
                 "index": "1a",
-                "illustrator": "Illus. Jeryce Dianingana"
+                "illustrator": "Illus. Jeryce Dianingana",
+                "illustration_pan_x": 296.0,
+                "illustration_pan_y": 2.0,
+                "illustration_scale": 0.761
             },
             "back": {
                 "type": "act_back",
@@ -7733,8 +7739,8 @@
                 "text": "Investigators at <name> do not gain resources during the upkeep phase.",
                 "flavor_text": "The hot air wafting up from the \nroiling magma below stings your eyes...",
                 "illustration": "./images/tomas-muir-painting1.jpg",
-                "clues": "0<per>",
-                "shroud": "2<per>",
+                "clues": "0",
+                "shroud": "2",
                 "connection": "circle",
                 "connections": [
                     "slash",
@@ -7742,16 +7748,21 @@
                     "cross",
                     "hourglass"
                 ],
-                "illustrator": "Illus. Tomas Muir"
+                "illustrator": "Illus. Tomas Muir",
+                "illustration_pan_x": -32.0,
+                "illustration_pan_y": 225.0
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/tomas-muir-painting1.jpg",
                 "traits": "Volcanic. Central.",
                 "text": "",
                 "flavor_text": "Noxious fumes rise from the boiling lava \nbelow the narrow cleft.",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_x": -32.0,
+                "illustration_pan_y": 225.0,
+                "illustrator": "Illus. Tomas Muir"
             },
             "encounter_number": "4",
             "project_number": "179",
@@ -7768,26 +7779,30 @@
                 "flavor_text": "Your imagination reels attempting to generate a purpose for a suit of armor of this size, but it seems clear that it was not intended to be worn by any mortal being...",
                 "illustration": "./images/clement-legouini-tetsu-no-hada-amatsumara-legouini-clement.jpg",
                 "clues": "2<per>",
-                "shroud": "3<per>",
+                "shroud": "3",
                 "connection": "slash",
                 "connections": [
                     "circle",
-                    "circlealt",
-                    "crossalt"
+                    "circle_alt",
+                    "cross_alt"
                 ],
-                "illustrator": "Illus. Clement Legouini"
+                "illustrator": "Illus. Clement Legouini",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 223.0,
+                "illustration_scale": 0.612
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/clement-legouini-tetsu-no-hada-amatsumara-legouini-clement.jpg",
                 "traits": "Volcanic. Depths.",
                 "text": "",
                 "flavor_text": "Surrounded by makeshift scaffolding, \nan enormous suit of ceremonial armor sits in \nrepose against the wall of the volcano...",
                 "connection": "<copy>",
                 "connections": [
-                    "empty",
-                    "empty"
-                ]
+                    "circle"
+                ],
+                "illustration_pan_y": 223.0,
+                "illustration_scale": 0.612
             },
             "encounter_number": "5",
             "project_number": "180",
@@ -7804,26 +7819,31 @@
                 "flavor_text": "The dragon Guardian, Tsurugi, was known \nto accept offerings of bone...preferably pried \nfrom the corpses of his enemies.",
                 "illustration": "./images/glen-fox-glenfox-hellportal-beauty-01.jpg",
                 "clues": "1<per>",
-                "shroud": "3<per>",
+                "shroud": "3",
                 "connection": "quote",
                 "connections": [
                     "circle",
-                    "slashalt",
-                    "crossalt"
+                    "slash_alt",
+                    "cross_alt"
                 ],
-                "illustrator": "Illus. Glen Fox"
+                "illustrator": "Illus. Glen Fox",
+                "illustration_pan_x": -840.0,
+                "illustration_pan_y": 229.0,
+                "illustration_scale": 0.861
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/glen-fox-glenfox-hellportal-beauty-01.jpg",
                 "traits": "Volcanic. Depths.",
                 "text": "",
                 "flavor_text": "A curious sarcophagus, bound in chains \nand surrounded by bones, ominously observes \nthe foundry's activities from a nearby cliff.",
                 "connection": "<copy>",
                 "connections": [
-                    "empty",
-                    "empty"
-                ]
+                    "circle"
+                ],
+                "illustration_pan_y": 229.0,
+                "illustration_pan_x": -840.0,
+                "illustration_scale": 0.861
             },
             "encounter_number": "6",
             "project_number": "181",
@@ -7838,27 +7858,30 @@
                 "text": "<for> When <name> is revealed: Check the Campaign Log. If <i>Mayu is searching for Miyu alone</i>, the lead investigator must read <b>Scenario Interlude: In The Hot Seat</b> in the Campaign Guide. Otherwise, place the set-aside The Tallow Chorus face down on top of the encounter deck.",
                 "flavor_text": "Waste not, want not.",
                 "illustration": "./images/james-dial-screenshot5.jpg",
-                "clues": "0<per>",
-                "shroud": "3<per>",
+                "clues": "0",
+                "shroud": "3",
                 "connection": "cross",
                 "connections": [
                     "circle",
-                    "circlealt",
+                    "circle_alt",
                     "square"
                 ],
-                "illustrator": "Illus. James Dial"
+                "illustrator": "Illus. James Dial",
+                "illustration_pan_x": -7.0,
+                "illustration_pan_y": 101.0
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/james-dial-screenshot5.jpg",
                 "traits": "Volcanic. Depths.",
                 "text": "",
                 "flavor_text": "The waste byproducts of many of the foundry's activities are all fed to this grisly disposal pit for incineration...",
                 "connection": "<copy>",
                 "connections": [
-                    "empty",
-                    "empty"
-                ]
+                    "circle"
+                ],
+                "illustration_pan_y": 101.0,
+                "illustration_pan_x": -7.0
             },
             "encounter_number": "7",
             "project_number": "182",
@@ -7874,26 +7897,31 @@
                 "flavor_text": "You don't know enough about lava to know if its \nsolid enough to walk on when its cooled...\nand you certainly don't intend to find out.",
                 "illustration": "./images/finnian-macmanus-untitled-1 (1).jpg",
                 "clues": "2<per>",
-                "shroud": "4<per>",
+                "shroud": "4",
                 "connection": "hourglass",
                 "connections": [
                     "circle",
                     "square",
-                    "slashalt"
+                    "slash_alt"
                 ],
-                "illustrator": "Illus. Finnian MacManus"
+                "illustrator": "Illus. Finnian MacManus",
+                "illustration_pan_x": -395.0,
+                "illustration_pan_y": 103.0,
+                "illustration_scale": 1.685
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/finnian-macmanus-untitled-1 (1).jpg",
                 "traits": "Volcanic. Depths.",
                 "text": "",
                 "flavor_text": "A field of cooling lava forms an \nunsteady archipelago of char and ash.",
                 "connection": "<copy>",
                 "connections": [
-                    "empty",
-                    "empty"
-                ]
+                    "circle"
+                ],
+                "illustration_pan_y": 103.0,
+                "illustration_pan_x": -395.0,
+                "illustration_scale": 1.685
             },
             "encounter_number": "8",
             "project_number": "183",
@@ -7908,7 +7936,9 @@
                 "text": "<rev> Test <willpower> (3). If you fail, you must either discard a random non-weakness card from your hand or take 2 damage. If you fail by 3 or more, do both, instead.",
                 "flavor_text": "The fires of the sacred foundry burned the impurities away from many different \"materials\"...",
                 "illustration": "./images/pedro-sena-new9.jpg",
-                "illustrator": "Illus. Pedro Sena"
+                "illustrator": "Illus. Pedro Sena",
+                "illustration_pan_x": -150.0,
+                "illustration_pan_y": 0.0
             },
             "back": {
                 "type": "encounter"
@@ -7926,7 +7956,9 @@
                 "text": "<rev> You must either put <name> into play attached to the current agenda or deal 1 direct horror to each investigator and <t>Ally</t> asset in play.\nEach <t>Volcanic</t> location gets +1 shroud.\n<for> When the round ends: Discard <name>.",
                 "flavor_text": "When the foundry smiths' bodies began to fail, their last prescribed duty was to stoke the flame, one final time.",
                 "illustration": "./images/lorenzo-lanfranconi-a-jump-in-the-fire.jpg",
-                "illustrator": "Illus. Lorenzo Lanfranconi"
+                "illustrator": "Illus. Lorenzo Lanfranconi",
+                "illustration_pan_x": 11.0,
+                "illustration_pan_y": -11.0
             },
             "back": {
                 "type": "encounter"
@@ -7970,7 +8002,11 @@
                 "flavor_text": "After a civil war once threatened the unity of the pantheon, Kanon decreed that the dissident Guardian Wukong be \"reforged\" as punishment for inciting the mutiny.",
                 "victory": "Victory 1.",
                 "illustration": "./images/monkeyking.png",
-                "illustrator": "Illus. Riot Games"
+                "illustrator": "Illus. Riot Games",
+                "attack": "4",
+                "illustration_pan_x": -12.0,
+                "illustration_pan_y": 1117.0,
+                "illustration_scale": 1.848
             },
             "back": {
                 "type": "encounter"
@@ -7988,7 +8024,10 @@
                 "text": "<rev> If there are no enemies in play, <name> gains surge. Otherwise, choose an enemy in play and test <combat> (X), where X is the chosen enemy's fight value. If you fail, place 1 doom on the chosen enemy. ",
                 "flavor_text": "When most of Onigawa despaired during the siege, the imprisoned Orochimaru saw only opportunity.",
                 "illustration": "./images/evan-liu-facing-yamata-no-orochi.jpg",
-                "illustrator": "Illus. Evan Liu"
+                "illustrator": "Illus. Evan Liu",
+                "illustration_pan_x": -2664.0,
+                "illustration_pan_y": -180.0,
+                "illustration_scale": 2.844
             },
             "back": {
                 "type": "encounter"
@@ -8006,7 +8045,10 @@
                 "text": "<rev> Test <willpower> (3). If you fail, lose X resources, where X is the number of locations away you are from Ashen Alcove.",
                 "flavor_text": "Dehydrated due to the intense heat of the volcano, \nyou begin to hallucinate sinister shapes emerging \nfrom within the flickering flames...",
                 "illustration": "./images/zsolt-kosa-fire-fx-cover.jpg",
-                "illustrator": "Illus. Zsolt Kosa"
+                "illustrator": "Illus. Zsolt Kosa",
+                "illustration_pan_x": -177.0,
+                "illustration_pan_y": -111.0,
+                "illustration_scale": 1.374
             },
             "back": {
                 "type": "encounter"
@@ -8029,7 +8071,11 @@
                 "horror": 1,
                 "flavor_text": "You can only assume that this charred golem must be \nthe remains of one of the foundry's workers...\n",
                 "illustration": "./images/adrien-amilhat-untitled-75.jpg",
-                "illustrator": "Illus. Adrien Amilhat"
+                "illustrator": "Illus. Adrien Amilhat",
+                "attack": "3",
+                "illustration_pan_x": -6.0,
+                "illustration_pan_y": 1019.0,
+                "illustration_scale": 0.999
             },
             "back": {
                 "type": "encounter"
@@ -8052,7 +8098,11 @@
                 "horror": 0,
                 "flavor_text": "The wanyudo were once the servants of \nthe guardian Tsurugi, charged with \nthe maintenance of the sacred foundry.",
                 "illustration": "./images/tumblr_o6n8nl8nue1v9qvuco1_1280.jpg",
-                "illustrator": "Illus. Benjamin Widdowson"
+                "illustrator": "Illus. Benjamin Widdowson",
+                "attack": "3",
+                "illustration_pan_x": 2.0,
+                "illustration_pan_y": 306.0,
+                "illustration_scale": 1.37
             },
             "back": {
                 "type": "encounter"
@@ -8069,9 +8119,11 @@
                 "text": "<obj> Find the foundry's power source. <i>(Do not advance this act until you are instructed.)</i>",
                 "flavor_text": "You feel the heat growing more intense as you descend deeper into the bowels of the volcano, and in the distance, the silhouette of a strange orb catches your gaze; perhaps this is the foundry's enchanted power source...?",
                 "illustration": "./images/finnian-macmanus-maw-of-hunger.jpg",
-                "clues": "<dash><per>",
+                "clues": "?",
                 "index": "2a",
-                "illustrator": "Illus. Finnian MacManus"
+                "illustrator": "Illus. Finnian MacManus",
+                "illustration_pan_x": -421.0,
+                "illustration_pan_y": -8.0
             },
             "back": {
                 "type": "act_back",
@@ -8090,9 +8142,12 @@
                 "text": "<for> When the enemy phase begins: If no investigator is at Kurama Tengu's location, advance the current agenda.\n<obj> If all surviving investigators are at The Firebreak and Kurama Tengu is in the victory display, advance.",
                 "flavor_text": "The way is clear, but now you find yourself pursued by a mysterious warrior. His blackened armor superficially resembles some of the designs you saw on Onigawa's defenders during the siege on the palace, and yet...",
                 "illustration": "./images/-14711438-1821490734753470-2047854623207023737-o.jpg",
-                "clues": "<dash><per>",
+                "clues": "?",
                 "index": "3a",
-                "illustrator": "Illus. FierceGhost"
+                "illustrator": "Illus. FierceGhost",
+                "illustration_pan_x": 918.0,
+                "illustration_pan_y": -112.0,
+                "illustration_scale": 1.353
             },
             "back": {
                 "type": "act_back",
@@ -8111,9 +8166,12 @@
                 "text": "<obj> Search for the means to reactivate the forge. <i>(Do not advance\nthis act until you are instructed.)</i>",
                 "flavor_text": "Yes, the foundry has fallen into, shall we say, \"disrepair,\" but you can feel the history thrumming through the walls of the volcano; great arms and armor were once forged here, meant for heroes and the champions of gods. Perhaps, with a little help, they might do so again...",
                 "illustration": "./images/thanapol-kaitat-pyromancer-complete-1.jpg",
-                "clues": "<dash><per>",
+                "clues": "?",
                 "index": "2c",
-                "illustrator": "Illus. Thanapol Kaitat"
+                "illustrator": "Illus. Thanapol Kaitat",
+                "illustration_pan_x": 365.0,
+                "illustration_pan_y": -358.0,
+                "illustration_scale": 1.514
             },
             "back": {
                 "type": "act_back",
@@ -8132,9 +8190,11 @@
                 "text": "<for>  When the enemy phase begins: If no investigator is at \"Sensei\" Kanuti's location, advance the current agenda.\n<obj> If all surviving investigators are at The Anvil of Creation and\n\"Sensei\" Kanuti is in the victory display, advance.",
                 "flavor_text": "Somehow, you get the sense that this massive creature is the master of the forge. Its ceremonial armor resembles an oversized version of some of the mantles you observed on Onigawa's defenders during the siege, and yet...",
                 "illustration": "./images/sergey-serspirit-katha-fin.jpg",
-                "clues": "<dash><per>",
+                "clues": "?",
                 "index": "3c",
-                "illustrator": "Illus. Sergey Serspirit"
+                "illustrator": "Illus. Sergey Serspirit",
+                "illustration_pan_x": 796.0,
+                "illustration_pan_y": -15.0
             },
             "back": {
                 "type": "act_back",
@@ -8157,22 +8217,29 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/daniel-velu-hellgate-painting-fin-postfeedback.jpg",
                 "clues": "1<per>",
-                "shroud": "5<per>",
-                "connection": "crossalt",
+                "shroud": "5",
+                "connection": "cross_alt",
                 "connections": [
                     "slash",
                     "quote"
                 ],
-                "illustrator": "Illus. Daniel Velu"
+                "illustrator": "Illus. Daniel Velu",
+                "illustration_pan_x": -847.0,
+                "illustration_pan_y": 24.0,
+                "illustration_scale": 0.852
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/daniel-velu-hellgate-painting-fin-postfeedback.jpg",
                 "traits": "Volcanic. Gateway.",
                 "text": "",
                 "flavor_text": "Near the upper rim of the caldera, you can make out the silhouette of a giant sword cleaving the earth...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 24.0,
+                "illustration_pan_x": -847.0,
+                "illustrator": "Illus. Daniel Velu",
+                "illustration_scale": 0.852
             },
             "encounter_number": "5",
             "project_number": "210",
@@ -8190,22 +8257,29 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/envar-studio-ornnsforge-final.jpg",
                 "clues": "1<per>",
-                "shroud": "5<per>",
+                "shroud": "5",
                 "connection": "square",
                 "connections": [
                     "cross",
                     "hourglass"
                 ],
-                "illustrator": "Illus. Envar Studio"
+                "illustrator": "Illus. Envar Studio",
+                "illustration_pan_x": -441.0,
+                "illustration_pan_y": 21.0,
+                "illustration_scale": 1.367
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/envar-studio-ornnsforge-final.jpg",
                 "traits": "Volcanic. Ancient.",
                 "text": "",
                 "flavor_text": "Suspended above the molten front, a mysterious granite platform bears the weight of a blackened anvil...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 21.0,
+                "illustration_pan_x": -441.0,
+                "illustrator": "Illus. Envar Studio",
+                "illustration_scale": 1.367
             },
             "encounter_number": "6",
             "project_number": "211",
@@ -8223,22 +8297,29 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/tianhua-xu-8.jpg",
                 "clues": "2<per>",
-                "shroud": "4<per>",
-                "connection": "slashalt",
+                "shroud": "4",
+                "connection": "slash_alt",
                 "connections": [
                     "quote",
                     "hourglass"
                 ],
-                "illustrator": "Illus. Tianhua Xu"
+                "illustrator": "Illus. Tianhua Xu",
+                "illustration_pan_x": -448.0,
+                "illustration_pan_y": 230.0,
+                "illustration_scale": 1.467
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/tianhua-xu-8.jpg",
                 "traits": "Volcanic. Forgotten.",
                 "text": "",
                 "flavor_text": "It is believed that fire first was brought to this land when the guardian Tsurugi, in need of a flame to temper his blade, plunged his greatsword into the virgin soil and cleaved Mount Kokoro from the countryside...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": 230.0,
+                "illustration_pan_x": -448.0,
+                "illustrator": "Illus. Tianhua Xu",
+                "illustration_scale": 1.467
             },
             "encounter_number": "7",
             "project_number": "212",
@@ -8255,22 +8336,29 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/mitsukai-inki-natalia-renault-w6-firecaverne-09-final-wm.jpg",
                 "clues": "2<per>",
-                "shroud": "4<per>",
-                "connection": "circlealt",
+                "shroud": "4",
+                "connection": "circle_alt",
                 "connections": [
                     "slash",
                     "cross"
                 ],
-                "illustrator": "Illus. Mitsu Art"
+                "illustrator": "Illus. Mitsu Art",
+                "illustration_pan_x": -86.0,
+                "illustration_pan_y": -205.0,
+                "illustration_scale": 0.735
             },
             "back": {
                 "type": "location_back",
-                "illustration": "./images/0_",
+                "illustration": "./images/mitsukai-inki-natalia-renault-w6-firecaverne-09-final-wm.jpg",
                 "traits": "Volcanic. Island.",
                 "text": "",
                 "flavor_text": "A hovering platform near the far wall seems \nto collect runoff from one of the upper lava pools \nand divert it into a series of channels...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_y": -205.0,
+                "illustration_pan_x": -86.0,
+                "illustrator": "Illus. Mitsu Art",
+                "illustration_scale": 0.735
             },
             "encounter_number": "8",
             "project_number": "213",
@@ -8293,7 +8381,11 @@
                 "flavor_text": "There's something unsettlingly familiar about one of the faces within the writhing mass of rendered fat...",
                 "victory": "Victory 1.",
                 "illustration": "./images/svetoslav-petrov-candle-witch2a-small.jpg",
-                "illustrator": "Illus. Svetoslav Petrov"
+                "illustrator": "Illus. Svetoslav Petrov",
+                "attack": "3",
+                "illustration_pan_x": -1114.0,
+                "illustration_pan_y": 977.0,
+                "illustration_scale": 1.74
             },
             "back": {
                 "type": "encounter"
@@ -8319,7 +8411,11 @@
                 "flavor_text": "Out of the ashes of the conflict that ravaged Onigawa, a new champion emerged. His ruthlessness in combat was matched only by his loyalty to his dark patron.",
                 "victory": "Victory 1.",
                 "illustration": "./images/alexandre-le-saux-samurai.jpg",
-                "illustrator": "Illus. Alexandre le Saux"
+                "illustrator": "Illus. Alexandre le Saux",
+                "attack": "4",
+                "illustration_pan_x": 3.0,
+                "illustration_pan_y": 1019.0,
+                "illustration_scale": 1.702
             },
             "back": {
                 "type": "encounter"
@@ -8345,7 +8441,11 @@
                 "flavor_text": "Kanuti was a friendly giant who inhabited these lands when the Guardians were young. After they rose to power, Tsurugi recognized Kanuti's strength by \"honoring\" him with a lifetime appointment as his personal forgemaster.",
                 "victory": "Victory 1.",
                 "illustration": "./images/sergey-serspirit-katha-fin.jpg",
-                "illustrator": "Illus. <family \"ArnoPro-Bold\">Sergey Serspirit"
+                "illustrator": "Illus. Sergey Serspirit",
+                "illustration_mirror": true,
+                "illustration_pan_x": -1239.0,
+                "illustration_pan_y": 1029.0,
+                "illustration_scale": 1.724
             },
             "back": {
                 "type": "encounter"
@@ -8363,7 +8463,10 @@
                 "text": "<for> When you initiate a skill test during your turn: Increase the difficulty of this test by 1 for each test you have succeeded this turn.\n<for> After you fail a skill test during your turn: Ready the nearest <t>Elite</t> enemy.",
                 "flavor_text": "Do not wait to strike until the iron is hot; \nyou must make it hot by striking.",
                 "illustration": "./images/pedro-sena-human.jpg",
-                "illustrator": "Illus. Pedro Sena"
+                "illustrator": "Illus. Pedro Sena",
+                "illustration_pan_x": -283.0,
+                "illustration_pan_y": -3.0,
+                "illustration_scale": 1.446
             },
             "back": {
                 "type": "encounter"
@@ -10569,7 +10672,9 @@
                 "text": "<rev> Discard the top 5 cards of your deck. If any weaknesses are discarded in this way, draw them. Then, if no weakness is drawn by this effect, test <willpower> (3). If you fail, you must either take 1 direct horror or exhaust an <t>Aspect</t> asset you control.",
                 "flavor_text": "The strange light reflected from the \nbloodstained moon disorients you...",
                 "illustration": "./images/broken-sigil-bloodmoon.jpg",
-                "illustrator": "Illus. Broken Sigil"
+                "illustrator": "Illus. Broken Sigil",
+                "illustration_pan_x": -316.0,
+                "illustration_pan_y": -12.0
             },
             "back": {
                 "type": "encounter"
@@ -10598,10 +10703,14 @@
                 "illustrator": "Illus. Muhammad Haris An-Nashr",
                 "illustration_pan_x": 84.0,
                 "illustration_pan_y": -144.0,
-                "illustration_scale": 2.6
+                "illustration_scale": 2.6,
+                "level": "None",
+                "slots": [
+                    "hand"
+                ]
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "1",
             "project_number": "389",
@@ -10627,10 +10736,14 @@
                 "illustrator": "Illus. Muhammad Haris An-Nashr",
                 "illustration_pan_x": -2251.0,
                 "illustration_pan_y": -1279.0,
-                "illustration_scale": 1.591
+                "illustration_scale": 1.591,
+                "level": "None",
+                "slots": [
+                    "hand"
+                ]
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "2",
             "project_number": "390",
@@ -10652,8 +10765,10 @@
                 ],
                 "illustration": "./images/Pantheons Contingency - Pedro Sena.png",
                 "illustrator": "Illus. Pedro Sena",
-                "illustration_pan_x": -36.0,
-                "illustration_pan_y": -580.0
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 195.0,
+                "level": "None",
+                "illustration_scale": 1.903
             },
             "back": {
                 "type": "asset",
@@ -10665,11 +10780,18 @@
                 "text": "<fullnameb> cannot leave play.\n<action> If <fullnameb> is ready: Fight. Add your highest non-<combat> skill to your skill value for this test. This attack deals +1 <per> damage. If you fail, you must perform a <b>Sacrifice</b> or exhaust <fullnameb>.",
                 "flavor_text": "...but together, their power would be unstoppable.",
                 "title": "<unique><name>",
-                "cost": "-",
+                "cost": "<dash>",
                 "classes": [
                     "neutral"
                 ],
-                "slot": "2 Hands"
+                "slot": "2 Hands",
+                "level": "None",
+                "slots": [
+                    "hands"
+                ],
+                "illustration_pan_x": -249.0,
+                "illustration_pan_y": -416.0,
+                "illustration_scale": 1.471
             },
             "encounter_number": "3",
             "project_number": "391",
