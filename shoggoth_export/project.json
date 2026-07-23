@@ -8969,14 +8969,18 @@
                 "subtitle": "The Last Steward",
                 "traits": "Cultist. Elite. Cursed.",
                 "text": "Aloof. Protected.\n<b>Sacrifice</b> --  Add 1<per> <curse> tokens to the chaos bag. \n<for> When the mythos phase ends: Place 1 doom on each other <t>Elite</t> enemy in play <i>(including any in the sacrifice display).</i>",
-                "health": "-",
-                "evade": "<dash>",
+                "evade": "?",
                 "combat": "<dash>",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "The cloaked figure whispers an ancient hymnal, drawing his congregation towards the altar...",
                 "illustration": "./images/jesse-pak-3-oni-char-illustration.jpg",
-                "illustrator": "Illus. Jesse Pak"
+                "illustrator": "Illus. Jesse Pak",
+                "attack": "?",
+                "health": "?",
+                "illustration_mirror": true,
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 980.0
             },
             "back": {
                 "type": "encounter"
@@ -8994,14 +8998,15 @@
                 "subtitle": "Lost and Found",
                 "traits": "Humanoid. Elite. Bystander.",
                 "text": "Protected.\nDo not remove doom from <name> when the agenda advances.\n<for> When the enemy phase begins If there is 5 or more doom on <name> and she is not in the sacrifice display: Remove all doom from <name> and shuffle her into the sacrifice deck.\n<b>Sacrifice</b> -- (<res>3</res>)",
-                "health": "-",
+                "health": "<dash>",
                 "evade": "<dash>",
                 "combat": "<dash>",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "You'll get her back... Whatever it takes.",
                 "illustration": "./images/yujin-jung-nora.jpg",
-                "illustrator": "Illus. Yujin Jung"
+                "illustrator": "Illus. Yujin Jung",
+                "attack": "<dash>"
             },
             "back": {
                 "type": "encounter"
@@ -9025,7 +9030,9 @@
                     "neutral"
                 ],
                 "illustration": "./images/mayutachibana.jpg",
-                "illustrator": "Illus. KOEI TECMO"
+                "illustrator": "Illus. KOEI TECMO",
+                "illustration_pan_x": -119.0,
+                "illustration_pan_y": 134.0
             },
             "back": {
                 "type": "story"
@@ -9043,7 +9050,10 @@
                 "text": "<rev> Test <willpower> (3). If you fail, you must choose an enemy in the sacrifice display and remove it from the game <i>(resolving its <b>Sacrifice</b> effect, if able.)</i>",
                 "flavor_text": "Before the fortress at Onigawa was built and the Covenant with the Guardians was formed, the infant daughters and second sons of peasants were frequently offered up to appease malevolent spirits...",
                 "illustration": "./images/connor-sheehan-mythical-horror-01-beauty-rz.jpg",
-                "illustrator": "Illus. Connor Sheehan"
+                "illustrator": "Illus. Connor Sheehan",
+                "illustration_pan_x": -975.0,
+                "illustration_pan_y": -7.0,
+                "illustration_scale": 0.792
             },
             "back": {
                 "type": "encounter"
@@ -9066,7 +9076,8 @@
                 "horror": 1,
                 "flavor_text": "The rangers were the first line of defense for the Stewards of August. Most met their end during the siege of Onigawa, but rumors circulated that some managed to survive...",
                 "illustration": "./images/john-stone-cof-demon-archer-by-john-stone-art-dafnqhf.jpg",
-                "illustrator": "Illus. John Stone"
+                "illustrator": "Illus. John Stone",
+                "attack": "3"
             },
             "back": {
                 "type": "encounter"
@@ -9091,7 +9102,11 @@
                 "horror": 1,
                 "flavor_text": "<size 8.5>He was watching you the entire time, but...",
                 "illustration": "./images/baitan-3the-king-of-crows-copy (1).jpg",
-                "illustrator": "Illus. Baitan"
+                "illustrator": "Illus. Baitan",
+                "attack": "3",
+                "illustration_pan_x": -2263.0,
+                "illustration_pan_y": 1125.0,
+                "illustration_scale": 2.243
             },
             "back": {
                 "type": "encounter"
@@ -9109,7 +9124,9 @@
                 "text": "<rev> You must either discard an <t>Ally</t> asset from your hand or play area or place 1 doom on the current agenda.",
                 "flavor_text": "<size 7.6>The ancient Carthaginians were so devoted to---or fearful of---Moloch that it is believed they constructed the Topheth (\"roasting place\") specifically to honor him.",
                 "illustration": "./images/robert-vajda-close2.jpg",
-                "illustrator": "Illus. Robert Vaija"
+                "illustrator": "Illus. Robert Vaija",
+                "illustration_pan_x": -564.0,
+                "illustration_pan_y": -6.0
             },
             "back": {
                 "type": "encounter"
@@ -9127,7 +9144,10 @@
                 "text": "<rev> Put <name> into play in your threat area if there is no copy of it in your threat area. (If there is, discard <name> and it gains surge instead.)\n<for> After you fail a skill test: Take X total damage and/or horror, where X is the number of <curse> tokens you resolved during that skill test.",
                 "flavor_text": "Oda Nobunaga was a powerful daimyo whose military prowess was so feared that his contemporaries came to believe he was aided by some sort of malign supernatural force...",
                 "illustration": "./images/riccardo-massironi-vlx-japan.jpg",
-                "illustrator": "Illus. Riccardo Massironi"
+                "illustrator": "Illus. Riccardo Massironi",
+                "illustration_pan_x": -9.0,
+                "illustration_pan_y": -99.0,
+                "illustration_scale": 1.322
             },
             "back": {
                 "type": "encounter"
@@ -9145,7 +9165,10 @@
                 "text": "<rev> One at a time, reveal random tokens from the chaos bag until you reveal a non-<elder_sign> or <fail> token. Then add X <curse> tokens to the chaos bag, where X is the modifier of the revealed token <i>(ignoring +/\u2013)</i>.",
                 "flavor_text": "Many of the innocent souls selected to become \ntributes for Moloch were chosen \nrandomly and dispassionately...",
                 "illustration": "./images/johanan-ade-bridge.jpg",
-                "illustrator": "Illus. Johanan Ade"
+                "illustrator": "Illus. Johanan Ade",
+                "illustration_pan_x": 138.0,
+                "illustration_pan_y": -419.0,
+                "illustration_scale": 1.022
             },
             "back": {
                 "type": "encounter"
@@ -9163,7 +9186,10 @@
                 "text": "<rev> Test <intellect> (4). If you fail, place 1 doom on an <t>Elite</t> enemy for each point you fail by, divided as evenly as possible among all <t>Elite</t> enemies in play <i>(including any in the sacrifice display).</i>",
                 "flavor_text": "Moloch was known to the Aztecs as \"Tialoc\" \nand they believed his favor could only earned \nby the cries of children.",
                 "illustration": "./images/ryan-phair-temple-view3-rp.jpg",
-                "illustrator": "Illus. Ryan Phair"
+                "illustrator": "Illus. Ryan Phair",
+                "illustration_pan_x": -467.0,
+                "illustration_pan_y": -225.0,
+                "illustration_scale": 0.801
             },
             "back": {
                 "type": "encounter"
@@ -10903,8 +10929,11 @@
                 "victory": " Victory 1.",
                 "illustration": "./images/mikael-damkier-308814400-6052783824741923-2856709134909765071-n.jpg",
                 "clues": "1<per>",
-                "shroud": "4<per>",
-                "illustrator": "Illus. Mikael Damkier"
+                "shroud": "4",
+                "illustrator": "Illus. Mikael Damkier",
+                "illustration_pan_x": -145.0,
+                "illustration_pan_y": -100.0,
+                "illustration_scale": 2.237
             },
             "back": {
                 "type": "location_back",
@@ -10914,7 +10943,10 @@
                 "text": "",
                 "flavor_text": "Bled of its crimson hue, a curious rune described upon \nthe lunar surface is now revealed to you...",
                 "connection": "<copy>",
-                "connections": "<copy>"
+                "connections": "<copy>",
+                "illustration_pan_x": -879.0,
+                "illustration_pan_y": -267.0,
+                "illustration_scale": 1.763
             },
             "encounter_number": "1",
             "project_number": "392",
@@ -10935,10 +10967,14 @@
                     "neutral"
                 ],
                 "illustration": "./images/ingram-schell-thescourge.jpg",
-                "illustrator": "Illus. Ingram Schell"
+                "illustrator": "Illus. Ingram Schell",
+                "level": "None",
+                "illustration_pan_x": -1515.0,
+                "illustration_pan_y": -38.0,
+                "illustration_scale": 1.238
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "2",
             "project_number": "393",
@@ -10959,10 +10995,13 @@
                     "neutral"
                 ],
                 "illustration": "./images/phoenix_by_genzoman_d3cqnzj-pre.jpg",
-                "illustrator": "Illus. Genzoman"
+                "illustrator": "Illus. Genzoman",
+                "level": "None",
+                "illustration_pan_x": -35.0,
+                "illustration_pan_y": 225.0
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "3",
             "project_number": "394",
@@ -10983,10 +11022,13 @@
                     "neutral"
                 ],
                 "illustration": "./images/dongjun-lu-dragon-final-without-world (1).jpg",
-                "illustrator": "Illus. Dongjun Lu"
+                "illustrator": "Illus. Dongjun Lu",
+                "level": "None",
+                "illustration_pan_x": -375.0,
+                "illustration_pan_y": 212.0
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "4",
             "project_number": "395",
@@ -11007,10 +11049,14 @@
                     "neutral"
                 ],
                 "illustration": "./images/d8d4d12712bdc553a9d48f23bce91608.jpg",
-                "illustrator": "Illus. Delun"
+                "illustrator": "Illus. Delun",
+                "level": "None",
+                "illustration_pan_x": 124.0,
+                "illustration_pan_y": 24.0,
+                "illustration_scale": 1.566
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "5",
             "project_number": "396",
@@ -11031,10 +11077,14 @@
                     "neutral"
                 ],
                 "illustration": "./images/pegasus.jpg",
-                "illustrator": "Illus. artmaiar"
+                "illustrator": "Illus. artmaiar",
+                "level": "None",
+                "illustration_pan_x": 117.0,
+                "illustration_pan_y": 209.0,
+                "illustration_scale": 0.94
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "6",
             "project_number": "397",
@@ -11055,10 +11105,13 @@
                     "neutral"
                 ],
                 "illustration": "./images/dftd8az-87e50fdc-7d36-47b3-a408-f15de914115d.jpg",
-                "illustrator": "Illus. icefuder"
+                "illustrator": "Illus. icefuder",
+                "level": "None",
+                "illustration_pan_x": -25.0,
+                "illustration_pan_y": 39.0
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "7",
             "project_number": "398",
@@ -11079,10 +11132,14 @@
                     "neutral"
                 ],
                 "illustration": "./images/wukong.jpg",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "level": "None",
+                "illustration_pan_x": 58.0,
+                "illustration_pan_y": 259.0,
+                "illustration_scale": 1.208
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "8",
             "project_number": "399",
@@ -11104,7 +11161,8 @@
                 "horror": 1,
                 "flavor_text": "The power hungry lord of the tides hoped to seize control of the pantheon by offering his dark patron a \nsacrifice borne of his own flesh and blood.",
                 "illustration": "./images/FauXb1pVEAEGBqw.jpg",
-                "illustrator": "Illus. Amethyst021294"
+                "illustrator": "Illus. Amethyst021294",
+                "attack": "4"
             },
             "back": {
                 "type": "encounter"
@@ -11122,14 +11180,16 @@
                 "subtitle": "Watery Grave",
                 "traits": "Humanoid. Elite. Deep One.",
                 "text": "<b>Sacrifice</b> -- Each investigator must take 1 direct horror.",
-                "health": "-",
+                "health": "<dash>",
                 "evade": "<dash>",
                 "combat": "<dash>",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "The iridescent scales on the mermaid's limp body \nshimmer beneath the pale moonlight...",
                 "illustration": "./images/momo-art-llnt-full-bn.jpg",
-                "illustrator": "Illus. Momo Art"
+                "illustrator": "Illus. Momo Art",
+                "illustration_pan_x": -93.0,
+                "illustration_pan_y": 1113.0
             },
             "back": {
                 "type": "encounter"
@@ -11153,10 +11213,14 @@
                     "neutral"
                 ],
                 "illustration": "./images/momo-art-llnt-full-bn.jpg",
-                "illustrator": "Illus. Momo Art"
+                "illustrator": "Illus. Momo Art",
+                "illustration_pan_x": -342.0,
+                "illustration_pan_y": 286.0,
+                "illustration_scale": 1.01,
+                "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "encounter"
             },
             "encounter_number": "3",
             "project_number": "402",
@@ -11171,19 +11235,24 @@
                 "subtitle": "The Infernal Engine",
                 "traits": "Ancient One. Elite. Spectral.",
                 "text": "Aloof. Protected.\n<for> At the start of the enemy phase: The lead investigator must choose a non-<t>Elite</t> enemy that is not in the sacrifice display, if able, and discard it. If they do, they must place 1 doom on Moloch.",
-                "health": "-",
-                "evade": "<dash>",
+                "health": "?",
+                "evade": "?",
                 "combat": "<dash>",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "Countless millennia of sacrifices power \nthe engine of his resurrection.",
                 "illustration": "./images/michelle-schulz-michimyers-oni-artstationg.jpg",
-                "illustrator": "Illus. Michelle Schulz"
+                "illustrator": "Illus. Michelle Schulz",
+                "attack": "?",
+                "illustration_mirror": true,
+                "illustration_pan_x": 4.0,
+                "illustration_pan_y": 973.0,
+                "illustration_scale": 0.958
             },
             "back": {
                 "type": "enemy",
                 "victory": "Victory 2.",
-                "illustration": "./images/0_",
+                "illustration": "./images/michelle-schulz-michimyers-oni-artstationg.jpg",
                 "illustrator": "Illus. Michelle Schulz",
                 "name": "Moloch",
                 "subtitle": "The Ghost of Onigawa",
@@ -11193,9 +11262,13 @@
                 "title": "<unique><name>",
                 "health": "9<per>",
                 "combat": "4<per>",
-                "evade": "5<per>",
+                "evade": "5",
                 "damage": 2,
-                "horror": 2
+                "horror": 2,
+                "attack": "4",
+                "illustration_pan_x": -136.0,
+                "illustration_pan_y": 970.0,
+                "illustration_scale": 0.958
             },
             "encounter_number": "4",
             "project_number": "403",
@@ -11208,14 +11281,18 @@
                 "type": "enemy",
                 "traits": "Cultist. Cursed.",
                 "text": "<b>Sacrifice</b> -- Place 1 doom on each <t>Elite</t> enemy in play <i>(including any in the sacrifice display)</i>.",
-                "health": "-",
+                "health": "<dash>",
                 "evade": "<dash>",
                 "combat": "<dash>",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "The Scribes of August poured over the ancient apocrypha in their attempts to better understand the nature of \nthe threat they faced. Many were not strong \nenough to handle the truth.",
                 "illustration": "./images/mike-szabados-secret-ritual-2019-11-11-mike-szabados.jpg",
-                "illustrator": "Illus. Mike Szabados"
+                "illustrator": "Illus. Mike Szabados",
+                "illustration_pan_x": -1330.0,
+                "illustration_pan_y": 1054.0,
+                "illustration_scale": 1.332,
+                "attack": "<dash>"
             },
             "back": {
                 "type": "encounter"
@@ -11238,7 +11315,11 @@
                 "horror": 0,
                 "flavor_text": "Many swordsmen who could not protect their liege lords during the siege of Onigawa hoped they could find redemption in the service of a new master.",
                 "illustration": "./images/dansan-bm-onisamurai-card-tfg.jpg",
-                "illustrator": "Illus. DanSan"
+                "illustrator": "Illus. DanSan",
+                "attack": "4",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 1039.0,
+                "illustration_scale": 0.856
             },
             "back": {
                 "type": "encounter"
@@ -11254,14 +11335,18 @@
                 "type": "enemy",
                 "traits": "Humanoid. Cursed.",
                 "text": "<b>Sacrifice</b> -- Place one clue on each investigator's location <i>(from the token pool)</i>. The lead investigator may choose one other card in the sacrifice display and shuffle it back into the sacrifice deck <i>(and then draw the top card of the sacrifice deck and add it to the end of the sacrifice display)</i>.",
-                "health": "-",
+                "health": "<dash>",
                 "evade": "<dash>",
                 "combat": "<dash>",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "Rather than becoming subject to the tender mercies of the Stewards of August, many prospective shrine maidens preferred to take their fate into their own hands.",
                 "illustration": "./images/ina-wong-samurai-donettd75.jpg",
-                "illustrator": "Illus. Ina Wong"
+                "illustrator": "Illus. Ina Wong",
+                "attack": "<dash>",
+                "illustration_pan_x": 15.0,
+                "illustration_pan_y": 19.0,
+                "illustration_scale": 0.918
             },
             "back": {
                 "type": "encounter"
@@ -11277,14 +11362,18 @@
                 "type": "enemy",
                 "traits": "Yokai. Cursed.",
                 "text": "<b>Sacrifice</b> -- Each investigator must take 1 direct horror.",
-                "health": "-",
+                "health": "<dash>",
                 "evade": "<dash>",
                 "combat": "<dash>",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "It was not uncommon for members of the court to \"donate\" their lowborn paramours to the Stewards of August \nonce they were finished with them.",
                 "illustration": "./images/feig-felipe-perez-170-ame-onna-rgb.jpg",
-                "illustrator": "Illus. Feig Felipe Perez"
+                "illustrator": "Illus. Feig Felipe Perez",
+                "attack": "<dash>",
+                "illustration_pan_x": -168.0,
+                "illustration_pan_y": 1104.0,
+                "illustration_scale": 1.315
             },
             "back": {
                 "type": "encounter"
@@ -11300,14 +11389,18 @@
                 "type": "enemy",
                 "traits": "Witch. Cursed.",
                 "text": "<b>Sacrifice</b> -- Each investigator must search the chaos bag for 1 <blessing> token and return it to the token pool. If you cannot, add 1 <curse> token to the chaos bag instead.",
-                "health": "-",
+                "health": "<dash>",
                 "evade": "<dash>",
                 "combat": "<dash>",
                 "damage": 0,
                 "horror": 0,
                 "flavor_text": "The Rangers of August were often tasked with \nrecovering wayward shrine maidens who \nbecame \"lost\" in the wilderness. ",
                 "illustration": "./images/lucas-metivier-witchforestfull.jpg",
-                "illustrator": "Illus. Lucas Metivier"
+                "illustrator": "Illus. Lucas Metivier",
+                "attack": "<dash>",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 843.0,
+                "illustration_scale": 0.822
             },
             "back": {
                 "type": "encounter"
@@ -11571,10 +11664,13 @@
                 "text": "<rev> Test <willpower> (3). If you fail, you must either place 1 doom on the current agenda or take 1 direct horror.",
                 "flavor_text": "You couldn't save her. Maybe you can't save anyone.",
                 "classes": [
-                    "storyweakness"
+                    "weakness"
                 ],
                 "illustration": "./images/yujin-jung-nora.jpg",
-                "illustrator": "Illus. Yujin Jung"
+                "illustrator": "Illus. Yujin Jung",
+                "illustration_pan_x": -87.0,
+                "illustration_pan_y": -11.0,
+                "illustration_scale": 0.988
             },
             "back": {
                 "type": "player"

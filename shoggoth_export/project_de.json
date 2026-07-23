@@ -3358,6 +3358,286 @@
                 "flavor_text": "Inmitten der eisbedeckten Felsen des Berges Kokoro liegt eine nat\u00fcrliche Mulde, in der sich ein reinigender Teich befindet, von dem man sagt, er sei jene Quelle, an der die W\u00e4chter einst ihre ersch\u00f6pften Seelen zur Ruhe kommen lie\u00dfen.",
                 "traits": "Aquatisch. Zerst\u00f6rt."
             }
+        },
+        "817dbe6c-d8ea-487c-adaf-76a41b62421c": {
+            "name": "<unique>Mayu Tachibana",
+            "front": {
+                "text": "<free> Ersch\u00f6pfe Mayu Tachibana: F\u00fcge dem Chaosbeutel 1 <blessing>- oder <curse>-Marker hinzu.\n<action><action> Ersch\u00f6pfe Mayu Tachibana: W\u00e4hle eine Karte im Opferbereich und mische sie zur\u00fcck in das Opferdeck, ziehe dann die oberste Karte des Opferdecks und f\u00fcge sie am Ende des Opferbereichs hinzu.",
+                "flavor_text": "\"Wir kommen, Miyu! Halte durch!\"",
+                "subtitle": "Ermittler in Ausbildung",
+                "traits": "Verb\u00fcndeter. Assistent."
+            },
+            "back": {}
+        },
+        "43d47e3a-f71e-4426-9434-1335ee4e5ba5": {
+            "name": "Grausame Huldigung",
+            "front": {
+                "text": "<rev> F\u00fchre eine <willpower>-Probe (3) durch. Falls die Probe misslingt, musst du einen Gegner im Opferbereich w\u00e4hlen und ihn aus dem Spiel entfernen <i>(hierbei wird der <b>Opfer</b>-Effekt ausgel\u00f6st, falls m\u00f6glich.)</i>",
+                "flavor_text": "Bevor die Festung in Onigawa errichtet und der Bund mit den W\u00e4chtern geschlossen wurde, wurden die kleinen T\u00f6chter und die zweitgeborenen S\u00f6hne der Bauern h\u00e4ufig geopfert, um b\u00f6sartige Geister zu bes\u00e4nftigen...",
+                "traits": "Wahnsinn."
+            },
+            "back": {}
+        },
+        "fe5c7f03-07d4-42f8-94f3-207552cecd8d": {
+            "name": "Makabre Lotterie",
+            "front": {
+                "text": "<rev> Enth\u00fclle nacheinander zuf\u00e4llig Marker aus dem Chaosbeutel, bis ein Nicht-<elder_sign> oder <fail>-Marker enth\u00fclt wird. F\u00fcge dem Chaosbeutel dann X <curse>-Marker hinzu, wobei X der Modifikator des enth\u00fcllten Markers ist <i>(+/\u2013 wird hierbei ignoriert)</i>.",
+                "flavor_text": "Viele der unschuldigen Seelen, die als Tribut f\u00fcr Moloch ausgew\u00e4hlt wurden, wurden zuf\u00e4llig und ohne Mitgef\u00fchl ausgew\u00e4hlt...",
+                "traits": "B\u00fcndnis."
+            },
+            "back": {}
+        },
+        "ffe2ea5f-f63c-428c-95bc-482186f6547b": {
+            "name": "Nobunagas Ehrgeiz",
+            "front": {
+                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel, falls noch keine Kopie in dieser Zone liegt. (Falls bereits eine Karte dort liegt, lege <name> und sie erh\u00e4lt stattdessen Nachr\u00fcsten.)\n<for> Nachdem dir eine Probe misslingt: Nimm insgesamt X Schaden und/oder Horror, wobei X die Anzahl and <curse>-Markern ist, die w\u00e4hrend der Probe abgehandelt wurden.",
+                "flavor_text": "Oda Nobunaga war ein m\u00e4chtiger Daimyo, dessen milit\u00e4risches K\u00f6nnen so gef\u00fcrchtet war, dass seine Zeitgenossen schlie\u00dflich glaubten, er werde von einer Art b\u00f6sartiger \u00fcbernat\u00fcrlicher Kraft unterst\u00fctzt...",
+                "traits": "Macht."
+            },
+            "back": {}
+        },
+        "4ab08c2e-668c-4ccd-ba0a-29d41f30b1fb": {
+            "name": "Ruf von Karthago",
+            "front": {
+                "text": "<rev> Du musst entweder eine <t>Verb\u00fcndeter</t>-Vorteilskarte von deiner Hand oder aus deinem Spielzone ablegen oder ein Verderben auf die aktuelle Agenda platzieren.",
+                "flavor_text": "Die alten Karthager waren Moloch so ergeben \u2013 oder f\u00fcrchteten ihn so sehr \u2013, dass man annimmt, sie h\u00e4tten das Topheth (\u201eR\u00f6stplatz\u201c) eigens zu seinen Ehren errichtet.",
+                "traits": "Wahnsinn."
+            },
+            "back": {}
+        },
+        "d0a5a407-b8c2-48ec-897f-ff0850a530ca": {
+            "name": "Tr\u00e4nen f\u00fcr Tialoc",
+            "front": {
+                "text": "<rev> F\u00fchre eine <intellect>-Probe (4) durch. Falls die Probe misslingt, platziere 1 Verderben auf <t>Elite</t>-Gegnern f\u00fcr jeden Punkt um den die Probe misslungen ist, verteile dabei so gleichm\u00e4\u00dfig wie m\u00f6glich auf alle <t>Elite</t>-Gegner im Spiel <i>(inklusive aller im Opferbereich).</i>",
+                "flavor_text": "Moloch war den Azteken als \u201eTialoc\u201c bekannt, und sie glaubten, dass man sich seine Gunst nur durch die Schreie von Kindern verdienen k\u00f6nne.",
+                "traits": "Schrecken."
+            },
+            "back": {}
+        },
+        "850f8590-1373-4809-bddd-c54a488ed8ee": {
+            "name": "<unique>Hirte der schwarzen Ernte",
+            "front": {
+                "text": "Zur\u00fcckhaltend. Gesch\u00fctzt.\n<b>Opfer</b> --  F\u00fcge dem Chaosbeutel 1<per_large> <curse>-Marker hinzu. \n<for> Sobald die Mythosphase endet: Platziere 1 Verderben auf allen anderen <t>Elite</t>-Gegnern im Spiel <i>(inklusive allen Gegnern im Opferbereich).</i>",
+                "flavor_text": "Die vermummte Gestalt fl\u00fcstert eine uralte Hymne und f\u00fchrt seine Gemeinde zum Altar...",
+                "subtitle": "Der letzte Offizier",
+                "traits": "Kultist. Elite. Verflucht."
+            },
+            "back": {}
+        },
+        "851fefac-73a4-4a04-a3db-416c1f1deeca": {
+            "name": "<unique>Miyu Tachibana",
+            "front": {
+                "text": "Gesch\u00fctzt.\nEntferne kein Verderben von Miyu Tachibana, sobald die Agenda vorr\u00fcckt.\n<for> Sobald die Gegnerphase beginnt: Falls 5 oder mehr Verderben auf Miyu Tachibana platziert sind und sie nicht im Opferbereich ist: Entferne alles Verderben von Miyu Tachibana und mische sie in das Opferdeck.\n<b>Opfer</b> -- (<resolution><b>A3</b>)",
+                "flavor_text": "Du wirst sie zur\u00fcckholen \u2026 Was auch immer daf\u00fcr n\u00f6tig ist.",
+                "subtitle": "Verloren und Gefunden",
+                "traits": "Humanoid. Elite. Unbeteiligter."
+            },
+            "back": {}
+        },
+        "ffb91090-a661-473b-927b-22b761ee65e5": {
+            "name": "<unique>Yatagarasu",
+            "front": {
+                "text": "<spawn> Zerbrochenes Felsenriff.\nJede Kopie von Kr\u00e4henschwarm erh\u00e4lt +1 Kampf, +1 Entkommen, and +1 Ausdauer. <i>(Dieser Effekt ist auch aktiv, wenn sich Yatagarasu im Opferbereich befindet.)</i>\n<b>Opfer</b> -- Durchsuche das Begegnungsdeck und den Begegnungs-Ablagestapel nach einer Kopie pro <per_large> und bringe sie ins Spiel.\n<b>Rache</b> -- Mische Yatagarasu in das Opferdeck zur\u00fcck anstatt ihn abzulegen.",
+                "flavor_text": "Er hat dich die ganze Zeit beobachtet, aber...",
+                "subtitle": "Der Spionagechef \u2013 entlarvt",
+                "traits": "Avatar. Elite. Aspekt."
+            },
+            "back": {}
+        },
+        "4ebf9847-cbcd-446c-a1a1-6560fc56c8e4": {
+            "name": "Molocheanischer Vollstrecker",
+            "front": {
+                "text": "Alamiert.\n<spawn> Torii Nexus.\n<for> Sobald die Gegnerphase beginnt: Falls <name> spielbereit und nicht in einen Kampf verwickelt ist, jeder Ermittler an seinem Ort und jedem verbundenen Ort nimmt 1 Schaden.",
+                "flavor_text": "Die Ranger bildeten die erste Verteidigungslinie der Offiziere von August. Die meisten von ihnen fanden w\u00e4hrend der Belagerung von Onigawa den Tod, doch es kursierten Ger\u00fcchte, dass es einigen gelungen sei, zu \u00fcberleben...",
+                "traits": "Humanoid. Kultist."
+            },
+            "back": {}
+        },
+        "69e35f9e-ddaf-42f2-9faa-000b507eea47": {
+            "name": "<unique>Brodelnde Brut",
+            "front": {
+                "text": "<reaction> Sobald dem Chaosbeutel ein <blessing>-Marker hinzugef\u00fcgt werden w\u00fcrde: Versiegel den Marker stattdessen hier. Ermittler k\u00f6nnen diese Reaktion von allen Orten ausl\u00f6sen.",
+                "flavor_text": "Im Zentrum der Runen-Konfluenz zischt eine \u00fcberhitzte Kapsel in einem tiefen Krater\u2026",
+                "subtitle": "Was im Feuer verloren ging",
+                "traits": "Relikt. Okkult."
+            },
+            "back": {}
+        },
+        "f2d80349-65e8-4632-82eb-40a349184ba1": {
+            "name": "<unique>Magatsu Tsurugi",
+            "front": {
+                "text": "<for> Sobald die Gegnerphase beginnt: F\u00fcge jedem Gegner im SPiel, der nicht im Opferbereich liegt, 1 Schaden zu.\n<action> Durchsuche den Chaosbeutel nach 1 <blessing>- und 1 <curse>-Marker und lege diese in den Markervorrat zur\u00fcck: F\u00fcge dem Chaosbeutel 1 Harmonie-Marker hinzu. Ermittler k\u00f6nnen diese F\u00e4higkeit von allen Orten ausl\u00f6sen.",
+                "flavor_text": "Der Kriegsgott des Pantheons folgt stets dem Ruf der Schlacht.",
+                "subtitle": "Die Seele brennt noch immer",
+                "traits": "Verb\u00fcndeter. Avatar."
+            },
+            "back": {}
+        },
+        "be2bfd2b-5960-4c4e-82e2-722edba25492": {
+            "name": "<unique>Majin Wukong",
+            "front": {
+                "text": "Sobald ein Ermittler einen <blessing>- oder <curse>-Marker w\u00e4hrend einer Fertigkeitsprobe abhandelt, d\u00fcrfen sie den Marker am Ende der Probe wieder dem Chaosbeutel hinzuf\u00fcgen.\n<action> Durchsuche den Chaosbeutel nach 1 <blessing>- und 1 <curse>-Marker und lege diese in den Markervorrat zur\u00fcck: F\u00fcge dem Chaosbeutel 1 Harmonie-Marker hinzu. Ermittler k\u00f6nnen diese F\u00e4higkeit von allen Orten ausl\u00f6sen.",
+                "flavor_text": "Schluss mit dem Affentanz.",
+                "subtitle": "<size 45>Vorbote der neuen Morgend\u00e4mmerung",
+                "traits": "Verb\u00fcndeter. Avatar."
+            },
+            "back": {}
+        },
+        "236ac331-43b0-4b17-826c-5b4190436437": {
+            "name": "<unique>Midori Mirai",
+            "front": {
+                "text": "Ermittler erhalten eine zus\u00e4tzliche Aktion w\u00e4hrend ihres Zuges.\n<action> Durchsuche den Chaosbeutel nach 1 <blessing>- und 1 <curse>-Marker und lege diese in den Markervorrat zur\u00fcck: F\u00fcge dem Chaosbeutel 1 Harmonie-Marker hinzu. Ermittler k\u00f6nnen diese F\u00e4higkeit von allen Orten ausl\u00f6sen.",
+                "flavor_text": "Dein Streitwagen aus Feuer erwartet dich.",
+                "subtitle": "Da wo Rauch ist",
+                "traits": "Verb\u00fcndeter. Avatar."
+            },
+            "back": {}
+        },
+        "37b39ee3-1754-4ec2-a3df-fbe322be42d7": {
+            "name": "<unique>Neo-Kanon",
+            "front": {
+                "text": "W\u00e4hrend Chaosmarker in Fertigkeitsproben abgehandelt werden k\u00f6nnen Ermittler <blessing>-Marker behandeln als w\u00e4ren sie <elder_sign>-Marker.\n<action> Durchsuche den Chaosbeutel nach 1 <blessing>- und 1 <curse>-Marker und lege diese in den Markervorrat zur\u00fcck: F\u00fcge dem Chaosbeutel 1 Harmonie-Marker hinzu. Ermittler k\u00f6nnen diese F\u00e4higkeit von allen Orten ausl\u00f6sen.",
+                "flavor_text": "Asche zu Asche.",
+                "subtitle": "Adel verpflichtet",
+                "traits": "Verb\u00fcndeter. Avatar."
+            },
+            "back": {}
+        },
+        "14b7f4ff-ee3f-4573-bad1-9ba73b6e0ef3": {
+            "name": "<unique>Onikuma Kanzen",
+            "front": {
+                "text": "Ermittler d\u00fcrfen den ersten Gelegenheitsangriff in ihrem Zug ignorieren.\n<action> Durchsuche den Chaosbeutel nach 1 <blessing>- und 1 <curse>-Marker und lege diese in den Markervorrat zur\u00fcck: F\u00fcge dem Chaosbeutel 1 Harmonie-Marker hinzu. Ermittler k\u00f6nnen diese F\u00e4higkeit von allen Orten ausl\u00f6sen.",
+                "flavor_text": "Unter dem wachsamen Blick seiner Mutter hat der Berg Kokoro \u00c4onen voller Unruhen \u00fcberstanden \u2026 und er wird auch heute nicht fallen.",
+                "subtitle": "<size 50>Die H\u00f6lle kennt keine gr\u00f6\u00dfere Wut",
+                "traits": "Verb\u00fcndeter. Avatar."
+            },
+            "back": {}
+        },
+        "1105bf27-bdf2-4be9-bc49-c491b48ddfd8": {
+            "name": "<unique>Shin Komainu",
+            "front": {
+                "text": "W\u00e4hrend in der Hand der Ermittler oder zu einer Fertigkeitsprobe beigetragen, erh\u00e4lt jede Nicht-Schw\u00e4che-Karte <wild> <wild>.\n<action> Durchsuche den Chaosbeutel nach 1 <blessing>- und 1 <curse>-Marker und lege diese in den Markervorrat zur\u00fcck: F\u00fcge dem Chaosbeutel 1 Harmonie-Marker hinzu. Ermittler k\u00f6nnen diese F\u00e4higkeit von allen Orten ausl\u00f6sen.",
+                "flavor_text": "Lang lebe der K\u00f6nig.",
+                "subtitle": "<size 50>Das Feuer wird niemals erl\u00f6schen",
+                "traits": "Verb\u00fcndeter. Avatar."
+            },
+            "back": {}
+        },
+        "8365150f-625c-4007-81a0-c4e487913780": {
+            "name": "Erntemond",
+            "front": {
+                "text": "<for> Sobald die Ermittlerphase endet: Jeder Ermittler am Ort <name> nimmt 1 Schaden.",
+                "flavor_text": "Die Aussicht ist unbeschreiblich, aber die d\u00fcnne Luft macht das Atmen etwas schwer...",
+                "subtitle": "Die dunkle Seite des Mondes",
+                "victory": "Sieg 1.",
+                "traits": "Anderswelt. Zerst\u00f6rt."
+            },
+            "back": {
+                "text": "",
+                "flavor_text": "Entblutet von ihrer purpurroten F\u00e4rbung offenbart sich dir nun eine geheimnisvolle Rune, die auf der Mondoberfl\u00e4che eingraviert ist...",
+                "traits": "Anderswelt. Zerst\u00f6rt."
+            }
+        },
+        "ded0e4fd-9a83-450c-8310-c32c9ded6a35": {
+            "name": "<unique>Koi-Prinzessin",
+            "front": {
+                "text": "<reaction> Nachdem du einen Gegner besiegt hast: F\u00fcge dem Chaosbeutel 1 <blessing>-Marker hinzu oder durchsuche den Chaosbeutel nach 1 <curse>-Marker und lege ihn in den Markervorrat zur\u00fcck. Ermittler k\u00f6nnen diese F\u00e4higkeit von allen Orten ausl\u00f6sen.\n<action><action> Ersch\u00f6pfe Koi-Prinzessin: F\u00fcge dem Chaosbeutel X <blessing>-Marker hinzu, wobei X die Anzahl der enth\u00fcllten Orte ohne Hinweise ist.",
+                "flavor_text": "\u201eDie W\u00e4chter haben uns nicht aufgegeben. Wir d\u00fcrfen sie nicht aufgeben.\u201c",
+                "subtitle": "Witwe der verlorenen Hoffnung",
+                "traits": "Verb\u00fcndeter. Humanoid. Tiefes Wesen. Gesegnet."
+            },
+            "back": {}
+        },
+        "530be601-7bb4-4a53-acfd-fb215bf3429b": {
+            "name": "<unique>Koi-Imperator",
+            "front": {
+                "text": "J\u00e4ger 1. Zur\u00fcckschlagen. \n<b>Opfer</b> -- F\u00fcge dem Chaosbeutel 1<per_large> <curse>-Marker hinzu.\n<b>Rache</b> -- Mische Koi-Imperator in das Opferdeck.",
+                "flavor_text": "Der machthungrige Herrscher \u00fcber die Gezeiten hoffte, die Kontrolle \u00fcber das Pantheon an sich zu rei\u00dfen, indem er seinem dunklen Schutzherrn ein Opfer darbrachte, das aus seinem eigenen Fleisch und Blut stammte.",
+                "subtitle": "Wiedererstarkter Souver\u00e4n",
+                "traits": "Humanoid. Elite. Tiefes Wesen. Verflucht."
+            },
+            "back": {}
+        },
+        "f6b14249-623c-4169-ab81-2f881206495b": {
+            "name": "<unique>Koi-Prinzessin",
+            "front": {
+                "text": "<b>Opfer</b> -- Jeder Ermittler muss 1 direkten Horror nehmen.",
+                "flavor_text": "Die schillernden Schuppen auf dem leblosen K\u00f6rper der Meerjungfrau schimmern im fahlen Mondlicht...",
+                "subtitle": "W\u00e4ssriges Grab",
+                "traits": "Humanoid. Elite. Tiefes Wesen."
+            },
+            "back": {}
+        },
+        "4a55d152-5865-404b-b4c7-d2a1354a3d8d": {
+            "name": "<unique>Moloch",
+            "front": {
+                "text": "Zur\u00fcckhaltend. Gesch\u00fctzt.\n<for> Zu Beginn der Gegnerphase: Der Ermittlungsleiter muss, falls m\u00f6glich, einen Nicht-<t>Elite</t>-Gegner, der nicht im Opferbereich liegt, w\u00e4hlen und ablegen. Falls er das tut muss er ein Verderben auf Moloch platzieren.",
+                "flavor_text": "Unz\u00e4hlige Jahrtausende voller Opfer treiben den Motor seiner Auferstehung an.",
+                "subtitle": "Die H\u00f6llenmaschine",
+                "traits": "Gro\u00dfer Alter. Elite. Geist."
+            },
+            "back": {
+                "name": "<unique>Moloch",
+                "text": "Gewaltig. J\u00e4ger 2. Zur\u00fcckschlagen.\nMoloch erh\u00e4lt +1 Ausdauer f\u00fcr jedes Verderben auf ihm.\n<for> Sobald ein Ermittler besiegt wird: Durchsuche den Chaosbeutel nach allen <blessing>-Markern und lege sie in den Markervorrat zur\u00fcck.",
+                "flavor_text": "\u201eEs gibt viele Schicksale, die schlimmer sind als der Tod \u2026 Lass es mich dir zeigen.\u201c",
+                "subtitle": "Der Geist von Onigawa",
+                "victory": "Victory 2.",
+                "traits": "Gro\u00dfer Alter. Elite."
+            }
+        },
+        "faed2629-6256-4068-8150-2176b854091a": {
+            "name": "Abtr\u00fcnniger Ronin",
+            "front": {
+                "text": "Zur\u00fcckschlagen.\n<b>Opfer</b> -- Bringe <name> an dem Ort des Ermittlers mit der geringsten verbliebenen Ausdauer ins Spiel.",
+                "flavor_text": "Viele Schwertk\u00e4mpfer, die ihre Lehnsherren w\u00e4hrend der Belagerung von Onigawa nicht besch\u00fctzen konnten, hofften, im Dienst eines neuen Herrn Wiedergutmachung zu finden.",
+                "traits": "Humanoid. Verflucht."
+            },
+            "back": {}
+        },
+        "5b2030d8-56a4-47f4-8a55-b18e2a5a7e1b": {
+            "name": "Gesch\u00e4ndete Konkubine",
+            "front": {
+                "text": "<b>Opfer</b> -- Jeder Ermittler muss 1 direkten Horror nehmen.",
+                "flavor_text": "Es war nicht ungew\u00f6hnlich, dass Mitglieder des Hofes ihre aus einfachen Verh\u00e4ltnissen stammenden Geliebten den Stewards des August \u201espendeten\u201c, nachdem sie fertig mit ihnen waren.",
+                "traits": "Yokai. Verflucht."
+            },
+            "back": {}
+        },
+        "8d3d8299-7b64-4154-bb13-8f66377fcdbd": {
+            "name": "Hexe der Wildnis",
+            "front": {
+                "text": "<b>Opfer</b> -- Jeder Ermittler muss den Chaosbeutel nach 1 <blessing>-Marker durchsuchen und diesen in den Markervorrat zur\u00fccklegen. Falls dies nicht m\u00f6glich ist musst du stattdessen 1 <curse>-Marker hinzuf\u00fcgen.",
+                "flavor_text": "Die Ranger des August wurden oft damit beauftragt, abtr\u00fcnnige Schreinm\u00e4dchen zu bergen, die sich in der Wildnis \u201everirrt\u201c hatten.",
+                "traits": "Hexe. Verflucht."
+            },
+            "back": {}
+        },
+        "47ea8df8-023a-4f2f-acbb-459e8826ad7e": {
+            "name": "Rebellische Maid",
+            "front": {
+                "text": "<b>Opfer</b> -- Platziere einen Hinweis auf jeden Ort mit Ermittler <i>(aus dem Markervorrat)</i>. Der Ermittlungsleiter darf eine andere Karte im Opferbereich w\u00e4hlen und diese zur\u00fcck in das Opferdeck mischen <i>(und dann die oberste Karte des Opferdecks ziehen und sie am Ende des Opferbereich anlegen)</i>.",
+                "flavor_text": "Anstatt sich der Gnade der Stewards des August auszuliefern, zogen es viele angehende Schreinm\u00e4dchen vor, ihr Schicksal selbst in die Hand zu nehmen.",
+                "traits": "Humanoid. Verflucht."
+            },
+            "back": {}
+        },
+        "145f925c-982c-4028-aa81-0de6fbab5f92": {
+            "name": "Verr\u00e4ter des Augusts",
+            "front": {
+                "text": "<b>Opfer</b> -- Platziere 1 Verderben auf jedem <t>Elite</t>-Gegner im Spiel <i>(inklusive derer im Opferbereich)</i>.",
+                "flavor_text": "Die Schriftgelehrten des Augusts vertieften sich in die alten Apokryphen, um das Wesen der Bedrohung, der sie ausgesetzt waren, besser zu verstehen. Viele waren nicht stark genug, um mit der Wahrheit fertig zu werden.",
+                "traits": "Kultist. Verflucht."
+            },
+            "back": {}
+        },
+        "43c9bb22-ebab-4e61-aedb-ae1baec486a1": {
+            "name": "Erinnerungen an Miyu",
+            "front": {
+                "text": "<rev> F\u00fchre eine <willpower>-Probe (3) durch. Falls die Probe misslingt, musst du entweder 1 Verderben auf der aktuellen Agenda platzieren oder 1 direkten Horror nehmen.",
+                "flavor_text": "Du konntest sie nicht retten. Vielleicht kannst du niemanden retten.",
+                "traits": "Wahnsinn."
+            },
+            "back": {}
         }
     },
     "guides": [
