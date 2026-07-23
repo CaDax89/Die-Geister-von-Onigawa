@@ -3638,6 +3638,86 @@
                 "traits": "Wahnsinn."
             },
             "back": {}
+        },
+        "54a0b624-efe1-4f8e-a7d8-9b4911df58e3": {
+            "name": "<unique>Der einsame Monarch",
+            "front": {
+                "text": "Dauerhaft.\n<for> Am Ende der Runde: Falls du w\u00e4hrend der Ermittlerphase nicht als erstes deinen Zug gemacht hast, ersch\u00f6pfe Der einsame Monarch.\n<free> Ersch\u00f6pfe Der einsame Monarch: Du erh\u00e4ltst +1<per_large> auf deine Fertigkeitsprobe.",
+                "flavor_text": "",
+                "subtitle": "Segen der Kaeru",
+                "traits": "Aspekt."
+            },
+            "back": {}
+        },
+        "646677ca-17a0-4257-9d4a-272c986116eb": {
+            "name": "<unique>Der rastlose Witwer",
+            "front": {
+                "text": "Dauerhaft.\n<free> Ersch\u00f6pfe Der rastlose Witwer: Bewge dich zum Ort eines anderen Ermittlers.\n<for> Am Ende der Runde: Falls du diese Runde eine Basisaktion verwendet hast, um dich zu bewegen, ersch\u00f6pfe Der rastlose Witwer.",
+                "flavor_text": "",
+                "subtitle": "Segen der Heron",
+                "traits": "Aspekt."
+            },
+            "back": {}
+        },
+        "8724fa20-68a3-4e00-8bce-4935b77fd6ce": {
+            "name": "<unique>Der wunderliche Lehrling",
+            "front": {
+                "text": "Dauerhaft. Verwendungen (2 Ladungen). \nFalls Der wunderliche Lehrling spielbereit ist, kannst du Ladungen auf ihm ausgeben, um Kosten auf aktivierten F\u00e4higkeiten von Vorteilskarten, die du kontrollierst, zu bezahlen.\n<for> Am Ende der Runde: Falls dir eine Probe in dieser Runde misslungen ist, ersch\u00f6pfe Der wunderliche Lehrling.",
+                "flavor_text": "",
+                "subtitle": "Segen der Kitsune",
+                "traits": "Aspekt."
+            },
+            "back": {}
+        },
+        "1b96c974-3bc8-4aef-b49d-7a02d5d261d8": {
+            "name": "<unique>Die stumme J\u00e4gerin",
+            "front": {
+                "text": "Dauerhaft.\n<reaction> Falls Die stumme J\u00e4gerin zu Beginn deines Zuges spielbereit ist: Du erh\u00e4ltst eine zus\u00e4tliche Aktion w\u00e4hrend deines Zuges, die nur dazu verwendet werden kann, um Gegner in einen Kampf zu verwickeln oder zu k\u00e4mpfen.\n<for> Am Ende der Runde: Falls du einem Gegner in dieser Runde Schaden zugef\u00fcgt hast, ersch\u00f6pfe Die stumme J\u00e4gerin.",
+                "flavor_text": "",
+                "subtitle": "Segen der Yukihyo",
+                "traits": "Aspekt."
+            },
+            "back": {}
+        },
+        "3bf9a26b-0074-48ce-bf6b-d63fde0a78a2": {
+            "name": "<unique>Der blinde W\u00e4chter",
+            "front": {
+                "text": "Dauerhaft.\n<free> Bevor Chaosmarker w\u00e4hrend einer Kampf-Aktion enth\u00fcllt werden, ersch\u00f6pfe Der blinde W\u00e4chter: Falls die Probe gelingt, f\u00fcge +1 Schaden zu. \n<for> Am Ende der Runde: Falls du einem Gegner in dieser Runde Schaden zugef\u00fcgt hast, ersch\u00f6pfe Der blinde W\u00e4chter.",
+                "flavor_text": "",
+                "subtitle": "Segen der Karasu",
+                "traits": "Aspekt."
+            },
+            "back": {}
+        },
+        "370425d7-c3f1-4748-a229-165a673fc3c9": {
+            "name": "<unique>Der g\u00f6ttliche Bote",
+            "front": {
+                "text": "Dauerhaft.\n<free> Bevor Chaosmarker w\u00e4hrend einer Ermitteln-Aktion enth\u00fcllt werden, ersch\u00f6pfe Der g\u00f6ttliche Bote: Falls die Probe gelingt, entdecke einen zus\u00e4tzlichen Hinweis an deinem Ort.\n<for> Am Ende der Runde: Falls du diese Runde erfolgreich ermittelt hast, ersch\u00f6pfe Der g\u00f6ttliche Bote. ",
+                "flavor_text": "",
+                "subtitle": "Segen der Shika",
+                "traits": "Aspekt."
+            },
+            "back": {}
+        },
+        "0a435cff-7e49-407c-bef9-6caaaf634078": {
+            "name": "<unique>Der listige Bandit",
+            "front": {
+                "text": "Dauerhaft.\n<reaction> Nachdem du einem Gegner entkommen bist, ersch\u00f6pfe Der listige Bandit: Erhalte X Ressourcen, wobei X dem Entkommenswert des entkommenen Gegners entspricht. \n<for> Zu Beginn deines Zuges: Du musst entweder 1 Ressource bezahlen oder ersch\u00f6pfe Der listige Bandit.",
+                "flavor_text": "",
+                "subtitle": "Segen der Tanuki",
+                "traits": "Aspekt."
+            },
+            "back": {}
+        },
+        "9d334631-42fb-4421-b415-a7c4a9aed21b": {
+            "name": "<unique>Der reum\u00fctige Beobachter",
+            "front": {
+                "text": "Dauerhaft.\nNur, wenn Der reum\u00fctige Beobachter spielbereit ist, kann ihm Schaden oder Horror zugewiesen werden. \n<for> Nachdem du ein Nicht-<elder_sign> oder <blessing>-Marker w\u00e4hrend einer Fertigkeitsprobe abgehandelt hast, ersch\u00f6pfe Der reum\u00fctige Beobachter.",
+                "flavor_text": "",
+                "subtitle": "Segen der Okami",
+                "traits": "Aspekt."
+            },
+            "back": {}
         }
     },
     "guides": [

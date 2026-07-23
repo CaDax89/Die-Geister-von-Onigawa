@@ -11424,10 +11424,14 @@
                     "neutral"
                 ],
                 "illustration": "./images/julian-bauer-blind-warden-small.jpg",
-                "illustrator": "Illus. Julian Bauer"
+                "illustrator": "Illus. Julian Bauer",
+                "level": "None",
+                "illustration_pan_x": -162.0,
+                "illustration_pan_y": 164.0,
+                "illustration_scale": 0.998
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "1",
             "project_number": "424",
@@ -11448,10 +11452,14 @@
                     "neutral"
                 ],
                 "illustration": "./images/guillaume-verdier-koumpo-talk-to-the-messenger-publish.jpg",
-                "illustrator": "Illus. Guillaume Verdier"
+                "illustrator": "Illus. Guillaume Verdier",
+                "illustration_pan_x": -2481.0,
+                "illustration_pan_y": -1254.0,
+                "illustration_scale": 1.709,
+                "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "2",
             "project_number": "425",
@@ -11474,10 +11482,14 @@
                     "neutral"
                 ],
                 "illustration": "./images/isobel-izzy-leidl-wilson-ammy01-s.jpg",
-                "illustrator": "Illus. Isobel Leidl"
+                "illustrator": "Illus. Isobel Leidl",
+                "level": "None",
+                "illustration_pan_x": 119.0,
+                "illustration_pan_y": 274.0,
+                "illustration_scale": 1.762
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "3",
             "project_number": "426",
@@ -11498,10 +11510,14 @@
                     "neutral"
                 ],
                 "illustration": "./images/latest.jpg",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "level": "None",
+                "illustration_pan_x": 111.0,
+                "illustration_pan_y": 94.0,
+                "illustration_scale": 1.915
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "4",
             "project_number": "427",
@@ -11522,10 +11538,14 @@
                     "neutral"
                 ],
                 "illustration": "./images/HD-wallpaper-secret-lake-lake-king-frumusete-luminos-nymph-frog-water-vara-green-girl-waterfall-anastasia-evgrafova-summer-secret.jpg",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "level": "None",
+                "illustration_pan_x": -135.0,
+                "illustration_pan_y": 182.0,
+                "illustration_scale": 2.219
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "1",
             "project_number": "428",
@@ -11546,10 +11566,14 @@
                     "neutral"
                 ],
                 "illustration": "./images/libby-nixon-ibby-nixon-glowy-snowy-leopard-web.jpg",
-                "illustrator": "Illus. Libby Nixon"
+                "illustrator": "Illus. Libby Nixon",
+                "illustration_pan_x": -219.0,
+                "illustration_pan_y": 182.0,
+                "illustration_scale": 0.964,
+                "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "2",
             "project_number": "429",
@@ -11570,10 +11594,11 @@
                     "neutral"
                 ],
                 "illustration": "./images/anthony-christou-Kitsunesmall.jpg",
-                "illustrator": "Illus. Anthony Christou"
+                "illustrator": "Illus. Anthony Christou",
+                "level": "None"
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "3",
             "project_number": "430",
@@ -11594,10 +11619,14 @@
                     "neutral"
                 ],
                 "illustration": "./images/t-c-kua-heron.jpg",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "level": "None",
+                "illustration_pan_x": 124.0,
+                "illustration_pan_y": 269.0,
+                "illustration_scale": 0.867
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "4",
             "project_number": "431",
