@@ -4203,6 +4203,345 @@
                 "traits": "Talent. Illegal."
             },
             "back": {}
+        },
+        "98be9586-872e-4310-b2e0-ed4c7feea865": {
+            "name": "Akira Arisato",
+            "front": {
+                "text": "<reaction> Sobald eine Nicht-Schw\u00e4che-Fertigkeitskarte in den Ablagestapel eines Ermittlers an deinem Ort gelegt werden w\u00fcrde: Mische die Karte stattdessen zur\u00fcck in das Deck ihres Besitzers. (Maximal einmal pro Runde.)\n<elder_sign>-Effekt: +1. Du darfst eine Karte aus deinem Ablagestapel auf deine Hand zur\u00fccknehmen.",
+                "flavor_text": "\u201eTausend Generationen leben in mir weiter.\u201c",
+                "subtitle": "Das Medium",
+                "traits": "Zauberer. Tr\u00e4umer."
+            },
+            "back": {
+                "text": "<b>Deckgr\u00f6\u00dfe:</b> 30\n<b>Deckbau-Optionen:</b> Mystikerkarten (<mystic>) Stufe 0-5, Sucherkarten (<seeker>) Stufe 0-1, <t>Trainiert</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5.\n<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Lebende Erinnerung, Grenz\u00fcberschreitung, 1 zuf\u00e4llige Basisschw\u00e4che.\n<b>Zus\u00e4tzliche Einschr\u00e4nkungen:</b> Keine <t>Tarot</t>-Vorteilskarten.",
+                "flavor_text": "Als Anh\u00e4nger der uralten Kunst des Onmy\u014dd\u014d hat Akira sein Leben der Erforschung und der Beherrschung der Grenze zwischen Leben und Tod gewidmet. Wann immer m\u00f6glich, verbringt er seine Zeit am liebsten damit, mit den Geistern der Verstorbenen zu kommunizieren, um geheimnisvolle Geheimnisse zu ergr\u00fcnden, die f\u00fcr die meisten modernen Okkultisten schlichtweg unerreichbar sind. Die nat\u00fcrliche Leichtigkeit, mit der er \u00fcber ein hochentwickeltes \u201egenetisches Ged\u00e4chtnis\u201c auf das Wissen und die Kraft der fr\u00fcheren Magier seiner Blutlinie zur\u00fcckgreifen kann, hat ihn etwas arrogant und den Angelegenheiten unserer Welt gegen\u00fcber distanziert gemacht; dennoch wird er vom einfachen Volk geliebt, da er in der Lage ist, rachs\u00fcchtige Geister zu vertreiben und noch lebenden Seelen dabei zu helfen, Frieden zu finden, indem er Kontakt zu den Geistern ihrer verstorbenen Angeh\u00f6rigen herstellt. Trotz seiner ohnehin schon betr\u00e4chtlichen Macht sehnt sich Akira immer noch nach Antworten auf immer gef\u00e4hrlichere Fragen \u2026",
+                "subtitle": "Das Medium",
+                "entries": [
+                    [
+                        "<b>Deckgr\u00f6\u00dfe:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbau-Optionen:</b>",
+                        "Mystikerkarten (<mystic>) Stufe 0-5, Sucherkarten (<seeker>) Stufe 0-1, <t>Trainiert</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5."
+                    ],
+                    [
+                        "<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe):",
+                        "Lebende Erinnerung, Grenz\u00fcberschreitung, 1 zuf\u00e4llige Basisschw\u00e4che."
+                    ],
+                    [
+                        "<b>Zus\u00e4tzliche Einschr\u00e4nkungen:</b>",
+                        "Keine <t>Tarot</t>-Vorteilskarten."
+                    ]
+                ]
+            }
+        },
+        "489c626f-533b-435a-915c-a0442851219f": {
+            "name": "<unique>Akane Amada",
+            "front": {
+                "text": "<reaction> Sobald ein Gegner einen Gelegenheitsangriff gegen einen Ermittler an deinem Ort durchf\u00fchren w\u00fcrde, ersch\u00f6pfe Akane Amada: Hebe diesen Angriff auf.\n<reaction> Nachdem einem Gegner an deinem Ort entkommen wurde, ersch\u00f6pfe Akane Amada: Erhalte 1 Ressource.",
+                "flavor_text": "Akanes Begeisterung f\u00fcr Live-Musik begann bereits in ihrer Kindheit, als sie beobachtete, wie eine wundersch\u00f6ne junge Bardin einen rachs\u00fcchtigen Geist aus ihrem Dorf vertrieb.",
+                "subtitle": "Mutter der Melodien",
+                "traits": "Verb\u00fcndeter. Patron. Performer."
+            },
+            "back": {}
+        },
+        "99226f58-72dd-4470-ac56-5aa4be542f94": {
+            "name": "<unique>Parasit\u00e4rer Wirt",
+            "front": {
+                "text": "<action> Falls Parasit\u00e4rer Wirt spielbereit ist: <b>Kampf.</b> Du erh\u00e4ltst +2 <combat> f\u00fcr diesen Angriff. Falls die Probe erfolgreich ist, darfst du 1 Schaden nehmen, damit der Angriff +1 Schaden zuf\u00fcgt. Falls der Angriff einen Gegner besiegt, darfst du Parasit\u00e4rer Wirt ersch\u00f6pfen, um 1 Schaden von ihm zu heilen.\n<for> Sobald dein Zug endet: Falls du in dieser Runde nicht erfolgreich mit Parasit\u00e4rer Wirt gek\u00e4mpft hast, f\u00fchre eine <willpower>-Probe (3) durch. Falls die Probe misslingt f\u00fcgt dir Parasit\u00e4rer Wirt 1 Schaden zu.",
+                "flavor_text": "",
+                "subtitle": "Dunkler Passagier",
+                "traits": "Symbiot. B\u00fcndnis."
+            },
+            "back": {}
+        },
+        "bd93f78d-6e18-49e6-b970-c6c4814d9ccb": {
+            "name": "Exorzismus",
+            "front": {
+                "text": "<action>: <b>Kampf.</b> Dieser Angriff verwendet <willpower> statt <combat>. Falls du w\u00e4hrend einer Fertigkeitsprobe einen <blessing>- oder <elder_sign>-Marker abhandelst oder falls dieser Angriff einen <t>Geist</t> oder <t>Yokai</t>-Gegner als Ziel hat, f\u00fcgt er +1 Schaden zu. ",
+                "flavor_text": "\u201eDu geh\u00f6rst nicht in diese Welt!\u201c",
+                "traits": "Zauber. Gesegnet."
+            },
+            "back": {}
+        },
+        "2c97e691-8dd4-461a-a4b9-07023b5136be": {
+            "name": "Fernwahrnehmung",
+            "front": {
+                "text": "<free> Ersch\u00f6pfe <name>: Schaue dir entweder die oberste Karte des Begegnungsdecks, die oberste Karte eines Ermittlerdecks oder die enth\u00fcllte Seite eines verh\u00fcllten benachbarten Ortes an.",
+                "flavor_text": "\"Ich habe \u00fcberall Augen.\"",
+                "traits": "Zauber. Weissagung. "
+            },
+            "back": {}
+        },
+        "4bc8c07e-587c-4b50-9c91-18171d8ac804": {
+            "name": "Fesselnde S\u00e9ance",
+            "front": {
+                "text": "Anwendungen (3 Ladungen). \n<reaction> Sobald ein Gegner an deinem Ort besiegt wird, gib 1 Ladung von <name> aus: Entdecke 1 Hinweis an deinem Ort.",
+                "flavor_text": "Ein Geheimnis mit ins Grab zu nehmen, reicht heutzutage einfach nicht mehr aus.",
+                "traits": "Zauber. Ritual."
+            },
+            "back": {}
+        },
+        "eacbf025-8bb3-4fb9-a164-d8ffc9cf4cf5": {
+            "name": "Verstecktes Potential",
+            "front": {
+                "text": "Als zus\u00e4tzliche Kosten, um <name> zu spielen, lege 2 Nicht-Schw\u00e4che-Karten von deiner Hand oder aus deiner Spielzone ab.\nZiehe 3 Karten. Diese Aktion l\u00f6st keine Gelegenheitsangriffe aus.",
+                "flavor_text": "\u201eEs gibt keine Grenzen. Alles ist erlaubt.\u201c",
+                "traits": "Geist."
+            },
+            "back": {}
+        },
+        "7f80d751-57ba-47c9-8971-a183363dd2bc": {
+            "name": "Flammen anfachen",
+            "front": {
+                "text": "Maximal 1 <t>Haltung</t> pro Ermittler. \n<reaction> Nachdem ein Gegner dich in einen Kampf verwickelt, ersch\u00f6pfe <name>: W\u00e4hle eine <mystic>-Vorteilskarte, die du kontrollierst, mit Anwendungen (Ladungen) und f\u00fchre eine <willpower>-Probe (X) durch, wobei X die Anzahl der Ladungen auf der gew\u00e4hlten Vorteilskarte ist. Falls die Probe gelingt, platziere 1 Ladung auf der gew\u00e4hlten Vorteilskarte.  ",
+                "flavor_text": "\u201eDu hast mir bereits alles gegeben, was ich brauche.\u201c",
+                "traits": "Haltung."
+            },
+            "back": {}
+        },
+        "e0bd2a0a-c827-4c6a-8239-77d88126c1a9": {
+            "name": "Seilpuppe",
+            "front": {
+                "text": "<reaction> Nachdem ein Gegner ins Spiel kommt, ersch\u00f6pfe <name>: Versiegel 1 <curse>-Marker aus dem Chaosbeutel auf diesem Gegner.\n<action> W\u00e4hle einen Gegner mit einem auf ihm versiegelten <curse>-Marker: <b>Verhandlung.</b> F\u00fcge diesem Gegner 1 Schaden zu. Falls dieser Effekt einen Gegner besiegt, darfst du einen versiegelten <curse>-Marker von dem Gegner in den Markervorrat zur\u00fccklegen.",
+                "flavor_text": "Wara ningy\u014d werden in einer Reihe von Ritualen verwendet, meist in Verbindung mit einem Gegenstand, der von der Person stammt, gegen die sich der Fluch richtet, beispielsweise einem Haarstr\u00e4hne.",
+                "traits": "Gegenstand. Okkult. Verflucht."
+            },
+            "back": {}
+        },
+        "dabeca85-ba12-4f5d-a0be-4c6f43754dbb": {
+            "name": "Flackern",
+            "front": {
+                "text": "Schnell. Spiele diese Karte in einem beliebigen <free>-Fenster.\nW\u00e4hle eine Nicht-Schw\u00e4che-Karte, die du kontrollierst, und f\u00fcge sie wieder der Hand ihres Besitzers zu.",
+                "flavor_text": "\"Warte. Irgendetwas ist hier faul...\"",
+                "traits": "Weissagung."
+            },
+            "back": {}
+        },
+        "f7941b61-dc67-4862-9eb0-75016be3a1e9": {
+            "name": "Exorzismus",
+            "front": {
+                "text": "<action>: <b>Kampf.</b> Dieser Angriff verwendet <willpower> statt <combat>. Du erh\u00e4ltst +2 <willpower>. Falls du w\u00e4hrend einer Fertigkeitsprobe einen <blessing>- oder <elder_sign>-Marker abhandelst oder falls dieser Angriff einen <t>Geist</t> oder <t>Yokai</t>-Gegner als Ziel hat, f\u00fcgt er +1 Schaden zu. ",
+                "flavor_text": "\u201eDu geh\u00f6rst nicht in diese Welt!\u201c",
+                "traits": "Zauber. Gesegnet."
+            },
+            "back": {}
+        },
+        "9b085910-1bd1-4355-a696-fc1dee573cdc": {
+            "name": "Dem Wahnsinn hingeben",
+            "front": {
+                "text": "Schnell. Spiele diese Karte nur w\u00e4hrend deines Zuges.\nAls zus\u00e4tzliche Kosten f\u00fcr das Ausspielen von <name> erleidest du 1 psychisches Trauma.\nBis zum Ende der Runde entspricht der Basiswert jeder deiner F\u00e4higkeiten dem Horrorwert deines Ermittlers.",
+                "flavor_text": "Wenn du sie nicht besiegen kannst, f'taghn.",
+                "traits": "Schachzug. Okkult."
+            },
+            "back": {}
+        },
+        "6146e8b3-7f4d-4fc6-85a4-91c948d4bbd9": {
+            "name": "Flackern",
+            "front": {
+                "text": "Schnell. Spiele diese Karte in einem beliebigen <free>-Fenster.\nW\u00e4hle eine Nicht-Schw\u00e4che-Karte in der Spielzone eines Ermittlers an deinem Ort und f\u00fcge sie wieder der Hand ihres Besitzers zu.",
+                "flavor_text": "\u201eWenn du mir in die Augen schaust \u2026 was siehst du dann?\u201c<br> \u201eDas sind nicht deine Augen.\u201c",
+                "traits": "Weissagung."
+            },
+            "back": {}
+        },
+        "2a5b249b-5915-4d54-a663-659fda58de89": {
+            "name": "<unique>Siderisches Schisma",
+            "front": {
+                "text": "Dauerhaft. \n<reaction> Sobald das Spiel beginnt: Enth\u00fclle Marker aus dem Chaosbeutel, bis du einen Marker enth\u00fcllst der nicht ein <elder_sign>- oder <auto_fail>-Marker ist. Du darfst diesen Marker hier versiegeln.",
+                "flavor_text": "Wie oben, so unten.",
+                "subtitle": "Den Sternen trotzen",
+                "traits": "Gl\u00fccksfall."
+            },
+            "back": {}
+        },
+        "57eb056f-ac74-4f90-a13a-88805fba109f": {
+            "name": "<unique>Abendd\u00e4mmerung",
+            "front": {
+                "text": "<for> Sobald Abendd\u00e4mmerung ins Spiel kommt: Platziere 1 Verderben darauf.\n<action>: <b>Kampf.</b> F\u00fcge deinen <willpower>-Wert zu deinem Fertigkeitswert f\u00fcr diese Probe hinzu. Falls Abendd\u00e4mmerung Verderben auf sich hat, f\u00fcgt dieser Angriff +2 Schaden zu. Anderenfalls f\u00fcgt dieser Angriff +1 Schaden zu. Falls dieser Angriff einen Gegner mit Verderben auf sich besiegt, darfst du dieses auf Abendd\u00e4mmerung platzieren.",
+                "flavor_text": "Ob am hellsten Tag oder in der dunkelsten Nacht.",
+                "subtitle": "Mondlichtmesser",
+                "traits": "Gegenstand. Relikt. Waffe."
+            },
+            "back": {}
+        },
+        "3e369ca8-26f6-47fc-adf8-7fdcb92fd0b4": {
+            "name": "Exorzismus",
+            "front": {
+                "text": "<action>: <b>Kampf.</b> Dieser Angriff verwendet <willpower> statt <combat>. Du erh\u00e4ltst +3 <willpower>. Falls du w\u00e4hrend einer Fertigkeitsprobe einen <blessing>- oder <elder_sign>-Marker abhandelst oder falls dieser Angriff einen <t>Geist</t> oder <t>Yokai</t>-Gegner als Ziel hat, f\u00fcgt er +2 Schaden zu. ",
+                "flavor_text": "\u201eDu geh\u00f6rst nicht in diese Welt!\u201c",
+                "traits": "Zauber. Gesegnet."
+            },
+            "back": {}
+        },
+        "e861bbb0-b521-4fce-8825-9d0eeaa92ad6": {
+            "name": "Sakura Sanada",
+            "front": {
+                "text": "<reaction> Sobald du eine <t>Geist</t>-Karte ausspielst: Verringere die Ressourcenkosten um 1 oder erhalte 1 Ressource.\n<elder_sign> effect: +1. Du kannst eine <t>Geist</t>-Karte aus deinem Ablagestapel zur\u00fcck in dein Deck mischen.",
+                "flavor_text": "\u201eDu wirst nicht lange genug leben, um dich an meinen Namen zu erinnern.\u201c",
+                "subtitle": "The Wanderer",
+                "traits": "Drifter.Wayfarer."
+            },
+            "back": {
+                "text": "<b>Deckgr\u00f6\u00dfe:</b> 30\n<b>Deckbau-Optionen:</b> \u00dcberlebenderkarten (<survivor>) Stufe 0-5, Schurkenkarten (<rogue>) Stufe 0-1, <t>Geist</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5.\n<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Mit dem Schwert leben, Mit dem Schwert sterben, 1 zuf\u00e4llige Grundschw\u00e4che.\n<b>Zus\u00e4tzliche Einschr\u00e4nkungen:</b> Keine <t>Feuerwaffe</t>-Vorteilskarten.",
+                "flavor_text": "Sakura, die schon in jungen Jahren unter mysteri\u00f6sen Umst\u00e4nden zur Waise geworden war, wurde von einem abergl\u00e4ubischen Schmied adoptiert und aufgezogen, der in einem abgelegenen Dorf au\u00dferhalb von Arkham lebte. Eines Tages verfiel der Schmied in tiefe Verzweiflung, als er seine junge Pflegetochter dabei erwischte, wie sie mit einer von ihm geschmiedeten Klinge \u201espielte\u201c, und gab bald darauf sein Handwerk auf. Sakura vermutete den Einfluss b\u00f6ser Geister und verlie\u00df das Dorf nach dem Tod des Schmieds, nahm jedoch das Schwert mit und schwor, daf\u00fcr zu sorgen, dass das Meisterwerk ihres Pflegevaters gegen die M\u00e4chte der Finsternis eingesetzt w\u00fcrde, die das Leben Unschuldiger bedrohen, wo auch immer diese lauern m\u00f6gen.",
+                "entries": [
+                    [
+                        "<b>Deckgr\u00f6\u00dfe:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbau-Optionen:</b>",
+                        "\u00dcberlebenderkarten (<survivor>) Stufe 0-5, Schurkenkarten (<rogue>) Stufe 0-1, <t>Geist</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5."
+                    ],
+                    [
+                        "<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe):",
+                        "Mit dem Schwert leben, Mit dem Schwert sterben, 1 zuf\u00e4llige Grundschw\u00e4che."
+                    ],
+                    [
+                        "<b>Zus\u00e4tzliche Einschr\u00e4nkungen:</b>",
+                        "Keine <t>Feuerwaffe</t>-Vorteilskarten."
+                    ]
+                ]
+            }
+        },
+        "d6805756-292b-4773-9fde-6b873db1ac5d": {
+            "name": "<unique>Kentaro Kobayashi",
+            "front": {
+                "text": "Du hast 1 zus\u00e4tzlichen Handslot, der nur zum Halten von <t>Werkzeug</t>-Vorteilskarten verwendet werden kann. \n<action><action>: Heile 1 Schaden. Diese F\u00e4higkeit kann von jedem Ermittler an deinem Ort aktiviert werden.",
+                "flavor_text": "\"Raus aus meiner K\u00fcche!\"",
+                "subtitle": "Manischer Mixologe",
+                "traits": "Verb\u00fcndeter. Besessen."
+            },
+            "back": {}
+        },
+        "c4776a6d-8070-4c01-9e02-39a5a68ef20c": {
+            "name": "Geben und nehmen",
+            "front": {
+                "text": "<free> \u00dcberlasse einem anderen Ermittler an deinem Ort <name> und ersch\u00f6pfe <name>: \u00dcbernimm die Kontrolle \u00fcber eine <t>Gegenstand</t>-Vorteilskartem, die von diesem Ermittler kontrolliert wird.",
+                "flavor_text": "\u201eKomm schon! Lass es mich doch nur kurz mal halten \u2026\u201c",
+                "traits": "Gefallen."
+            },
+            "back": {}
+        },
+        "1cf68642-b0ea-4fb6-99b4-ac62626bc92e": {
+            "name": "Das Licht begraben",
+            "front": {
+                "text": "Schnell. Spiele diese Karte nur in deinem Zug.\nAls zus\u00e4tzliche Kosten, um <name> zu spielen, lege eine Nicht-Schw\u00e4che-Vorteilskarte, die mindestens 1 Verb\u00fcndeter-Slot ben\u00f6tigt, von deiner Hand oder aus deiner Spielzone, ab.\nErhalte X Ressourcen, wobei X die Kosten der abgelegten Vorteilskarte sind.",
+                "flavor_text": "Wer nie liebt, \u00fcberl\u00e4sst sich nicht dem Zufall.",
+                "traits": "Geist."
+            },
+            "back": {}
+        },
+        "d94541be-7684-4c6f-9adc-ef15f9452000": {
+            "name": "Den Weg erhellen",
+            "front": {
+                "text": "Schnell. Spiele diese Karte sobald die Ermittlerphase beginnt.\nBis zum Ende der Runde k\u00f6nnen andere Ermittler Karten zu Proben beitragen, die du durchf\u00fchrst, als wenn diese an deinem Ort w\u00e4ren. Karten die so von anderen Ermittlern beigetragen werden erhalten <wild>.",
+                "flavor_text": "Vorsicht ist ein Luxus, den du dir einfach nicht leisten kannst.",
+                "traits": "Geist. Mutig."
+            },
+            "back": {}
+        },
+        "24d3ae58-5cfe-4845-b959-100bdca14eb9": {
+            "name": "Untiefen durchk\u00e4mmen",
+            "front": {
+                "text": "Lege die obersten X Karten deines Decks ab, wobei X dem \u201eSchleierwert deines Ortes entspricht. Falls dabei Schw\u00e4chen abgelegt werden, mische diese wieder in dein Deck. W\u00e4hle anschlie\u00dfend eine Karte aus den obersten X Karten deines Ablagestapels aus und nimm sie auf deine Hand.",
+                "flavor_text": "Zeit und Gezeiten warten auf niemanden.",
+                "traits": "Gl\u00fccksfall."
+            },
+            "back": {}
+        },
+        "bd9954b9-1fdf-4645-a381-6af114856601": {
+            "name": "Jetzt oder nie",
+            "front": {
+                "text": "Kann maximal einmal pro Fertigkeitsprobe beigetragen werden.\n<name> erh\u00e4lt <wild> <wild>, falls dem ausf\u00fchrenden Ermittler diese Runde bereits mindestens eine Fertigkeitsprobe misslungen ist.",
+                "flavor_text": "Eine Niederlage ist keine Schande, solange der Geist ungebrochen bleibt.",
+                "traits": "Angeboren."
+            },
+            "back": {}
+        },
+        "69635253-ffd6-470a-b40b-ce0fb7b46eb2": {
+            "name": "R\u00fccksichtsloses Handeln",
+            "front": {
+                "text": "Maximal 1 <t>Haltung</t> pro Ermittler. \n<free> Bevor du w\u00e4hrend einer Kampf-Aktion Chaosmarker enth\u00fcllst, nimm 1 Schaden und ersch\u00f6pfe <name>: Dieser Angriff f\u00fcgt +1 Schaden zu.",
+                "flavor_text": "\u201eDer gr\u00f6\u00dfte Krieger muss den zweitgr\u00f6\u00dften Krieger niemals f\u00fcrchten; er muss lediglich den Anf\u00e4nger f\u00fcrchten, der noch nie zuvor eine Waffe in der Hand gehalten hat.\u201c",
+                "traits": "Haltung."
+            },
+            "back": {}
+        },
+        "e82fd65e-cc25-41d9-89a0-17271ea2562b": {
+            "name": "Grenzen \u00fcberschreiten",
+            "front": {
+                "text": "Schnell. Spiele diese Karte nur in deinem Zug.\nDu erh\u00e4ltst eine zus\u00e4tzliche Aktion in diesem Zug. Falls du 3 oder weniger verbliebene Ausdauer hast, entferne <name> aus dem Spiel. Ansonsten, schicke <name> ins Exil.",
+                "flavor_text": "\u201eMisserfolg ist ein hervorragender Lehrer.\u201c",
+                "traits": "Geist. Verzweifelt."
+            },
+            "back": {}
+        },
+        "7daf88a5-2279-48d3-97e7-568021962561": {
+            "name": "Dem Ruin den R\u00fccken kehren",
+            "front": {
+                "text": "Schnell. Spiele diese Karte nachdem die Fertigkeitsprobe eines Ermittlers misslingt. X ist die Zahl, um die die Probe misslungen ist.\nDer ausf\u00fchrende Ermittler darf bis zu X Karten ziehen. ",
+                "flavor_text": "Die Zeit heilt alle Wunden. Sie wird aber noch viele weitere verursachen.",
+                "traits": "Erkenntnis."
+            },
+            "back": {}
+        },
+        "f361d8ef-f8f4-491b-93e8-69f438dd696d": {
+            "name": "Jetzt oder nie",
+            "front": {
+                "text": "Kann maximal einmal pro Fertigkeitsprobe beigetragen werden.\n<name> erh\u00e4lt <wild> f\u00fcr jede Probe, die dem ausf\u00fchrenden Ermittler diese Runde bereits misslungen ist.",
+                "flavor_text": "Eine Niederlage ist keine Schande, solange der Geist ungebrochen bleibt.",
+                "traits": "Angeboren."
+            },
+            "back": {}
+        },
+        "dfa3f166-9dd6-4c6e-a107-67bcd5ef064b": {
+            "name": "Schicksalsband",
+            "front": {
+                "text": "Schnell. Spiele diese Karte nur in deinem Zug.\nW\u00e4hle einen Ermittler. Die n\u00e4chste Aktion, die du ausf\u00fchrst, darf so durchgef\u00fchrt werden, als wenn du am Ort des ausgew\u00e4hlten Ermittlers w\u00e4rst. Entferne <name> aus dem Spiel.",
+                "flavor_text": "\u201eUnsere Bande wuchsen wie Wurzeln unter der Erde zusammen, bis wir schlie\u00dflich feststellten, dass wir ein einziger Baum waren und nicht zwei.\u201c",
+                "traits": "Paradox. "
+            },
+            "back": {}
+        },
+        "6430e9a5-148e-4659-8964-2b4a39e656ec": {
+            "name": "<unique>Selektive Erinnerung",
+            "front": {
+                "text": "Dauerhaft. Au\u00dferordentlich. \n<reaction> Bevor du deine Starthand ziehst: Durchsuche dein Deck nach bis zu 5 Nicht-Schw\u00e4che-Karten und lege sie ab. Mische dein Deck.",
+                "flavor_text": "Die beste Verteidigung, \u00fcber die der Verstand verf\u00fcgt, besteht darin, einfach zu vergessen, sich zu erinnern.",
+                "subtitle": "Bevor ich vergesse",
+                "traits": "Zustand."
+            },
+            "back": {}
+        },
+        "714cec12-9925-4486-8f55-8f7f7ffaca0c": {
+            "name": "Dem Ruin den R\u00fccken kehren",
+            "front": {
+                "text": "Schnell. Spiele diese Karte nachdem die Fertigkeitsprobe eines Ermittlers misslingt. \nDer ausf\u00fchrende Ermittler darf bis zu X Karten ziehen, wobei X die Zahl ist, um die die Probe misslungen ist.\n\n\n",
+                "flavor_text": "Die Zeit heilt alle Wunden. Sie wird aber noch viele weitere verursachen.",
+                "traits": "Insight."
+            },
+            "back": {}
+        },
+        "60bdedc2-e5f9-44d0-9d24-7b5c953c97d9": {
+            "name": "<unique>Wanderlust",
+            "front": {
+                "text": "Dauerhaft. \n<reaction> Sobald dein Zug endet, falls dein aktueller Ort nicht der gleiche ist an dem du deinen Zug gestartet hast: Ziehe 1 Karte.",
+                "flavor_text": "Nicht jeder, der umherirrt, ist verloren.",
+                "subtitle": "Nomadischer Impuls",
+                "traits": "Zustand."
+            },
+            "back": {}
         }
     },
     "guides": [

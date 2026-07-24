@@ -541,11 +541,21 @@
                     "mystic"
                 ],
                 "illustration": "./images/image-removebg-preview (5).png",
-                "illustrator": "Illus. Celestial Fang"
+                "illustrator": "Illus. Celestial Fang",
+                "illustration_pan_x": 5.0,
+                "illustration_pan_y": 323.0,
+                "illustration_scale": 2.333,
+                "willpower": "5",
+                "intellect": "4",
+                "combat": "2",
+                "agility": "1"
             },
             "back": {
                 "type": "investigator_back",
-                "illustration": "./images/celestial-fang-53bfc5f3-febc-492e-95be-9d37cd1ad8c5.jpg"
+                "illustration": "./images/celestial-fang-53bfc5f3-febc-492e-95be-9d37cd1ad8c5.jpg",
+                "illustration_pan_x": -20.0,
+                "illustration_pan_y": 80.0,
+                "illustration_scale": 0.429
             },
             "project_number": "10",
             "id": "98be9586-872e-4310-b2e0-ed4c7feea865"
@@ -625,11 +635,16 @@
                     "survivor"
                 ],
                 "illustration": "./images/image-removebg-preview (4).png",
-                "illustrator": "Illus. Puppeteer Lee"
+                "illustrator": "Illus. Puppeteer Lee",
+                "illustration_pan_x": -57.0,
+                "illustration_pan_y": 287.0,
+                "illustration_scale": 3.258
             },
             "back": {
                 "type": "investigator_back",
-                "illustration": "./images/the-art-of-puppeteer-lee-9.jpg"
+                "illustration": "./images/the-art-of-puppeteer-lee-9.jpg",
+                "illustration_pan_x": 11.0,
+                "illustration_pan_y": 67.0
             },
             "project_number": "13",
             "id": "e861bbb0-b521-4fce-8825-9d0eeaa92ad6"
@@ -1768,7 +1783,13 @@
                 ],
                 "icons": "Q",
                 "illustration": "./images/spiritcaller-main.jpg",
-                "illustrator": "Illus. Shinotamar"
+                "illustrator": "Illus. Shinotamar",
+                "illustration_pan_x": 33.0,
+                "illustration_pan_y": -168.0,
+                "illustration_scale": 1.115,
+                "slots": [
+                    "ally"
+                ]
             },
             "back": {
                 "type": "player"
@@ -1791,7 +1812,13 @@
                 ],
                 "icons": "WC",
                 "illustration": "./images/FHsCXei.jpg",
-                "illustrator": "Illus. Coffeedog7"
+                "illustrator": "Illus. Coffeedog7",
+                "slots": [
+                    "arcane"
+                ],
+                "illustration_pan_x": 114.0,
+                "illustration_pan_y": 93.0,
+                "illustration_scale": 1.974
             },
             "back": {
                 "type": "player"
@@ -1813,7 +1840,10 @@
                 ],
                 "icons": "W",
                 "illustration": "./images/connie-bi-1.jpg",
-                "illustrator": "Illus. Connie Bi"
+                "illustrator": "Illus. Connie Bi",
+                "illustration_pan_x": -364.0,
+                "illustration_pan_y": -114.0,
+                "illustration_scale": 1.592
             },
             "back": {
                 "type": "player"
@@ -1841,7 +1871,13 @@
                 ],
                 "icons": "C",
                 "illustration": "./images/tooth-wu-daoshi-2-1-23232332336666 (1).jpg",
-                "illustrator": "Illus. Tooth Wu"
+                "illustrator": "Illus. Tooth Wu",
+                "slots": [
+                    "hand"
+                ],
+                "illustration_pan_x": -692.0,
+                "illustration_pan_y": 225.0,
+                "illustration_scale": 1.185
             },
             "back": {
                 "type": "player"
@@ -1864,7 +1900,13 @@
                 ],
                 "icons": "Q",
                 "illustration": "./images/benjamin-weustemaat-eye-of-chaos-final-assmall.jpg",
-                "illustrator": "Illus. Benjamin Weustemaat"
+                "illustrator": "Illus. Benjamin Weustemaat",
+                "illustration_pan_x": 115.0,
+                "illustration_pan_y": 4.0,
+                "illustration_scale": 0.734,
+                "slots": [
+                    "arcane"
+                ]
             },
             "back": {
                 "type": "player"
@@ -1887,7 +1929,13 @@
                 ],
                 "icons": "WI",
                 "illustration": "./images/livia-prima-princess-of-ghouls-x.jpg",
-                "illustrator": "Illus. Livia Prima"
+                "illustrator": "Illus. Livia Prima",
+                "slots": [
+                    "arcane"
+                ],
+                "illustration_pan_x": 113.0,
+                "illustration_pan_y": 70.0,
+                "illustration_scale": 1.74
             },
             "back": {
                 "type": "player"
@@ -1909,7 +1957,10 @@
                 ],
                 "icons": "W",
                 "illustration": "./images/hou-china-4.jpg",
-                "illustrator": "Illus. Hou China"
+                "illustrator": "Illus. Hou China",
+                "illustration_pan_x": -54.0,
+                "illustration_pan_y": 245.0,
+                "illustration_scale": 0.574
             },
             "back": {
                 "type": "player"
@@ -1932,7 +1983,13 @@
                 ],
                 "icons": "WC",
                 "illustration": "./images/nevoangelo-art-jigoku-shoujo-2017.jpg",
-                "illustrator": "Illus. Nevoangelo"
+                "illustrator": "Illus. Nevoangelo",
+                "slots": [
+                    "hand"
+                ],
+                "illustration_pan_x": -871.0,
+                "illustration_pan_y": 206.0,
+                "illustration_scale": 1.247
             },
             "back": {
                 "type": "player"
@@ -1954,7 +2011,10 @@
                 ],
                 "icons": "WQ",
                 "illustration": "./images/FDwYWPNVgAEAc56.jpeg",
-                "illustrator": "Illus. Gu Zheng Wei"
+                "illustrator": "Illus. Gu Zheng Wei",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 3.0,
+                "illustration_scale": 1.142
             },
             "back": {
                 "type": "player"
@@ -1977,7 +2037,10 @@
                 ],
                 "icons": "QQ",
                 "illustration": "./images/martin-de-diego-eldritch-whisper15-by-almanegra-db5jgo8.jpg",
-                "illustrator": "Illus. Martin de Diego"
+                "illustrator": "Illus. Martin de Diego",
+                "illustration_pan_x": -1.0,
+                "illustration_pan_y": -110.0,
+                "illustration_scale": 1.644
             },
             "back": {
                 "type": "player"
@@ -2001,7 +2064,10 @@
                     "mystic"
                 ],
                 "illustration": "./images/eternity.jpg",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_x": 117.0,
+                "illustration_pan_y": -85.0,
+                "illustration_scale": 2.499
             },
             "back": {
                 "type": "player"
@@ -2026,7 +2092,13 @@
                 ],
                 "icons": "WCQ",
                 "illustration": "./images/gwyneth-n-skehan-moonlight-02.jpg",
-                "illustrator": "Illus. Gwyneth Skehan"
+                "illustrator": "Illus. Gwyneth Skehan",
+                "illustration_pan_x": -267.0,
+                "illustration_pan_y": 261.0,
+                "illustration_scale": 0.961,
+                "slots": [
+                    "hands"
+                ]
             },
             "back": {
                 "type": "player"
@@ -2048,7 +2120,10 @@
                 ],
                 "icons": "WIA",
                 "illustration": "./images/543064-warrior-fantasy_art-armor-sword-samurai-Japanese_kimono.jpg",
-                "illustrator": "Illus. Dao Trong Le"
+                "illustrator": "Illus. Dao Trong Le",
+                "illustration_pan_x": -64.0,
+                "illustration_pan_y": 14.0,
+                "illustration_scale": 1.95
             },
             "back": {
                 "type": "player"
@@ -2071,7 +2146,10 @@
                 ],
                 "icons": "Q",
                 "illustration": "./images/hou-china-5.jpg",
-                "illustrator": "Illus. Hou China"
+                "illustrator": "Illus. Hou China",
+                "illustration_pan_x": -503.0,
+                "illustration_pan_y": 160.0,
+                "illustration_scale": 0.677
             },
             "back": {
                 "type": "player"
@@ -2098,7 +2176,13 @@
                 ],
                 "icons": "Q",
                 "illustration": "./images/mingchen-shen-spicy32final.jpg",
-                "illustrator": "Illus. Mingchen Shen"
+                "illustrator": "Illus. Mingchen Shen",
+                "slots": [
+                    "ally"
+                ],
+                "illustration_pan_x": -79.0,
+                "illustration_pan_y": 230.0,
+                "illustration_scale": 0.856
             },
             "back": {
                 "type": "player"
@@ -2120,7 +2204,10 @@
                 ],
                 "icons": "WIA",
                 "illustration": "./images/2883182-fantasy-art-digital-art-artwork-women-lantern-sea-rock-clouds-trees-dark-lights___fantasy-wallpapers.jpg",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_x": -82.0,
+                "illustration_pan_y": 5.0,
+                "illustration_scale": 0.972
             },
             "back": {
                 "type": "player"
@@ -2142,7 +2229,10 @@
                 ],
                 "icons": "Q",
                 "illustration": "./images/orly-wanders-samuka.jpg",
-                "illustrator": "Illus. Orly Wanders"
+                "illustrator": "Illus. Orly Wanders",
+                "illustration_pan_x": -987.0,
+                "illustration_pan_y": 238.0,
+                "illustration_scale": 1.824
             },
             "back": {
                 "type": "player"
@@ -2165,7 +2255,10 @@
                 ],
                 "icons": "IA",
                 "illustration": "./images/EyIkZAhUYAAWNa6.jpeg",
-                "illustrator": "Illus. Gu Zheng Wei"
+                "illustrator": "Illus. Gu Zheng Wei",
+                "illustration_pan_x": -31.0,
+                "illustration_pan_y": -681.0,
+                "illustration_scale": 3.022
             },
             "back": {
                 "type": "player"
@@ -2188,7 +2281,10 @@
                 ],
                 "icons": "WCA",
                 "illustration": "./images/loeumvxwr6091.png",
-                "illustrator": "Illus. Gu Zheng Wei"
+                "illustrator": "Illus. Gu Zheng Wei",
+                "illustration_pan_x": -114.0,
+                "illustration_pan_y": 14.0,
+                "illustration_scale": 1.074
             },
             "back": {
                 "type": "player"
@@ -2211,7 +2307,10 @@
                 ],
                 "icons": "CC",
                 "illustration": "./images/hou-china-1.jpg",
-                "illustrator": "Illus. Hou China"
+                "illustrator": "Illus. Hou China",
+                "illustration_pan_x": -277.0,
+                "illustration_pan_y": 154.0,
+                "illustration_scale": 0.581
             },
             "back": {
                 "type": "player"
@@ -2233,7 +2332,10 @@
                 ],
                 "icons": "WQ",
                 "illustration": "./images/jeffreysmith-turnaway.png",
-                "illustrator": "Illus. Jeffrey Smith"
+                "illustrator": "Illus. Jeffrey Smith",
+                "illustration_pan_x": -151.0,
+                "illustration_pan_y": -808.0,
+                "illustration_scale": 2.905
             },
             "back": {
                 "type": "player"
@@ -2256,7 +2358,10 @@
                 ],
                 "icons": "WW",
                 "illustration": "./images/1185799-illustration-fantasy-art-lake-water-artwork-fish-blue-Yin-and-Yang-Avatar-The-Last-Airbender-vortex-lily-pads-ART-screenshot-computer-wallpaper-fictional-character-frac.jpg",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_x": -207.0,
+                "illustration_pan_y": 7.0,
+                "illustration_scale": 1.152
             },
             "back": {
                 "type": "player"
@@ -2280,7 +2385,10 @@
                     "survivor"
                 ],
                 "illustration": "./images/e6018bbd808266a067ebb1aa527deaf1.jpg",
-                "illustrator": "Illus. Marta Nael"
+                "illustrator": "Illus. Marta Nael",
+                "illustration_pan_x": 113.0,
+                "illustration_pan_y": -64.0,
+                "illustration_scale": 1.674
             },
             "back": {
                 "type": "player"
@@ -2303,7 +2411,10 @@
                     "survivor"
                 ],
                 "illustration": "./images/I'm Never Going Back.png",
-                "illustrator": "Illus. Jeffrey Smith"
+                "illustrator": "Illus. Jeffrey Smith",
+                "illustration_pan_x": -457.0,
+                "illustration_pan_y": 255.0,
+                "illustration_scale": 2.15
             },
             "back": {
                 "type": "player"
@@ -3060,7 +3171,13 @@
                 ],
                 "icons": "WC",
                 "illustration": "./images/FHsCXei.jpg",
-                "illustrator": "Illus. Coffeedog7"
+                "illustrator": "Illus. Coffeedog7",
+                "illustration_pan_y": 93.0,
+                "illustration_pan_x": 114.0,
+                "illustration_scale": 1.974,
+                "slots": [
+                    "arcane"
+                ]
             },
             "back": {
                 "type": "player"
@@ -3083,7 +3200,13 @@
                 ],
                 "icons": "WCC",
                 "illustration": "./images/FHsCXei.jpg",
-                "illustrator": "Illus. Coffeedog7"
+                "illustrator": "Illus. Coffeedog7",
+                "illustration_pan_y": 93.0,
+                "illustration_pan_x": 114.0,
+                "illustration_scale": 1.974,
+                "slots": [
+                    "arcane"
+                ]
             },
             "back": {
                 "type": "player"
@@ -3127,7 +3250,10 @@
                 ],
                 "icons": "QQ",
                 "illustration": "./images/orly-wanders-samuka.jpg",
-                "illustrator": "Illus. Orly Wanders"
+                "illustrator": "Illus. Orly Wanders",
+                "illustration_pan_y": 238.0,
+                "illustration_pan_x": -987.0,
+                "illustration_scale": 1.824
             },
             "back": {
                 "type": "player"
@@ -3150,7 +3276,10 @@
                 ],
                 "icons": "QQ",
                 "illustration": "./images/jeffreysmith-turnaway.png",
-                "illustrator": "Illus. Jeffrey Smith"
+                "illustrator": "Illus. Jeffrey Smith",
+                "illustration_pan_y": -808.0,
+                "illustration_pan_x": -151.0,
+                "illustration_scale": 2.905
             },
             "back": {
                 "type": "player"
