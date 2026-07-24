@@ -3718,6 +3718,491 @@
                 "traits": "Aspekt."
             },
             "back": {}
+        },
+        "62acfd78-89d9-4d07-ab43-a3008f07a20f": {
+            "name": "<unique>Iscariots Apokryphen",
+            "front": {
+                "text": "<action> Falls Iscariots Apokryphen spielbereit ist: <b>Ermitteln.</b> Falls diese Ermittlung erfolgreich ist und dabei ein <blessing>- oder <elder_sign>-Marker abgehandelt wurde, entdecke einen zus\u00e4tzlichen Hinweis an deinem Ort. Als zus\u00e4tzliche Kosten, um diese F\u00e4higkeit zu initiieren, darfst du Iscariots Aprokryphen ersch\u00f6pfen, um dem Chaosbeutel einen <blessing>-Marker hinzuzuf\u00fcgen.",
+                "flavor_text": "Selbst die gro\u00dfartigste Geschichte, die je erz\u00e4hlt wurde, hat zwei Seiten.",
+                "subtitle": "Das verlorene Evangelium",
+                "traits": "Gegenstand. Buch. Gesegnet. "
+            },
+            "back": {}
+        },
+        "541ec591-7c72-483b-a3fc-f2b54228675e": {
+            "name": "<unique>Sofia Wallace",
+            "front": {
+                "text": "Du erh\u00e4ltst +1 <willpower>. \n<reaction> Nachdem eine Fertigkeitsprobe gelingt, in der du einen <blessing>-Marker abgehandelt hast, ersch\u00f6pfe Sofia Wallace: F\u00fcge einem Gegner an deinem Ort 1 Schaden zu.",
+                "flavor_text": "Gesegnet sind die Friedensw\u00e4chter.",
+                "subtitle": "Gl\u00e4ubiger Deputy",
+                "traits": "Verb\u00fcndeter. Polizei. Gesegnet."
+            },
+            "back": {}
+        },
+        "449fc1c7-54c2-4239-ac62-2f3e26a3acac": {
+            "name": "Parabellum",
+            "front": {
+                "text": "Parabellum wird in der Unterhaltsphase nicht spielbereit gemacht.\n<reaction> Nachdem eine Fertigkeitsprobe in einer Kampf-Aktion w\u00e4hrend deines Zuges misslungen ist, ersch\u00f6pfe Parabellum: Du erh\u00e4ltst eine zus\u00e4tzliche Aktion in diesem Zug, die nur dazu genutzt werden kann zu k\u00e4mpfen oder einen Gegner in einen Kampf zu verwickeln. \n<action>: Mache Parabellum spielbereit.",
+                "flavor_text": "Wer Frieden will, muss sich auf den Krieg vorbereiten.",
+                "traits": "Ritual. Geist."
+            },
+            "back": {}
+        },
+        "d77f7e10-183d-4d68-b308-67423eb88690": {
+            "name": "Sicherer Hafen",
+            "front": {
+                "text": "H\u00e4nge <name> an deinen Ort an. Maximal 1 pro Ort.\n<reaction> Sobald dein Zug beginnt, falls keine Gegner an dem Ort sind: F\u00fcge dem Chaosbeutel 1<blessing>-Marker hinzu.\n<reaction> Falls <name> spielbereit ist, wenn ein Gegner den Ort betritt: Enth\u00fclle ein zuf\u00e4lligen Marker aus dem Chaosbeutel. Falls du einen <blessing>-Marker enth\u00fcllst, ersch\u00f6pfe <name> und f\u00fcge dem Gegner 1 Schaden zu.",
+                "flavor_text": "",
+                "traits": "Segen. Gesegnet."
+            },
+            "back": {}
+        },
+        "ec1561da-b94e-46d5-acd6-7e27df1eeaf5": {
+            "name": "Gunst der Ahnen",
+            "front": {
+                "text": "Nachdem du <name> zu einer Probe beigetragen hast, darfst du dem Chaosbeutel 1 <blessing>-Marker hinzuf\u00fcgen.\nDer Ermittler, der die Probe durchf\u00fchrt, darf alle <blessing>-Marker, die w\u00e4hrend dieser Probe enth\u00fcllt wurden dem Chaosbeutel hinzuf\u00fcgen anstatt diese in den Markervorrat zur\u00fcckzulegen.",
+                "flavor_text": "\u201eWir alle m\u00fcssen f\u00fcr die Taten unserer Vorfahren b\u00fc\u00dfen.\"",
+                "traits": "Segen. Gesegnet."
+            },
+            "back": {}
+        },
+        "7da75e16-ab2d-4d89-a948-f73027e8596d": {
+            "name": "Nichts anderes z\u00e4hlt",
+            "front": {
+                "text": "Falls die Probe erfolgreich ist, kannst du Nichts anderes z\u00e4hlt der Hand eines anderen Ermittlers an deinem Ort hinzuf\u00fcgen, anstatt es abzulegen.",
+                "flavor_text": "\u201eWir sind am Leben \u2026 und wir sind zusammen.\u201c",
+                "traits": "Angeboren."
+            },
+            "back": {}
+        },
+        "4314f5dd-5de3-4f12-84cb-1d4e799c5335": {
+            "name": "Jemand von deiner eigenen Gr\u00f6\u00dfe",
+            "front": {
+                "text": "Maximal 1 <t>Haltung</t> pro Ermittler. \n<reaction> Sobald ein Gegner einen anderen Ermittler an deinem Ort angreifen w\u00fcrde <i>(bevor der Angriff ausgef\u00fchrt wird)</i>, ersch\u00f6pfe <name>: <b>Kampf.</b> Diese Aktion zielt auf den angreifenden Gegner ab. Ignoriere f\u00fcr diesen Angriff das Schl\u00fcsselwort Zur\u00fcckschlagen.",
+                "flavor_text": "\"Du musst zuerst an mir vorbei.\"",
+                "traits": "Haltung."
+            },
+            "back": {}
+        },
+        "e828f856-e10f-4d54-8dd7-1d07bcac2cf2": {
+            "name": "Koordinierte Infiltration",
+            "front": {
+                "text": "Echo 1 <i>(bis zum Ende der Runde kann jeder Ermittler <name> aus dem Ablagestapel des Besitzers einmal spielen.) </i>\nW\u00e4hle einen verbundenen Ort. Jeder Ermittler darf 1 Ressource bezahlen, um sich einmal in Richtung des gew\u00e4hlten Ortes zu bewegen.",
+                "flavor_text": "\"Sie werden uns niemals kommen sehen.\"",
+                "traits": "Taktic. Tandem."
+            },
+            "back": {}
+        },
+        "0e609c7c-3cd5-433c-8d8b-1ab60913dc5c": {
+            "name": "Lieber sp\u00e4t als nie",
+            "front": {
+                "text": "Echo 1 <i>(bis zum Ende der Runde kann jeder Ermittler <name> aus dem Ablagestapel des Besitzers einmal spielen.) </i>\nDurchsuche dein Deck nach einer <t>Verb\u00fcndeter</t>-Vorteilskarte, lege sie beiseite, mische dein Deck, und lege die beiseitegelegte Karte oben auf dein Deck. Reduziere die Kosten von <name> um 1 pro Verderben im Spiel .",
+                "flavor_text": "\"Sie hatten schon immer einen Hang zum Dramatischen ...\"",
+                "traits": "Taktic. Tandem."
+            },
+            "back": {}
+        },
+        "a2543f81-6cca-497b-ba00-d58202a5a2b1": {
+            "name": "<unique>Die Obsidian-Mannigfaltigkeit",
+            "front": {
+                "text": "Maximal einmal pro Deck. \n<free> Lege Die Obsidian-Mannigfaltigkeit ab: Durchsuche dein Deck nach einer Vorteilskarte, die mindestens 1 Handslot ben\u00f6tigt und ziehe sie. Du darfst diese Vorteilskarte sofort spielen und ihre Kosten dabei um 3 verringern. Mische dein Deck.",
+                "flavor_text": "Die Oberfl\u00e4che des W\u00fcrfels windet sich, w\u00e4hrend er darum ringt, die unendlichen M\u00f6glichkeiten in sich zu halten.",
+                "subtitle": "<size 55>Nicht-Euklidische Verbindung",
+                "traits": "Gegenstand. Relikt. Okkult."
+            },
+            "back": {}
+        },
+        "db12a551-6b9d-4996-8313-4ea97d37c026": {
+            "name": "Yuki Yagami",
+            "front": {
+                "text": "<reaction>: Nachdem du mindestens 1 <blessing>-Marker w\u00e4hrend einer erfolgreichen Fertigkeitsprobe abgehandelt hast: Ziehe 1 Karte.\n<elder_sign>-Effekt: +1. Du darfst den Chaosbeutel nach einem <curse>-Marker durchsuchen und ihn in den Markervorrat zur\u00fccklegen.",
+                "flavor_text": "\u201eIch muss meine heilige Pflicht erf\u00fcllen \u2026 koste es, was es wolle.\u201c",
+                "subtitle": "Die Priesterin",
+                "traits": "Glaubender. Verflucht."
+            },
+            "back": {
+                "text": "<b>Deck Size:</b> 30\n<b>Deckbau-Optionen:</b> W\u00e4chterkarten (<guardian>) Stufe 0-5, Mystikerkarten (<mystic>) Stufe 0-1, <t>Gesegnet</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5.\n<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Apotheose, Die Nachfolge, 1 zuf\u00e4llige Grundschw\u00e4che.\n<b>Zus\u00e4tzliche Einschr\u00e4nkungen:</b> Keine <t>Waffe</t>-Karten.",
+                "flavor_text": "Yuki wurde von Geburt an darauf vorbereitet, die Rolle der Schreinpriesterin ihres Dorfes zu \u00fcbernehmen, und durchlitt als junges M\u00e4dchen alle m\u00f6glichen Formen strapazi\u00f6sen \u201eTrainings\u201c, um ihrer h\u00f6chsten Berufung zu folgen. Leider beinhaltete der letzte Ritus zur \u201eReinigung\u201c ihrer Seele ein geheimnisvolles Ritual, das au\u00dfer Kontrolle geriet und Yuki mit einer Art traumabedingter Amnesie zur\u00fccklie\u00df. In jener schicksalhaften Nacht floh Yuki panisch aus dem Dorf und schaffte es, sich nach Arkham durchzuschlagen, wo sie schlie\u00dflich ein Leben im Dienst der Armen und Entrechteten der Stadt aufbaute. Ihr g\u00fctiges und geduldiges Wesen zieht die Gequ\u00e4lten wie ein Magnet an, und w\u00e4hrend ihre guten Taten mehr werden, kehren auch die Erinnerungen an das, was sie zur\u00fcckgelassen hat, allm\u00e4hlich zur\u00fcck \u2026",
+                "subtitle": "Die Priesterin",
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbau-Optionen:</b>",
+                        "W\u00e4chterkarten (<guardian>) Stufe 0-5, Mystikerkarten (<mystic>) Stufe 0-1, <t>Gesegnet</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5."
+                    ],
+                    [
+                        "<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe):",
+                        "Apotheose, Die Nachfolge, 1 zuf\u00e4llige Grundschw\u00e4che."
+                    ],
+                    [
+                        "<b>Zus\u00e4tzliche Einschr\u00e4nkungen:</b>",
+                        "Keine <t>Waffe</t>-Karten."
+                    ]
+                ]
+            }
+        },
+        "24b39fee-dc99-4ce5-a3e3-0322c4f2c33d": {
+            "name": "Parabellum",
+            "front": {
+                "text": "<reaction> Nachdem eine Fertigkeitsprobe in einer Kampf-Aktion w\u00e4hrend deines Zuges misslungen ist, ersch\u00f6pfe Parabellum: Du erh\u00e4ltst eine zus\u00e4tzliche Aktion in diesem Zug, die nur dazu genutzt werden kann zu k\u00e4mpfen oder einen Gegner in einen Kampf zu verwickeln. ",
+                "flavor_text": "Wer Frieden will, muss sich auf den Krieg vorbereiten.",
+                "traits": "Ritual. Geist."
+            },
+            "back": {}
+        },
+        "f0ee512e-45d9-4600-bdf5-114966ad9693": {
+            "name": "<unique>Iscariots Apokryphen",
+            "front": {
+                "text": "<action> Falls Iscariots Apokryphen spielbereit ist: <b>Ermitteln.</b> Du erh\u00e4ltst +1 <intellect> f\u00fcr diese Ermittlung. Falls diese Ermittlung erfolgreich ist und dabei ein <blessing>- oder <elder_sign>-Marker abgehandelt wurde, entdecke einen zus\u00e4tzlichen Hinweis an deinem Ort. Als zus\u00e4tzliche Kosten, um diese F\u00e4higkeit zu initiieren, darfst du Iscariots Aprokryphen ersch\u00f6pfen, um dem Chaosbeutel einen <blessing>-Marker hinzuzuf\u00fcgen.",
+                "flavor_text": "Selbst die gro\u00dfartigste Geschichte, die je erz\u00e4hlt wurde, hat zwei Seiten.",
+                "subtitle": "Das verlorene Evangelium",
+                "traits": "Gegenstand. Buch. Gesegnet. "
+            },
+            "back": {}
+        },
+        "50ebb7b1-9a8b-4af7-887c-63d57d7556ec": {
+            "name": "Unbezwingbar",
+            "front": {
+                "text": "Trage Unbezwingbar nur zu einer Fertigkeitsprobe bei, die du durchf\u00fchrst.\nFalls diese Probe misslingt, kannst du 1 direkten Schaden nehmen, um die Probe erneut zu versuchen <i>(nachdem alle Effekte der fehlgeschlagenen Probe abgehandelt wurden)</i>, und dabei Unbezwingbar daf\u00fcr einsetzen.",
+                "flavor_text": "\u201eMut bedeutet einfach, dass man vor den richtigen Dingen Angst hat.\u201c",
+                "traits": "Angeboren. Entwickelt."
+            },
+            "back": {}
+        },
+        "77713a6b-fe9c-40f3-83a2-a48d082c7655": {
+            "name": "Martyrium",
+            "front": {
+                "text": "Schnell. Spiele diese Karte nur, wenn einem anderen Ermittler Schaden und/oder Horror zugef\u00fcgt werden w\u00fcrde, der diesen besiegen w\u00fcrde. Hebe diesen Schaden und/oder Horror auf. F\u00fcr jeden Punkt an Schaden und/oder Horror der aufgehoben wurde darfst du dem Chaosbeutel 1<blessing>-Marker hinzuf\u00fcgen. Du wirst besiegt.",
+                "flavor_text": "Du hast immer noch etwas, was du verlieren kannst.",
+                "traits": "Taktic. Gesegnet."
+            },
+            "back": {}
+        },
+        "cf5c51a4-2eae-4620-b6d8-86638691dd20": {
+            "name": "Makoto Miyazaki",
+            "front": {
+                "text": "Verringere die Schwierigkeit von Fertigkeitsproben w\u00e4hrend Verhandlungen um 1.\n<reaction> Nachdem ein Nicht-<t>Elite</t>-Gegner ins Spiel kommt: L\u00f6se dich von diesem Gegner, falls m\u00f6glich. Der Gegner kann dich bis zum Ende der Runde nicht in einen Kampf verwickeln. (Maximal einmal pro Runde.)\n<elder_sign>-Effekt: +X. X ist die Zahl der Gegner im Spiel.",
+                "flavor_text": "\u201eDie Wahrheit wird dich befreien.\u201c",
+                "subtitle": "Die Kurtisane",
+                "traits": "K\u00fcnstler. Salonl\u00f6we."
+            },
+            "back": {
+                "text": "<b>Deckgr\u00f6\u00dfe:</b> 30\n<b>Deckbau-Optionen:</b> Sucherkarten (<seeker>) Stufe 0-5, \u00dcberlebenderkarten (<survivor>) Stufe 0-1, <t>Patron</t>-Karten Stufe 0-5, <t>Schachzug</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5.\n<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Das unendliche Okulus, Porzellan-Trugbild, 1 zuf\u00e4llige Grundschw\u00e4che.\n<b>Zus\u00e4tzliche Einschr\u00e4nkungen:</b> Keine Nicht-<t>Patron</t>-Vorteilskarten, die einen Verb\u00fcndeter-Slot ben\u00f6tigen.",
+                "flavor_text": "Makoto hat ein kleines Verm\u00f6gen angeh\u00e4uft, indem sie ihre Dienste als \u201eBegleiterin\u201c an die zahlungskr\u00e4ftige Elite von Arkham vermietet. Obwohl ihre Fachkenntnisse in Massagetherapie und exotischen Musikinstrumenten beachtlich sind, wird sie bei weitem am meisten wegen ihrer Einsicht als Beraterin und einf\u00fchlsame Vertraute empfohlen. Doch ihre unheimliche F\u00e4higkeit, in die Gedanken der Reichen und M\u00e4chtigen zu blicken und die wahren W\u00fcnsche ihrer Herzen zu erahnen, ist kein blo\u00dfer Salonkunsttrick; als ihre Gro\u00dfmutter starb, erbte Makoto eine Reihe von Familienerbst\u00fccken, darunter einen seltsamen Zierkopfschmuck \u2026 Als sie ihn zum ersten Mal aufsetzte, stellte Makoto fest, dass sie pl\u00f6tzlich in der Lage war, eine Ebene der Realit\u00e4t wahrzunehmen, die den meisten verborgen bleibt. So viele lange N\u00e4chte hat sie damit verbracht, in diesen Abgrund zu blicken, dass er nun ebenfalls begonnen hat, in sie zur\u00fcckzublicken \u2026",
+                "entries": [
+                    [
+                        "<b>Deckgr\u00f6\u00dfe:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbau-Optionen:</b>",
+                        "Sucherkarten (<seeker>) Stufe 0-5, \u00dcberlebenderkarten (<survivor>) Stufe 0-1, <t>Patron</t>-Karten Stufe 0-5, <t>Schachzug</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5."
+                    ],
+                    [
+                        "<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe):",
+                        "Das unendliche Okulus, Porzellan-Trugbild, 1 zuf\u00e4llige Grundschw\u00e4che."
+                    ],
+                    [
+                        "<b>Zus\u00e4tzliche Einschr\u00e4nkungen:</b>",
+                        "Keine Nicht-<t>Patron</t>-Vorteilskarten, die einen Verb\u00fcndeter-Slot ben\u00f6tigen."
+                    ]
+                ]
+            }
+        },
+        "0445da10-3200-424b-87d8-b32e4ef90cde": {
+            "name": "<unique>Kasumi Katsura",
+            "front": {
+                "text": "Du erh\u00e4ltst +1 <agility>.\n<action> Falls du nicht mit einem Gegner in einen Kampf verwickelt bist, ersch\u00f6pfe Kasumi Katsura: F\u00fcge einem Gegner an deinem oder einem verbundenen Ort 1 Schaden zu.",
+                "flavor_text": "\u201eIch werde die Ehre meines Hauses wiederherstellen, koste es, was es wolle.\u201c",
+                "subtitle": "Letzter Ranger von August",
+                "traits": "Verb\u00fcndeter. J\u00e4ger. Gesegnet."
+            },
+            "back": {}
+        },
+        "7cc5dd71-8417-4b19-b0cd-42cee41c71e8": {
+            "name": "Grundprinzipien",
+            "front": {
+                "text": "Schnell. Spiele diese Karte nachdem deinem Ermittler Schaden zugewiesen wurde.\nEntdecke 1 Hinweis an deinem Ort.",
+                "flavor_text": "Der Tod ist f\u00fcr jeden unvermeidlich.",
+                "traits": "Erkenntnis."
+            },
+            "back": {}
+        },
+        "f0f3f538-e89d-4907-b132-56cb20235e26": {
+            "name": "Nur ein Weg es rauszufinden",
+            "front": {
+                "text": "Spiele diese Karte nur als deine erste Aktion.\nW\u00e4hle einen noch nicht enth\u00fcllten Ort, der mit einem bereits enth\u00fcllten Ort verbunden ist, und bewege dich dorthin. Befindet sich an diesem Ort mindestens ein Hinweis, kannst du eine Ermitteln-Aktion durchf\u00fchren. Diese Aktion l\u00f6st keine Gelegenheitsangriffe aus.",
+                "flavor_text": "Das Gl\u00fcck ist mit den Mutigen.",
+                "traits": "Geist. Mutig."
+            },
+            "back": {}
+        },
+        "a714c1ad-75f0-4808-898f-613e490cd516": {
+            "name": "Symbolisches Enigma",
+            "front": {
+                "text": "Ermittler an deinem Ort ziehen insgesamt X Karten <i>(du entscheidest, wie viele Karten jeder Ermittler zieht)</i>. X entspricht dem Schleierwert deines aktuellen Orts.",
+                "flavor_text": "\u201eDer Verstand deines Feindes h\u00fcllt seine Geheimnisse in Symbole.\u201c",
+                "traits": "Erkenntnis. Okkult."
+            },
+            "back": {}
+        },
+        "ebad037e-76b6-40d1-9f4e-b73af0d67e8c": {
+            "name": "Visuelle Berechnung",
+            "front": {
+                "text": "<b>Ermitteln.</b> W\u00e4hle den verbundenen Ort mit den meisten Hinweisen und f\u00fcge den Schleierwert des gew\u00e4hlten Ortes zum Schleierwert deines Ortes f\u00fcr diese Probe hinzu. Falls die Probe gelingt, entdecke einen zus\u00e4tzlichen Hinweis von einem benachbarten Ort.",
+                "flavor_text": "Alles, was du brauchst, ist eine andere Perspektive.",
+                "traits": "Erkenntnis"
+            },
+            "back": {}
+        },
+        "96356f97-731a-4406-816c-f7104c1af6db": {
+            "name": "Aneignen und anpassen",
+            "front": {
+                "text": "Aneignen und anpassen erh\u00e4lt f\u00fcr jeden Gegner am Ort des ausf\u00fchrenden Ermittlers und an benachbarten Orten ein <wild>.\nNicht-<t>Elite</t>-Gegner am Ort des Ermittlers verlieren Zur\u00fcckschlagen und Alarmiert f\u00fcr  die Dauer der Fertigkeitsprobe.",
+                "flavor_text": "\u201eNiemand wei\u00df so gut, was es hei\u00dft, gut zu jagen, wie der Gejagte.\u201c",
+                "traits": "Trainiert."
+            },
+            "back": {}
+        },
+        "af4f33b8-19d0-45dc-a7de-77d7d4438703": {
+            "name": "Vorreiter",
+            "front": {
+                "text": "Maximal 1 <t>Haltung</t> pro Ermittler. \n<reaction> Sobald ein Gegner dich angreifen w\u00fcrde, platziere 1 deiner Hinweise auf deinem Ort und ersch\u00f6pfe <name>: Hebe den Angriff auf.",
+                "flavor_text": "\u201eWas kann schon Schlimmes passieren?\u201c",
+                "traits": "Haltung."
+            },
+            "back": {}
+        },
+        "299d41a9-e495-4ba6-b12a-10382cf198f3": {
+            "name": "Autopsie vor Ort",
+            "front": {
+                "text": "Schnell. Spiele diese Karte nachdem ein Gegner an deinem Ort besiegt wurde.\n<b>Ermitteln.</b> Du erh\u00e4ltst +X <intellect> f\u00fcr diese Ermittlung. Falls die Probe gelingt, darfst du bis zu X zus\u00e4tzliche Hinweise an deinem Ort entdecken. X ist der Horror-Wert des besiegten Gegners. ",
+                "flavor_text": "\u201eIch brauche nur ein scharfes Messer und etwas Riechsalz \u2026\u201c",
+                "traits": "Erkenntnis. Wissenschaft."
+            },
+            "back": {}
+        },
+        "420e6362-2402-46a5-8a2b-de24eeac4102": {
+            "name": "Grund zum Glauben",
+            "front": {
+                "text": "<reaction> Nachdem du mindestens 1 <blessing>- oder <elder_sign>-Marker w\u00e4hrend einer erfolgreichen Ermittlung abgehandelt hast, ersch\u00f6pfe <name>: Entdecke einen zus\u00e4tzlichen Hinweis an deinem Ort.",
+                "flavor_text": "Manche Dinge lassen sich nicht rational erkl\u00e4ren.",
+                "traits": "Paradox. Gesegnet."
+            },
+            "back": {}
+        },
+        "8751960f-d1ba-482f-9153-210c20e5cb6a": {
+            "name": "Methodik hinter dem Wahnsinn",
+            "front": {
+                "text": "Schnell. Verwendungen (2 Geheimnisse).\n<reaction> Nachdem du deinem Ermittler eine beliebige Menge an Horror zugewisen hast: Platziere entsprechend viele Geheimnisse auf <name>.\n<free> Gib X Geheimnisse aus und ersch\u00f6pfe <name>: Du erh\u00e4ltst +X f\u00fcr diese Fertigkeitsprobe.",
+                "flavor_text": "\u201eNein, ich wei\u00df nicht, was ich da tue \u2026<br>Genau deshalb wird es ja klappen.\u201c",
+                "traits": "Talent."
+            },
+            "back": {}
+        },
+        "bc612de7-114d-420f-9588-4c3b28810716": {
+            "name": "Symbolisches Enigma",
+            "front": {
+                "text": "Schnell. Spiele diese Karte nur in deinem Zug. Jeder Ermittler an deinem Ort darf bis zu X Karten ziehen. X entspricht dem Schleierwert deines aktuellen Orts.\n\n",
+                "flavor_text": "\u201eDer Verstand deines Feindes h\u00fcllt seine Geheimnisse in Symbole.\u201c",
+                "traits": "Erkenntnis. Okkult."
+            },
+            "back": {}
+        },
+        "a8eec7fd-bd7b-4eb9-9966-b536d910afef": {
+            "name": "Grundprinzipien",
+            "front": {
+                "text": "Schnell. Spiele diese Karte nachdem deinem Ermittler Schaden zugewiesen wurde.\nEntdecke 2 Hinweis an deinem Ort.",
+                "flavor_text": "Der Tod ist f\u00fcr jeden unvermeidlich.",
+                "traits": "Erkenntnis."
+            },
+            "back": {}
+        },
+        "06580f6a-af7d-454e-bed5-6bb21c2c82db": {
+            "name": "Schreckliche Symmetrie",
+            "front": {
+                "text": "Schnell. Spiele diese Karte nur wenn dein Zug beginnt.\nLege alle Nicht-Schw\u00e4che-Karten von deiner Hand ab. Bis zum Ende der Runde darfst du andere Ereigniskarten aus deinem Ablagestapel so ausspielen, als bef\u00e4nden sie sich in deiner Hand. Wenn du dies tust und sie abgelegt werden m\u00fcssten, mische sie stattdessen in dein Deck.",
+                "flavor_text": "Nichts geht jemals zu Ende.",
+                "traits": "Erkenntnis. Geist."
+            },
+            "back": {}
+        },
+        "3b041b46-0623-4f09-8107-90c7fb807b5f": {
+            "name": "<unique>Geometrische Einheit",
+            "front": {
+                "text": "<reaction> Nachdem du erfolgreich ermittelt hast, ersch\u00f6pfe Geometrische Einheit: Entdecke einen zus\u00e4tzlichen Hinweis von einem beliebigen enth\u00fcllten Ort mit einem geringeren Schleierwert als allen Orten, von denen du in diesem Zug bereits Hinweise entdeckt hast.",
+                "flavor_text": "\u201eDer Quellcode des Universums beschreibt ein rein geometrisches Operationssystem.\u201c",
+                "subtitle": "Das letzte Theorem",
+                "traits": "Weissagung. Okkult."
+            },
+            "back": {}
+        },
+        "70469742-4ac3-4ff8-9704-751d74b4d584": {
+            "name": "Hideki Honda",
+            "front": {
+                "text": "<free>: F\u00fcge einem Gegner an deinem Ort, der nicht mit dir in einen Kampf verwickelt ist, 1 Schaden zu. (Maximal einmal pro Runde)\n<elder_sign>-Effekt: +2. Du darfst 1 Nicht-<t>Elite</t>-Gegner an deinem Ort automatisch entkommen.",
+                "flavor_text": "\u201eAuch wenn ich vielleicht aus dem Schatten zuschlage, glaube nicht, dass mir der Mut fehlt, mich ins Licht zu stellen.\u201c",
+                "subtitle": "Der Shinobi",
+                "traits": "J\u00e4ger. Syndikat."
+            },
+            "back": {
+                "text": "<b>Deckgr\u00f6\u00dfe:</b> 30\n<b>Deckbau-Optionen:</b> Schurkenkarten (<rogue>) Stufe 0-5, W\u00e4chterkarten (<guardian>) Stufe 0-1, <t>Taktik</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5.\n<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Nabiki Nagata, Schuldgef\u00fchle des \u00dcberlebenden, 1 zuf\u00e4llige Grundschw\u00e4che.\n<b>Zus\u00e4tzliche Einschr\u00e4nkungen:</b> Keine <t>Feuerwaffe</t>-Vorteilskarten.",
+                "flavor_text": "Als einziges \u00fcberlebendes Mitglied eines uralten Ordens geheimer Assasine, der nach einer gescheiterten \u201efeindlichen \u00dcbernahme\u201c durch das Syndikat fast vollst\u00e4ndig ausgel\u00f6scht wurde, stand Hideki vor der Wahl zwischen einem langsamen und qualvollen Tod und einem Leben in Leibeigenschaft gegen\u00fcber seinen neuen kriminellen Vorgesetzten. Auch wenn er die Auftr\u00e4ge, die ihm das Syndikat \u00fcblicherweise erteilt, als seiner Ehre und seinem Talent nicht w\u00fcrdig erachtet, hat sich Arkham als wertvolles Trainingsgel\u00e4nde erwiesen, um sein Handwerk weiter zu verfeinern. Hideki sieht seine neuen Auftraggeber inzwischen nur noch als Mittel zum Erreichen eines ganz bestimmten Ziels; w\u00e4hrend er sich einen Ruf als r\u00fccksichtsloser und effizienter K\u00e4mpfer aufbaut, r\u00fcckt sein Clan der R\u00fcckkehr zu seinem fr\u00fcheren Ruhm immer n\u00e4her.",
+                "entries": [
+                    [
+                        "<b>Deckgr\u00f6\u00dfe:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbau-Optionen:</b>",
+                        "Schurkenkarten (<rogue>) Stufe 0-5, W\u00e4chterkarten (<guardian>) Stufe 0-1, <t>Taktik</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5."
+                    ],
+                    [
+                        "<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe):",
+                        "Nabiki Nagata, Schuldgef\u00fchle des \u00dcberlebenden, 1 zuf\u00e4llige Grundschw\u00e4che."
+                    ],
+                    [
+                        "<b>Zus\u00e4tzliche Einschr\u00e4nkungen:</b>",
+                        "Keine <t>Feuerwaffe</t>-Vorteilskarten."
+                    ]
+                ]
+            }
+        },
+        "fafe7ce2-bade-40ff-80e6-5b82a6b08ef2": {
+            "name": "<unique>K\u00fcnstliche Hand",
+            "front": {
+                "text": "Dauerhaft. Permanent. Kann nur beim Deckbau erworben werden.\nSobald du K\u00fcnstliche Hand erwirbst, erleidest du 2 k\u00f6rperliche Trauma.\nDu hast 3 zus\u00e4tzliche Handslots, die nur f\u00fcr <t>Gegenstand</t>-Vorteilskarten verwendet werden k\u00f6nnen, die genau 1 Handslot ben\u00f6tigen.",
+                "flavor_text": "Die \"Hand-Erweiterung\" enth\u00e4lt mehrere versteckte F\u00e4cher.",
+                "subtitle": "Entwaffnet und gef\u00e4hrlich",
+                "traits": "Gegenstand. Prothese."
+            },
+            "back": {}
+        },
+        "5140d76b-e248-4141-abb9-a4fe50f430c2": {
+            "name": "<unique>\u201cBanzai\" Stiletto",
+            "front": {
+                "text": "Du erh\u00e4ltst +1 <combat>.\n<reaction> Nachdem du einen Gegner besiegt hast, ersch\u00f6pfe \"Banzai\" Stiletto: Erhalte 1 Ressource.",
+                "flavor_text": "\u201eWas sagen wir den Steuereintreibern, Jungs? Heute nicht!\u201c",
+                "subtitle": "Gewiefte Schmugglerin",
+                "traits": "Verb\u00fcndeter. Segler. Krimineller."
+            },
+            "back": {}
+        },
+        "2e1ee806-481a-4478-9bbe-00160739691a": {
+            "name": "Fluchtseil",
+            "front": {
+                "text": "<free> Falls du nich mit einem Gegner in einen Kampf verwickelt bist, ersch\u00f6pfe <name>: W\u00e4hle eine enth\u00fcllten benachbarten Ort und f\u00fchre eine <agility>-Probe (X) durch, wobei X der Schleierwert des ausgew\u00e4hlten Orts ist. Falls die Probe gelingt, bewege sich zum ausgew\u00e4hlten Ort.",
+                "flavor_text": "\u201eDas wird schon gut gehen. Schau nur nicht nach unten.\u201c",
+                "traits": "Gegenstand. Werkzeug."
+            },
+            "back": {}
+        },
+        "284c5580-e73f-4234-8459-989ae0fa0fcd": {
+            "name": "Geschliffene Shuriken",
+            "front": {
+                "text": "Anwendungen (5 Munition). Falls keine Munition auf <name> liegt, lege es ab.\n<action> Falls du nicht mit einem Gegner in einen Kampf verwickelt bist, gib 1 Munition aus: <b>Kampf.</b> F\u00fcge deinen <agility>-Wert zu deinem Fertigkeitswert f\u00fcr diesen Angriff hinzu. Falls die Probe um 2 oder mehr erfolgreich ist, f\u00fcgt dieser Angriff +1 Schaden zu.",
+                "flavor_text": "Bevor ihr Einsatz verboten wurde und diese Kunst weitgehend in Vergessenheit geriet, wurden \u00fcber f\u00fcnfzig verschiedene Schulen des Shurikenjutsu praktiziert.",
+                "traits": "Gegenstand. Werkzeug. Waffe. Fernkampf. Ilegal."
+            },
+            "back": {}
+        },
+        "708d3c69-2d92-4461-91a3-260102ba6919": {
+            "name": "Zum Tode verurteilt",
+            "front": {
+                "text": "Schnell. Spiele diese Karte nur, wenn ein Nicht-<t>Elite</t>-Gegner ins Spiel kommt. H\u00e4nge <name> an diesen Gegner an. Maximal 1 pro Gegner.\nDieser Gegner erh\u00e4lt \u20131 Kampf. \n<reaction> Nachdem du diesen Gegner besiegt hast: Erhalte 2 Ressourcen.",
+                "flavor_text": "Einen ahnungslosen Gegner anzugreifen ist nur dann unehrenhaft, wenn man daf\u00fcr nicht bezahlt wird.",
+                "traits": "Aufgabe. Illegal."
+            },
+            "back": {}
+        },
+        "fd4c0eb7-72aa-4688-b3e4-ba5500efe690": {
+            "name": "Mein Gl\u00fcck selbst gestalten",
+            "front": {
+                "text": "Bevor die Chaosmarker f\u00fcr diese Probe abgehandelt werden, kann der ausf\u00fchrende Ermittler einen enth\u00fcllten Chaosmarker in den Chaosbeutel zur\u00fccklegen und zwei weitere Chaosmarker enth\u00fcllen. Ist diese Probe erfolgreich, erh\u00e4lt der ausf\u00fchrende Ermittler 2 Ressourcen.",
+                "flavor_text": "\u201eLest das und heult euch die Augen aus!\u201c",
+                "traits": "Gl\u00fccksfall. Schachzug."
+            },
+            "back": {}
+        },
+        "005a00e2-4d0a-4b31-b8b0-708a1a2ac530": {
+            "name": "Holzkohleschmiermittel",
+            "front": {
+                "text": "<reaction> Als zus\u00e4tzliche Kosten, um eine Kampf-Aktion mit einer <t>Nahkampf</t>-Vorteilskarte, die du kontrollierst auszuf\u00fchre, ersch\u00f6pfe Holzkohleschmiermittel: Dieser Angriff f\u00fcgt +1 Schaden zu. ",
+                "flavor_text": "\u201eEin mit Schie\u00dfpulver gef\u00fcllter Handschuh kann ein m\u00e4chtiges Werkzeug sein \u2026 in den richtigen H\u00e4nden.\u201c",
+                "traits": "Gegenstand. Werkzeug."
+            },
+            "back": {}
+        },
+        "9c5c69b0-8a2c-4173-b027-214194ab3879": {
+            "name": "Salz in die Wunde streuen",
+            "front": {
+                "text": "Maximal 1 <t>Haltung</t> pro Ermittler. \n<reaction> Nachdem du einem Nicht-<t>Elite</t>-Gegner w\u00e4hrend einer Kampf-Aktion Schaden zugef\u00fcgt hast, ersch\u00f6pfe <name>: Entkomme diesem Gegner automatisch.",
+                "flavor_text": "Manchmal geht es einfach nur darum, eine gewisse Botschaft zu vermitteln.",
+                "traits": "Haltung."
+            },
+            "back": {}
+        },
+        "8192edcc-a23c-4595-adbb-c42a1ee901b9": {
+            "name": "Verborgene Klinge",
+            "front": {
+                "text": "Anwendungen (3 Geheimnisse). \n<free> Gib 1 Geheimnis aus und ersch\u00f6pfe <name>: Kampf. Dieser Angriff verwendet <agility> anstatt <combat>. Dieser Angriff darf nur gegen einen Gegner ausgef\u00fchrt werden, der nicht mit dir in einen Kampf verwickelt ist, und ist automatisch erfolgreich, wenn der Gegner nur noch 1 verbliebene Ausdauer hat.",
+                "flavor_text": "\u201eIch bin unbewaffnet, siehst du? Schau doch mal genauer hin \u2026\u201c",
+                "traits": "Gegenstand. Werkzeug. Illegal."
+            },
+            "back": {}
+        },
+        "183289ca-36e7-453a-9dac-ee0f1cb4650c": {
+            "name": "Zum Tode verurteilt",
+            "front": {
+                "text": "Schnell. Spiele diese Karte in einem beliebigen <free>-Fenster. H\u00e4nge <name> an einen Nicht-<t>Elite</t>-Gegner an, der nicht in einen Kampf verwickelt ist. Dieser Gegner erh\u00e4lt \u20131 Kampf und -1 Entkommen. \n<reaction> Nachdem dieser Gegner abgelegt wurde: Erhalte 2 Ressourcen.",
+                "flavor_text": "Einen ahnungslosen Gegner anzugreifen ist nur dann unehrenhaft, wenn man daf\u00fcr nicht bezahlt wird.",
+                "traits": "Aufgabe. Ilegal."
+            },
+            "back": {}
+        },
+        "848052cd-6b87-473d-9aff-058e41b39bb4": {
+            "name": "Spiegelbild",
+            "front": {
+                "text": "Schnell. Spiele diese Karte nur sobald dein Zug beginnt.\nEcho 1 <i>(bis zum Ende der Runde kann jeder Ermittler <name> aus dem Ablagestapel des Besitzers einmal spielen.)</i> \nBis zum Ende der Runde darfst du, wann immer du eine Basisaktion f\u00fcr Kampf, Entkommen oder Bewegen verwendest, diese Aktion ein weiteres Mal ausf\u00fchren <i>(es sei denn, diese Aktion wurde durch diesen Effekt genommen)</i>.",
+                "flavor_text": "Glaube nicht alles, was du siehst.",
+                "traits": "Trick. Mutig. Tandem."
+            },
+            "back": {}
+        },
+        "a0e10481-fc0c-4f5d-9885-3e8ee8e06d75": {
+            "name": "<unique>Saphir und Lapis",
+            "front": {
+                "text": "<action> Falls Saphir und Lapis spielbereit ist: <b>Kampf.</b> F\u00fcge deinen <agility>-Wert zu deinem Fertigkeitswert f\u00fcr diesen Angriff hinzu. Falls die Probe um 2 oder mehr gelingt, f\u00fcgt dieser Angriff +1 Schaden zu und du kannst Saphir und Lapis ersch\u00f6pfen um erneut zu k\u00e4mpfen. \n<reaction> Nachdem du von einem Gegner in der Gegnerphase angegriffen wurdest, ersch\u00f6pfe Saphir und Lapis: <b>Kampf.</b> F\u00fcge deinen <agility>-Wert zu deinem Fertigkeitswert f\u00fcr diesen Angriff hinzu. Dieser Angriff richtet sich auf den angreifenden Gegner.",
+                "flavor_text": "",
+                "subtitle": "Zwei Seelen",
+                "traits": "Gegenstand. Relikt. Waffe. Nahkampf."
+            },
+            "back": {}
+        },
+        "fc2e1bb8-c943-431c-8f00-468aa7513463": {
+            "name": "Komplette \u00dcbersicht",
+            "front": {
+                "text": "<for> Am Ende deines Zuges: F\u00fchre eine <intellect>-Probe (X) durch, wobei X die Anzahl der Marker ist, die auf <name> versiegelt sind. Falls die Probe misslingt, lege alle hier versiegelten Marker zur\u00fcck in den Chaosbeutel.\n<reaction> Sobald ein Nicht-<auto_fail>-Chaosmarker zur\u00fcck in den Chaosbeutel gelegt werden w\u00fcrde, falls es nicht von einer Karte entfernt wurde, ersch\u00f6pfe <name>: Versiegel diesen Marker stattdessen hier.",
+                "flavor_text": "\u201eDas ist kein Gl\u00fccksspiel! Das ist einfach nur \u2026 Z\u00e4hlen.\u201c",
+                "subtitle": "Mitz\u00e4hlen",
+                "traits": "Talent. Illegal."
+            },
+            "back": {}
         }
     },
     "guides": [
@@ -3725,7 +4210,20 @@
             "path": "guide.html",
             "name": "Guide",
             "id": "043e57fb-67b5-4302-b525-2a306e582c3c",
-            "sections": []
+            "sections": [
+                {
+                    "id": "876bf067",
+                    "type": "cover",
+                    "name": "Titelseite",
+                    "markdown": ""
+                },
+                {
+                    "id": "1e262926",
+                    "type": "intro",
+                    "name": "Einleitung",
+                    "markdown": "# Campaign Tag Line\n:::story\nAwesome quote goes here\n:::right\n\\- Author, book\n:::\n:::\n\n[project:name] is a game for 1-4 investigators and their pets, to undertake a mission to find some missing girls, and maybe avoid getting bit in the process. Thread carefully.\n\n*[project:name]* is a fan made campaign for *Arkham Horror: The Card\nGame* for 1\u20134 players. *[project:name]* contains [project:number_of_scenarios] scenarios: [project:scenario_names]. Each of these scenarios may also be played on its own in Standalone Mode.\n\n## Contents\n:::toc\n:::\n\n## Expansion Icon\nThe cards in the *[project:name]* campaign expansion can be identified by this symbol before each cards's collector number:\n:::center\n[project:icon]\n:::\n\n## Campaign Setup\nTo set up the [project:name] campaign, perform the following steps in order.\n\n**1\\. Choose investigator(s).**\n\n**2\\. Each player assembles his or her investigator deck.**\n\n**3\\. Choose difficulty level.**\n\n**4\\. Assemble the campaign chaos bag.**\n\n:::indent\n<bullet> **Easy (I want to experience the story):**  \n+1, +1, 0, 0, 0, \u20131, \u20131, \u20131, \u20132, \u20132, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>  \n<bullet> **Standard (I want a challenge):**  \n+1, 0, 0, \u20131, \u20131, \u20131, \u20132, \u20132, \u20133, \u20134, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>  \n<bullet> **Hard (I want a true nightmare):**  \n0, 0, 0, \u20131, \u20131, \u20132, \u20132, \u20133, \u20133, \u20134, \u20135, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>  \n<bullet> **Expert (I want Arkham Horror):**  \n0, \u20131, \u20131, \u20132, \u20132, \u20133, \u20133, \u20134, \u20134, \u20135, \u20136, \u20138, <skull>, <skull>, <cultist>, <auto_fail>, <elder_sign>\n:::\n\nYou're ready to begin at the **Prologue**.\n"
+                }
+            ]
         }
     ]
 }

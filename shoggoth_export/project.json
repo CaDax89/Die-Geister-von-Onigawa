@@ -278,7 +278,11 @@
                     "guardian"
                 ],
                 "illustration": "./images/image-removebg-preview (1).png",
-                "illustrator": "Illus. Li Miao"
+                "illustrator": "Illus. Li Miao",
+                "willpower": "4",
+                "intellect": "4",
+                "combat": "1",
+                "agility": "3"
             },
             "back": {
                 "type": "investigator_back",
@@ -365,7 +369,11 @@
                     "seeker"
                 ],
                 "illustration": "./images/geisha3-trans.png",
-                "illustrator": "Illus. G. Host Lee"
+                "illustrator": "Illus. G. Host Lee",
+                "willpower": "2",
+                "intellect": "4",
+                "combat": "2",
+                "agility": "4"
             },
             "back": {
                 "type": "investigator_back",
@@ -445,11 +453,16 @@
                     "rogue"
                 ],
                 "illustration": "./images/shinobi-2.png",
-                "illustrator": "Illus. Anarch Fox"
+                "illustrator": "Illus. Anarch Fox",
+                "illustration_pan_x": -19.0,
+                "illustration_pan_y": 23.0,
+                "illustration_scale": 3.619
             },
             "back": {
                 "type": "investigator_back",
-                "illustration": "./images/shinobi.jpg"
+                "illustration": "./images/shinobi.jpg",
+                "illustration_pan_x": -2.0,
+                "illustration_pan_y": -66.0
             },
             "project_number": "7",
             "id": "70469742-4ac3-4ff8-9704-751d74b4d584"
@@ -777,7 +790,10 @@
                 ],
                 "icons": "Q",
                 "illustration": "./images/hou-china-2.jpg",
-                "illustrator": "Illus. Hou China"
+                "illustrator": "Illus. Hou China",
+                "illustration_pan_x": -1574.0,
+                "illustration_pan_y": -306.0,
+                "illustration_scale": 1.428
             },
             "back": {
                 "type": "player"
@@ -803,7 +819,13 @@
                 ],
                 "icons": "WI",
                 "illustration": "./images/sacredtext.png",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "slots": [
+                    "hand"
+                ],
+                "illustration_pan_x": -48.0,
+                "illustration_pan_y": 269.0,
+                "illustration_scale": 1.182
             },
             "back": {
                 "type": "player"
@@ -824,7 +846,10 @@
                 ],
                 "icons": "WCA",
                 "illustration": "./images/tianqi-wang-bomb-bear-kesulu.jpg",
-                "illustrator": "Illus. Tianqi Wang"
+                "illustrator": "Illus. Tianqi Wang",
+                "illustration_pan_x": -1113.0,
+                "illustration_pan_y": -355.0,
+                "illustration_scale": 1.785
             },
             "back": {
                 "type": "player"
@@ -848,7 +873,12 @@
                 ],
                 "icons": "WC",
                 "illustration": "./images/hou-china-6.jpg",
-                "illustrator": "Illus. Hou China"
+                "illustrator": "Illus. Hou China",
+                "slots": [
+                    "arcane"
+                ],
+                "illustration_pan_x": -66.0,
+                "illustration_pan_y": 237.0
             },
             "back": {
                 "type": "player"
@@ -870,7 +900,10 @@
                 ],
                 "icons": "WC",
                 "illustration": "./images/florent-lebrun-shrine-path.jpg",
-                "illustrator": "Illus. Florent Lebrun"
+                "illustrator": "Illus. Florent Lebrun",
+                "illustration_pan_x": -1165.0,
+                "illustration_pan_y": 3.0,
+                "illustration_scale": 0.959
             },
             "back": {
                 "type": "player"
@@ -898,7 +931,10 @@
                 ],
                 "icons": "WC",
                 "illustration": "./images/george-redreev-08.jpg",
-                "illustrator": "Illus. George Redreev"
+                "illustrator": "Illus. George Redreev",
+                "illustration_pan_x": -956.0,
+                "illustration_pan_y": 169.0,
+                "illustration_scale": 0.713
             },
             "back": {
                 "type": "player"
@@ -920,7 +956,10 @@
                 ],
                 "icons": "WA",
                 "illustration": "./images/rudy-parfaite-sevenninja-lyinginambush-03.jpg",
-                "illustrator": "Illus. Rudy Parfaite"
+                "illustrator": "Illus. Rudy Parfaite",
+                "illustration_pan_x": -143.0,
+                "illustration_pan_y": -218.0,
+                "illustration_scale": 1.567
             },
             "back": {
                 "type": "player"
@@ -943,7 +982,9 @@
                 ],
                 "icons": "WC",
                 "illustration": "./images/z-w-gu-12web.jpg",
-                "illustrator": "Illus. Gu Zheng Wei"
+                "illustrator": "Illus. Gu Zheng Wei",
+                "illustration_pan_x": -31.0,
+                "illustration_pan_y": 242.0
             },
             "back": {
                 "type": "player"
@@ -965,7 +1006,10 @@
                 ],
                 "icons": "WQ",
                 "illustration": "./images/david-benzal-batlle-sam.jpg",
-                "illustrator": "Illus. David Benzai"
+                "illustrator": "Illus. David Benzai",
+                "illustration_pan_x": -479.0,
+                "illustration_pan_y": -81.0,
+                "illustration_scale": 1.839
             },
             "back": {
                 "type": "player"
@@ -991,7 +1035,13 @@
                 ],
                 "icons": "QQQ",
                 "illustration": "./images/forgotten_black_cube_by_thegameworld_ddtvzfl-fullview.jpg",
-                "illustrator": "Illus. TheGameWorld"
+                "illustrator": "Illus. TheGameWorld",
+                "illustration_pan_x": 113.0,
+                "illustration_pan_y": -47.0,
+                "illustration_scale": 1.566,
+                "slots": [
+                    "hand"
+                ]
             },
             "back": {
                 "type": "player"
@@ -1012,7 +1062,10 @@
                 ],
                 "icons": "WWWCCC",
                 "illustration": "./images/K6FfNIp.jpeg",
-                "illustrator": "Illus. Mingchen Shen"
+                "illustrator": "Illus. Mingchen Shen",
+                "illustration_pan_x": 160.0,
+                "illustration_pan_y": -416.0,
+                "illustration_scale": 1.127
             },
             "back": {
                 "type": "player"
@@ -1035,7 +1088,10 @@
                 ],
                 "icons": "QQQQ",
                 "illustration": "./images/download.jpg",
-                "illustrator": "Illus. Alice Rose"
+                "illustrator": "Illus. Alice Rose",
+                "illustration_pan_x": -21.0,
+                "illustration_pan_y": -242.0,
+                "illustration_scale": 2.255
             },
             "back": {
                 "type": "player"
@@ -1057,7 +1113,10 @@
                 ],
                 "icons": "IA",
                 "illustration": "./images/floris-van-der-peet-deer-final-web.jpg",
-                "illustrator": "Illus. Floris van der Peet"
+                "illustrator": "Illus. Floris van der Peet",
+                "illustration_pan_x": -28.0,
+                "illustration_pan_y": -43.0,
+                "illustration_scale": 1.703
             },
             "back": {
                 "type": "player"
@@ -1080,7 +1139,10 @@
                 ],
                 "icons": "WI",
                 "illustration": "./images/z-wu--fp.jpg",
-                "illustrator": "Illus. Gu Zheng Wei"
+                "illustrator": "Illus. Gu Zheng Wei",
+                "illustration_pan_x": 12.0,
+                "illustration_pan_y": 78.0,
+                "illustration_scale": 0.928
             },
             "back": {
                 "type": "player"
@@ -1108,7 +1170,10 @@
                 ],
                 "icons": "WA",
                 "illustration": "./images/femaleninja5.jpg",
-                "illustrator": "Illus. Hou China"
+                "illustrator": "Illus. Hou China",
+                "illustration_pan_x": -69.0,
+                "illustration_pan_y": 275.0,
+                "illustration_scale": 0.483
             },
             "back": {
                 "type": "player"
@@ -1130,7 +1195,10 @@
                 ],
                 "icons": "II",
                 "illustration": "./images/Trust Your Gut.png",
-                "illustrator": "Illus. Jeffrey Smith"
+                "illustrator": "Illus. Jeffrey Smith",
+                "illustration_pan_x": -29.0,
+                "illustration_pan_y": -561.0,
+                "illustration_scale": 2.61
             },
             "back": {
                 "type": "player"
@@ -1153,7 +1221,10 @@
                 ],
                 "icons": "Q",
                 "illustration": "./images/imx-ud-din-watchful.jpg",
-                "illustrator": "Illus. Imad Awan"
+                "illustrator": "Illus. Imad Awan",
+                "illustration_pan_x": -418.0,
+                "illustration_pan_y": -8.0,
+                "illustration_scale": 0.814
             },
             "back": {
                 "type": "player"
@@ -1176,7 +1247,10 @@
                 ],
                 "icons": "IA",
                 "illustration": "./images/insight.png",
-                "illustrator": "Illus. Jodeee"
+                "illustrator": "Illus. Jodeee",
+                "illustration_pan_x": 11.0,
+                "illustration_pan_y": -564.0,
+                "illustration_scale": 2.349
             },
             "back": {
                 "type": "player"
@@ -1199,7 +1273,10 @@
                 ],
                 "icons": "WI",
                 "illustration": "./images/vladyslava-hladkova-authopsy01.jpg",
-                "illustrator": "Illus. Vladyslava Hladkova"
+                "illustrator": "Illus. Vladyslava Hladkova",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 0.0,
+                "illustration_scale": 0.856
             },
             "back": {
                 "type": "player"
@@ -1222,7 +1299,10 @@
                 ],
                 "icons": "IA",
                 "illustration": "./images/hou-china-.jpg",
-                "illustrator": "Illus. Hou China"
+                "illustrator": "Illus. Hou China",
+                "illustration_pan_x": -462.0,
+                "illustration_pan_y": 225.0,
+                "illustration_scale": 0.527
             },
             "back": {
                 "type": "player"
@@ -1244,7 +1324,9 @@
                 ],
                 "icons": "WQ",
                 "illustration": "./images/xiaofan-zhang-marchofthespirits-resized.jpg",
-                "illustrator": "Illus. Xiaofan Zhang"
+                "illustrator": "Illus. Xiaofan Zhang",
+                "illustration_pan_x": -41.0,
+                "illustration_pan_y": 232.0
             },
             "back": {
                 "type": "player"
@@ -1266,7 +1348,10 @@
                 ],
                 "icons": "QQ",
                 "illustration": "./images/ihor-reshetnikov-aberrance-10-x2.jpg",
-                "illustrator": "Illus. Ihor Reshetnikov"
+                "illustrator": "Illus. Ihor Reshetnikov",
+                "illustration_pan_x": 11.0,
+                "illustration_pan_y": -1002.0,
+                "illustration_scale": 0.957
             },
             "back": {
                 "type": "player"
@@ -1288,7 +1373,10 @@
                 ],
                 "icons": "WIQ",
                 "illustration": "./images/olga-orlova-l3-a.jpg",
-                "illustrator": "Illus. Olga Orlova"
+                "illustrator": "Illus. Olga Orlova",
+                "illustration_pan_x": -236.0,
+                "illustration_pan_y": 22.0,
+                "illustration_scale": 1.172
             },
             "back": {
                 "type": "player"
@@ -1314,7 +1402,13 @@
                 ],
                 "icons": "WIQ",
                 "illustration": "./images/emilio-grasso-grand-armillary.jpg",
-                "illustrator": "Illus. Emilio Grasso"
+                "illustrator": "Illus. Emilio Grasso",
+                "slots": [
+                    "arcane"
+                ],
+                "illustration_pan_x": -744.0,
+                "illustration_pan_y": -65.0,
+                "illustration_scale": 1.3
             },
             "back": {
                 "type": "player"
@@ -1341,7 +1435,10 @@
                 ],
                 "icons": "CA",
                 "illustration": "./images/hou-china-8.jpg",
-                "illustrator": "Illus. Hou China"
+                "illustrator": "Illus. Hou China",
+                "illustration_pan_x": -356.0,
+                "illustration_pan_y": 234.0,
+                "illustration_scale": 0.537
             },
             "back": {
                 "type": "player"
@@ -1364,7 +1461,13 @@
                 ],
                 "icons": "A",
                 "illustration": "./images/fantasy-girl-climbing-through-the-waterfall-fe.jpg",
-                "illustrator": "Illus. Dennis Fr\u00f6hlich"
+                "illustrator": "Illus. Dennis Fr\u00f6hlich",
+                "slots": [
+                    "hand"
+                ],
+                "illustration_pan_x": -847.0,
+                "illustration_pan_y": -22.0,
+                "illustration_scale": 1.37
             },
             "back": {
                 "type": "player"
@@ -1387,7 +1490,13 @@
                 ],
                 "icons": "CA",
                 "illustration": "./images/a609a01d6262346edbcc03ca3f4110ba.jpg",
-                "illustrator": "Illus. Joel Hustak"
+                "illustrator": "Illus. Joel Hustak",
+                "slots": [
+                    "hand"
+                ],
+                "illustration_pan_x": 115.0,
+                "illustration_pan_y": -134.0,
+                "illustration_scale": 1.879
             },
             "back": {
                 "type": "player"
@@ -1407,8 +1516,11 @@
                     "rogue"
                 ],
                 "icons": "Q",
-                "illustration": "./images/Hanley-Leng-3d-art-mahjong-???????-3934270.jpeg",
-                "illustrator": "Illus. Hanley Leng"
+                "illustration": "C:/Users/cdpog/Documents/GitHub/Die-Geister-von-Onigawa/shoggoth_export/images/Hanley-Leng-3d-art-mahjong-\u041c\u0430\u0434\u0436\u043e\u043d\u0433-3934270.jpeg",
+                "illustrator": "Illus. Hanley Leng",
+                "illustration_pan_x": -628.0,
+                "illustration_pan_y": -194.0,
+                "illustration_scale": 1.529
             },
             "back": {
                 "type": "player"
@@ -1431,7 +1543,10 @@
                 ],
                 "icons": "A",
                 "illustration": "./images/inshadows_by_davidhueso_d5y3pvz-fullview.jpg",
-                "illustrator": "Illus. David Hueso"
+                "illustrator": "Illus. David Hueso",
+                "illustration_pan_x": -29.0,
+                "illustration_pan_y": -4.0,
+                "illustration_scale": 1.827
             },
             "back": {
                 "type": "player"
@@ -1456,7 +1571,10 @@
                     "rogue"
                 ],
                 "illustration": "./images/jonathon-bick-cinematic.jpg",
-                "illustrator": "Illus. Jonathon Bick"
+                "illustrator": "Illus. Jonathon Bick",
+                "illustration_pan_x": -375.0,
+                "illustration_pan_y": -46.0,
+                "illustration_scale": 1.3
             },
             "back": {
                 "type": "player"
@@ -1479,7 +1597,13 @@
                 ],
                 "icons": "IC",
                 "illustration": "./images/anthony-lozada-jwarrior2100.jpg",
-                "illustrator": "Illus. Anthony Lozada"
+                "illustrator": "Illus. Anthony Lozada",
+                "slots": [
+                    "hand"
+                ],
+                "illustration_pan_x": 116.0,
+                "illustration_pan_y": 20.0,
+                "illustration_scale": 1.281
             },
             "back": {
                 "type": "player"
@@ -1501,7 +1625,10 @@
                 ],
                 "icons": "WA",
                 "illustration": "./images/4876f9b0948fb9c9755d10a11da7064d.png",
-                "illustrator": "Illus. Gu Zheng Wei"
+                "illustrator": "Illus. Gu Zheng Wei",
+                "illustration_pan_x": 115.0,
+                "illustration_pan_y": -129.0,
+                "illustration_scale": 1.409
             },
             "back": {
                 "type": "player"
@@ -1524,7 +1651,13 @@
                 ],
                 "icons": "CA",
                 "illustration": "./images/pickman7546958583026548744.png",
-                "illustrator": "Illus. Qi Nan Kam"
+                "illustrator": "Illus. Qi Nan Kam",
+                "slots": [
+                    "hand"
+                ],
+                "illustration_pan_x": -290.0,
+                "illustration_pan_y": 199.0,
+                "illustration_scale": 1.321
             },
             "back": {
                 "type": "player"
@@ -1546,7 +1679,10 @@
                 ],
                 "icons": "AQ",
                 "illustration": "./images/2335ff67d5cb47879da832319404ab57.jpg",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_x": -37.0,
+                "illustration_pan_y": 30.0,
+                "illustration_scale": 1.387
             },
             "back": {
                 "type": "player"
@@ -1571,8 +1707,14 @@
                     "rogue"
                 ],
                 "icons": "CCAA",
-                "illustration": "./images/Untitled.png",
-                "illustrator": "Illus. Team Ninja"
+                "illustration": "C:/Users/cdpog/Documents/GitHub/Die-Geister-von-Onigawa/shoggoth_export/images/Untitled-new.png",
+                "illustrator": "Illus. Team Ninja",
+                "slots": [
+                    "hands"
+                ],
+                "illustration_pan_x": 119.0,
+                "illustration_pan_y": 77.0,
+                "illustration_scale": 2.606
             },
             "back": {
                 "type": "player"
@@ -1596,7 +1738,10 @@
                 ],
                 "icons": "WIQ",
                 "illustration": "./images/cardcounting.png",
-                "illustrator": "Illus. Fay Dalton"
+                "illustrator": "Illus. Fay Dalton",
+                "illustration_pan_x": 115.0,
+                "illustration_pan_y": 130.0,
+                "illustration_scale": 2.906
             },
             "back": {
                 "type": "player"
@@ -2783,7 +2928,13 @@
                 ],
                 "icons": "WII",
                 "illustration": "./images/sacredtext.png",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_y": 269.0,
+                "illustration_pan_x": -48.0,
+                "illustration_scale": 1.182,
+                "slots": [
+                    "hand"
+                ]
             },
             "back": {
                 "type": "player"
@@ -2806,7 +2957,12 @@
                 ],
                 "icons": "WWC",
                 "illustration": "./images/hou-china-6.jpg",
-                "illustrator": "Illus. Hou China"
+                "illustrator": "Illus. Hou China",
+                "illustration_pan_y": 237.0,
+                "illustration_pan_x": -66.0,
+                "slots": [
+                    "arcane"
+                ]
             },
             "back": {
                 "type": "player"
@@ -2828,7 +2984,10 @@
                 ],
                 "icons": "QQ",
                 "illustration": "./images/z-wu--fp.jpg",
-                "illustrator": "Illus. Gu Zheng Wei"
+                "illustrator": "Illus. Gu Zheng Wei",
+                "illustration_pan_y": 78.0,
+                "illustration_pan_x": 12.0,
+                "illustration_scale": 0.928
             },
             "back": {
                 "type": "player"
@@ -2851,7 +3010,10 @@
                 ],
                 "icons": "WIQ",
                 "illustration": "./images/imx-ud-din-watchful.jpg",
-                "illustrator": "Illus. Imad Awan"
+                "illustrator": "Illus. Imad Awan",
+                "illustration_pan_y": -8.0,
+                "illustration_pan_x": -418.0,
+                "illustration_scale": 0.814
             },
             "back": {
                 "type": "player"
