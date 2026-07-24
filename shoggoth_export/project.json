@@ -322,7 +322,13 @@
                 ],
                 "icons": "WQ",
                 "illustration": "./images/feig-felipe-perez-238-amaterasu-rgb.jpg",
-                "illustrator": "Illus. Feig Felipe Perez"
+                "illustrator": "Illus. Feig Felipe Perez",
+                "slots": [
+                    "body"
+                ],
+                "illustration_pan_x": -376.0,
+                "illustration_pan_y": 66.0,
+                "illustration_scale": 1.894
             },
             "back": {
                 "type": "player"
@@ -346,7 +352,13 @@
                     "weakness"
                 ],
                 "illustration": "./images/audrius-mitkus-kuuro-don-t-stop-art.jpg",
-                "illustrator": "Illus. Audrius Mitkus"
+                "illustrator": "Illus. Audrius Mitkus",
+                "slots": [
+                    "body"
+                ],
+                "illustration_pan_x": 46.0,
+                "illustration_pan_y": 206.0,
+                "illustration_scale": 0.793
             },
             "back": {
                 "type": "player"
@@ -410,7 +422,10 @@
                 ],
                 "icons": "WIQ",
                 "illustration": "./images/H2f02df0cebd84e1aa8093317a6c097caz.jpg",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "illustration_pan_x": 25.0,
+                "illustration_pan_y": -67.0,
+                "illustration_scale": 3.368
             },
             "back": {
                 "type": "player"
@@ -429,7 +444,10 @@
                     "weakness"
                 ],
                 "illustration": "./images/othon-nikolaidis-kwaidan.jpg",
-                "illustrator": "Illus. Othon Nikolaidis"
+                "illustrator": "Illus. Othon Nikolaidis",
+                "illustration_pan_x": -414.0,
+                "illustration_pan_y": -15.0,
+                "illustration_scale": 1.148
             },
             "back": {
                 "type": "player"
@@ -498,7 +516,13 @@
                 ],
                 "icons": "CA",
                 "illustration": "./images/ninja6.jpg",
-                "illustrator": "Illus. Allen Hsieh"
+                "illustrator": "Illus. Allen Hsieh",
+                "slots": [
+                    "ally"
+                ],
+                "illustration_pan_x": -191.0,
+                "illustration_pan_y": -23.0,
+                "illustration_scale": 2.557
             },
             "back": {
                 "type": "player"
@@ -517,7 +541,10 @@
                     "weakness"
                 ],
                 "illustration": "./images/omid-goudarzi-harakiri.jpg",
-                "illustrator": "Illus. Omid Goudarzi"
+                "illustrator": "Illus. Omid Goudarzi",
+                "illustration_pan_x": 78.0,
+                "illustration_pan_y": -226.0,
+                "illustration_scale": 0.734
             },
             "back": {
                 "type": "player"
@@ -588,7 +615,10 @@
                 ],
                 "icons": "WQ",
                 "illustration": "./images/vera-velichko-1.jpg",
-                "illustrator": "Illus. Vera Velichko"
+                "illustrator": "Illus. Vera Velichko",
+                "illustration_pan_x": -52.0,
+                "illustration_pan_y": 281.0,
+                "illustration_scale": 1.028
             },
             "back": {
                 "type": "player"
@@ -612,7 +642,13 @@
                     "weakness"
                 ],
                 "illustration": "./images/HeeDo-Park-onmyo.png",
-                "illustrator": "Illus. HeeDo Park"
+                "illustrator": "Illus. HeeDo Park",
+                "slots": [
+                    "arcane"
+                ],
+                "illustration_pan_x": -367.0,
+                "illustration_pan_y": 306.0,
+                "illustration_scale": 1.021
             },
             "back": {
                 "type": "player"
@@ -677,7 +713,10 @@
                 ],
                 "icons": "WC",
                 "illustration": "./images/the-art-of-puppeteer-lee-6.jpg",
-                "illustrator": "Illus. Puppeteer Lee"
+                "illustrator": "Illus. Puppeteer Lee",
+                "illustration_pan_x": 117.0,
+                "illustration_pan_y": -96.0,
+                "illustration_scale": 1.879
             },
             "back": {
                 "type": "player"
@@ -696,7 +735,10 @@
                     "weakness"
                 ],
                 "illustration": "./images/rachid-lotf-rachid-lotf-paysage-267.jpg",
-                "illustrator": "Illus. Rachid Lotf"
+                "illustrator": "Illus. Rachid Lotf",
+                "illustration_pan_x": 89.0,
+                "illustration_pan_y": 15.0,
+                "illustration_scale": 1.907
             },
             "back": {
                 "type": "player"

@@ -4213,7 +4213,7 @@
                 "traits": "Zauberer. Tr\u00e4umer."
             },
             "back": {
-                "text": "<b>Deckgr\u00f6\u00dfe:</b> 30\n<b>Deckbau-Optionen:</b> Mystikerkarten (<mystic>) Stufe 0-5, Sucherkarten (<seeker>) Stufe 0-1, <t>Trainiert</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5.\n<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Lebende Erinnerung, Grenz\u00fcberschreitung, 1 zuf\u00e4llige Basisschw\u00e4che.\n<b>Zus\u00e4tzliche Einschr\u00e4nkungen:</b> Keine <t>Tarot</t>-Vorteilskarten.",
+                "text": "<b>Deckgr\u00f6\u00dfe:</b> 30\n<b>Deckbau-Optionen:</b> Mystikerkarten (<mystic>) Stufe 0-5, Sucherkarten (<seeker>) Stufe 0-1, <t>Trainiert</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5.\n<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Lebende Erinnerung, Grenzbruch, 1 zuf\u00e4llige Basisschw\u00e4che.\n<b>Zus\u00e4tzliche Einschr\u00e4nkungen:</b> Keine <t>Tarot</t>-Vorteilskarten.",
                 "flavor_text": "Als Anh\u00e4nger der uralten Kunst des Onmy\u014dd\u014d hat Akira sein Leben der Erforschung und der Beherrschung der Grenze zwischen Leben und Tod gewidmet. Wann immer m\u00f6glich, verbringt er seine Zeit am liebsten damit, mit den Geistern der Verstorbenen zu kommunizieren, um geheimnisvolle Geheimnisse zu ergr\u00fcnden, die f\u00fcr die meisten modernen Okkultisten schlichtweg unerreichbar sind. Die nat\u00fcrliche Leichtigkeit, mit der er \u00fcber ein hochentwickeltes \u201egenetisches Ged\u00e4chtnis\u201c auf das Wissen und die Kraft der fr\u00fcheren Magier seiner Blutlinie zur\u00fcckgreifen kann, hat ihn etwas arrogant und den Angelegenheiten unserer Welt gegen\u00fcber distanziert gemacht; dennoch wird er vom einfachen Volk geliebt, da er in der Lage ist, rachs\u00fcchtige Geister zu vertreiben und noch lebenden Seelen dabei zu helfen, Frieden zu finden, indem er Kontakt zu den Geistern ihrer verstorbenen Angeh\u00f6rigen herstellt. Trotz seiner ohnehin schon betr\u00e4chtlichen Macht sehnt sich Akira immer noch nach Antworten auf immer gef\u00e4hrlichere Fragen \u2026",
                 "subtitle": "Das Medium",
                 "entries": [
@@ -4231,7 +4231,7 @@
                     ],
                     [
                         "<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe):",
-                        "Lebende Erinnerung, Grenz\u00fcberschreitung, 1 zuf\u00e4llige Basisschw\u00e4che."
+                        "Lebende Erinnerung, Grenzbruch, 1 zuf\u00e4llige Basisschw\u00e4che."
                     ],
                     [
                         "<b>Zus\u00e4tzliche Einschr\u00e4nkungen:</b>",
@@ -4540,6 +4540,103 @@
                 "flavor_text": "Nicht jeder, der umherirrt, ist verloren.",
                 "subtitle": "Nomadischer Impuls",
                 "traits": "Zustand."
+            },
+            "back": {}
+        },
+        "8e6b84cb-76f4-4eb3-b0e2-4777366b0342": {
+            "name": "Durch das Schwert sterben",
+            "front": {
+                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nGegner in deiner Bedrohungszone erhalten +1 Kampf und du f\u00fcgst +1 Schaden zu, falls dir eine Fertigkeitsprobe gegen einen Gegner misslingt, der mit einem anderen Ermittler in einen Kampf verwickelt ist.\n<action> Nimm 2 Schaden oder lege eine <t>Verb\u00fcndeter</t>-Vorteilskarte von deiner Hand oder aus deiner Spielzone ab: Lege <name> ab.",
+                "flavor_text": "Lieber der Tod als die Schande.",
+                "traits": "B\u00fcndnis."
+            },
+            "back": {}
+        },
+        "23554038-b0bf-487d-b431-f7db20bb373f": {
+            "name": "Porzellan-Trugbild",
+            "front": {
+                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nDein Ort erh\u00e4lt +1 Schleierwert.\n<action> Gib 4 Ressourcen aus: Lege Porzellan-Trugbild.",
+                "flavor_text": "Was auch immer an Wahrheit in der Sch\u00f6nheit stecken mag, sie bleibt doch nur oberfl\u00e4chlich.",
+                "traits": "Makel."
+            },
+            "back": {}
+        },
+        "2e38ad6b-d69d-40f2-8ccc-bd543a2886a6": {
+            "name": "Schuldgef\u00fchle des \u00dcberlebenden",
+            "front": {
+                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Nachdem eine Fertigkeitsprobe erfolgreich ist: Nimm 1 direkten Horror. \n<action><action>: Lege <name> ab. Du kannst diese F\u00e4higkeit nur aktivieren, falls du eine <t>Verb\u00fcndeter</t>-Vorteilskarte kontrollierst.",
+                "flavor_text": "Er konnte niemanden retten. Er kann nicht einmal sich selbst retten.",
+                "traits": "Wahnsinn."
+            },
+            "back": {}
+        },
+        "4d256ac9-c9f4-4368-91c0-e2bc7c9037a0": {
+            "name": "<unique>Die Nachfolge",
+            "front": {
+                "text": "<rev> Bringe Die Nachfolge ins Spiel und versiegel alle <blessing>-Marker im Chaosbeutel darauf.\n<for> Sobald ein <blessing>-Marker dem Chaosbeutel hinzugef\u00fcgt werden w\u00fcrde: Versiegel den Marker auf dieser Karte und f\u00fcge dem Chaosbeutel stattdessen einen <curse>-Marker hinzu.\n<action>: F\u00fchre eine <willpower>-Probe (4) durch. Falls die Probe erfolgreich ist, lasse alle versiegelten Marker frei und lege Die Nachfolge ab.",
+                "flavor_text": "Viele, die die \u201eAusbildung\u201c zur Schreinpriesterin durchlaufen, k\u00f6nnen nicht dar\u00fcber sprechen.",
+                "subtitle": "Diese Augustnacht",
+                "traits": "Fluch."
+            },
+            "back": {}
+        },
+        "117bc4e5-3b53-49b6-9323-55c6aa8a1df4": {
+            "name": "<unique>Grenzbruch",
+            "front": {
+                "text": "<rev> Bringe Grenzbruch mit 1 Verderben ins Spiel.\n<action> Falls kein Verderben auf Grenzbruch liegt: Lege es ab.\n<action>: F\u00fchre eine <willpower>-Probe (5) durch. Falls die Probe gelingt, entferne 1 Verderben von Grenzbruch.",
+                "flavor_text": "Viele Seelen, die unsere Welt verlassen haben, w\u00fcrden alles daf\u00fcr tun, um dorthin zur\u00fcckzukehren.",
+                "subtitle": "Der zerrissene Schleier",
+                "traits": "Patzer. Omen."
+            },
+            "back": {}
+        },
+        "3694e53b-c235-47b5-8dac-6ab797f5f83a": {
+            "name": "<unique>Apotheosis",
+            "front": {
+                "text": "Nur f\u00fcr das Deck von Yuki Yagami.\n<reaction> Sobald dein Zug beginnt: F\u00fcge dem Chaosbeutel 1 <blessing>-Marker hinzu.\n<reaction>  Am Ende deines Zuges: Durchsuche den Chaosbeutel nach 1 <curse>-Marker und lege ihn in den Markervorrat zur\u00fcck.",
+                "flavor_text": "Die heilige Blutlinie der G\u00f6ttin Amaterasu wurde sorgf\u00e4ltig bewahrt, bis ein geeignetes Gef\u00e4\u00df f\u00fcr ihre Essenz gefunden werden konnte.",
+                "subtitle": "Lebendige Heiligkeit",
+                "traits": "Avatar. Gesegnet."
+            },
+            "back": {}
+        },
+        "d237c48c-5870-49ea-9580-9c914ab7343a": {
+            "name": "<unique>Das unendliche Okulus",
+            "front": {
+                "text": "Nur f\u00fcr das Deck von Makoto Miyazaki.\nMaximal 1 <t>Kopfbedeckung</t> pro Ermittler.\nDu erh\u00e4ltst +1 <intellect> f\u00fcr jeden Gegner an deinem Ort.\n<reaction> Sobald die Ermittlerphase beginnt, falls mindestens ein Gegner an deinem Ort ist: Erhalte 1 Ressource.",
+                "flavor_text": "Unter dem durchdringenden Blick der Maske werden alle Geheimnisse offenbart.",
+                "subtitle": "Unz\u00e4hlige Wahrheiten",
+                "traits": "Gegenstand. Kopfbedeckung. Relikt. Okkult."
+            },
+            "back": {}
+        },
+        "a7903ed3-0cd0-402f-b878-8895c99a5802": {
+            "name": "<unique>Lebende Erinnerung",
+            "front": {
+                "text": "Nur f\u00fcr das Deck von Akira Arisato.\nDu darfst die oberste Fertigkeitskarte in deinem Ablagestapel zu deiner Probe beitragen als wenn sie in deiner Hand w\u00e4re. Falls die Karte am Ende der Probe abgelegt werden w\u00fcrde, lege sie stattdessen unter dein Deck. <i>(Maximal einmal pro Zug.) </i>",
+                "flavor_text": "\u201eNichts ist wirklich verloren, solange es nicht vergessen ist.\u201c",
+                "subtitle": "Komplette Erinnerung",
+                "traits": "Talent. Okkult."
+            },
+            "back": {}
+        },
+        "a75df5f6-b7df-41df-8206-4b7ef53c76fe": {
+            "name": "<unique>Mit dem Schwert leben",
+            "front": {
+                "text": "Nur f\u00fcr das Deck von Sakura Sanada.\nDu erh\u00e4ltst in deinem Zug eine zus\u00e4tzliche Aktion, die nur dazu verwendet werden kann, einen Gegner in einen Kampf zu verwickeln oder gegen ihn zu k\u00e4mpfen.",
+                "flavor_text": "\u201eJeder kann sterben. Das Leben zu leben, das erfordert Mut.\u201c",
+                "subtitle": "Der Kodex des Kriegers",
+                "traits": "Geist. B\u00fcndnis."
+            },
+            "back": {}
+        },
+        "2797bd26-cf9b-4989-84a8-7d57357df2a5": {
+            "name": "<unique>Nabiki Nagata",
+            "front": {
+                "text": "Nur f\u00fcr das Deck von Hideki Honda.\nDu erh\u00e4ltst +1 <agility>\n<free> Lege Nabiki Nagata ab: <b>Entkommen.</b> Entkomme allen Nicht-<t>Elite</t>-Gegnern an deinem Ort automatisch.",
+                "flavor_text": "Nur einer von Hidekis Sch\u00fclern hat jemals wirklich vielversprechendes Potenzial gezeigt.",
+                "subtitle": "Killer Kunoichi",
+                "traits": "Verb\u00fcndeter. J\u00e4ger."
             },
             "back": {}
         }
