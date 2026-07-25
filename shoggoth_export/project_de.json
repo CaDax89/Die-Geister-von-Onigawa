@@ -4591,7 +4591,7 @@
             "back": {}
         },
         "3694e53b-c235-47b5-8dac-6ab797f5f83a": {
-            "name": "<unique>Apotheosis",
+            "name": "<unique>Apotheose",
             "front": {
                 "text": "Nur f\u00fcr das Deck von Yuki Yagami.\n<reaction> Sobald dein Zug beginnt: F\u00fcge dem Chaosbeutel 1 <blessing>-Marker hinzu.\n<reaction>  Am Ende deines Zuges: Durchsuche den Chaosbeutel nach 1 <curse>-Marker und lege ihn in den Markervorrat zur\u00fcck.",
                 "flavor_text": "Die heilige Blutlinie der G\u00f6ttin Amaterasu wurde sorgf\u00e4ltig bewahrt, bis ein geeignetes Gef\u00e4\u00df f\u00fcr ihre Essenz gefunden werden konnte.",
@@ -4637,6 +4637,327 @@
                 "flavor_text": "Nur einer von Hidekis Sch\u00fclern hat jemals wirklich vielversprechendes Potenzial gezeigt.",
                 "subtitle": "Killer Kunoichi",
                 "traits": "Verb\u00fcndeter. J\u00e4ger."
+            },
+            "back": {}
+        },
+        "db785db3-9d3d-4626-914c-cf0c4f74fe3f": {
+            "name": "<unique>Ketzerei des Eremiten",
+            "front": {
+                "text": "Als zus\u00e4tzliche Kosten, um Ketzerei des Eremiten zu spielen, nimm 1 direkten Schaden.\n<for> Nachdem dir eine Fertigkeitsprobe gelingt: F\u00fcge dem Chaosbeutel 1 <blessing>- und 1 <curse>-Marker hinzu.\nW\u00e4hrend mindestens 4 <blessing>- oder 4 <curse>-Marker im Chaosbeutel sind erh\u00e4ltst du +1 <intellect> f\u00fcr Ermittlungen.",
+                "flavor_text": "\u201eWir alle werfen unseren Schatten.\u201c",
+                "traits": "Brandzeichen."
+            },
+            "back": {}
+        },
+        "43017c79-01ec-42a5-a210-70555c9724da": {
+            "name": "Klagendes Katana",
+            "front": {
+                "text": "<action> Falls <name> spielbereit ist: <b>Kamof.</b> F\u00fcr diesen Angriff kannst du deinen <agility>-Wert anstatt deines <combat>-Wertes verwenden und du erh\u00e4ltst +1 auf deinen Fertigkeitswert. Falls die Probe um 2 oder mehr gelingt, f\u00fcgt dieser Angriff +1 Schaden zu. Falls die Probe um 2 oder mehr misslingt, ersch\u00f6pfe <name>.",
+                "flavor_text": "Wer das Schwert wirklich meisterhaft beherrscht, wird niemals ohne Klinge dastehen.",
+                "traits": "Gegenstand. Waffe. Nahkampf."
+            },
+            "back": {}
+        },
+        "2db7855d-f00a-4307-a49d-f8991ce2e768": {
+            "name": "Schwefel-Weihrauchfass",
+            "front": {
+                "text": "Maximal 1 pro Ermittler.\nDu erh\u00e4tst +1 <willpower>. \n<reaction> Nachdem <name> ins Spiel kommt: F\u00fcge dem Chaosbeutel bis zu 2 <blessing>-Marker hinzu.",
+                "flavor_text": "\u201eEs soll uns daran erinnern, dass wir immer gef\u00e4hrlich nahe an etwas sind, das besser unbekannt bleiben sollte.\u201c",
+                "traits": "Gegenstand. Gl\u00fccksbringer. Gesegnet. "
+            },
+            "back": {}
+        },
+        "0b81328e-3bf6-4ad7-9fe9-d12f1f9a60a3": {
+            "name": "<unique>Last des Gl\u00e4ubigen",
+            "front": {
+                "text": "Als zus\u00e4tzliche Kosten, um Last des Gl\u00e4ubigen zu spielen, nimm 1 direkten Schaden. \n<for> Nachdem dir eine Fertigkeitsprobe misslingt: Falls Last des Gl\u00e4ubigen spielbereit ist, f\u00fcge dem Chaosbeutel 1 <curse>-Marker hinzu oder ersch\u00f6pfe Last des Gl\u00e4ubigen.\nW\u00e4hrend Last des Gl\u00e4ubigen spielbereit ist, erh\u00e4ltst du +1 <willpower>.",
+                "flavor_text": "\u201eAnfangs war es viel kleiner, doch dann fiel mir auf, dass das Netzwerk aus Runen jedes Mal, wenn ich anfing zu zweifeln, immer verwirrender wurde \u2026\u201c",
+                "traits": "Brandzeichen."
+            },
+            "back": {}
+        },
+        "e96e7b02-871e-4110-a138-59b76810b000": {
+            "name": "<unique>Preis des Teufels",
+            "front": {
+                "text": "Als zus\u00e4tzliche Kosten, um Preis des Teufels zu spielen, nimm 1 direkten Schaden. \n<for> Zu Beginn deines Zuges: Bezahle 1 Ressource oder ersch\u00f6pfe Preis des Teufels.\nW\u00e4hrend Preis des Teufels spielbereit ist, darfst du den ersten Gelegenheitsangriff in der Runde ignorieren.",
+                "flavor_text": "\u201eEs machte mir ein Angebot, das ich nicht ablehnen konnte.\u201c",
+                "traits": "Brandzeichen."
+            },
+            "back": {}
+        },
+        "3117bddb-17cf-4335-aa52-1d813ebe9b6a": {
+            "name": "Hermetischer Abakus",
+            "front": {
+                "text": "<reaction> Nachdem der letzte Hinweis an deinem Ort entdeckt wird, ersch\u00f6pfe <name>: Sieh dir die obersten X Karten des Begegnungsdecks an, wobei X der Schleierwert des Ortes ist. \n<action> Falls <name> spielbereit ist: <b>Ermitteln.</b> F\u00fcge deinen <willpower>-Wert zum Fertigkeitswert f\u00fcr diese Ermittlung hinzu. Falls die Probe misslingt, ersch\u00f6pfe <name>.",
+                "flavor_text": "Dieses esoterische Ger\u00e4t wird als spezieller \u201eRechner\u201c zur Vorhersage zuk\u00fcnftiger Ereignisse eingesetzt; seine genaue Funktionsweise ist jedoch nur wenigen Auserw\u00e4hlten bekannt.",
+                "traits": "Gegenstand. Werkzeug. Okkult. "
+            },
+            "back": {}
+        },
+        "cd3a598b-0341-4137-bb78-86114bbcb1ce": {
+            "name": "<unique>Schicksal des Ph\u00f6nix",
+            "front": {
+                "text": "Als zus\u00e4tzliche Kosten, um Schicksal des Ph\u00f6nix zu spielen, nimm 1 direkten Schaden.\n<for> Nachdem ein Gegner an deinem Ort Schaden nimmt: Ersch\u00f6pfe Schicksal des Ph\u00f6nix.\nW\u00e4hrend Schicksal des Ph\u00f6nix spielbereit ist und ein Gegner an deinem oder einem benachbarten Ort ist, erh\u00e4ltst du +1 <intellect> beim Ermitteln.",
+                "flavor_text": "Ob du Asche bleibst oder zum Ph\u00f6nix wirst, liegt ganz bei dir.",
+                "traits": "Brandzeichen."
+            },
+            "back": {}
+        },
+        "43f1d468-ed45-48ea-8bff-d18a61e43a13": {
+            "name": "Harakiri",
+            "front": {
+                "text": "<reaction> Nachdem ein Gegner dich in einen Kampf verwickelt, ersch\u00f6pfe <name>: Ziehe 1 Karte. \n<free> Nimm 1 direkten Schaden und lege <name> ab: Ziehe 2 Karten.",
+                "flavor_text": "\u201eBlut treibt die R\u00e4der der Geschichte an; hab keine Angst, etwas davon zu vergie\u00dfen.\u201c",
+                "traits": "Ritual. Okkult."
+            },
+            "back": {}
+        },
+        "220e05db-12f4-4f1c-9ea8-d069b38df429": {
+            "name": "<unique>Opfer der Schlange",
+            "front": {
+                "text": "Als zus\u00e4tzliche Kosten, um Opfer der Schlange zu spielen, nimm 1 direkten Schaden.\n<for> Falls Opfer der Schlange spielbereit ist, wenn du einen Gegner besiegst: Nimm 1 Schaden oder ersch\u00f6pfe Opfer der Schlange.\nW\u00e4hrend Opfer der Schlange spielbereit ist, musst du deinen <agility>-Wert anstatt deinem <combat>-Wert zum K\u00e4mpfen verwenden.",
+                "flavor_text": "\u201eEs gibt niemanden wie mich. Nicht mehr.\u201c",
+                "traits": "Brandzeichen."
+            },
+            "back": {}
+        },
+        "92e60af5-7a70-4385-8a84-e477d28b2ad2": {
+            "name": "<unique>Dogma des Drachen",
+            "front": {
+                "text": "Als zus\u00e4tzliche Kosten, um Dogma des Drachen zu spielen, nimm 1 direkten Schaden. \n<for> Nachdem du einem Gegner entkommen bist: Falls Dogma des Drachen spielbereit ist, ersch\u00f6pfe es.\nW\u00e4hrend Dogma des Drachen spielbereit ist, erh\u00e4ltst du +1 <combat>.",
+                "flavor_text": "Diese schmerzhafte Umsetzung macht es unm\u00f6glich, deine Gel\u00fcbde zu vergessen.",
+                "subtitle": "Eine bleibende Erinnerung",
+                "traits": "Brandzeichen."
+            },
+            "back": {}
+        },
+        "2aa6f6f6-0650-4bc5-83d9-94fded0f6a37": {
+            "name": "Ganz oder gar nicht",
+            "front": {
+                "text": "Dauerhaft. Maximal 1 <name> pro Deck. Kann nur beim Deckbau erworben werden.\n<reaction> Nachdem du deinen Mulligan genommen hast: Nimm einen zus\u00e4tzlichen Mulligan f\u00fcr bis zu 2 Karten.\nDu beginnst jedes Spiel mit 2 Ressourcen weniger.",
+                "flavor_text": "Es stehen viele Entscheidungen bevor. Keine davon wird einfach sein.",
+                "subtitle": "Verdammt, wenn du es machst",
+                "traits": "Zustand."
+            },
+            "back": {}
+        },
+        "900a40fa-150f-4748-bc44-06490d8ef73f": {
+            "name": "Ganz oder gar nicht",
+            "front": {
+                "text": "Dauerhaft. Maximal 1 <name> pro Deck. Kann nur beim Deckbau erworben werden.\nDu darfst Nicht-Schw\u00e4che-Karten nicht durch den Mulligan von deiner Starthand entfernen. \nDeine Starthandgr\u00f6\u00dfe ist um 2 erh\u00f6ht.",
+                "flavor_text": "Es stehen viele Entscheidungen bevor. Keine davon wird einfach sein.",
+                "subtitle": "<size 50>Verdammt, wenn du es nicht machst",
+                "traits": "Zustand."
+            },
+            "back": {}
+        },
+        "79755a2d-78ba-4fbb-9810-911d1be458af": {
+            "name": "Mit Haut und Haaren dabei",
+            "front": {
+                "text": "Dauerhaft. Kann nur beim Deckbau erworben werden.\nDie Zus\u00e4tzlichen Einschr\u00e4nkungen f\u00fcr den Deckbau deines Ermittlers erhalten: \"Keine <t>Kleidung</t>-Vorteilskarten, die einen K\u00f6rperslot ben\u00f6tigen.\"\nDu hast 2 zus\u00e4tzliche K\u00f6rperslots, die nur f\u00fcr <t>Brandzeichen</t>-Vorteilskarten verwendet werden k\u00f6nnen.",
+                "flavor_text": "\u201eJede Narbe erz\u00e4hlt eine Geschichte \u2026 Manche sind besser als andere.\u201c",
+                "subtitle": "Herz auf der Zunge",
+                "traits": "Zustand."
+            },
+            "back": {}
+        },
+        "e55db522-ca9d-4824-bc09-0230f5ba1c8f": {
+            "name": "Papier-Laterne",
+            "front": {
+                "text": "Anwendungen (2 Vorr\u00e4te). Falls <name> keine Vorr\u00e4te auf sich hat, lege sie ab.\n<for> Sobald ein Ermittler an deinem Ort einen <cultist>-, <elder_thing>-, oder <auto_fail>-Marker w\u00e4hrend einer Fertigkeitsprobe enth\u00fcllt: Entferne 1 Vorrat von <name>. \n<free> Ersch\u00f6pfe <name>: Dein aktueller Ort erh\u00e4lt \u20131 Schleierwert bis zum Ende der Runde.",
+                "flavor_text": "",
+                "traits": "Gegenstand. Werkzeug."
+            },
+            "back": {}
+        },
+        "a4bb7ca5-be9e-4be6-9970-f7068435e0a2": {
+            "name": "Vorausschauender Fokus",
+            "front": {
+                "text": "Schnell. Spiele diese Karte nur in deinem Zug.\nSieh dir die obersten 1<per_large> Karten vom Begegnungsdeck an. Falls unter den Karten Gegner sind erh\u00e4ltst du eine zus\u00e4tzliche Aktion.",
+                "flavor_text": "Es ist keine Paranoia,<br> wenn sie es wirklich auf dich abgesehen haben.",
+                "traits": "Erkenntnis. Geist. "
+            },
+            "back": {}
+        },
+        "df835c48-36dc-49f3-998a-5e76e17b1e4e": {
+            "name": "Hannya Maske",
+            "front": {
+                "text": "Maximal 1 <t>Kopfbedeckung</t> pro Ermittler.\nDu erh\u00e4ltst +1 <agility> w\u00e4hrend Entkommensversuchen. \n<reaction> Sobald ein Nicht-<t>Elite</t>-Gegner dich in einen Kampf verwickeln w\u00fcrde, lege <name> ab: Ersch\u00f6pfe diesen Gegner stattdessen.",
+                "flavor_text": "\u201eEs ist besser, ein Krieger im Garten zu sein als ein G\u00e4rtner im Krieg.\u201c",
+                "traits": "Gegenstand. Kopfbedeckung."
+            },
+            "back": {}
+        },
+        "1189deb0-04d9-4777-9782-345217d75e53": {
+            "name": "Z\u00fcgiges Z\u00fccken",
+            "front": {
+                "text": "Schnell. Spiele diese Karte in einem beliebigen <free>-Fenster.\nMache eine Nicht-Schw\u00e4che-Vorteilskarte von einem Ermittler an deinem Ort spielbereit. Schicke <name> ins Exil.",
+                "flavor_text": "Wenn du blinzelst, verpasst du es.",
+                "traits": "Taktic."
+            },
+            "back": {}
+        },
+        "de5f9af0-65ae-47fd-8b34-7c8caa2bc4d7": {
+            "name": "<unique>Koromaru",
+            "front": {
+                "text": "<reaction> Nachdem ein Gegner an deinem Ort besiegt wurde, ersch\u00f6pfe Koromaru: Heile 1 Horror von einem Ermittler an deinem Ort.",
+                "flavor_text": "Lokale Legenden erz\u00e4hlen von einem Jagdhund, der so treu war, dass er die Rolle seines verstorbenen Herrn als Besch\u00fctzer der Schreine von Minakami \u00fcbernahm.",
+                "subtitle": "W\u00e4chter aller Schreine",
+                "traits": "Verb\u00fcndeter. Kreatur. W\u00e4chter."
+            },
+            "back": {}
+        },
+        "d68ce96e-0333-4e06-be47-ec87e08cd671": {
+            "name": "Austauschbares Schicksal",
+            "front": {
+                "text": "Dauerhaft.\nDu hast 1 zus\u00e4tzlichen Tarotslot.",
+                "flavor_text": "\u201eMach dir keine Gedanken \u00fcber das \u201aSchicksal\u2018, mein Kind \u2026 In dieser Welt gibt es kein anderes Schicksal als das, das wir selbst gestalten.\u201c",
+                "traits": "Zustand."
+            },
+            "back": {}
+        },
+        "f36f655e-6ee3-4155-a64d-d6fd89fb9e77": {
+            "name": "Starker Sonnenschein",
+            "front": {
+                "text": "H\u00e4nge <name> an deinen aktuellen Ort an. Maximal 1 pro Ort.\nDer Ort und jeder benachbarte Ort erhalten \u20131 Schleierwert.",
+                "flavor_text": "Die fr\u00fchen Pioniere der Luftfahrt stellten fest, dass ihnen das Vokabular fehlte, um den ungew\u00f6hnlichen Zustand der \u201euneingeschr\u00e4nkten Sicht\u201c zu beschreiben, der mit einem au\u00dfergew\u00f6hnlich klaren Tag einherging.",
+                "traits": "Gl\u00fccksfall."
+            },
+            "back": {}
+        },
+        "ee34a8eb-c52a-4e05-936b-28407bcca7f3": {
+            "name": "<unique>Durch dick und d\u00fcnn",
+            "front": {
+                "text": "Dauerhaft.\nDie Zus\u00e4tzlichen Einschr\u00e4nkungen f\u00fcr den Deckbau deines Ermittlers erhalten: \"Nur 1 Vorteilskarte, die einen <t>Verb\u00fcndeter</t>-Slot ben\u00f6tigt.\" \n<reaction> Bevor du deine Starthand ziehst oder sobald dein Deck leer ist: Durchsuche dein Deck und deinen Ablagestabel nach einer Vorteilskarte, die einen <t>Verb\u00fcndeter</t>-Slot ben\u00f6tigt und h\u00e4nge die Karte an Durch dick und d\u00fcnn an.\nKarten die an Durch dick und d\u00fcnn angeh\u00e4ngt sind, k\u00f6nnen gespielt werden, als wenn sie in deiner Hand w\u00e4ren.",
+                "flavor_text": "",
+                "subtitle": "Wenn es dir so viel bedeutet",
+                "traits": "B\u00fcndnis."
+            },
+            "back": {}
+        },
+        "6f0396d3-597f-4515-a2ef-d25faf71d185": {
+            "name": "Papier-Laterne",
+            "front": {
+                "text": "Anwendungen (4 Vorr\u00e4te). Falls <name> keine Vorr\u00e4te auf sich hat, lege sie ab.\n<for> Sobald ein Ermittler an deinem Ort einen <cultist>-, <elder_thing>-, oder <auto_fail>-Marker w\u00e4hrend einer Fertigkeitsprobe enth\u00fcllt: Entferne 1 Vorrat von <name>. \n<free> Ersch\u00f6pfe <name>: Dein aktueller Ort erh\u00e4lt \u20131 Schleierwert bis zum Ende der Runde.",
+                "flavor_text": "",
+                "traits": "Gegenstand. Werkzeug."
+            },
+            "back": {}
+        },
+        "d67aa005-193b-40ba-bfe7-a0e26a58b6cb": {
+            "name": "Camera Obscura",
+            "front": {
+                "text": "Nur f\u00fcr das Deck von Mayu Tachibana.\nDu erh\u00e4ltst +1 <willpower>. Anwendungen (4 Ladungen.)\n<action>: <b>Entkommen.</b> F\u00fcge deinen <willpower>-Wert zu deinem Fertigkeitswert f\u00fcr diese Probe hinzu. Falls die Probe um 2 oder mehr gelingt, darfst du 1 Ladung ausgeben, um dem entkommenen Gegner 1 Schaden zuzuf\u00fcgen.",
+                "flavor_text": "",
+                "subtitle": "\u00c4therischer Bildsucher",
+                "traits": "Gegenstand. Werkzeug. Relikt. Okkult."
+            },
+            "back": {}
+        },
+        "e5d3a8ea-5af3-4668-8856-aed4499cc5a4": {
+            "name": "Mayu Tachibana",
+            "front": {
+                "text": "<reaction> Nachdem einem Gegner an deinem Ort entkommen wird: Ziehe 1 Karte.\n<free>: Bewege 1 Ladung von Camera Obscura auf eine andere Vorteilskarte, die du kontrollierst mit \"Anwendungen (Ladungen).\" (Maximal einmal pro Runde.)\n<elder_sign>-Effekt: +1. Falls die Probe gelingt, darfst du eine Ladung auf Camera Obscura platzieren.",
+                "flavor_text": "\u201eIch habe meiner Schwester ein Versprechen gegeben \u2026\u201c",
+                "subtitle": "Der Zwilling",
+                "traits": "Miskatonic. Student."
+            },
+            "back": {
+                "text": "<b>Deckgr\u00f6\u00dfe:</b> 30\n<b>Wahl der Klassen:</b> W\u00e4hle beim Deckbau entweder Sucher (<seeker>) oder \u00dcberlebender (<survivor>).\n<b>Deckbau-Optionen:</b> Mystikerkarten (<mystic>) Stufe 0-5, Neutrale Karten Stufe 0-5, Karten deiner gew\u00e4hlten Klasse Stufe 0-2.\n<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Camera Obscura, Molochischer Usurpator, 1 zuf\u00e4llige Grundschw\u00e4che.\n<b>Zus\u00e4tzliche Einschr\u00e4nkungen:</b> Keine <t>Gelassenheit</t>-Vorteilskarten.",
+                "flavor_text": "Mayu wuchs zusammen mit ihrer Schwester Miyu auf dem Land au\u00dferhalb von Arkham auf, in dem abgelegenen Dorf Minakami. Durch den Tod ihrer Mutter wurden die Zwillinge schon in jungen Jahren zu Waisen, doch die hilfsbereiten Dorfbewohner setzten sich gemeinsam daf\u00fcr ein, dass die M\u00e4dchen gut versorgt waren, sodass sie gl\u00fccklich und unbeschwert aufwachsen konnten. In der Nacht ihres dreizehnten Geburtstags \u00e4nderte sich jedoch alles, als die Zwillinge in ein geheimnisvolles Portal gezogen wurden, das im Wald au\u00dferhalb des Ortes verborgen war, und in einer schrecklichen \u201eZeitschleife\u201c gefangen waren. Mayu gelang es schlie\u00dflich, unversehrt zu entkommen, doch Miyu wurde nie wieder gesehen. Mayu zog nach Arkham, um etwas Abstand zwischen sich und die Erinnerungen an diesen Tag zu bringen, doch seit kurzem wird sie von einem geheimnisvollen purpurroten Schmetterling heimgesucht, der sie scheinbar nach Hause ruft \u2026",
+                "entries": [
+                    [
+                        "<b>Deckgr\u00f6\u00dfe:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Wahl der Klassen:</b>",
+                        "W\u00e4hle beim Deckbau entweder Sucher (<seeker>) oder \u00dcberlebender (<survivor>)."
+                    ],
+                    [
+                        "<b>Deckbau-Optionen:</b>",
+                        "Mystikerkarten (<mystic>) Stufe 0-5, Neutrale Karten Stufe 0-5, Karten deiner gew\u00e4hlten Klasse Stufe 0-2."
+                    ],
+                    [
+                        "<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe):",
+                        "Camera Obscura, Molochischer Usurpator, 1 zuf\u00e4llige Grundschw\u00e4che."
+                    ],
+                    [
+                        "<b>Zus\u00e4tzliche Einschr\u00e4nkungen:</b>",
+                        "Keine <t>Gelassenheit</t>-Vorteilskarten."
+                    ]
+                ]
+            }
+        },
+        "b1ada05d-e5c1-4794-b607-0610de518bd9": {
+            "name": "Gnade der G\u00f6tter",
+            "front": {
+                "text": "Nachdem die Fertigkeitsprobe endet, f\u00fcge dem Chaosbeutel 2 <blessing>-Marker hinzu. Falls die Probe misslingt, f\u00fcge dem Chaosbeutel auch 2 <curse>-Marker hinzu.",
+                "flavor_text": "\u201eWenn sie deine Gebete nicht erh\u00f6ren \u2026 warum betest du sie dann an?\u201c",
+                "traits": "Gl\u00fccksfall."
+            },
+            "back": {}
+        },
+        "47ad4eb2-4596-4761-8789-780d3987f8ab": {
+            "name": "Shinobu Sanosuke",
+            "front": {
+                "text": "Du beginnst das Spiel mit Hundehaar <i>(Absinth-Elixir)</i> im Spiel.\n<free> Gib 1 Vorrat von Hundehaar aus: Du erh\u00e4ltst +1 auf deinen Fertigkeitstest f\u00fcr diese Probe. (Maximal einmal pro Zug.)\n<elder_sign>-Effect: +X. X is die Anzahl an Vorr\u00e4ten auf Hundehaar.",
+                "flavor_text": "\u201eNiemand sollte das Nirwana erreichen, ohne den Geschmack von gutem Sake auf den Lippen zu haben.\u201c",
+                "subtitle": "Der M\u00f6nch",
+                "traits": "Gelehrter. Herumtreiber."
+            },
+            "back": {
+                "text": "<b>Deckgr\u00f6\u00dfe:</b> 30\n<b>Wahl der Klassen:</b> W\u00e4hle beim Deckbau 2 Klassen: W\u00e4chter (<guardian>), Sucher (<seeker>), Schurke (<rogue>), Mystiker (<mystic>) oder \u00dcberlebender (<survivor>).\n<b>Deckbau-Optionen:</b> <t>Illegal</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5, Karten deiner gew\u00e4hlten Klassen Stufe 0-3.\n<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Hundehaar, Kalter Entzug, 1 zuf\u00e4llige Grundschw\u00e4che.\n<b>Zus\u00e4tzliche Einschr\u00e4nkungen:</b> Keine <t>Gelassenheit</t>-Vorteilskarten.",
+                "flavor_text": "Shinobu war ein mittelloser S\u00e4ufer, als er vom legend\u00e4ren \u201ebetrunkenen Meister\u201c Hiro Hachimura unter seine Fittiche genommen wurde. Unter der Anleitung seines Meisters entwickelte Shinobu schnell ein Talent f\u00fcr die handwerkliche Braukunst, doch Shinobus \u201eMarkenzeichen\u201c \u2013 ein mit Absinth angereichertes Gebr\u00e4u \u2013 erwies sich selbst f\u00fcr seinen Meister als zu gewaltig. Seitdem der \u201ebetrunkene Meister\u201c unerwartet ins Koma fiel, sucht sein Sch\u00fcler nach immer exotischeren Zutaten, um sein esoterisches Brauarsenal zu erweitern, in der Hoffnung, eines Tages eine Tinktur zu brauen, die seinen Meister zur\u00fcckbringen k\u00f6nnte \u2026",
+                "entries": [
+                    [
+                        "<b>Deckgr\u00f6\u00dfe:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Wahl der Klassen:</b>",
+                        "W\u00e4hle beim Deckbau 2 Klassen: W\u00e4chter (<guardian>), Sucher (<seeker>), Schurke (<rogue>), Mystiker (<mystic>) oder \u00dcberlebender (<survivor>)."
+                    ],
+                    [
+                        "<b>Deckbau-Optionen:</b>",
+                        "<t>Illegal</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5, Karten deiner gew\u00e4hlten Klassen Stufe 0-3."
+                    ],
+                    [
+                        "<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe):",
+                        "Hundehaar, Kalter Entzug, 1 zuf\u00e4llige Grundschw\u00e4che."
+                    ],
+                    [
+                        "<b>Zus\u00e4tzliche Einschr\u00e4nkungen:</b>",
+                        "Keine <t>Gelassenheit</t>-Vorteilskarten."
+                    ]
+                ]
+            }
+        },
+        "dc882c18-cf7e-4755-bd55-5c9c8af3b1ae": {
+            "name": "<unique>Hundehaar",
+            "front": {
+                "text": "Nur f\u00fcr das Deck von Shinobu Sanosuke.\nHundehaar kann das Spiel nicht verlassen. Anwendungen (0 Vorr\u00e4te).\n<for> Sobald dein Zug beginnt: Platziere 1 Vorrat auf Hundehaar. Dann, falls es genau...\n<bullet> ...1 Vorrat auf sich hat, erh\u00e4ltst du +1 <combat> bis zum Ende der Runde.\n<bullet> ...2 Vorrat auf sich hat, erh\u00e4ltst du +1 <willpower> bis zum Ende der Runde.\n<bullet> ...3 Vorrat auf sich hat, erh\u00e4ltst du +1 <intellect> bis zum Ende der Runde.\n<bullet> ...4 oder mehr Vorr\u00e4te auf sich hat, nimm alle Vorr\u00e4te auf Hundehaar als Ressourcen.",
+                "flavor_text": "",
+                "subtitle": "Absinth-Elixir",
+                "traits": "Vorrat. Illegal."
+            },
+            "back": {}
+        },
+        "2b899ef5-f0fa-4bab-9147-d585fe402609": {
+            "name": "Kalter Entzug",
+            "front": {
+                "text": "<rev> Entferne alle Vorr\u00e4te von Hundehaar und bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Sobald du einen Vorrat auf Hundehaar platzieren w\u00fcrdest: Platziere es stattdessen auf <name>.\n<action> Falls mindestens 3 Vorr\u00e4te auf dieser Karte liegen: Lege Kalter Entzug ab.",
+                "flavor_text": "Am Boden eines Glases wirst du keine Antworten finden.",
+                "traits": "Gift."
+            },
+            "back": {}
+        },
+        "d3920582-34d3-45cf-962d-a40e321d714f": {
+            "name": "<unique>Molochischer Usurpator",
+            "front": {
+                "text": "J\u00e4ger 2.\n<prey> Nur der Tr\u00e4ger.\nMolochischer Usurpator kann kein Schaden zugef\u00fcgt werden, solange es nicht ersch\u00f6pft ist.",
+                "flavor_text": "Gefangen im ewigen Zwielicht von Onigawa hatte Mayus Zwillingsschwester \u00c4onen Zeit, um die Macht ihrer heiligen Blutlinie zu erkennen \u2026 und das untergegangene Reich f\u00fcr sich zur\u00fcckzugewinnen.",
+                "traits": "Avatar. Au\u00dferdimensional."
             },
             "back": {}
         }

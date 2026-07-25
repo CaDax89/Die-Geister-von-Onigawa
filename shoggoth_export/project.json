@@ -759,14 +759,23 @@
                 "sanity": "7",
                 "flavor_text": "\"I made a promise to my sister...\"",
                 "classes": [
-                    "parallelmystic"
+                    "mystic"
                 ],
                 "illustration": "./images/mayu-2.png",
-                "illustrator": "Illus. <family \"ArnoPro-Bold\">Kuvshinov Ilya"
+                "illustrator": "Illus. <family \"ArnoPro-Bold\">Kuvshinov Ilya",
+                "willpower": "4",
+                "intellect": "2",
+                "combat": "2",
+                "agility": "4",
+                "illustration_pan_x": -71.0,
+                "illustration_pan_y": 295.0,
+                "illustration_scale": 2.52
             },
             "back": {
                 "type": "investigator_back",
-                "illustration": "./images/59092ecf6b60d1d11465e21de487ebe1.jpg"
+                "illustration": "./images/59092ecf6b60d1d11465e21de487ebe1.jpg",
+                "illustration_pan_x": 146.0,
+                "illustration_pan_y": 97.0
             },
             "project_number": "16",
             "id": "e5d3a8ea-5af3-4668-8856-aed4499cc5a4"
@@ -800,7 +809,10 @@
                 ],
                 "icons": "WI",
                 "illustration": "./images/joan-campos-portada.jpg",
-                "illustrator": "Illus. Joan Campos"
+                "illustrator": "Illus. Joan Campos",
+                "slots": [
+                    "hand"
+                ]
             },
             "back": {
                 "type": "player"
@@ -822,10 +834,14 @@
                 "horror": 1,
                 "flavor_text": "Trapped within the perpetual twilight of Onigawa, Mayu's twin sister had aeons to realize the power of their sacred bloodline...and reclaim the fallen empire as her own.",
                 "classes": [
-                    "investigatorweakness"
+                    "weakness"
                 ],
                 "illustration": "./images/celestial-fang-descending-angel-s.jpg",
-                "illustrator": "Illus. Celestial Fang"
+                "illustrator": "Illus. Celestial Fang",
+                "illustration_pan_x": -851.0,
+                "illustration_pan_y": 1088.0,
+                "illustration_scale": 1.764,
+                "attack": "3"
             },
             "back": {
                 "type": "player"
@@ -2480,7 +2496,13 @@
                 ],
                 "icons": "WC",
                 "illustration": "./images/knifecuts.jpg",
-                "illustrator": "Illus. LYU"
+                "illustrator": "Illus. LYU",
+                "slots": [
+                    "arcane"
+                ],
+                "illustration_pan_x": -62.0,
+                "illustration_pan_y": 104.0,
+                "illustration_scale": 1.354
             },
             "back": {
                 "type": "player"
@@ -2504,7 +2526,13 @@
                 ],
                 "icons": "WI",
                 "illustration": "./images/i-m-gibney-physmeter-concepts2.jpg",
-                "illustrator": "Illus. I.M. Gibney"
+                "illustrator": "Illus. I.M. Gibney",
+                "slots": [
+                    "hands"
+                ],
+                "illustration_pan_x": -143.0,
+                "illustration_pan_y": -968.0,
+                "illustration_scale": 3.096
             },
             "back": {
                 "type": "player"
@@ -2528,7 +2556,13 @@
                 ],
                 "icons": "CA",
                 "illustration": "./images/pavel-golubev-1-edit.jpg",
-                "illustrator": "Illus. Pavel Golubev"
+                "illustrator": "Illus. Pavel Golubev",
+                "slots": [
+                    "hand"
+                ],
+                "illustration_pan_x": -422.0,
+                "illustration_pan_y": 105.0,
+                "illustration_scale": 1.053
             },
             "back": {
                 "type": "player"
@@ -2552,7 +2586,13 @@
                 ],
                 "icons": "W",
                 "illustration": "./images/censer.png",
-                "illustrator": "Illus. Lukasz Jaskolski"
+                "illustrator": "Illus. Lukasz Jaskolski",
+                "slots": [
+                    "hand"
+                ],
+                "illustration_pan_x": 117.0,
+                "illustration_pan_y": -209.0,
+                "illustration_scale": 3.4
             },
             "back": {
                 "type": "player"
@@ -2577,7 +2617,13 @@
                 ],
                 "icons": "WA",
                 "illustration": "./images/2nm7yl44cyk51.jpg",
-                "illustrator": "Illus. Sara Badday"
+                "illustrator": "Illus. Sara Badday",
+                "slots": [
+                    "body"
+                ],
+                "illustration_pan_x": 7.0,
+                "illustration_pan_y": -776.0,
+                "illustration_scale": 1.289
             },
             "back": {
                 "type": "player"
@@ -2602,7 +2648,13 @@
                 ],
                 "icons": "IA",
                 "illustration": "./images/mist-xg-srs.jpg",
-                "illustrator": "Illus. Mist XG"
+                "illustrator": "Illus. Mist XG",
+                "slots": [
+                    "body"
+                ],
+                "illustration_pan_x": -465.0,
+                "illustration_pan_y": -667.0,
+                "illustration_scale": 1.845
             },
             "back": {
                 "type": "player"
@@ -2628,7 +2680,13 @@
                 ],
                 "icons": "WC",
                 "illustration": "./images/countryside_by_guweiz_dbp0h38-fullview.jpg",
-                "illustrator": "Illus. Gu Zheng Wei"
+                "illustrator": "Illus. Gu Zheng Wei",
+                "slots": [
+                    "body"
+                ],
+                "illustration_pan_x": 114.0,
+                "illustration_pan_y": 75.0,
+                "illustration_scale": 1.376
             },
             "back": {
                 "type": "player"
@@ -2653,7 +2711,13 @@
                 ],
                 "icons": "WI",
                 "illustration": "./images/rionor_the_grey_cat_by_lorandesore_ddk8j7e-fullview.jpg",
-                "illustrator": "Illus. LoranDeSore"
+                "illustrator": "Illus. LoranDeSore",
+                "slots": [
+                    "body"
+                ],
+                "illustration_pan_x": 122.0,
+                "illustration_pan_y": -305.0,
+                "illustration_scale": 1.762
             },
             "back": {
                 "type": "player"
@@ -2678,7 +2742,13 @@
                 ],
                 "icons": "IA",
                 "illustration": "./images/saiyre-illustration-and-design-prejudice.jpg",
-                "illustrator": "Illus. Saiyre"
+                "illustrator": "Illus. Saiyre",
+                "illustration_pan_x": -1645.0,
+                "illustration_pan_y": -1081.0,
+                "illustration_scale": 2.556,
+                "slots": [
+                    "body"
+                ]
             },
             "back": {
                 "type": "player"
@@ -2703,7 +2773,13 @@
                 ],
                 "icons": "CA",
                 "illustration": "./images/4fea509807b7d19d771ff162eecee10c.jpg",
-                "illustrator": "Illus. Frank Hong"
+                "illustrator": "Illus. Frank Hong",
+                "slots": [
+                    "body"
+                ],
+                "illustration_pan_x": -577.0,
+                "illustration_pan_y": -16.0,
+                "illustration_scale": 2.388
             },
             "back": {
                 "type": "player"
@@ -2719,13 +2795,16 @@
                 "text": "Fast. Play only during your turn.\nLook at the top 1<per> cards of the encounter deck. If there are any enemy cards among the looked at cards, you gain an additional action this turn.",
                 "cost": "0",
                 "level": "0",
-                "flavor_text": "It's not paranoia if they really are out to get you.",
+                "flavor_text": "It's not paranoia <br>if they really are out to get you.",
                 "classes": [
                     "neutral"
                 ],
                 "icons": "WQ",
                 "illustration": "./images/FV8ObkNagAA1NEs.jpeg",
-                "illustrator": "Illus. Gu Zheng Wei"
+                "illustrator": "Illus. Gu Zheng Wei",
+                "illustration_pan_x": -4.0,
+                "illustration_pan_y": -525.0,
+                "illustration_scale": 1.142
             },
             "back": {
                 "type": "player"
@@ -2733,28 +2812,6 @@
             "encounter_number": "1",
             "project_number": "93",
             "id": "a4bb7ca5-be9e-4be6-9970-f7068435e0a2"
-        },
-        {
-            "name": "Gods Be Good",
-            "front": {
-                "type": "skill",
-                "traits": "Fortune.",
-                "text": "After this skill test ends, add 2 <blessing> tokens to the chaos bag. If this skill test fails, also add 2 <curse> tokens to the chaos bag after this test ends.",
-                "level": "0",
-                "flavor_text": "\"If they don't answer your prayers... \nWhy do you worship them?\"",
-                "classes": [
-                    "neutral"
-                ],
-                "icons": "WI",
-                "illustration": "./images/johanna-rupprecht-2020-03-24-mononoke-pond.jpg",
-                "illustrator": "Illus. Johanna Rupprecht"
-            },
-            "back": {
-                "type": "player"
-            },
-            "encounter_number": "1",
-            "project_number": "94",
-            "id": "a238ac4b-d789-48f3-8aee-b2762a9d31fd"
         },
         {
             "name": "Hell or High Water",
@@ -2770,7 +2827,9 @@
                     "neutral"
                 ],
                 "illustration": "./images/xiaofan-zhang-possession-resized.jpg",
-                "illustrator": "Illus. Xiaofan Zhang"
+                "illustrator": "Illus. Xiaofan Zhang",
+                "illustration_pan_x": -595.0,
+                "illustration_pan_y": 222.0
             },
             "back": {
                 "type": "player"
@@ -2792,7 +2851,9 @@
                     "neutral"
                 ],
                 "illustration": "./images/xiaofan-zhang-possession-resized.jpg",
-                "illustrator": "Illus. Xiaofan Zhang"
+                "illustrator": "Illus. Xiaofan Zhang",
+                "illustration_pan_y": 222.0,
+                "illustration_pan_x": -595.0
             },
             "back": {
                 "type": "player"
@@ -2815,7 +2876,13 @@
                 ],
                 "icons": "I",
                 "illustration": "./images/lantern.png",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "slots": [
+                    "hand"
+                ],
+                "illustration_pan_x": 47.0,
+                "illustration_pan_y": 249.0,
+                "illustration_scale": 2.432
             },
             "back": {
                 "type": "player"
@@ -2838,7 +2905,10 @@
                     "neutral"
                 ],
                 "illustration": "./images/hou-china-13.jpg",
-                "illustrator": "Illus. Hou China"
+                "illustrator": "Illus. Hou China",
+                "illustration_pan_x": -28.0,
+                "illustration_pan_y": 280.0,
+                "illustration_scale": 0.473
             },
             "back": {
                 "type": "player"
@@ -2860,7 +2930,9 @@
                 ],
                 "icons": "WA",
                 "illustration": "./images/hou-china-9.jpg",
-                "illustrator": "Illus. Hou China"
+                "illustrator": "Illus. Hou China",
+                "illustration_pan_x": -219.0,
+                "illustration_pan_y": 247.0
             },
             "back": {
                 "type": "player"
@@ -2882,7 +2954,10 @@
                 ],
                 "icons": "WQ",
                 "illustration": "./images/FS4vN80agAAUVMO.jpeg",
-                "illustrator": "Illus. Gu Zheng Wei"
+                "illustrator": "Illus. Gu Zheng Wei",
+                "illustration_pan_x": 31.0,
+                "illustration_pan_y": 11.0,
+                "illustration_scale": 1.346
             },
             "back": {
                 "type": "player"
@@ -2910,7 +2985,13 @@
                 ],
                 "icons": "WC",
                 "illustration": "./images/banicsidy-m-i-s-s-i-o-n-by-banicsidy-ddqciva.jpg",
-                "illustrator": "Illus. Banicsidy"
+                "illustrator": "Illus. Banicsidy",
+                "slots": [
+                    "ally"
+                ],
+                "illustration_pan_x": -157.0,
+                "illustration_pan_y": 221.0,
+                "illustration_scale": 0.999
             },
             "back": {
                 "type": "player"
@@ -2931,7 +3012,10 @@
                     "neutral"
                 ],
                 "illustration": "./images/mignon-zakuga-mignon-zakuga-officialsmall.jpg",
-                "illustrator": "Illus. Mignon Zakuga"
+                "illustrator": "Illus. Mignon Zakuga",
+                "illustration_pan_x": 116.0,
+                "illustration_pan_y": -100.0,
+                "illustration_scale": 1.286
             },
             "back": {
                 "type": "player"
@@ -2953,7 +3037,10 @@
                 ],
                 "icons": "IIAA",
                 "illustration": "./images/Severe Clear art.jpg",
-                "illustrator": "Illus. Hou China"
+                "illustrator": "Illus. Hou China",
+                "illustration_pan_x": -12.0,
+                "illustration_pan_y": -785.0,
+                "illustration_scale": 0.856
             },
             "back": {
                 "type": "player"
@@ -2977,7 +3064,10 @@
                     "neutral"
                 ],
                 "illustration": "./images/z-w-gu-siremake2asmall.jpg",
-                "illustrator": "Illus. Gu Zheng Wei"
+                "illustrator": "Illus. Gu Zheng Wei",
+                "illustration_pan_x": 125.0,
+                "illustration_pan_y": 198.0,
+                "illustration_scale": 0.734
             },
             "back": {
                 "type": "player"
@@ -3000,11 +3090,16 @@
                     "neutral"
                 ],
                 "illustration": "./images/bm-solari-dm1-removebg-preview (1).png",
-                "illustrator": "Illus. BM Solari"
+                "illustrator": "Illus. BM Solari",
+                "illustration_pan_x": 126.0,
+                "illustration_pan_y": 285.0
             },
             "back": {
                 "type": "investigator_back",
-                "illustration": "./images/bm-solari-dm1.jpg"
+                "illustration": "./images/bm-solari-dm1.jpg",
+                "illustration_pan_x": -15.0,
+                "illustration_pan_y": 70.0,
+                "illustration_scale": 0.705
             },
             "project_number": "101",
             "id": "47ad4eb2-4596-4761-8789-780d3987f8ab"
@@ -3036,7 +3131,10 @@
                     "neutral"
                 ],
                 "illustration": "./images/lisa-parker-090-LUC369.jpg",
-                "illustrator": "Illus. Lisa Parker"
+                "illustrator": "Illus. Lisa Parker",
+                "illustration_pan_x": 115.0,
+                "illustration_pan_y": 55.0,
+                "illustration_scale": 1.658
             },
             "back": {
                 "type": "player"
@@ -3055,7 +3153,10 @@
                     "weakness"
                 ],
                 "illustration": "./images/sam-hogg-saul-drunk-3.jpg",
-                "illustrator": "Illus. Sam Hogg"
+                "illustrator": "Illus. Sam Hogg",
+                "illustration_pan_x": -96.0,
+                "illustration_pan_y": 11.0,
+                "illustration_scale": 2.198
             },
             "back": {
                 "type": "player"
@@ -3345,7 +3446,13 @@
                 ],
                 "icons": "I",
                 "illustration": "./images/lantern.png",
-                "illustrator": "Illus. Unknown"
+                "illustrator": "Illus. Unknown",
+                "slots": [
+                    "hand"
+                ],
+                "illustration_pan_y": 249.0,
+                "illustration_pan_x": 47.0,
+                "illustration_scale": 2.432
             },
             "back": {
                 "type": "player"
@@ -12061,6 +12168,31 @@
             "project_number": "163",
             "encounter_set": "1b2b4978-17a9-4920-8a67-409629978ecd",
             "id": "f30820ad-4852-417a-957f-30b0a245aabe"
+        },
+        {
+            "name": "Gods Be Good",
+            "front": {
+                "type": "skill",
+                "traits": "Fortune.",
+                "text": "After this skill test ends, add 2 <blessing> tokens to the chaos bag. If this skill test fails, also add 2 <curse> tokens to the chaos bag after this test ends.",
+                "level": "0",
+                "flavor_text": "\"If they don't answer your prayers... \nWhy do you worship them?\"",
+                "classes": [
+                    "neutral"
+                ],
+                "icons": "WI",
+                "illustration": "./images/johanna-rupprecht-2020-03-24-mononoke-pond.jpg",
+                "illustrator": "Illus. Johanna Rupprecht",
+                "illustration_pan_x": -411.0,
+                "illustration_pan_y": 205.0,
+                "illustration_scale": 1.08
+            },
+            "back": {
+                "type": "player"
+            },
+            "encounter_number": "1",
+            "project_number": "94",
+            "id": "b1ada05d-e5c1-4794-b607-0610de518bd9"
         }
     ],
     "guides": [
