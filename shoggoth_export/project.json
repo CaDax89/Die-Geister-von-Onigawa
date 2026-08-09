@@ -8831,7 +8831,7 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/svetoslav-petrov-candle-witch2a-small.jpg",
                 "illustrator": "Illus. Svetoslav Petrov",
-                "attack": "3",
+                "attack": "4",
                 "illustration_pan_x": -1114.0,
                 "illustration_pan_y": 977.0,
                 "illustration_scale": 1.74
@@ -9484,7 +9484,7 @@
                 "illustration_pan_y": 134.0
             },
             "back": {
-                "type": "story"
+                "type": "player"
             },
             "encounter_number": "18",
             "project_number": "238",

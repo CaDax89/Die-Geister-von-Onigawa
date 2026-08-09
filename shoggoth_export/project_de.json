@@ -26,6 +26,9 @@
         },
         "c46862ed-ba89-4557-adfb-c9d7e4596582": {
             "name": "scenarioset-2-b.png"
+        },
+        "07af3e19-1cdc-4299-a081-f5d9c240e5eb": {
+            "name": "scenarioset-7-b.png"
         }
     },
     "cards": {
@@ -34,7 +37,7 @@
             "front": {
                 "text": "<action> Wenn Midoris List bereit ist: <b>Kampf. </b> F\u00fcge deine <agility>-Fertigkeit zu deinem Fertigkeitswert f\u00fcr diesen Angriff hinzu. Wenn du mit 2 oder mehr Punkten Erfolg hast, verursacht dieser Angriff +1 Schaden. Wenn du diese Fertigkeitsprobe nicht bestehst, ersch\u00f6pfe Midoris List, um stattdessen automatisch zu bestehen.",
                 "flavor_text": "Midori war die weiseste aller W\u00e4chterinnen; ihre diplomatischen F\u00e4higkeiten waren entscheidend f\u00fcr den Abschluss des Paktes mit Onigawa.",
-                "subtitle": "Entermesser der Morgenr\u00f6te",
+                "subtitle": "Degen der Morgend\u00e4mmerung",
                 "traits": "Gegenstand. Relikt. Waffe. Nahkampf."
             },
             "back": {}
@@ -175,19 +178,19 @@
                         "token": [
                             "cultist"
                         ],
-                        "text": "\u20132. Nach der Probe musst du dem Chaosbeutel 1 <curse>-Marker hinzuf\u00fcgen."
+                        "text": "\u20132. Nach der Probe musst du dem Chaosbeutel 1 <curse>-<br>Marker hinzuf\u00fcgen."
                     },
                     {
                         "token": [
                             "tablet"
                         ],
-                        "text": "\u20133. Falls die Probe fehlschl\u00e4gt musst du 1 Verderben auf dem n\u00e4chsten <t>Elite</t>-Gegner platzieren."
+                        "text": "\u20133. Falls die Probe misslingt musst du 1 Verderben auf dem n\u00e4chsten <t>Elite</t>-Gegner<br> platzieren."
                     },
                     {
                         "token": [
                             "elder_thing"
                         ],
-                        "text": "\u20134. Falls die Probe fehlschl\u00e4gt, ersch\u00f6pfe eine <t>Aspekt</t>-Vorteilskarte, die du kontrollierst."
+                        "text": "\u20134. Falls die Probe misslingt, ersch\u00f6pfe eine <t>Aspekt</t>-<br>Vorteilskarte, die du <br>kontrollierst."
                     }
                 ],
                 "difficulty": "EINFACH/NORMAL"
@@ -216,7 +219,7 @@
                         "token": [
                             "elder_thing"
                         ],
-                        "text": "\u20135. Falls du eine ersch\u00f6pfte <t>Aspekt</t>-Vorteilskarte kontrollierst schl\u00e4gt die Probe automatisch fehl."
+                        "text": "\u20135. Falls du eine ersch\u00f6pfte <t>Aspekt</t>-Vorteilskarte kontrollierst misslingt die Probe automatisch."
                     }
                 ],
                 "difficulty": "SCHWER/EXPERTE"
@@ -233,7 +236,7 @@
             "back": {}
         },
         "bd961a45-e015-4eca-9941-67cac72a1de7": {
-            "name": "<unique>Die Ersatzl\u00f6sung des Pantheons",
+            "name": "<unique>Notfallplan des Pantheons",
             "front": {
                 "text": "Dauerhaft.\n<free> Wenn du Tsurugis Macht und Midoris List kontrollierst: Entferne Tsurugis Macht und Midoris List aus dem Spiel. Dann drehe diese Karte um.",
                 "flavor_text": "Alleine waren die W\u00e4chter Moloch nicht gewachsen...",
@@ -273,7 +276,7 @@
             "front": {
                 "text": "<action> Wenn Tsurugis Macht bereit ist: <b>Kampf. </b>F\u00fcge deine <willpower> zu deinem Fertigkeitswert f\u00fcr diesen Angriff hinzu. Wenn du mit 2 oder mehr Punkten Erfolg hast, verursacht dieser Angriff +1 Schaden. Wenn du diese Fertigkeitsprobe nicht bestehst, ersch\u00f6pfe Tsurugis Macht, um stattdessen automatisch zu bestehen.",
                 "flavor_text": "Tsurugi galt als der m\u00e4chtigste aller W\u00e4chter; sein Atem war der Treibstoff, der das Feuer unter dem Berg Kokoro entfachte.",
-                "subtitle": "Klinge der D\u00e4mmerung",
+                "subtitle": "Klinge der Abendd\u00e4mmerung",
                 "traits": "Gegenstand. Relikt. Waffe. Nahkampf."
             },
             "back": {}
@@ -281,9 +284,9 @@
         "2fb9d966-6663-4db5-a034-59d89113c505": {
             "name": "Blutbefleckter Almanach",
             "front": {
-                "text": "Du bekommst +1 <intellect> beim ermitteln.\n<free> Entferne <name> aus dem Spiel: Mache die letzte Aktion eines Ermittlers r\u00fcckg\u00e4ngig (den Spielzustand genau so wiederherstellen, wie er vor der Ausf\u00fchrung dieser Aktion war, mit Ausnahme der Aktivierung dieser F\u00e4higkeit und ihrer Kosten).",
+                "text": "Du bekommst +1 <intellect> beim Ermitteln.\n<free> Entferne <name> aus dem Spiel: Mache die letzte Aktion eines Ermittlers r\u00fcckg\u00e4ngig (den Spielzustand genau so wiederherstellen, wie er vor der Ausf\u00fchrung dieser Aktion war, mit Ausnahme der Aktivierung dieser F\u00e4higkeit und ihrer Kosten).",
                 "flavor_text": "Eine blutgetr\u00e4nkte Schriftrolle, die im K\u00f6nigspalast gefunden wurde, scheint viele Geheimnisse der Region zu enth\u00fcllen \u2026 wenn man den Text nur entziffern k\u00f6nnte.",
-                "subtitle": "Der Atlas von Onigawa",
+                "subtitle": "Atlas von Onigawa",
                 "traits": "Gegenstand. Buch. Okkult."
             },
             "back": {}
@@ -332,7 +335,7 @@
             },
             "back": {
                 "name": "Unter die Arme greifen",
-                "text": "Mische das beiseitegelegte H\u00e4ndischer Horror-Begegnungsset und den Begegnungs-Ablagestapel in das Begegnungsdeck ein.\nLege 1 Verderben auf jeden Gegner im Spiel.\n\n",
+                "text": "Mische das beiseitegelegte Begegnungsset Beh\u00e4ndes B\u00f6ses und den Begegnungs-Ablagestapel in das Begegnungsdeck.\nLege 1 Verderben auf jeden Gegner im Spiel.\n\n",
                 "flavor_text": "Trotz eurer gr\u00f6\u00dften Anstrengungen scheint es euch nur zu gelingen, die Kreatur vor\u00fcbergehend aufzuhalten; jedes Mal, wenn es euch gelingt, eines ihrer gelblichen Gliedma\u00dfen abzuhacken, taucht eifrig ein neues aus dem Inneren der sich windenden Masse auf, um dessen Platz einzunehmen. Schlimmer noch: Der bei\u00dfende Gestank von Rauch und brennendem Holz hat begonnen, in jedem Raum des Palastes zu verharren..."
             }
         },
@@ -373,12 +376,12 @@
         "16d6c075-9a96-40f6-8f24-517187f236ef": {
             "name": "Auf der Suche nach Publikum",
             "front": {
-                "text": "<obj> Sucht nach Hinweisen auf Miyu. Die Ermittler k\u00f6nnen als Gruppe die erforderliche Anzahl an Hinweisen ausgeben, um weiterzukommen.",
+                "text": "<obj> Sucht nach Hinweisen auf Miyu. Die Ermittler k\u00f6nnen als Gruppe die erforderliche Anzahl an Hinweisen ausgeben, um vorzur\u00fccken.",
                 "flavor_text": "Ein seltsames Gewirr aus roten Ranken hat offenbar das Fundament des Palastes \u00fcberwuchert und droht nun, deine Ermittlungen zu behindern. Du bist dir nicht sicher, ob das wirklich Miyu war \u2013 du bist dir nicht einmal sicher, ob das M\u00e4dchen, das dich im Eingangsbereich aufgeschreckt hat, wirklich existiert hat \u2013, aber du musst das Risiko eingehen und den Palast erkunden..."
             },
             "back": {
                 "name": "Sackgassen",
-                "text": "Lege die Karte Versteckter Durchgang verdeckt ins Spiel.\n\n\n",
+                "text": "Bringe den Ort Versteckter Durchgang verh\u00fcllt ins Spiel.\n\n\n",
                 "flavor_text": "Du hast immer wieder das Gef\u00fchl, einen fl\u00fcchtigen Blick auf das M\u00e4dchen zu erhaschen, das dich aus dem Schatten beobachtet hat, doch wann immer du dich umdrehst, ist sie nirgends zu sehen. Miyu \u2013 falls sie es wirklich war \u2013 scheint sich ziemlich gut versteckt zu haben\u2026\nDu schaust nach unten und seufzt, als dir bewusst wird, dass du in einer Lache frischen Blutes stehst. Als du deinen Fu\u00df aus der Blutlache hebst, bemerkst du, dass die Lache eine scharfe Kante hat, als w\u00fcrde das Blut durch einen Spalt im Boden abflie\u00dfen..."
             }
         },
@@ -433,12 +436,12 @@
         "76bfbf12-361e-41da-8969-730b96c66aef": {
             "name": "Feuer fangen",
             "front": {
-                "text": "<obj> Fl\u00fcchte aus dem Palast!\nWenn sich alle \u00fcberlebenden Ermittler bei Orphan\u2019s Gaze befinden, darfst du vorr\u00fccken.",
+                "text": "<obj> Fl\u00fcchte aus dem Palast!\nWenn sich alle \u00fcberlebenden Ermittler am Ort Blick des Waisenkindes befinden, darfst du vorr\u00fccken.",
                 "flavor_text": "Du h\u00f6rst das Knacken eines h\u00f6lzernen St\u00fctzbalkens, der im Eingangsbereich zusammenbricht, kurz bevor dir eine dichte Wolke aus schwarzem, bei\u00dfendem Rauch in die Augen sticht. Der Palast st\u00fcrzt ein, wahrscheinlich aufgrund des sich rasch ausbreitenden Feuers, und nun kannst du nicht mehr auf demselben Weg hinaus, auf dem du hereingekommen bist. Du vermutest \u2013 oder hoffst vielleicht nur \u2013, dass Miyu tiefer in den Palast hineingebracht wurde, aber jeder Weg, den du erkundet hast, scheint nur in eine Sackgasse zu f\u00fchren. Es muss doch noch einen anderen Weg hier raus geben..."
             },
             "back": {
                 "name": "Mit den Augen eines Kindes",
-                "text": "<b>Falls die Ermittler die h\u00e4ngende Schaufensterpuppe noch nicht geborgen und die weggeworfene Schaufensterpuppe noch nicht gefunden haben:</b>\nTrotz aller Bem\u00fchungen kannst du den Zweck der seltsamen Skulptur hinter dem Altar nicht erkennen; ein kaum wahrnehmbarer Haarriss, der quer \u00fcber die Mitte des Gesichts verl\u00e4uft, verspottet dich. Dir f\u00e4llt auf, dass beide Augenh\u00f6hlen hohl sind, als h\u00e4tte dort urspr\u00fcnglich etwas Platz finden sollen...\nDrehe diese Szene wieder um. (Du kannst sie sp\u00e4ter erneut vorr\u00fccken.)\n<hr>\n<b>Wenn die Ermittler sowohl die h\u00e4ngende Puppe als auch die weggeworfene Puppe geborgen haben:</b>\nInstinktiv setzt ihr die Schaufensterpuppen in die Augenh\u00f6hlen der Skulptur ein. Als ihr zur\u00fccktretet, gibt ein Uhrwerkmechanismus hinter der Wand ein ged\u00e4mpftes Klicken von sich \u2026 und das Gesicht des Kindes gleitet auf und gibt einen versteckten Durchgang frei. Ihr eilt durch die \u00d6ffnung und bemerkt kaum, wie sich die Skulptur hinter euch wieder schlie\u00dft \u2026(<resolution>A1)"
+                "text": "<b>Falls die Ermittler noch nicht sowohl die h\u00e4ngende Puppe als auch die ausrangierte Puppe geborgen haben:</b>\nTrotz aller Bem\u00fchungen kannst du den Zweck der seltsamen Skulptur hinter dem Altar nicht erkennen; ein kaum wahrnehmbarer Haarriss, der quer \u00fcber die Mitte des Gesichts verl\u00e4uft, verspottet dich. Dir f\u00e4llt auf, dass beide Augenh\u00f6hlen hohl sind, als h\u00e4tte dort urspr\u00fcnglich etwas Platz finden sollen...\nDrehe diese Szene wieder um. (Du kannst sie sp\u00e4ter erneut vorr\u00fccken.)\n<hr>\n<b>Falls die Ermittler sowohl die h\u00e4ngende Puppe als auch die ausrangierte Puppe geborgen haben:</b>\nInstinktiv setzt ihr die Schaufensterpuppen in die Augenh\u00f6hlen der Skulptur ein. Als ihr zur\u00fccktretet, gibt ein Uhrwerkmechanismus hinter der Wand ein ged\u00e4mpftes Klicken von sich \u2026 und das Gesicht des Kindes gleitet auf und gibt einen versteckten Durchgang frei. Ihr eilt durch die \u00d6ffnung und bemerkt kaum, wie sich die Skulptur hinter euch wieder schlie\u00dft \u2026<b>(<resolution>A1)</b>"
             }
         },
         "47850c36-6532-419f-a153-5c4279cdbc51": {
@@ -461,7 +464,7 @@
             },
             "back": {
                 "name": "Herzlos",
-                "text": "Bewege die Innereien und Extremit\u00e4ten zum Undercroft Theatre.\n\n\n",
+                "text": "Bewege Innereien und Extremit\u00e4ten zum Undercroft Theater.\n\n\n",
                 "flavor_text": "Du h\u00e4ltst den Atem an, als du endlich den Mut aufbringst, das Laken zur\u00fcckzuziehen \u2026 Gl\u00fccklicherweise liegt vor dir nicht Miyus Leiche, wie du bef\u00fcrchtet hattest; es ist eigentlich gar keine Leiche, sondern nur eine leblose Schaufensterpuppe. Wer auch immer diesen Automaten entworfen hat, hat sich gro\u00dfe M\u00fche gegeben, ihn einem Menschen \u00e4hnlich zu gestalten, doch die Illusion wird durch eine tiefe Wunde zunichte gemacht, die in seine Brust geritzt ist. Dort, wo ihr \u201eHerz\u201c sein m\u00fcsste, befindet sich lediglich eine hohle, blutige Wunde. Du bist gerade dabei, deinen krampfhaften Griff um das Laken zu lockern und es frustriert wieder \u00fcber den kalten K\u00f6rper der Puppe fallen zu lassen, als pl\u00f6tzlich ein Licht aus der leeren Wunde zu leuchten beginnt. Ein purpurroter Schmetterling taucht irgendwo aus dem Inneren der k\u00fcnstlichen Jungfrau auf und schwebt langsam zur Decke empor. Du siehst zu, wie sein rotes Leuchten durch eine L\u00fccke im Holzwerk verschwindet \u2026 doch das dumpfe Stampfen auf den Dielen \u00fcber dir rei\u00dft dich aus deinen Gedanken. Du schluckst einen Klo\u00df in der Kehle hinunter, w\u00e4hrend du die Situation realisierst: Miyu ist nicht hier. Vielleicht war sie es nie. Und jetzt hast du gr\u00f6\u00dfere Probleme \u2026"
             }
         },
@@ -648,7 +651,7 @@
         "4fbeace4-ace5-4e4a-9629-8fdf8b804733": {
             "name": "G\u00e4stequartier",
             "front": {
-                "text": "<b>Heimgesucht </b> -- F\u00fcge dem Chaosbeutel 1 <curse>-Marker hinzu. (L\u00f6se den Heimgesucht-Effekt dieses Ortes aus, sobald die Probe einer Ermittlung an diesem Ortes fehlschl\u00e4gt.)",
+                "text": "<b>Heimgesucht </b> -- F\u00fcge dem Chaosbeutel 1 <curse>-<br>Marker hinzu. (L\u00f6se den Heimgesucht-Effekt dieses Ortes aus, sobald die Probe einer Ermittlung an diesem Ortes fehlschl\u00e4gt.)",
                 "flavor_text": "Das flackernde Kerzenlicht wirft lange Schatten quer durch das beengte Schlafzimmer.",
                 "traits": "Erdgeschoss."
             },
@@ -692,7 +695,7 @@
         "516ac804-ddb2-45e7-bb37-fee9f5a856a5": {
             "name": "Meditationskammer",
             "front": {
-                "text": "<free> Fl\u00fcstere ein Gebet. Mache eine <b>Aspekt</b>-Vorteilskarte bereit, die du kontrollierst. (Maximal einmal pro Spiel.)",
+                "text": "<free> Fl\u00fcstere ein Gebet. Mache eine <b>Aspekt</b>-<br>Vorteilskarte bereit, die du kontrollierst. (Maximal einmal pro Spiel.)",
                 "flavor_text": "Das reflektierte Licht des zerbrochenen Spiegels, der \u00fcber dem schlichten Schrein h\u00e4ngt, desorientiert dich...",
                 "subtitle": "Schrein des Kujaku",
                 "victory": "Sieg 1.",
@@ -880,7 +883,7 @@
         "5f447cf3-c02b-482f-b8b6-a668f6cc8261": {
             "name": "Undercroft Theater",
             "front": {
-                "text": "<for> Wenn dieser Ort enth\u00fcllt wird: Lies das Szenario-Intermezzo \u201eOpen Heart\u201c im Kampagnen-<br>leitfaden. (Maximal einmal pro Spiel.)\nFalls es an diesem Ort keine Hinweise gibt: <action> R\u00fccke die Szene vor. (Maximal einmal pro Spiel.)",
+                "text": "<for> Sobald dieser Ort enth\u00fcllt wird: Lies das <b>Szenario-Zwischenspiel: Aufgeschlossenes Herz </b> im Kampagnen-<br>leitfaden. (Maximal einmal pro Spiel.)\nFalls es an diesem Ort keine Hinweise gibt: <action> R\u00fccke die Szene vor. (Maximal einmal pro Spiel.)",
                 "flavor_text": "Das Wesen auf der Steinplatte bleibt vollkommen regungslos, obwohl unz\u00e4hlige H\u00e4nde nach ihm greifen...\n",
                 "victory": "Sieg 1.",
                 "traits": "Keller. Ritualst\u00e4tte."
@@ -909,7 +912,7 @@
         "b90810fd-e027-4d97-9d36-233dce4fd4a9": {
             "name": "Verfallendes Archiv",
             "front": {
-                "text": "Falls es an diesem Ort keine Hinweise gibt: <action> Lies das <b>Szenario-Zwischenspiel \u201eDie besten Pl\u00e4ne\u201c</b> im Kampagnenleitfaden. \n(Maximal einmal pro Spiel.)",
+                "text": "Falls es an diesem Ort keine Hinweise gibt: <action> Lies das <b>Szenario-Zwischenspiel: Die besten Pl\u00e4ne</b> im Kampagnenleitfaden. (Maximal einmal pro Spiel.)",
                 "flavor_text": "Die beeindruckende Sammlung an B\u00fcchern und Handschriften in der k\u00f6niglichen Bibliothek ist von F\u00e4ulnis befallen...",
                 "victory": "Sieg 1.",
                 "traits": "Erdgeschoss."
@@ -979,7 +982,7 @@
             "name": "Das Gefolge der Prinzessin",
             "front": {
                 "text": "Wagnis.\n<rev> Lies das Szenario-Zwischenspiel: Jungfrau in der Tiefe im Kampagnenleitfaden.",
-                "flavor_text": "Ein junges M\u00e4dchen treibt an der Wasseroberfl\u00e4che, umgeben von einer Schar wundersch\u00f6n bemalter Fische...",
+                "flavor_text": "Ein junges M\u00e4dchen treibt an der Wasseroberfl\u00e4che, umgeben von einer Schar wundersch\u00f6n bunter Fische...",
                 "victory": "Sieg 1.",
                 "traits": "Mysterium."
             },
@@ -1043,7 +1046,7 @@
         "919b02d6-9046-48bc-8bb7-a44a7a15ae9f": {
             "name": "Flammenwoge",
             "front": {
-                "text": "<rev> F\u00fchre eine <agility>-Probe (3) durch. Wenn die Probe misslingt, h\u00e4nge <name> diese Karte an den n\u00e4chstgelegenen Ort ohne eine Kopie von <name> an. Maximal 1 pro Ort.\n<for>Wenn die Ermittlerphase beginnt: Jeder Gegner und jeder Ermittler am angeh\u00e4ngten Ort erleidet 1 Schaden.",
+                "text": "<rev> F\u00fchre eine <agility>-Probe (3) durch. Wenn die Probe misslingt, h\u00e4nge <name> an den n\u00e4chstgelegenen Ort ohne eine Kopie von <name> an. Maximal 1 pro Ort.\n<for>Wenn die Ermittlerphase beginnt: Jeder Gegner und jeder Ermittler am angeh\u00e4ngten Ort erleidet 1 Schaden.",
                 "flavor_text": "Heftige Flammen schlagen aus Fackeln und Laternen empor und breiten sich rasch bis in die Dachsparren des Palastes aus...",
                 "traits": "Gefahr."
             },
@@ -1088,7 +1091,7 @@
         "7164cffa-5b98-4593-8646-aee2dd9c95ae": {
             "name": "Hypnotischer Strudel",
             "front": {
-                "text": "<rev> H\u00e4nge <name> an den n\u00e4chstgelegenen <t>Fluss</t>-Ort ohne eine Kopie von <name> an. Maximal 1 pro Ort.\n<for> Am Ende der Ermittlerphase: Jeder Ermittler an diesem Ort muss eine <willpower>-Probe (4) durchf\u00fchren. Falls die Probe misslingt, f\u00fchre eine <agility>-Probe (3) durch. Falls auch diese Probe misslingt, nimm 1 Schaden.",
+                "text": "<rev> H\u00e4nge <name> an den n\u00e4chstgelegenen <t>Fluss</t>-Ort ohne eine Kopie von <name> an. Maximal 1 pro Ort.\n<for> Am Ende der Ermittlerphase: Jeder Ermittler an diesem Ort muss eine <willpower>-Probe (4) durchf\u00fchren. Falls die Probe misslingt, f\u00fchre eine <agility>-<br>Probe (3) durch. Falls auch diese Probe misslingt, nimm 1 Schaden.",
                 "flavor_text": "Da unten ist irgendetwas...",
                 "traits": "Gefahr. "
             },
@@ -1115,7 +1118,7 @@
         "76f340ac-a34b-4781-9f78-582e1cb33354": {
             "name": "Phantomwirbel",
             "front": {
-                "text": "<rev> Falls Tyrische Galeere ersch\u00f6pft ist, erh\u00e4lt <name> Nachr\u00fcsten. Ansonsten, f\u00fchre eine <willpower>-Probe (3) durch. Falls die Probe misslingt, nimm 1 Horror und ersch\u00f6pfe die tyrische Galeere.",
+                "text": "<rev> Falls Tyrische Galeere ersch\u00f6pft ist, erh\u00e4lt <name> Nachr\u00fcsten. Ansonsten, f\u00fchre eine <willpower>-Probe (3) durch. Falls die Probe misslingt, nimm 1 Horror und ersch\u00f6pfe Tyrische Galeere.",
                 "flavor_text": "Die Haare im Nacken stehen dir zu Berge, w\u00e4hrend das Wasser in der N\u00e4he brodelt, als w\u00fcrde es von einem unsichtbaren Schiff aufgew\u00fchlt, und die Galeere ger\u00e4t in den Sog...",
                 "traits": "Schrecken."
             },
@@ -1248,7 +1251,7 @@
         "0d8e26e8-43ae-4f84-8497-208c3581cef4": {
             "name": "Koi-Verf\u00fchrerin",
             "front": {
-                "text": "J\u00e4ger 1.\n<prey> Geringster <agility>-Wert.\n<b>Vorteil -- </b> Ersch\u00f6pfe die tyrische Galeere, falls sie sich an deinem Ort befindet. (L\u00f6se den Vorteileffekt dieses Gegners aus, nachdem er dich in einen Kampf verwickelt.)",
+                "text": "J\u00e4ger 1.\n<prey> Geringster <agility>-Wert.\n<b>Vorteil -- </b> Ersch\u00f6pfe Tyrische Galeere, falls sie sich an deinem Ort befindet. (L\u00f6se den Vorteileffekt dieses Gegners aus, nachdem er dich in einen Kampf verwickelt.)",
                 "flavor_text": "Es hei\u00dft, die Nure-Onna w\u00fcrden verzweifelte M\u00fctter nachahmen, die nach ihren S\u00e4uglingen rufen, um \u201eHilfe\u201c von ahnungslosen Seeleuten und Fischern zu erbitten.",
                 "traits": "Humanoid. Yokai. Vampir."
             },
@@ -1303,7 +1306,7 @@
         "26035667-34a4-4e85-8262-fcc7a89687b2": {
             "name": "Urzeitlicher Dirigent",
             "front": {
-                "text": "Hinterhalt.\n<spawn> N\u00e4chsgelegener <t>Fluss</t>-Ort.\n<name> kann keine Nicht-<t>Fluss</t>-Orte betreten.",
+                "text": "Hinterhalt.\n<spawn> N\u00e4chstgelegener <t>Fluss</t>-Ort.\n<name> kann keine Nicht-<t>Fluss</t>-<br>Orte betreten.",
                 "flavor_text": "Von der G\u00f6ttin mit biologischer Unsterblichkeit gesegnet, wachen die uralten Dirigenten seit unz\u00e4hligen \u00c4onen \u00fcber diese Gew\u00e4sser. ",
                 "traits": "Kreatur. Aquatisch."
             },
@@ -1321,7 +1324,7 @@
         "2f53d528-be8d-4e93-ad69-3a5d9ea17c94": {
             "name": "Camera Obscura",
             "front": {
-                "text": "Du erh\u00e4ltst +1 <willpower>.\n<action> Wenn <name> bereit ist: <b>Ausweichen.</b> Addiere deine <Willpower> zu deinem Fertigkeitswert f\u00fcr diese Probe. Wenn du erfolgreich bist und es sich bei dem entkommenen Gegner um einen <t>Geist</t>- oder <t>Yokai</t>-Gegner handelt, kannst du <name> ersch\u00f6pfen, um ihm 1 Schaden zuzuf\u00fcgen.",
+                "text": "Du erh\u00e4ltst +1 <willpower>.\n<action> Wenn <name> bereit ist: <b>Ausweichen.</b> Addiere deine <Willpower> zu deinem Fertigkeitswert f\u00fcr diese Probe hinzu. Wenn die Probe erfolgreich ist und es sich bei dem entkommenen Gegner um einen <t>Geist</t>- oder <t>Yokai</t>-Gegner handelt, kannst du <name> ersch\u00f6pfen, um ihm 1 Schaden zuzuf\u00fcgen.",
                 "flavor_text": "Das seltsame Ger\u00e4t scheint seinen eigenen Phantomfilm zu erzeugen, der speziell daf\u00fcr entwickelt wurde, Bilder von Geistern aufzunehmen...",
                 "subtitle": "Gespenstisches Filament",
                 "traits": "Gegenstand. Werkzeug. Relikt. Okkult. "
@@ -1383,13 +1386,13 @@
                         "token": [
                             "cultist"
                         ],
-                        "text": "\u20131. Falls die Probe fehlschl\u00e4gt, f\u00fcge dem Chaosbeutel 1 <curse>-Marker hinzu."
+                        "text": "\u20131. Falls die Probe fehlschl\u00e4gt, f\u00fcge dem Chaosbeutel 1 <curse>-<br>Marker hinzu."
                     },
                     {
                         "token": [
                             "tablet"
                         ],
-                        "text": "\u20133. (stattdessen \u20132, wenn du eine bereite <t>Aspekt</t>-Story-Vorteilskarte kontrollierst.)"
+                        "text": "\u20133. (stattdessen \u20132, wenn du eine bereite <t>Aspekt</t>-<br>Storyvorteilskarte kontrollierst.)"
                     },
                     {
                         "token": [
@@ -1412,13 +1415,13 @@
                         "token": [
                             "cultist"
                         ],
-                        "text": "\u20132. Falls die Probe fehlschl\u00e4gt, f\u00fcge dem Chaosbeutel 1 <curse>-Marker hinzu."
+                        "text": "\u20132. Falls die Probe fehlschl\u00e4gt, f\u00fcge dem Chaosbeutel 1 <curse>-<br>Marker hinzu."
                     },
                     {
                         "token": [
                             "tablet"
                         ],
-                        "text": "\u20134. (stattdessen \u20133, wenn du eine bereite <t>Aspekt</t>-Story-Vorteilskarte kontrollierst.)"
+                        "text": "\u20134. (stattdessen \u20133, wenn du eine bereite <t>Aspekt</t>-<br>Storyvorteilskarte kontrollierst.)"
                     },
                     {
                         "token": [
@@ -1438,7 +1441,7 @@
             },
             "back": {
                 "name": "Ein mulmiges Gef\u00fchl",
-                "text": "Der leitende Ermittler muss eine der beiseite gelegten Verratskarten Hypnotischer Strudel ziehen, die im beiseite gelegten <i>W\u00e4ssriges Weh</i>-Begegnungsset enthalten sind.\nMische den Rest des beiseite gelegten <i>W\u00e4ssriges Weh</i>-Begegnungssets und den Begegnungs-Ablagestapel in das Begegnungsdeck ein.\n",
+                "text": "Der leitende Ermittler muss eine der beiseite gelegten Verratskarten Hypnotischer Strudel ziehen, die im beiseite gelegten <i>Klammer Kummer</i>-Begegnungsset enthalten sind.\nMische den Rest des beiseite gelegten <i>Klammer Kummer</i>-Begegnungssets und den Begegnungs-Ablagestapel in das Begegnungsdeck.\n",
                 "flavor_text": "Das sanfte Wasser des Flusses wird immer unruhiger, w\u00e4hrend du es bef\u00e4hrst, als w\u00fcrde es auf deine Anwesenheit reagieren. In der Ferne tut sich eine Schlucht auf, doch der Schein des Mondes ist nun fast blendend und verwirrt dich, als wolle er die tosenden Stromschnellen verbergen..."
             }
         },
@@ -1460,7 +1463,7 @@
             },
             "back": {
                 "name": "Ohne Paddel",
-                "text": "Alle \u00fcberlebenden Ermittler sind besiegt und erleiden 1 psychisches Trauma.\n\n\n",
+                "text": "Alle \u00fcberlebenden Ermittler sind besiegt und erleiden 1 seelisches Trauma.\n\n\n",
                 "flavor_text": "Die Suche nach Miyu hat sich zu einem Kampf ums nackte \u00dcberleben entwickelt. Du bist ihrem Aufenthaltsort nicht n\u00e4her gekommen als zu Beginn, und der herannahende Nebel, der aus der Schlucht aufsteigt, verspottet dich, w\u00e4hrend er die Ufer verschlingt und dir jeden m\u00f6glichen Hafen vor den Augen verbirgt. Der stechende Schmerz in deinen Schl\u00e4fen wird st\u00e4rker, w\u00e4hrend das L\u00e4uten der Glocken lauter und n\u00e4her wird. Die Welt versinkt in Dunkelheit \u2026"
             }
         },
@@ -1482,7 +1485,7 @@
         "4d48285e-dc64-4e06-9ceb-f1c9cf65e613": {
             "name": "Angelschnur und Bleigewicht",
             "front": {
-                "text": "<obj> Ermittler an der Nebelschleier-Meerenge oder an der Kaskaden-Endstation k\u00f6nnen als Gruppe die erforderliche Anzahl an Hinweisen einsetzen, um voranzukommen.\n",
+                "text": "<obj> Ermittler an der Nebelschleier-Meerenge oder an der Kaskaden-Endstation k\u00f6nnen als Gruppe die erforderliche Anzahl an Hinweisen ausgeben, um vorzur\u00fccken.\n",
                 "flavor_text": "Es scheint, als sei Miyu auf dem Weg zu einem Ort namens \u201eOnigawa\u201c. Hier in der Gegend muss es einen Hinweis auf dessen Lage geben; hoffentlich k\u00f6nnt ihr ihn finden, bevor es zu sp\u00e4t ist."
             },
             "back": {
@@ -1494,7 +1497,7 @@
         "9c5e6b98-735e-4b3f-a879-2653708c825a": {
             "name": "Auf zum Angeln",
             "front": {
-                "text": "<obj> Die Ermittler k\u00f6nnen gemeinsam die erforderliche Anzahl an Hinweisen einsetzen, um vorzur\u00fccken.",
+                "text": "<obj> Die Ermittler k\u00f6nnen gemeinsam die erforderliche Anzahl an Hinweisen ausgeben, um vorzur\u00fccken.",
                 "flavor_text": "Die Dokumente, die ihr am Hafen gefunden habt, deuten darauf hin, dass Mayus Schwester m\u00f6glicherweise \u00fcber den Fluss transportiert wurde. Miyu ist da drau\u00dfen, irgendwo, und ihr habt ein seet\u00fcchtiges Schiff \u2026 Zeit, sich an die Arbeit zu machen."
             },
             "back": {
@@ -1587,18 +1590,18 @@
             }
         },
         "4a66aac1-c67f-432f-b77a-d4ac69d0283e": {
-            "name": "Jagged Atoll",
+            "name": "Zerkl\u00fcftetes Atoll",
             "front": {
-                "text": "<for> When <name> is revealed: Place 1 doom on the current agenda.",
-                "flavor_text": "The architecture of the ominous isle \nsuggests military significance...",
-                "victory": " Victory 1.",
-                "traits": "Island. River."
+                "text": "<for> Sobald <name> enth\u00fcllt wird: Platzieren 1 Verderben auf der aktuellen Agenda.",
+                "flavor_text": "Die Architektur der unheimlichen Insel l\u00e4sst auf eine milit\u00e4rische Bedeutung schlie\u00dfen...",
+                "victory": "Sieg 1.",
+                "traits": "Insel. Fluss."
             },
             "back": {
-                "name": "Uncharted Wetlands",
+                "name": "Unerforschte Feuchtgebiete",
                 "text": "",
                 "flavor_text": "Der m\u00e4andernde Fluss zweigt sich in mehrere kleine Nebenfl\u00fcsse auf, die allerlei Gegenden von Interesse entlang des Deltas verbergen.",
-                "traits": "River."
+                "traits": "Fluss."
             }
         },
         "f63ba9a6-950b-4842-8b2b-a1dc3bd05852": {
@@ -1618,7 +1621,7 @@
         "42dc447e-2e0d-46ec-8d73-f6be92eab423": {
             "name": "Sandiger Schrein",
             "front": {
-                "text": "<free>: <i>Sprich ein Gebet.</i> Mache eine <t>Aspekt</t>-Vorteilskarte, die du kontrollierst bereit. <i>(Maximal einmal pro Spiel.)</i>",
+                "text": "<free>: <i>Sprich ein Gebet.</i> Mache eine <t>Aspekt</t>-<br>Vorteilskarte, die du kontrollierst bereit. <i>(Maximal einmal pro Spiel.)</i>",
                 "flavor_text": "Eine gro\u00dfe Steinstatue ragt \u00fcber dem Tor, deren Schatten die dunklen Gesch\u00e4fte der Wegelagerer verdeckt.",
                 "subtitle": "Ehre unter Dieben?",
                 "traits": "Heiligtum."
@@ -1671,7 +1674,7 @@
         "f1843a75-2d59-4204-b1dd-f00c39db58d6": {
             "name": "Im Schatten der Braut",
             "front": {
-                "text": "<rev> \u00dcberpr\u00fcfe das Kampagnenlogbuch. Wenn <i>Die Ermittler Mayu aus den F\u00e4ngen der blassen Braut\u201c</i> gerettet haben, bringe <name> in deiner Bedrohungszone ins Spiel. Andernfalls erh\u00e4lt <name> Nachr\u00fcsten.\n<for> Wenn du eine Fertigkeitsprobe bestehen w\u00fcrdest: Stattdessen scheiterst du automatisch bei dieser Probe. Wirf <name> ab.",
+                "text": "<rev> \u00dcberpr\u00fcfe das Kampagnenlogbuch. Falls <i>die Ermittler Mayu aus den F\u00e4ngen der blassen Brautgerettet haben</i> , bringe <name> in deiner Bedrohungszone ins Spiel. Andernfalls erh\u00e4lt <name> Nachr\u00fcsten.\n<for> Falls du eine Fertigkeitsprobe bestehen w\u00fcrdest: Stattdessen misslingt die Probe automatisch. Lege <name> ab.",
                 "flavor_text": "Sie ist fort \u2026 aber sie wird dich niemals loslassen.",
                 "traits": "Fluch."
             },
@@ -1724,7 +1727,8 @@
                         "text": "\u20134. Falls die Probe misslingt, bringe die oberste Karte des Rally-Decks ins Spiel und handle ihren Enth\u00fcllungseffekt ab."
                     }
                 ],
-                "difficulty": "LEICHT/NORMAL"
+                "difficulty": "LEICHT/NORMAL",
+                "chaos_extra": "Rally-Deck"
             },
             "back": {
                 "entries": [
@@ -1753,13 +1757,14 @@
                         "text": "\u20134. Nachdem die Probe endet, bringe die oberste Karte des Rally-Decks ins Spiel und handle ihren Enth\u00fcllungseffekt ab."
                     }
                 ],
-                "difficulty": "SCHWER/EXPERTE"
+                "difficulty": "SCHWER/EXPERTE",
+                "chaos_extra": "Rally Deck"
             }
         },
         "0167c0b8-6fcc-4850-ae26-5feb31787505": {
             "name": "Der letzte Widerstand",
             "front": {
-                "text": "<t>Elite</t>-Gegner im Spiel erhalten J\u00e4ger 1.\n<for> Zu Beginn der Ermittlerphase: Mische alle <t>Doktrin</t>-Karten im Spiel in das Rally-Deck, bringe dann die oberste Karte des Rally-Decks ins Spiel und f\u00fchre ihren <b>Enth\u00fcllungs</b>-Effekt aus. <i>(Lege diese Karte nach ihrer Abhandlung nicht ab; sie bleibt bis zu Beginn der n\u00e4chsten Ermittlerphase im Spiel.)</i>",
+                "text": "<t>Elite</t>-Gegner im Spiel erhalten J\u00e4ger 1.\n<for> Zu Beginn der Ermittlerphase: Mische alle <t>Doktrin</t>-<br>Karten im Spiel in das Rally-Deck, bringe dann die oberste Karte des Rally-Decks ins Spiel und f\u00fchre ihren <b>Enth\u00fcllungs</b>-Effekt aus. <i>(Lege diese Karte nach ihrer Abhandlung nicht ab; sie bleibt bis zu Beginn der n\u00e4chsten Ermittlerphase im Spiel.)</i>",
                 "flavor_text": "The sounds of fighting die down as Onigawa's ghostly defenders make one last desperate attempt to repel the invaders..."
             },
             "back": {
@@ -1824,7 +1829,7 @@
             },
             "back": {
                 "name": "Auf in die Schlacht!",
-                "text": "Bringe die beiseite gelegte Nachtigallen-Vorhalle verdeckt ins Spiel. Bringe das beiseite gelegte Story-Element Purpurroter Schmetterling (<i>Blendender Wegweiser</i>) im K\u00f6nigspalast ins Spiel.\nWenn Yuki Yagami einer der Ermittler in der Kampagne ist, muss dieser Spieler heimlich <b>Szenario-Zwischenspiel: Versiegelt</b> im Kampagnenleitfaden lesen.\nWenn es sich um Agenda 2a handelt, r\u00fccke vor.\n\n\n",
+                "text": "Bringe die beiseite gelegte Nachtigallen-Vorhalle verdeckt ins Spiel. Bringe die beiseitegelegte Storyvorteilskarte Purpurroter Schmetterling (<i>Blendender Wegweiser</i>) im K\u00f6nigspalast ins Spiel.\nWenn Yuki Yagami einer der Ermittler in der Kampagne ist, muss dieser Spieler heimlich <b>Szenario-Zwischenspiel: Versiegelt</b> im Kampagnenleitfaden lesen.\nWenn es sich um Agenda 2a handelt, r\u00fccke vor.\n\n\n",
                 "flavor_text": "Wieder einmal hast du fast die ganze Stadt abgesucht, aber keine Spur von Miyu gefunden. Anscheinend haben sich Mitglieder des Hofes w\u00e4hrend der Belagerung im Palast verschanzt, doch ein magischer Schutzzauber, der den Eingang versiegelt, hindert dich daran, ins Innere zu gelangen. Gerade als du zu verzweifeln beginnst, taucht ein vertrautes rotes Leuchten im Innenhof auf \u2026"
             }
         },
@@ -1908,7 +1913,7 @@
         "ce994fbe-0181-43e1-82a2-4724abf84a9a": {
             "name": "Paraselen Plaza",
             "front": {
-                "text": "<t>Aspekt</t>-Story-Vorteilskarten, die von Ermittlern am <name> kontrolliert werden, werden in der Unterhaltsphase nicht bereit gemacht.",
+                "text": "<t>Aspekt</t>-Storyvorteilskarten, die von Ermittlern am <name> kontrolliert werden, werden in der Unterhaltsphase nicht bereit gemacht.",
                 "flavor_text": "Ein Wirbel aus Kirschbl\u00fcten umkreist einen verwelkten jungen Baum am anderen Ende des Hofes. Vielleicht ein l\u00e4ngst vergessener Vorfahr des Baumes, den du im Wald gesehen hast?",
                 "traits": "Stadt. Zentral."
             },
@@ -1948,7 +1953,7 @@
         "1efd5189-48a1-4675-889f-7c859ba1e93f": {
             "name": "T\u00fcckischer Anstieg",
             "front": {
-                "text": "<for> Nachdem du dich zu <name> bewegt hast: F\u00fchre eine <agility>-Probe (3) durch. Falls die Probe misslingt, nimm 1 Schaden.",
+                "text": "<for> Nachdem du dich zu <name> bewegt hast: F\u00fchre eine <agility>-<br>Probe (3) durch. Falls die Probe misslingt, nimm 1 Schaden.",
                 "flavor_text": "Die schlechte Zug\u00e4nglichkeit der Festung verschafft den Verteidigern einen erheblichen Vorteil.",
                 "traits": "Stufen."
             },
@@ -1959,9 +1964,9 @@
             }
         },
         "c3f2f2ce-1e2b-475c-889b-3e19dd109051": {
-            "name": "Verwirrende Serpentinenstra\u00dfe",
+            "name": "<size 95>Verwirrende Serpentinenstra\u00dfe",
             "front": {
-                "text": "<for> Wenn ein Ermittler sich von <name> an einen unbekannten Ort bewegen m\u00f6chte: F\u00fchre eine <Willpower>-Probe (3) durch. Falls die Probe misslingt wird die Bewegung aufgehoben.<i>(die Kosten m\u00fcssen trotzdem bezahlt werden)</i>.",
+                "text": "<for> Wenn ein Ermittler sich von Verwirrende Serpentinenstra\u00dfe an einen unbekannten Ort bewegen m\u00f6chte: F\u00fchre eine <Willpower>-Probe (3) durch. Falls die Probe misslingt wird die Bewegung aufgehoben.<i>(die Kosten m\u00fcssen trotzdem bezahlt werden)</i>.",
                 "flavor_text": "Die kurvenreiche Stra\u00dfe scheint eigens daf\u00fcr konzipiert zu sein, den Uneingeweihten zu verwirren und die Orientierung zu rauben.",
                 "traits": "Stadt. Durchgang."
             },
@@ -2010,7 +2015,7 @@
         "bcc82d44-4061-4988-bafc-c7a06fe93ce1": {
             "name": "Dem Pantheon dienen",
             "front": {
-                "text": "<rev> Ersch\u00f6pfe jede <t>Aspekt</t>-Story-Vorteilskarte, die von einem Ermittler kontrolliert wird. <t>Aspekt</t>-Vorteilskarten, die von Ermittlern kontrolliert werden, werden in der Unterhaltsphase nicht spielbereit gemacht.",
+                "text": "<rev> Ersch\u00f6pfe jede <t>Aspekt</t>-<br>Storyvorteilskarte, die von einem Ermittler kontrolliert wird. <t>Aspekt</t>-Vorteilskarten, die von Ermittlern kontrolliert werden, werden in der Unterhaltsphase nicht spielbereit gemacht.",
                 "flavor_text": "Die Schutzbarrieren, die Onigawa umgaben, wurden geschw\u00e4cht, als der ungest\u00fcme Prinz des g\u00f6ttlichen Pantheons auf dem Berg Kokoro gefangen gehalten wurde.",
                 "traits": "Doktrin. Erinnerung."
             },
@@ -2019,7 +2024,7 @@
         "4d0e6a2f-63c8-42ac-9d2d-b860fa5570d4": {
             "name": "Den Bund einhalten",
             "front": {
-                "text": "<rev> Jeder Ermittler muss eine <t>Aspekt</t>-Story-Vorteilskarte, die er kontrolliert ersch\u00f6pfen. Jeder Ermittler, der dies nicht kann, muss stattdessen 1 direkten Schrecken nehmen.",
+                "text": "<rev> Jeder Ermittler muss eine <t>Aspekt</t>-<br>Storyvorteilskarte, die er kontrolliert ersch\u00f6pfen. Jeder Ermittler, der dies nicht kann, muss stattdessen 1 direkten Schrecken nehmen.",
                 "flavor_text": "Das Zerbrechen von Onigawas Bund mit den W\u00e4chtern war f\u00fcr alle sp\u00fcrbar, die zuvor ihren g\u00f6ttlichen Schutz genossen hatten.",
                 "traits": "Doktrin. Erinnerung."
             },
@@ -2055,7 +2060,7 @@
         "9871174d-f0ea-45df-9187-83b4be1035f3": {
             "name": "Die Toten ehren",
             "front": {
-                "text": "<rev> Bis zum Ende der Runde kannst du, wann immer ein Gegner, der kein <t>Elite</t> ist, abgelegt werden soll, ihn stattdessen wieder in den Begegnungsstapel mischen. Wenn du dies tust, erh\u00e4ltst  du einen Hinweis von seinem Ort.",
+                "text": "<rev> Bis zum Ende der Runde kannst du, wann immer ein Nicht-<t>Elite</t>-Gegner abgelegt werden soll, ihn stattdessen wieder in den Begegnungsstapel mischen. Wenn du dies tust, erh\u00e4ltst  du einen Hinweis von seinem Ort.",
                 "flavor_text": "Inmitten des Chaos der Belagerung griffen abtr\u00fcnnige Elemente innerhalb der Stadt zu immer verzweifelteren und gef\u00e4hrlicheren Mitteln, um Onigawas Verteidigung zu st\u00e4rken und ihre Verwundeten an die Front zur\u00fcckzubringen.",
                 "traits": "Doktrin. Erinnerung."
             },
@@ -2089,19 +2094,19 @@
             "back": {}
         },
         "0ffb27ce-a439-4f20-82b9-cc946ff048d8": {
-            "name": "<unique> Kayako",
+            "name": "<unique>Kayako",
             "front": {
                 "text": "J\u00e4ger 2.\n<spawn> Trostloser Ankerplatz.\n<b>Rache</b> -- Anstatt Kayako abzulegen, entferne allen Schaden und Verderben von ihr, dann ersch\u00f6pfe Kakayo und bewege sie zu Trostloser Ankerplatz.",
-                "flavor_text": "Jahrhunderte sind vergangen, doch die Jungfrau vom Schwarzen Wasser hegt immer noch ihren Groll\u2026",
-                "subtitle": "Jungfrau vom Schwarzen Wasser",
-                "traits": "Yokai. Elite. Cursed."
+                "flavor_text": "Jahrhunderte sind vergangen, doch die Jungfrau des Schwarzwassers hegt immer noch ihren Groll\u2026",
+                "subtitle": "Jungfrau des Schwarzwassers",
+                "traits": "Yokai. Elite. Verflucht."
             },
             "back": {}
         },
         "9d6c6700-0e3c-4877-9b85-16774381c9c3": {
             "name": "Unverziehen",
             "front": {
-                "text": "Wagnis.\n<rev> Wenn Kayako im Spiel ist, lege 1 Verderben auf sie und heile den gesamten Schaden von ihr. Ansonsten suche Kayako <i>(Jungfrau des Schwarzen Wassers)</i> im Begegnungsdeck und ziehe sie. Mische den Begegnungsstapel.",
+                "text": "Wagnis.\n<rev> Wenn Kayako im Spiel ist, lege 1 Verderben auf sie und heile den gesamten Schaden von ihr. Ansonsten suche Kayako <i>(Jungfrau des Schwarzwassers)</i> im Begegnungsdeck und ziehe sie. Mische den Begegnungsstapel.",
                 "flavor_text": "Sie hat es nicht vergessen \u2026 und vergeben hat sie es auch nicht.",
                 "traits": "Omen."
             },
@@ -2180,7 +2185,7 @@
         "6859abcd-3f68-4305-972f-915617f38ee4": {
             "name": "Unbarmherziger Pl\u00fcnderer",
             "front": {
-                "text": "<b>Vorteil</b> -- Lege eine Nicht-Schw\u00e4che-Karte von deiner Hand ab. <i>(F\u00fchre den Vorteil-Effekt jedes Mal aus, wenn dieser Gegner in einen Kampf verwickelt wird.)</i>\n<b>Rache</b> -- Heile 1 Schaden von einem Ermittler an deinem Ort. <i>(Nachdem du diesen Gegner besieht hast, musst du den Rache-Effekt sofort ausl\u00f6sen, falls m\u00f6glich.)</i>",
+                "text": "<b>Vorteil</b> -- Lege eine Nicht-Schw\u00e4che-Karte von deiner Hand ab. \n<b>Rache</b> -- Heile 1 Schaden von einem Ermittler an deinem Ort. ",
                 "flavor_text": "Die Befehle der Invasoren waren eindeutig: Niemand durfte nach Hause zur\u00fcckkehren, bevor sie den Palast eingenommen hatten.",
                 "traits": "Humanoid. Geist. Verflucht."
             },
@@ -2203,7 +2208,7 @@
         "52cb680d-2cf0-41fe-9c79-7b6fd3a0afba": {
             "name": "Blick des Waisenkindes",
             "front": {
-                "text": "<for> Sobald <name> enth\u00fcllt wurde: F\u00fcge dem Chaosbeutel 1<per_large> <curse>-Marker hinzu. Wenn das nicht m\u00f6glich ist, platziere stattdessen 1 Verderben auf die aktuelle Agenda.",
+                "text": "<for> Sobald <name> enth\u00fcllt wurde: F\u00fcge dem Chaosbeutel 1<per_large> <curse>-<br>Marker hinzu. Wenn das nicht m\u00f6glich ist, platziere stattdessen 1 Verderben auf die aktuelle Agenda.",
                 "flavor_text": "Eine beunruhigende Skulptur, die das Gesicht eines jungen M\u00e4dchens darstellt und in die Wand eingelassen ist, starrt einen mit ihren leeren Augen an...",
                 "traits": "Erdgeschoss."
             },
@@ -2244,7 +2249,7 @@
                 "flavor_text": "Lady Bai war einst die Hofapothekerin und kannte sich bestens mit der Anwendung und Behandlung exotischer Gifte aus. Als sie w\u00e4hrend der Belagerung von einem verr\u00e4terischen Untergebenen hintergangen wurde, bot ihr der k\u00f6nigliche Puppenmacher einen Weg an, ihr \u201eLeben\u201c auf unbestimmte Zeit zu verl\u00e4ngern \u2026",
                 "subtitle": "Schlangen-Mannequin",
                 "victory": "Sieg 1.",
-                "traits": "Automata. Elite. Cursed."
+                "traits": "Automata. Elite. Verflucht."
             },
             "back": {}
         },
@@ -2262,7 +2267,7 @@
         "d9bbc939-b717-4d97-a77c-265355fc14bf": {
             "name": "<unique>Bondage-Mannequin",
             "front": {
-                "text": "J\u00e4ger 1.\n<spawn> Beliebiger leerer Ort.\n<for> Nachdem <name> sich bewegt: Platziere 1 Schaden auf <name>.\n",
+                "text": "J\u00e4ger 1.\n<spawn> Beliebiger leerer Ort.\n<for> Nachdem Bondage-Mannequin sich bewegt: Platziere 1 Schaden auf Bondage-Mannequin.\n",
                 "flavor_text": "Je verdorbener die Gel\u00fcste am Hof wurden, desto verdorbener wurden auch die Kreationen, mit deren Anfertigung der k\u00f6nigliche Puppenmacher beauftragt war...",
                 "subtitle": "Das Vergn\u00fcgen liegt ganz bei ihr",
                 "victory": "Sieg 1.",
@@ -2292,7 +2297,7 @@
             "back": {}
         },
         "517398bd-4c05-4dbd-a197-3e0c8c9d0dbb": {
-            "name": "Augustende",
+            "name": "Das Ende des Augusts",
             "front": {
                 "entries": [
                     {
@@ -2320,7 +2325,8 @@
                         "text": "\u20134. Falls die Probe misslingt, platziere 1 Verderben auf den n\u00e4chstgelegenen <t>Schlange</t>-Gegner."
                     }
                 ],
-                "difficulty": "LEICHT/NORMAL"
+                "difficulty": "LEICHT/NORMAL",
+                "chaos_extra": "Hunting Grounds"
             },
             "back": {
                 "entries": [
@@ -2349,25 +2355,26 @@
                         "text": "\u20135. Falls die Probe misslingt, platziere 1 Verderben auf den n\u00e4chstgelegenen <t>Schlange</t>-Gegner."
                     }
                 ],
-                "difficulty": "SCHWER/EXPERTE"
+                "difficulty": "SCHWER/EXPERTE",
+                "chaos_extra": "Hunting Grounds"
             }
         },
         "c9617fd8-6e2c-4149-99e6-6e2be704a702": {
             "name": "Der Schlafende Riese",
             "front": {
-                "text": "<i>(Zur Erinnerung: <frost>-Marker haben den Modifikator </i>\u201e\u20131, decke einen weiteren Marker auf.<i>\u201c. Wenn w\u00e4hrend einer einzelnen Fertigkeitsprobe zwei <frost>-Marker gezogen werden, ist der Wurf automatisch fehlgeschlagen und du ziehst f\u00fcr diese Probe keine weiteren Marker.)</i>",
+                "text": "<i>(Zur Erinnerung: <frost>-Marker haben den Modifikator </i>\u201e\u20131, decke einen weiteren Marker auf.<i>\u201c. Wenn w\u00e4hrend einer einzelnen Fertigkeitsprobe zwei <frost>-Marker gezogen werden, misslingt die Probe automatisch und du ziehst f\u00fcr diese Probe keine weiteren Marker.)</i>",
                 "flavor_text": "Im Schatten des Kokoro-Berges wird die Luft um dich herum kalt. Der Boden vor dir ist mit elfenbeinfarbenen Flecken \u00fcbers\u00e4t, und die Feuchtigkeit deines nebligen Atems haftet an deinem Gesicht. Da dir die richtige Ausr\u00fcstung fehlt, vermutest du, dass du hier drau\u00dfen nicht lange durchhalten wirst..."
             },
             "back": {
                 "name": "Schl\u00e4ngeln",
-                "text": "F\u00fcge den beiseite gelegten Gegner Orochimaru <i>(Ewiger Schlummer)</i> dem Abschnitt \u201eJagdgr\u00fcnde\u201c der Szenariokarte hinzu. Er gilt f\u00fcr den Rest des Szenarios stets als im Spiel befindlich.\nMische den Rest des Begegnungssets <i>Schlummernde Schlangen</i> und den Begegnungs-Ablagestapel in das Begegnungsdeck.\n\n",
+                "text": "F\u00fcge den beiseitegelegten Gegner Orochimaru <i>(Ewiger Schlummer)</i> der Zone \u201eJagdgr\u00fcnde\u201c neben der Szenariokarte hinzu. Er gilt f\u00fcr den Rest des Szenarios stets als im Spiel befindlich.\nMische den Rest des Begegnungssets <i>Schlummernde Schlangen</i> und den Begegnungs-Ablagestapel in das Begegnungsdeck.\n\n",
                 "flavor_text": "W\u00e4hrend du den Pass erkundest, schl\u00e4ngelt sich der Weg vor dir um eine klaffende Schlucht, und als du diese \u00fcberquerst, h\u00e4ltst du einen Moment inne, um durch eine L\u00fccke im Nebel zu dem hinaufzuschauen, von dem du annimmst, dass es der Gipfel sein muss. Seltsamerweise scheint sich die Schneedecke um den Gipfel des Berges herum \u201eauszubeulen\u201c und sich spiralf\u00f6rmig um dessen Umfang zu winden. Du fragst dich, wie sich diese \u201enat\u00fcrliche\u201c Kuriosit\u00e4t erkl\u00e4ren l\u00e4sst, als das Mondlicht durch den d\u00fcnner werdenden Nebel dringt und von der seltsamen Substanz reflektiert wird, wodurch die schwache Kontur eines sechseckigen Musters sichtbar wird, das in die elfenbeinfarbene Oberfl\u00e4che eingraviert ist; es erinnert dich an ineinandergreifende Platten, denkst du. Oder vielleicht an Schuppen..."
             }
         },
         "a1509feb-8f5d-4dce-a99d-23ec6ef02e22": {
             "name": "Ein ophidischer Albtraum",
             "front": {
-                "text": "<i>(Zur Erinnerung: <frost>-Marker haben den Modifikator </i>\u201e\u20131, decke einen weiteren Marker auf.<i>\u201c. Wenn w\u00e4hrend einer einzelnen Fertigkeitsprobe zwei <frost>-Marker gezogen werden, ist der Wurf automatisch fehlgeschlagen und du ziehst f\u00fcr diese Probe keine weiteren Marker.)</i>",
+                "text": "<i>(Zur Erinnerung: <frost>-Marker haben den Modifikator </i>\u201e\u20131, decke einen weiteren Marker auf.<i>\u201c. Wenn w\u00e4hrend einer einzelnen Fertigkeitsprobe zwei <frost>-Marker gezogen werden, misslingt die Probe automatisch und du ziehst f\u00fcr diese Probe keine weiteren Marker.)</i>",
                 "flavor_text": "Anscheinend nutzt eine unvorstellbar gro\u00dfe Schlange den Berg Kokoro als Nistplatz. Die gute Nachricht ist, dass sie vorerst zu schlafen scheint; du hast zwar keine Chance, sie zu besiegen, aber wenn du vorsichtig bist und Gl\u00fcck hast, kannst du dich vielleicht an ihr vorbeischleichen..."
             },
             "back": {
@@ -2384,7 +2391,7 @@
             },
             "back": {
                 "name": "Jagdgr\u00fcnde",
-                "text": "Jeder Ermittler verliert alle seine Hinweise.\nF\u00fcge dem Chaosbeutel 1<frost>-Marker hinzu.\nNimm das beiseitegelegte Begegnungsset <i>Winterwinde</i> und lasse den beiseitegelegten Gegner Yuki-onna <i>(Die Mondk\u00f6nigin)</i> am Kokoro-Zugang erscheinen. Platziere anschlie\u00dfend 1 Hinweis auf Yuki-onna <i>(aus dem Markerpool.)</i> Mische den Rest des Begegnungssets <i>Winterwinde</i> und den Begegnungs-Ablagestapel in das Begegnungsdeck.",
+                "text": "Jeder Ermittler verliert alle seine Hinweise.\nF\u00fcge dem Chaosbeutel 1<frost>-Marker hinzu.\nNimm das beiseitegelegte Begegnungsset <i>Winde des Winters</i> und lasse den beiseitegelegten Gegner Yuki-onna <i>(Die Mondk\u00f6nigin)</i> am Weg zum Kokoro erscheinen. Platziere anschlie\u00dfend 1 Hinweis auf Yuki-onna <i>(aus dem Markerpool.)</i> Mische den Rest des Begegnungssets <i>Winde des Winters</i> und den Begegnungs-Ablagestapel in das Begegnungsdeck.",
                 "flavor_text": "Dein Marsch durch den Schnee kommt zum Stillstand, und du beschlie\u00dft, einen Moment innezuhalten, um wieder zu Atem zu kommen. Du stehst mitten auf einer weiten, offenen Ebene und machst dich auf das Schlimmste gefasst, als der Schneesturm um dich herum an St\u00e4rke zunimmt und sich zu einem immer heftiger werdenden Froststurm aufbaut. Deine Sicht sinkt auf nahezu null, und dir wird pl\u00f6tzlich bewusst, wie verwundbar du hier drau\u00dfen bist \u2013 allein und schutzlos. Du blinzelst, um den Schnee aus deinen Augen zu wischen, und als du sie wieder \u00f6ffnest, stellst du fest, dass du in der Mitte eines gro\u00dfen burgunderroten Kreises stehst, der aussieht, als w\u00e4re er gerade erst auf den lockeren Schnee gemalt worden. Das Glitzern ferner Gl\u00f6ckchen hallt \u00fcberall um dich herum wider..."
             }
         },
@@ -2408,7 +2415,7 @@
             },
             "back": {
                 "name": "Schutz finden",
-                "text": "<b>Falls die Gegnerin Yuki-onna <i> (Die Mondk\u00f6nigin) </i> im Spiel war, w\u00e4hrend die Szene vorger\u00fcckt ist:</b>\n<blockquote>Bevor du die Festung betrittst, wirfst du noch einen letzten, vorsichtigen Blick zur\u00fcck in den heulenden Schneesturm. Die Hexe, die dich verfolgt hat, ist immer noch irgendwo da drau\u00dfen \u2026 Du kannst nur hoffen, dass sie, was auch immer dieser Ort sein mag, sich genauso davor f\u00fcrchtet, ihn zu betreten, wie du \u2026</blockquote>\n(<resolution><b>A1</b>)\n<hr>\n<b>Falls der Gegner Yuki-onna <i> (Die Mondk\u00f6nigin) </i> zu Beginn der Szene im Siegpunktestapel war:</b>\n<blockquote>W\u00e4hrend du die Treppe zur Festung hinaufsteigst, kehren deine Gedanken zu der Hexe zur\u00fcck, die dich zuvor \u00fcberfallen hat. Was auch immer dieser Ort ist \u2013 sie schien verzweifelt versucht zu sein, dich davon abzuhalten, ihn zu erreichen \u2026 Du kannst nur hoffen, dass du keinen Fehler begangen hast, indem du hierhergekommen bist.</blockquote>\n(<resolution><b>A2</b>)"
+                "text": "<b>Falls der Gegner Yuki-onna <i> (Die Mondk\u00f6nigin) </i> im Spiel war, w\u00e4hrend die Szene vorger\u00fcckt ist:</b>\n<blockquote>Bevor du die Festung betrittst, wirfst du noch einen letzten, vorsichtigen Blick zur\u00fcck in den heulenden Schneesturm. Die Hexe, die dich verfolgt hat, ist immer noch irgendwo da drau\u00dfen \u2026 Du kannst nur hoffen, dass sie, was auch immer dieser Ort sein mag, sich genauso davor f\u00fcrchtet, ihn zu betreten, wie du \u2026</blockquote>\n(<resolution><b>A1</b>)\n<hr>\n<b>Falls der Gegner Yuki-onna <i> (Die Mondk\u00f6nigin) </i> zu Beginn der Szene im Siegpunktestapel war:</b>\n<blockquote>W\u00e4hrend du die Treppe zur Festung hinaufsteigst, kehren deine Gedanken zu der Hexe zur\u00fcck, die dich zuvor \u00fcberfallen hat. Was auch immer dieser Ort ist \u2013 sie schien verzweifelt versucht zu sein, dich davon abzuhalten, ihn zu erreichen \u2026 Du kannst nur hoffen, dass du keinen Fehler begangen hast, indem du hierhergekommen bist.</blockquote>\n(<resolution><b>A2</b>)"
             }
         },
         "fd298832-9b3d-4853-bf97-d02fbb175a1a": {
@@ -2484,7 +2491,7 @@
         "fa8ae1b1-9b29-4380-b42c-8c44243dabe8": {
             "name": "Gefrorener Altar",
             "front": {
-                "text": "<free>: <i>Sprich ein Gebet.</i> Mache eine <t>Aspekt</t>-Vorteilskarte bereit, die du kontrollierst. <i>(Maximal einmal pro Spiel.)</i>",
+                "text": "<free>: <i>Sprich ein Gebet.</i> Mache eine <t>Aspekt</t>-<br>Vorteilskarte bereit, die du kontrollierst. <i>(Maximal einmal pro Spiel.)</i>",
                 "flavor_text": "Einst von den Rangern des Augusts sorgf\u00e4ltig gepflegt, ruht der Schrein dieses W\u00e4chters nun in einem eisigen Grab.",
                 "subtitle": "Schrein von Yukihyo",
                 "victory": "Sieg 1.",
@@ -2544,7 +2551,7 @@
         "d634cd5d-87f7-46c1-8e8c-ad2be787a3e9": {
             "name": "Schweflige Quellen",
             "front": {
-                "text": "<action>: <i>Annehmlichkeiten des \"Alltags\"</i>. Du kannst entweder 1 Schad und 1 Horror deines Ermittlers heilen oder den Chaosbeutel nach 1 <frost>-Marker durchsuchen und diesen in den Markervorrat zur\u00fccklegen.<i>(Maximal einmal pro Ermittler.)</i>",
+                "text": "<action>: <i>Annehmlichkeiten des \"Alltags\"</i>. Du kannst entweder 1 Schaden und 1 Horror deines Ermittlers heilen oder den Chaosbeutel nach 1 <frost>-Marker durchsuchen und diesen in den Markervorrat zur\u00fccklegen.<i>(Maximal einmal pro Ermittler.)</i>",
                 "flavor_text": "Die vulkanische Aktivit\u00e4t des Berges hat eine Reihe von geothermischen Becken entstehen lassen, die st\u00e4ndig durch schmelzendes Gletschereis gespeist werden.",
                 "traits": "Berg. Lagerplatz."
             },
@@ -2601,7 +2608,7 @@
         "a541191b-4ab7-4afd-8aa5-0e19df8e9040": {
             "name": "Gehirnfrost",
             "front": {
-                "text": "<rev>  Enth\u00fclle einen zuf\u00e4lligen Marker aus dem Chaosbeutel. Falls es ein <auto_fail>- oder <frost>-Marker ist, nimm 1 Horror. Ansonsten f\u00fcge dem Chaosbeutel einen <frost>-Marker hinzu. Falls dies nicht m\u00f6glich ist, f\u00fcge der Agenda 1 Verderben hinzu.",
+                "text": "<rev>  Enth\u00fclle einen zuf\u00e4lligen Marker aus dem Chaosbeutel. Falls es ein <auto_fail>- oder <frost>-<br>Marker ist, nimm 1 Horror. Ansonsten f\u00fcge dem Chaosbeutel einen <frost>-Marker hinzu. Falls dies nicht m\u00f6glich ist, f\u00fcge der Agenda 1 Verderben hinzu.",
                 "flavor_text": "Du zitterst, als die Luft um dich herum sp\u00fcrbar k\u00e4lter wird...",
                 "traits": "Gefahr."
             },
@@ -2610,7 +2617,7 @@
         "cadd9435-8920-4867-a9e2-b36c695e1e0a": {
             "name": "D\u00fcnnes Eis",
             "front": {
-                "text": "<rev> H\u00e4nge <name> an den n\u00e4chstgelegenen nicht enth\u00fcllten <t>Berg</t>-Ort ohne Kopie von <name> an. Maximal 1 pro Ort.\n<for> Sobald die Ermittlerphase endet: Jeder Ermittler an diesem Ort muss einen zuf\u00e4lligen Marker aus dem Chaosbeutel enth\u00fcllen. Falls ein <frost>-Marker enth\u00fcllt wird, nimm 2 Schaden.",
+                "text": "<rev> H\u00e4nge <name> an den n\u00e4chstgelegenen nicht enth\u00fcllten <t>Berg</t>-Ort ohne Kopie von <name> an. Maximal 1 pro Ort.\n<for> Sobald die Ermittlerphase endet: Jeder Ermittler an diesem Ort muss einen zuf\u00e4lligen Marker aus dem Chaosbeutel enth\u00fcllen. Falls ein <frost>-<br>Marker enth\u00fcllt wird, nimm 2 Schaden.",
                 "flavor_text": "\u201eDas wird schon gut gehen \u2026 wahrscheinlich.\u201c",
                 "traits": "Gefahr."
             },
@@ -2628,7 +2635,7 @@
         "b52c4b49-3e0e-4c55-85fa-29b962889e01": {
             "name": "<unique>Jorogumo",
             "front": {
-                "text": "J\u00e4ger 1.\n<prey> Geringster <agility>-Wert.\n<b>Vorteil </b>-- Bis zum Ende der Runde muss als zus\u00e4tzliche Kosten, um sich vom Ort von <name> wegzubewegen, eine zus\u00e4tzliche Aktion ausgegeben werden.",
+                "text": "J\u00e4ger 1.\n<prey> Geringster <agility>-Wert.\n<b>Vorteil </b>-- Bis zum Ende der Runde muss als zus\u00e4tzliche Kosten, um sich vom Ort von Jorogumo wegzubewegen, eine zus\u00e4tzliche Aktion ausgegeben werden.",
                 "flavor_text": "Die Jorugumo ist daf\u00fcr bekannt, als Ehevermittlerin zu fungieren und stets auf der Suche nach geeigneten Partnern f\u00fcr ihre unz\u00e4hligen \u201eT\u00f6chter\u201c zu sein...",
                 "subtitle": "Weber des verworrenen Netzes",
                 "victory": "Sieg 1.",
@@ -2670,7 +2677,7 @@
         "2660a523-6f3d-497f-9502-7c2e0419e972": {
             "name": "Den Schl\u00e4fer erwecken",
             "front": {
-                "text": "Wagnis.\n<rev> Falls Orochimaru <i>(Ewiger Schlummer)</i> im Spiel ist, drehe ihn um. F\u00fchre eine <agility>-Probe (3) durch. Falls die Probe misslingt, mische <Name> zur\u00fcck in den Begegnungsstapel, und Orochimaru <i>(Fluch des August)</i> greift dich sofort an.",
+                "text": "Wagnis.\n<rev> Falls Orochimaru <i>(Ewiger Schlummer)</i> im Spiel ist, drehe ihn um. F\u00fchre eine <agility>-Probe (3) durch. Falls die Probe misslingt, mische Den Schl\u00e4fer erwecken zur\u00fcck in das Begegnungsdeck, und Orochimaru <i>(Fluch des August)</i> greift dich sofort an.",
                 "flavor_text": "Du sp\u00fcrst, wie der Berg Kokoro vor Angst erbebt, als sich die alabasterfarbene Schlange wieder der Jagd anschlie\u00dft. Es gibt kein Versteck mehr \u2026",
                 "traits": "Patzer."
             },
@@ -2679,7 +2686,7 @@
         "6887b82b-3762-4e8b-88b2-2043d2510473": {
             "name": "Lawine!",
             "front": {
-                "text": "<rev> F\u00fchre eine <agility>-Probe (3) durch. Falls die Probe misslingt, nimm 1 Schaden und bewege dich f\u00fcr jeden Punkt, um den die Probe misslungen ist in Richtung des n\u00e4chstgelegenen <t>Ebenen</t>-Ortes.",
+                "text": "<rev> F\u00fchre eine <agility>-Probe (3) durch. Falls die Probe misslingt, nimm 1 Schaden und bewege dich f\u00fcr jeden Punkt, um den die Probe misslungen ist in Richtung des n\u00e4chstgelegenen <t>Ebene</t>-Ortes.",
                 "flavor_text": "Das Winden der Schlange hat den Boden aufgelockert; man h\u00f6rt das Rauschen des Windes, nur wenige Augenblicke bevor man sp\u00fcrt, wie der Boden unter den F\u00fc\u00dfen bebt...",
                 "traits": "Gefahr."
             },
@@ -2821,14 +2828,14 @@
             },
             "back": {
                 "name": "M\u00fche und Not",
-                "text": "Bringe die beiseitegelegten Orte Brandschneise und Amboss der Sch\u00f6pfung verdeckt ins Spiel. Anschlie\u00dfend m\u00fcssen die Ermittler entscheiden <i>(w\u00e4hle eine Option)</i>:\n<hr>\n<bi><bullet> Sabotiere die Gie\u00dferei: </bi>\nBringe den beiseitegelegten Ort Fokussierende Blende verdeckt ins Spiel und entferne das aktuelle Szenen-Deck aus dem Spiel. Bringe die beiseite gelegten Szenen 2a und 3a als neuen Szenen-Deck ins Spiel.\n<hr>\n<bi><bullet>Die Schmiede in Beschlag nehmen.</bi>\nBringe den beiseite gelegten Ort Schmelztiegel verdeckt ins Spiel und entferne das aktuelle Szenen-Deck aus dem Spiel. Bringe die beiseite gelegten Szenen 2c und 3c als neuen Szenen-Deck ins Spiel.",
-                "flavor_text": "Der L\u00f6wenanteil des Erzes und des Magmas scheint entweder in Kan\u00e4le umgeleitet zu werden, die einen gro\u00dfen, geschw\u00e4rzten Amboss versorgen, der auf einer Granitplattform nahe dem Scheitelpunkt des Vulkans ruht, oder ein un\u00fcberwindbares, loderndes Portal nahe der oberen Caldera zu befeuern. Vielleicht gelingt es dir, die Mechanismen, die diese antreiben, zu st\u00f6ren \u2026 oder die Maschinerie sogar zu deinem Vorteil zu nutzen?\n"
+                "text": "Bringe die beiseitegelegten Orte Brandschneise und Amboss der Entstehung verh\u00fcllt ins Spiel. Anschlie\u00dfend m\u00fcssen die Ermittler entscheiden <i>(w\u00e4hle eine Option)</i>:\n<hr>\n<bi><bullet> Sabotiere die Gie\u00dferei: </bi>\nBringe den beiseitegelegten Ort Fokussierende Blende verh\u00fcllt ins Spiel und entferne das aktuelle Szenen-Deck aus dem Spiel. Bringe die beiseite gelegten Szenen 2a und 3a als neues Szenen-Deck ins Spiel.\n<hr>\n<bi><bullet>Die Schmiede in Beschlag nehmen.</bi>\nBringe den beiseite gelegten Ort Schmelztiegel verh\u00fcllt ins Spiel und entferne das aktuelle Szenen-Deck aus dem Spiel. Bringe die beiseitegelegten Szenen 2c und 3c als neues Szenen-Deck ins Spiel.",
+                "flavor_text": "Der L\u00f6wenanteil des Erzes und des Magmas scheint entweder in Kan\u00e4le umgeleitet zu werden, die einen gro\u00dfen, geschw\u00e4rzten Amboss versorgen, der auf einer Granitplattform nahe dem Scheitelpunkt des Vulkans ruht, oder ein un\u00fcberwindbares, loderndes Portal nahe der oberen Caldera zu befeuern. Vielleicht gelingt es dir, die Mechanismen, die diese antreiben, zu st\u00f6ren \u2026 oder die Maschinerie sogar zu deinem Vorteil zu nutzen?"
             }
         },
         "02cc5839-845b-4318-b93b-2e1ab249b422": {
             "name": "Abfallschleuse",
             "front": {
-                "text": "<for> Sobald <name> enth\u00fcllt wurde: \u00dcberpr\u00fcfe das Kampagnenlogbuch. Falls <i>Mayu alleine nach Miyu sucht</i>, muss der Ermittlungsleiter das <b>Szenario-Zwischenspiel: Auf dem hei\u00dfen Stuhl</b> im Kampagnenleitfaden lesen. Ansonsten, platziere den beiseite gelegten Gegner Wachschor oben auf das Begegnungsdeck.",
+                "text": "<for> Sobald <name> enth\u00fcllt wurde: \u00dcberpr\u00fcfe das Kampagnenlogbuch. Falls <i>Mayu alleine nach Miyu sucht</i>, muss der Ermittlungsleiter das <b>Szenario-Zwischenspiel: Im Kreuzfeuer</b> im Kampagnenleitfaden lesen. Ansonsten, platziere den beiseite gelegten Gegner Wachschor oben auf das Begegnungsdeck.",
                 "flavor_text": "Wer M\u00fcll vermeidet, kommt gut \u00fcber die Runden.",
                 "traits": "Vulkan. Tiefen."
             },
@@ -2839,7 +2846,7 @@
             }
         },
         "966056db-a44e-4566-8998-34539484bcc0": {
-            "name": "Aschgraue Nische",
+            "name": "Aschgraue Felsnische",
             "front": {
                 "text": "Ermittler an <name> erhalten w\u00e4hrend der Unterhaltsphase keine Ressourcen.",
                 "flavor_text": "Die hei\u00dfe Luft, die aus dem brodelnden Magma unter dir heraufstr\u00f6mt, brennt in deinen Augen\u2026",
@@ -2881,7 +2888,7 @@
         "18aa49eb-9bd0-47e4-bf5a-64fe7ecd5075": {
             "name": "Tsurugis Rastplatz",
             "front": {
-                "text": "<free>: <i>Sprich ein Gebet.</i> Mache eine <t>Aspekt</t>-Vorteilskarte, die du kontrollierst, spielbereit. <i>(Maximal einmal pro Spiel.)</i>",
+                "text": "<free>: <i>Sprich ein Gebet.</i> Mache eine <t>Aspekt</t>-<br>Vorteilskarte, die du kontrollierst, spielbereit. <i>(Maximal einmal pro Spiel.)</i>",
                 "flavor_text": "Der Drachenw\u00e4chter Tsurugi war daf\u00fcr bekannt, Knochen als Opfergaben anzunehmen \u2026 vorzugsweise solche, die den Leichen seiner Feinde entrissen worden waren.",
                 "subtitle": "Schrein der Ryu",
                 "traits": "Vulkan. Heiligtum."
@@ -2895,7 +2902,7 @@
         "68281a94-d0bb-47f1-9bc3-aa6b1d562717": {
             "name": "Hitzewelle",
             "front": {
-                "text": "<rev> F\u00fchre eine <willpower>-Probe (3) durch. Falls die Probe misslingt, verliere X Ressourcen, wobei X die Anzahl an Orten ist, die du von Aschgraue Nische entfernt bist.",
+                "text": "<rev> F\u00fchre eine <willpower>-Probe (3) durch. Falls die Probe misslingt, verliere X Ressourcen, wobei X die Anzahl an Orten ist, die du von Aschgraue Felsnische entfernt bist.",
                 "flavor_text": "Dehydrated due to the intense heat of the volcano, you begin to hallucinate sinister shapes emerging from within the flickering flames...",
                 "traits": "Gefahr."
             },
@@ -2904,7 +2911,7 @@
         "235a640f-47f9-4c3c-8260-0193d25ef749": {
             "name": "In der Halle des Bergk\u00f6nigs",
             "front": {
-                "text": "<rev> Bringe entweder <name> anngeh\u00e4ngt an die aktuelle Agenda ins Spiel oder f\u00fcge jedem Ermittler und <t>Verb\u00fcndeter</t>-Vorteilskarte im Spiel 1 Horror zu.\nJeder <t>Vulkan</t>-Ort erh\u00e4lt +1 Schleierwert.\n<for> Am Ende der Runde: Lege <name> ab.",
+                "text": "<rev> Bringe entweder <name> anngeh\u00e4ngt an die aktuelle Agenda ins Spiel oder f\u00fcge jedem Ermittler und jeder <t>Verb\u00fcndeter</t>-Vorteilskarte im Spiel 1 Horror zu.\nJeder <t>Vulkan</t>-Ort erh\u00e4lt +1 Schleierwert.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "flavor_text": "Als die Kr\u00e4fte der Gie\u00dfereischmiede nachlie\u00dfen, bestand ihre letzte vorgeschriebene Aufgabe darin, das Feuer noch ein letztes Mal anzufachen.",
                 "traits": "Macht."
             },
@@ -3005,8 +3012,8 @@
         "c7fb3282-dd82-4b7d-b7ae-ab3feb84b64b": {
             "name": "Werkzeuge des Meisters",
             "front": {
-                "text": "<for> Zu Beginn der Gegnerphase: Befindet sich kein Ermittler am Ort von \"Sensei\" Kanuti, r\u00fccke die aktuelle Agenda vor.\n<obj> Falls sich alle \u00fcberlebenden Ermittler am Amboss der Entstehung befinden und \"Sensei\" Kanuti sich im Siegpunktstapel befindet, r\u00fccke vor.",
-                "flavor_text": "Somehow, you get the sense that this massive creature is the master of the forge. Its ceremonial armor resembles an oversized version of some of the mantles you observed on Onigawa's defenders during the siege, and yet..."
+                "text": "<for> Zu Beginn der Gegnerphase: Befindet sich kein Ermittler am Ort von Sensei Kanuti, r\u00fccke die aktuelle Agenda vor.\n<obj> Falls sich alle \u00fcberlebenden Ermittler am Amboss der Entstehung befinden und Sensei Kanuti sich im Siegpunktstapel befindet, r\u00fccke vor.",
+                "flavor_text": "Irgendwie hat man das Gef\u00fchl, dass dieses riesige Wesen der Herr der Schmiede ist. Seine zeremonielle R\u00fcstung \u00e4hnelt einer \u00fcberdimensionalen Version einiger der Umh\u00e4nge, die man w\u00e4hrend der Belagerung bei Onigawas Verteidigern gesehen hat, und doch \u2026"
             },
             "back": {
                 "name": "In Flammen geschmiedet",
@@ -3017,13 +3024,14 @@
         "57747e02-9da4-4a5e-a3e2-d44c873b4499": {
             "name": "Amboss der Entstehung",
             "front": {
-                "text": "<t>Aspekt</t>-Story-Vorteilskarten, die von Ermittlern am <name> kontrolliert werden, werden in der Unterhaltsphase nicht spielbereit gemacht.",
+                "text": "<t>Aspekt</t>-Storyvorteilskarten, die von Ermittlern am <name> kontrolliert werden, werden in der Unterhaltsphase nicht spielbereit gemacht.",
                 "flavor_text": "Der Legende nach wurden die Seelen der W\u00e4chter auf genau diesem Amboss geschmiedet.",
                 "subtitle": "Die Aspekt-Schmiede",
                 "victory": "Sieg 1.",
                 "traits": "Vulkan. Uralt."
             },
             "back": {
+                "text": "",
                 "flavor_text": "\u00dcber der Schmelzfront schwebt eine geheimnisvolle Granitplattform, die das Gewicht eines geschw\u00e4rzten Ambosses tr\u00e4gt...",
                 "traits": "Vulkan. Uralt."
             }
@@ -3046,7 +3054,7 @@
         "fc6531d9-eeba-4720-8e4a-c3e6d752ffb4": {
             "name": "Fokussierende Blende",
             "front": {
-                "text": "<action> Falls Szene 2a aktuell ist und sich keine Hinweise auf <name> befinden, ersch\u00f6pfe eine <t>Aspekt</t>-Story-Vorteilskarte, die du kontrollierst: <i>Auge um Auge.</i> R\u00fccke vor.",
+                "text": "<action> Falls Szene 2a aktuell ist und sich keine Hinweise auf <name> befinden, ersch\u00f6pfe eine <t>Aspekt</t>-Storyvorteilskarte, die du kontrollierst: <i>Auge um Auge.</i> R\u00fccke vor.",
                 "flavor_text": "Der Halbgott Izanagi opferte seine Augen, um Sonne und Mond zu erschaffen, als seine Gemahlin Izanami in die Unterwelt verschwand. Nur wenige wissen, dass sie ihm diese Tat mit gleicher M\u00fcnze heimzahlte...",
                 "subtitle": "Auge von Izanami",
                 "victory": "Sieg 1.",
@@ -3095,7 +3103,7 @@
         "c9ba3ee9-f3fd-4211-8553-a1b919d08ecf": {
             "name": "<unique>Wachschor",
             "front": {
-                "text": "Gewaltig. J\u00e4ger 1.\n<spawn> Abfallschleuse.\n<name> kann keine Gelegenheitsangriffe ausf\u00fchren.",
+                "text": "Gewaltig. J\u00e4ger 1.\n<spawn> Abfallschleuse.\nWachschor kann keine Gelegenheitsangriffe ausf\u00fchren.",
                 "flavor_text": "Eines der Gesichter in der sich windenden Masse aus geschmolzenem Wachs hat etwas beunruhigend Vertrautes an sich...",
                 "subtitle": "Zuwachs und Schwund",
                 "victory": "Sieg 1.",
@@ -3104,7 +3112,7 @@
             "back": {}
         },
         "bf57416d-05e1-4002-97f8-4efd49d3bf01": {
-            "name": "<unique>\u201cSensei\" Kanuti",
+            "name": "<unique>Sensei Kanuti",
             "front": {
                 "text": "Gewaltig. Alamiert. Patrouille (Amboss der Entstehung)\n<spawn> Amboss der Entstehung.",
                 "flavor_text": "Kanuti war ein freundlicher Riese, der diese L\u00e4nder bewohnte, als die W\u00e4chter noch jung waren. Nachdem diese an die Macht gekommen waren, w\u00fcrdigte Tsurugi Kanutis St\u00e4rke, indem er ihn mit einer lebenslangen Ernennung zu seinem pers\u00f6nlichen Schmiedemeister \u201eehrte\u201c.",
@@ -3204,7 +3212,7 @@
             },
             "back": {
                 "name": "Minuten bis Mitternacht",
-                "text": "Mische Hirte der Schwarzen Ernte in das Opferdeck ein.\nPlatziere 1 Verderben auf Miyu Tachibana <i>(Verloren und Gefunden)</i>.\nDrehe die Zerkl\u00fcftete Kathedrale auf ihre enth\u00fcllte Seite.\nBringe den beiseite gelegten Gegner Moloch <i>(Die H\u00f6llenmaschine)</i> am Ort Profaner Altar ins Spiel.\nMische den Begegnungs-Ablagestapel in das Begegnungsdeck.\n",
+                "text": "Mische Hirte der Schwarzen Ernte in das Opferdeck ein.\nPlatziere 1 Verderben auf Miyu Tachibana <i>(Verloren und Gefunden)</i>.\nDrehe die Zerst\u00f6rte Kathedrale auf ihre enth\u00fcllte Seite.\nBringe den beiseite gelegten Gegner Moloch <i>(Die H\u00f6llenmaschine)</i> am Ort Profaner Altar ins Spiel.\nMische den Begegnungs-Ablagestapel in das Begegnungsdeck.\n",
                 "flavor_text": "W\u00e4hrend immer mehr Seelen auf dem profanen Altar der Kathedrale geopfert werden, beginnt der K\u00f6rper des Hirten zu pulsieren und taucht, je st\u00e4rker die Kraft des Rituals wird, mal auf, mal verschwindet er wieder. Eine geisterhafte Silhouette, die aus einem h\u00f6llischen Ort stammt, den du dir nicht einmal ansatzweise vorstellen kannst, taucht aus dem \u00c4ther auf und nimmt nach und nach den Platz des Hirten ein \u2026\nDir l\u00e4uft die Zeit davon. Moloch ist ganz in der N\u00e4he \u2026"
             }
         },
@@ -3216,19 +3224,19 @@
             },
             "back": {
                 "name": "Wenn man vom Teufel spricht",
-                "text": "Mische den Begegnungs-Ablagestapel in das Begegnungsdeck. Drehe den Ort Profaner Altar auf die enth\u00fcllte Seite.\nDrehe den Gegner Moloch <i>(Die H\u00f6llenmaschine)</i> auf die Seite Moloch <i>(Der Geist von Onigawa)</i>.\nBefindet sich Miyu Tachibana <i>(Verloren und Gefunden)</i> am Ort Profaner Altar, bewege alles auf ihr liegendes Verderben auf Moloch <i>(Der Geist von Onigawa)</i> und mische Miyu Tachibana anschlie\u00dfend in den Opferstapel ein.",
+                "text": "Mische den Begegnungs-Ablagestapel in das Begegnungsdeck. Drehe den Ort Profaner Altar auf die enth\u00fcllte Seite.\nDrehe den Gegner Moloch <i>(Die H\u00f6llenmaschine)</i> auf die Seite Moloch <i>(Der Geist von Onigawa)</i>.\nBefindet sich Miyu Tachibana <i>(Verloren und Gefunden)</i> am Ort Profaner Altar, bewege alles auf ihr liegende Verderben auf Moloch <i>(Der Geist von Onigawa)</i> und mische Miyu Tachibana anschlie\u00dfend in das Opferdeck ein.",
                 "flavor_text": "Miyu keucht: Es klingt wie ein Todesr\u00f6cheln. Man sp\u00fcrt, wie sie dahinschwindet, und, gest\u00e4rkt durch das sinnlose Gemetzel, nimmt Molochs flackernder Schatten allm\u00e4hlich Gestalt an \u2026"
             }
         },
         "e0d5f1e6-93da-45df-9b82-e15ad37b7c82": {
             "name": "H\u00f6heres Terrain",
             "front": {
-                "text": "<action> Falls sich keine Hinweise an deinem Ort befinden: Drehe den Ort Torii Nexus auf seine enth\u00fcllte Seite. <i>(Maximal einmal pro Spiel.)</i>\n<obj> Ermittler am Torii Nexus k\u00f6nnen als Gruppe die erforderliche Anzahl an Hinweisen ausgeben, um vorzur\u00fccken.",
+                "text": "<action> Falls sich keine Hinweise an deinem Ort befinden: Drehe den Ort Torii-Nexus auf seine enth\u00fcllte Seite. <i>(Maximal einmal pro Spiel.)</i>\n<obj> Ermittler am Torii-Nexus k\u00f6nnen als Gruppe die erforderliche Anzahl an Hinweisen ausgeben, um vorzur\u00fccken.",
                 "flavor_text": "Die Katastrophe hat dich sowohl von deinen Begleitern als auch von Miyu getrennt. Du musst einen Weg finden, euch wieder zu vereinen..."
             },
             "back": {
                 "name": "Die Sterne \u00fcber uns",
-                "text": "Bringe den beiseite gelegten Ort Herbstmond verdeckt ins Spiel.\n\n\n",
+                "text": "Bringe den beiseite gelegten Ort Erntemond verdeckt ins Spiel.\n\n\n",
                 "flavor_text": "Mit Hilfe des Torii-Tors ist es dir gelungen, zu mehreren der anderen schwebenden Inseln zu gelangen, doch keine davon scheint dich der Kathedrale n\u00e4her zu bringen. Du drehst dich um und machst dich bereit, zum Felsvorsprung zur\u00fcckzukehren und einen neuen Plan auszuarbeiten, als dir auff\u00e4llt, dass die Torii-Tore auf jeder Insel perfekt auf den mit Runen markierten Mond ausgerichtet sind...\nDu holst die Camera Obscura hervor und versuchst, den Mond durch das dir am n\u00e4chsten gelegene Torii-Tor zu fotografieren. Als der Ausl\u00f6ser klickt, verwandelt sich das Bild im Portal augenblicklich in eine leblose, felsige Weite..."
             }
         },
@@ -3252,7 +3260,7 @@
             },
             "back": {
                 "name": "G\u00f6tter unter uns",
-                "text": "Entferne alle Marker auf Brodelnder Brut und entferne die Karte aus dem Spiel.\nMische alle sechs <t>Avatar</t>-Story-Vorteilskarten aus dem Begegnungsset <i>\u201eIn Flammen geschmiedet\u201c</i> zusammen und \u00fcberpr\u00fcfe dann das Kampagnenlogbuch, um mit dem entsprechenden Abschnitt fortzufahren:\n<hr>\n<b>Falls die Ermittler </b><bi>die heilige Gie\u00dferei sabotiert haben</bi>:\nDecke drei der gemischten Karten nach dem Zufallsprinzip auf. Der Ermittlungsleiter muss eine davon ausw\u00e4hlen, die am Erntemond ins Spiel gebracht wird. Entferne die nicht ausgew\u00e4hlten Karten sowie alle nicht aufgedeckten Karten aus dem Spiel.\n<hr>\n<b>Falls die Ermittler </b><bi>den Amboss der Entstehung aktiviert haben</bi>:\nW\u00e4hle eine der gemischten Karten nach dem Zufallsprinzip aus und bringe sie am Erntemond ins Spiel. Entferne die restlichen Karten aus dem Spiel.",
+                "text": "Entferne alle Marker auf Brodelnder Brut und entferne die Karte aus dem Spiel.\nMische alle sechs <t>Avatar</t>-Storyvorteilskarten aus dem Begegnungsset <i>\u201eIn Flammen geschmiedet\u201c</i> zusammen und \u00fcberpr\u00fcfe dann das Kampagnenlogbuch, um mit dem entsprechenden Abschnitt fortzufahren:\n<hr>\n<b>Falls die Ermittler </b><bi>die heilige Gie\u00dferei sabotiert haben</bi>:\nDecke drei der gemischten Karten nach dem Zufallsprinzip auf. Der Ermittlungsleiter muss eine davon ausw\u00e4hlen, die am Erntemond ins Spiel gebracht wird. Entferne die nicht ausgew\u00e4hlten Karten sowie alle nicht aufgedeckten Karten aus dem Spiel.\n<hr>\n<b>Falls die Ermittler </b><bi>den Amboss der Entstehung benutzt haben</bi>:\nW\u00e4hle eine der gemischten Karten nach dem Zufallsprinzip aus und bringe sie am Erntemond ins Spiel. Entferne die restlichen Karten aus dem Spiel.",
                 "flavor_text": "Du siehst zu, wie das eif\u00f6rmige Objekt die Energie, die du unter so gro\u00dfen Anstrengungen erzeugt hast, wie eine Art karmisches Fass ohne Boden aufsaugt. Gerade als du die Hoffnung aufgeben willst, bricht es pl\u00f6tzlich auf, und eine Flammens\u00e4ule schie\u00dft aus der Oberfl\u00e4che des Mondes hervor \u2026"
             }
         },
@@ -3264,7 +3272,7 @@
             },
             "back": {
                 "name": "Was versprochen wurde",
-                "text": "<b>Falls Moloch </b><bi>(Der Geist von Onigawa)</bi> <b>sich im Siegpunktestapel befand als diese Szene vorger\u00fcckt ist:</b>\n<blockquote>Moloch heult auf, w\u00e4hrend er unter deinem unerbittlichen Angriff taumelt; er hatte offensichtlich nicht damit gerechnet, dass du in der Lage bist, ihm Schaden zuzuf\u00fcgen. Seine burgunderrote Haut verwandelt sich in Asche, w\u00e4hrend seine verdorbene Essenz allm\u00e4hlich den Halt an seiner physischen Gestalt verliert. Der Boden unter dir beginnt zu beben; in der Verwirrung schnappst du dir schnell Miyu vom Altar, bevor du dich in das n\u00e4chste Torii-Tor st\u00fcrzt...</blockquote>\n(<resolution><b>A2</b>)\n<hr>\n<b>Falls sich 8 Harmonie-Marker im Chaosbeutel befanden, als dies voranschritt:</b>\n<blockquote>Gest\u00e4rkt durch deine F\u00fcrsorge st\u00fcrzt sich der wiedergeborene W\u00e4chter auf die Kathedrale, um Moloch frontal anzugreifen. Knistern magische Energieblitze \u00fcber die Landschaft, w\u00e4hrend sie Schl\u00e4ge austauschen, und die Wucht ihres Duells schleudert dich in das Portal eines nahegelegenen Torii-Tors \u2026</blockquote>\n(<resolution><b>A1</b>)\n\n"
+                "text": "<b>Falls Moloch </b><bi>(Der Geist von Onigawa)</bi> <b>sich im Siegpunktestapel befand als diese Szene vorger\u00fcckt ist:</b>\n<blockquote>Moloch heult auf, w\u00e4hrend er unter deinem unerbittlichen Angriff taumelt; er hatte offensichtlich nicht damit gerechnet, dass du in der Lage bist, ihm Schaden zuzuf\u00fcgen. Seine burgunderrote Haut verwandelt sich in Asche, w\u00e4hrend seine verdorbene Essenz allm\u00e4hlich den Halt an seiner physischen Gestalt verliert. Der Boden unter dir beginnt zu beben; in der Verwirrung schnappst du dir schnell Miyu vom Altar, bevor du dich in das n\u00e4chste Torii-Tor st\u00fcrzt...</blockquote>\n(<resolution><b>A2</b>)\n<hr>\n<b>Falls sich 8 Harmonie-Marker im Chaosbeutel befanden, als diese Szene vorger\u00fcckt ist:</b>\n<blockquote>Gest\u00e4rkt durch deine F\u00fcrsorge st\u00fcrzt sich der wiedergeborene W\u00e4chter auf die Kathedrale, um Moloch frontal anzugreifen. Knistern magische Energieblitze \u00fcber die Landschaft, w\u00e4hrend sie Schl\u00e4ge austauschen, und die Wucht ihres Duells schleudert dich in das Portal eines nahegelegenen Torii-Tors \u2026</blockquote>\n(<resolution><b>A1</b>)\n\n"
             }
         },
         "b1019be5-1e72-41fc-a2f3-0c57ea728b7e": {
@@ -3310,7 +3318,7 @@
             }
         },
         "ede58bb6-2fed-435b-a464-eee447dd5fbb": {
-            "name": "Torii Nexus",
+            "name": "Torii-Nexus",
             "front": {
                 "text": "Torii Nexus ist mit allen enth\u00fcllten Orten verbunden (und umgekehrt.)\n<action><action>: <i>Sprung ins Ungewisse.</i> Bewege dich zu einem verh\u00fcllten <t>Zerst\u00f6rt</t>-Ort. <i>(Maximal einmal pro Runde.)</i>",
                 "flavor_text": "Es war einmal, da hat es dich an diesen Ort gebracht \u2026 Vielleicht kann es dich, wenn alles vorbei ist, wieder nach Hause bringen.",
@@ -3450,7 +3458,7 @@
         "4ebf9847-cbcd-446c-a1a1-6560fc56c8e4": {
             "name": "Molocheanischer Vollstrecker",
             "front": {
-                "text": "Alamiert.\n<spawn> Torii Nexus.\n<for> Sobald die Gegnerphase beginnt: Falls <name> spielbereit und nicht in einen Kampf verwickelt ist, jeder Ermittler an seinem Ort und jedem verbundenen Ort nimmt 1 Schaden.",
+                "text": "Alamiert.\n<spawn> Torii-Nexus.\n<for> Sobald die Gegnerphase beginnt: Falls <name> spielbereit und nicht in einen Kampf verwickelt ist, jeder Ermittler an seinem Ort und jedem verbundenen Ort nimmt 1 Schaden.",
                 "flavor_text": "Die Ranger bildeten die erste Verteidigungslinie der Offiziere von August. Die meisten von ihnen fanden w\u00e4hrend der Belagerung von Onigawa den Tod, doch es kursierten Ger\u00fcchte, dass es einigen gelungen sei, zu \u00fcberleben...",
                 "traits": "Humanoid. Kultist."
             },
@@ -3552,7 +3560,7 @@
             "back": {}
         },
         "530be601-7bb4-4a53-acfd-fb215bf3429b": {
-            "name": "<unique>Koi-Imperator",
+            "name": "<unique>Koi-Kaiser",
             "front": {
                 "text": "J\u00e4ger 1. Zur\u00fcckschlagen. \n<b>Opfer</b> -- F\u00fcge dem Chaosbeutel 1<per_large> <curse>-Marker hinzu.\n<b>Rache</b> -- Mische Koi-Imperator in das Opferdeck.",
                 "flavor_text": "Der machthungrige Herrscher \u00fcber die Gezeiten hoffte, die Kontrolle \u00fcber das Pantheon an sich zu rei\u00dfen, indem er seinem dunklen Schutzherrn ein Opfer darbrachte, das aus seinem eigenen Fleisch und Blut stammte.",
@@ -4578,7 +4586,7 @@
             "front": {
                 "text": "<rev> Bringe Die Nachfolge ins Spiel und versiegel alle <blessing>-Marker im Chaosbeutel darauf.\n<for> Sobald ein <blessing>-Marker dem Chaosbeutel hinzugef\u00fcgt werden w\u00fcrde: Versiegel den Marker auf dieser Karte und f\u00fcge dem Chaosbeutel stattdessen einen <curse>-Marker hinzu.\n<action>: F\u00fchre eine <willpower>-Probe (4) durch. Falls die Probe erfolgreich ist, lasse alle versiegelten Marker frei und lege Die Nachfolge ab.",
                 "flavor_text": "Viele, die die \u201eAusbildung\u201c zur Schreinpriesterin durchlaufen, k\u00f6nnen nicht dar\u00fcber sprechen.",
-                "subtitle": "Diese Augustnacht",
+                "subtitle": "Jene Augustnacht",
                 "traits": "Fluch."
             },
             "back": {}
