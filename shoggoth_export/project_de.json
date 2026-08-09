@@ -4963,6 +4963,44 @@
                 "traits": "Avatar. Au\u00dferdimensional."
             },
             "back": {}
+        },
+        "74f16bb5-c984-4668-a82f-8f7b6fb5e651": {
+            "name": "Ertr\u00e4nkende Sph\u00e4re",
+            "front": {
+                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel. \n<for> Am Ende deines Zuges: Nimm 1 Schaden.\n<action>: F\u00fchre eine <combat>- oder <agility>-Probe (3) durch. Falls die Probe gelingt, lege <name> ab. Die Schwierigkeit dieser Probe wird jedesmal um 1 reduziert f\u00fcr jede Aktivierung dieser Aktion in dieser Runde.",
+                "flavor_text": "Du beobachtest, wie eine Blase unter der Wasseroberfl\u00e4che heraufsteigt, und wirst pl\u00f6tzlich von dem Gef\u00fchl \u00fcberw\u00e4ltigt, zu ertrinken...",
+                "traits": "Falle."
+            },
+            "back": {}
+        },
+        "a97d3635-b835-4c17-8ccb-79d7bc4dbcc8": {
+            "name": "Ewiges Blau",
+            "front": {
+                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Nachdem dir eine Fertigkeitsprobe misslingt: Drehe einen Hinweis an deinem Ort auf seine Verderbensseite. Falls keine Hinweise an diesem Ort sind, platziere stattdessen einen Hinweis aus dem Markervorrat auf dem Ort.\n<reaction> Am Ende deines Zuges: Lege Ewiges Blau ab.",
+                "flavor_text": "Die porzellanartige Haut der geisterhaften Kinder, die um dich herum durch das tr\u00fcbe Wasser gleiten, schimmert im fahlen Mondlicht...",
+                "traits": "Schrecken."
+            },
+            "back": {}
+        },
+        "f20d07fe-b56b-4c37-9788-5282e9feaf9f": {
+            "name": "<unique>Kappa",
+            "front": {
+                "text": "Alarmiert.\n<action><action>: <b>Verhandlung.</b> F\u00fchre eine <intellect>-Probe (4) durch. Falls die Probe gelingt, besiege Kappa.",
+                "flavor_text": "Im Wasser gibt es f\u00fcr niemanden, der einem Kappa begegnet, ein Entkommen. An Land hingegen ist es m\u00f6glich, ihn zu \u00fcberlisten; der ehrenwerte Yokai wird sich verpflichtet f\u00fchlen, die Verbeugung zu erwidern, und l\u00e4sst sich so dazu verleiten, das kostbare Wasser aus der Schale, die er tr\u00e4gt, zu versch\u00fctten.",
+                "subtitle": "Bewohner der Tiefen",
+                "victory": "Sieg 1.",
+                "traits": "Monster. Yokai."
+            },
+            "back": {}
+        },
+        "8f1d784e-98ec-44df-9bec-80041d89eff0": {
+            "name": "Seichtgleiter",
+            "front": {
+                "text": "J\u00e4ger 1.\n<spawn> N\u00e4chstgelegener <t>Fluss</t>-Ort.",
+                "flavor_text": "Viele der im Wasser gefundenen, aufgebl\u00e4hten Leichen waren einst Fischer, die sich \u00fcber Bord gest\u00fcrzt hatten, in der Hoffnung, die ged\u00e4mpfte Serenade der Sirene deutlicher h\u00f6ren zu k\u00f6nnen.",
+                "traits": "Humanoid. Yokai."
+            },
+            "back": {}
         }
     },
     "guides": [

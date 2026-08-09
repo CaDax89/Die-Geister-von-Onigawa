@@ -205,13 +205,19 @@
             "name": "encounter-throne-b.png",
             "icon": "./images/encounter-throne-b.png",
             "id": "caac83c5-2469-4f8d-8806-3090b1c263e8",
-            "card_amount": 25
+            "card_amount": 25,
+            "meta": {
+                "tts": {}
+            }
         },
         {
-            "name": "encounter-tidalterror-b.png",
+            "name": "encounter-tidalterrors-b.png",
             "icon": "./images/encounter-tidalterror-b.png",
-            "id": "0cd539bd-6331-411e-966c-e0457e69abcd",
-            "card_amount": 4
+            "id": "b148ed1e-7af7-43b9-a6af-6eb2132fccbd",
+            "card_amount": 4,
+            "meta": {
+                "tts": {}
+            }
         },
         {
             "name": "encounter-twins-b.png",
@@ -221,9 +227,12 @@
         },
         {
             "name": "encounter-waterywoes-b.png",
-            "icon": "./images/encounter-waterywoes-b.png",
-            "id": "b148ed1e-7af7-43b9-a6af-6eb2132fccbd",
-            "card_amount": 4
+            "icon": "./images/encounter-watery woes-b.png",
+            "id": "0cd539bd-6331-411e-966c-e0457e69abcd",
+            "card_amount": 4,
+            "meta": {
+                "tts": {}
+            }
         },
         {
             "name": "encounter-well-b.png",
@@ -10231,7 +10240,10 @@
                 "victory": "Victory 1.",
                 "illustration": "./images/andrew-gibbons-kappa-900-andrew-gibbons-n.jpg",
                 "illustrator": "Illus. Andrew Gibbons",
-                "attack": "2"
+                "attack": "2",
+                "illustration_pan_x": -20.0,
+                "illustration_pan_y": 583.0,
+                "illustration_scale": 2.585
             },
             "back": {
                 "type": "encounter"
