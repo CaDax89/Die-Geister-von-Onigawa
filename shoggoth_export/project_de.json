@@ -23,6 +23,9 @@
         },
         "caac83c5-2469-4f8d-8806-3090b1c263e8": {
             "name": "encounter-throne-b.png"
+        },
+        "c46862ed-ba89-4557-adfb-c9d7e4596582": {
+            "name": "scenarioset-2-b.png"
         }
     },
     "cards": {
@@ -159,7 +162,7 @@
             }
         },
         "08b4411f-d95f-4f63-befe-1f51ff770ce0": {
-            "name": "D\u00e4mmerlicht",
+            "name": "Halbdunkel",
             "front": {
                 "entries": [
                     {
@@ -222,9 +225,9 @@
         "2d76dea6-2674-45cc-835c-53c57f624ab8": {
             "name": "<unique> Shishios T\u00fccke",
             "front": {
-                "text": "Maximal 1 Maske pro Ermittler.\nDu erh\u00e4ltst +1 <agility>.\n<action> Entferne <name> aus dem Spiel: Verhandlung. Entferne einen Nicht-Elite-Gegner aus deiner Bedrohungszone.",
+                "text": "Maximal 1 Maske pro Ermittler.\nDu erh\u00e4ltst +1 <agility>.\n<action> Entferne Shishios T\u00fccke aus dem Spiel: Verhandlung. Entferne einen Nicht-Elite-Gegner aus deiner Bedrohungszone.",
                 "flavor_text": "Diese verzierte Maske wurde einst von einem k\u00f6niglichen Gefolgsmann getragen, um seine heimlichen Treffen mit einer Dienstmagd aus einfachen Verh\u00e4ltnissen zu verbergen.",
-                "subtitle": "<size 45> Verkleidung des unheilvollen Dieners",
+                "subtitle": "Maske des unheilvollen Dieners",
                 "traits": "Gegenstand. Maske. Relikt. Verflucht. "
             },
             "back": {}
@@ -304,7 +307,7 @@
             },
             "back": {
                 "name": "Keine Zeit mehr",
-                "text": "Jeder \u00fcberlebende Ermittler wird besiegt und erleidet 1 psychisches Trauma.\n\n\n",
+                "text": "Jeder \u00fcberlebende Ermittler wird besiegt und erleidet 1 seelisches Trauma.\n\n\n",
                 "flavor_text": "Hier stimmt etwas ganz und gar nicht. Du kannst dir keine weiteren brenzligen Situationen mehr leisten, also beschlie\u00dft du, dich in die relative Sicherheit des Torii-Tors zur\u00fcckzuziehen und dich neu zu formieren. Doch noch bevor du \u00fcberhaupt mit der Flucht beginnen kannst, sp\u00fcrst du, wie sich ein eisiger Druck um deinen Hals zusammenzieht. Vergeblich versuchst du, den phantomhaften Griff wegzuschlagen, der dir das Leben aus dem Leib dr\u00fcckt, und du sp\u00fcrst, wie deine F\u00fc\u00dfe den Boden verlassen, kurz bevor alles schwarz wird \u2026"
             }
         },
@@ -340,7 +343,7 @@
             },
             "back": {
                 "name": "Wie die Zeit vergeht",
-                "text": "Mische das beiseitegelegte Begegnungsset Furchterregender Nebel und den Begegnungs-Ablagestapel in das Begegnungsdeck.\n\n\n\n",
+                "text": "Mische das beiseitegelegte Begegnungsset Schaurige Schwaden und den Begegnungsablagestapel in das Begegnungsdeck.\n\n\n\n",
                 "flavor_text": "Diese gem\u00fctliche Wanderung durch den Wald hat sich als wesentlich anstrengender erwiesen, als du erwartet hattest. Als du dir etwas Speichel aus dem Mundwinkel wischst, bemerkst du pl\u00f6tzlich, dass dein Atem sichtbar ist und f\u00fcr den k\u00fcrzesten Moment wie eine Erscheinung vor dir in der Luft h\u00e4ngt, bevor er sich in Nichts aufl\u00f6st. Du bildest dir das nicht nur ein: Die K\u00e4lte ist deutlich bei\u00dfender geworden, seit du den Wald betreten hast. Dein Kopf beginnt zu schmerzen, w\u00e4hrend du versuchst, durch das Bl\u00e4tterdach \u00fcber dir einen Blick auf den Himmel zu erhaschen. Es war ein wundersch\u00f6ner Morgen mit klarem Himmel, als du das Dorf verlassen hast; wie lange bist du nun schon hier drin...?"
             }
         },
@@ -351,7 +354,7 @@
             },
             "back": {
                 "name": "Ein komisches Gef\u00fchl",
-                "text": "Jeder Ermittler muss alle Karten von seiner Hand ablegen, die keine Schw\u00e4chekarten sind, oder 2 Horror nehmen. Mische den Begegnungs-Ablagestapel  in den Begegnungsstapel.\n\n",
+                "text": "Jeder Ermittler muss alle Karten von seiner Hand ablegen, die keine Schw\u00e4chekarten sind, oder 2 Horror nehmen. Mische den Begegnungsablagestapel  in den Begegnungsstapel.\n\n",
                 "flavor_text": "Hier geht etwas Seltsames vor sich; durch den erstickenden Nebel, der hereingezogen ist, l\u00e4sst sich das zwar nicht mit Sicherheit sagen, aber es f\u00fchlt sich jetzt definitiv dunkler an als beim Betreten des Raums. Ist die Sonne schon untergegangen?\nDer dumpfe Schmerz in deiner Schl\u00e4fe hat sich zu einem rhythmischen Pochen verst\u00e4rkt, und du stellst fest, dass es dir schwerf\u00e4llt, klar zu denken, geschweige denn zu sprechen, obwohl auch das zunehmende Unbehagen im Rachen dir langsam Sorgen bereitet. Es f\u00fchlt sich an, als w\u00e4re deine Zunge auf das Doppelte ihrer normalen Gr\u00f6\u00dfe angeschwollen..."
             }
         },
@@ -387,19 +390,19 @@
             },
             "back": {
                 "name": "Ruhe in Frieden",
-                "text": "Bringe den beiseitegelegten Gegner Der purpurrote Schmetterling (Der Wegweiser) am Ort Der einsame Grabh\u00fcgel ins Spiel.\nEntferne den Ort Waldschwelle aus dem Spiel und wirf alle daran anliegenden Karten ab. Verschiebe alle Gegner oder Ermittler an diesem Ort in die Grotte der W\u00e4chter.\nBringe die beiden beiseitegelegten Orte Geheimer Schrein mit der verh\u00fcllten Seite ins Spiel.\n\n",
-                "flavor_text": "Du verweilst einen Moment in stiller Nachdenklichkeit, w\u00e4hrend du das Armengrab betrachtest, in dem sie deinen Freund verrotten lie\u00dfen. Eigentlich solltest du wohl dankbar sein, dass sie sich \u00fcberhaupt die M\u00fche gemacht haben, ihn hierher zu schleppen, aber der Abstand zwischen seinem Grabstein und den anderen passt dir einfach nicht; es f\u00fchlt sich wie eine absichtliche Kr\u00e4nkung an. Vielleicht steckt hinter Takeshis Tod mehr, als man dir glauben machen wollte. Gerade als du beschlie\u00dft, ins Dorf zur\u00fcckzukehren und Antworten einzufordern, taucht hinter dem Steinhaufen ein geheimnisvolles Licht auf \u2026"
+                "text": "Bringe den beiseitegelegten Gegner Der Purpurrote Schmetterling (Der Wegweiser) am Ort Der einsame Grabh\u00fcgel ins Spiel.\nEntferne den Ort Waldschwelle aus dem Spiel und wirf alle daran anliegenden Karten ab. Verschiebe alle Gegner oder Ermittler an diesem Ort in die Grotte der W\u00e4chter.\nBringe die beiden beiseitegelegten Orte Geheimer Schrein mit der verh\u00fcllten Seite ins Spiel.\n\n",
+                "flavor_text": "Du verweilst einen Moment in stiller Nachdenklichkeit, w\u00e4hrend du das Armengrab betrachtest, in dem sie deinen Freund begraben lie\u00dfen. Eigentlich solltest du wohl dankbar sein, dass sie sich \u00fcberhaupt die M\u00fche gemacht haben, ihn hierher zu schleppen, aber der Abstand zwischen seinem Grabstein und den anderen passt dir einfach nicht; es f\u00fchlt sich wie eine absichtliche Kr\u00e4nkung an. Vielleicht steckt hinter Takeshis Tod mehr, als man dir glauben machen wollte. Gerade als du beschlie\u00dft, ins Dorf zur\u00fcckzukehren und Antworten einzufordern, taucht hinter dem Steinhaufen ein geheimnisvolles Licht auf \u2026"
             }
         },
         "9c2b2e77-302c-4aff-8e02-48f91284e5f3": {
             "name": "Dauerhafte Ausgangssperre",
             "front": {
-                "text": "<obj> Finde den Weg zum Herrenhaus.\nDie Ermittler k\u00f6nnen als Gruppe die erforderliche Anzahl an Hinweisen einsetzen, um vorzur\u00fccken.",
+                "text": "<obj> Finde den Weg zum Herrenhaus.\nDie Ermittler k\u00f6nnen als Gruppe die erforderliche Anzahl an Hinweisen ausgeben, um vorzur\u00fccken.",
                 "flavor_text": "Das Herrenhaus auf dem H\u00fcgel schien die Quelle der Schreie zu sein, die du geh\u00f6rt hast, aber du musst herausfinden, wie du dir einen Weg durch das eng bebaute Dorf bahnen kannst, um dorthin zu gelangen \u2026 Hoffentlich, bevor es zu sp\u00e4t ist."
             },
             "back": {
                 "name": "Ungebetene G\u00e4ste",
-                "text": "Mische den Begegnungs-Ablagestapel in das Begegnungsdeck.\nWenn der Ort Endloser Aufstieg nicht im Spiel ist, suche ihn im Erkundungsdeck und bringe ihn verdeckt ins Spiel. Mische das Erkundungsdeck.\nDrehe den Ort Verdunkeltes Herrenhaus auf seine enth\u00fcllte Seite.",
+                "text": "Mische den Begegnungs-Ablagestapel in das Begegnungsdeck.\nWenn der Ort Endloser Aufstieg nicht im Spiel ist, suche ihn im Erkundungsdeck und bringe ihn verdeckt ins Spiel. Mische das Erkundungsdeck.\nDrehe den Ort Finsteres Herrenhaus auf seine enth\u00fcllte Seite.",
                 "flavor_text": "Es ist euch gelungen, aus den Fundst\u00fccken, die ihr gesammelt habt, eine Karte des Dorfes zusammenzusetzen, und diese zeigt, dass das Herrenhaus am oberen Ende einer gro\u00dfen Treppe im hinteren Teil des Dorfes liegt. Au\u00dferdem hast du einen Zettel gefunden \u2013 vielleicht von einem W\u00e4chter weggeworfen \u2013, aus dem hervorgeht, dass die Stufen zur zus\u00e4tzlichen \u201eSicherheit\u201c mit einer Art magischem Zauber versehen sind. Daher gibt es einen bestimmten \u201eTrick\u201c, wie man sie bew\u00e4ltigen muss, um Uneingeweihte abzuschrecken \u2026"
             }
         },
@@ -423,7 +426,7 @@
             },
             "back": {
                 "name": "Die Party crashen",
-                "text": "Mische den Begegnungs-Ablagestapel in das Begegnungsdeck.\nBringe die beiseitegelegte Mayu Tachibana (Eine vermisste Zwillingsschwester?) und den Gegner Die Blasse Braut (Geliebte) im Entweihten Dojo ins Spiel.\nPr\u00fcfe das Kampagnenlogbuch. Wenn die Ermittler von Der Blassen Braut gezeichnet wurden, f\u00fcge Mayu Tachibana 1 Schaden zu. Andernfalls f\u00fcge der Blassen Braut 1 Schaden zu.\n\n\n",
+                "text": "Mische den Begegnungs-Ablagestapel in das Begegnungsdeck.\nBringe die beiseitegelegte Mayu Tachibana (Eine vermisste Zwillingsschwester?) und den Gegner Die Blasse Braut (Sehr geliebt) im Entweihten Dojo ins Spiel.\n\u00dcberpr\u00fcfe das Kampagnenlogbuch. Wenn die Ermittler von der Blassen Braut gezeichnet wurden, f\u00fcge Mayu Tachibana 1 Schaden zu. Andernfalls f\u00fcge der Blassen Braut 1 Schaden zu.\n\n\n",
                 "flavor_text": "Du schiebst leise den blutgetr\u00e4nkten Vorhang beiseite und st\u00f6\u00dft sofort einen unwillk\u00fcrlichen Schrei aus. In der Mitte des Trainingsraums im hinteren Teil des Geb\u00e4udes ragt der durchscheinende Geist einer Frau \u00fcber einem jungen M\u00e4dchen auf. Sie wehrt sich vergeblich gegen die geisterhafte Erscheinung; phantomhafte Gliedma\u00dfen halten sie am Boden fest, w\u00e4hrend sich lange, wallende Str\u00e4hnen pechschwarzen Haares wie ein W\u00fcrgegriff um den Hals des M\u00e4dchens schlingen. Pl\u00f6tzlich neigt der Geist den Kopf in deine Richtung, und du sp\u00fcrst, wie ihre blutunterlaufenen Augen dich hinter dem Vorhang aus ihrem Haar anstarren \u2026"
             }
         },
@@ -441,12 +444,12 @@
         "47850c36-6532-419f-a153-5c4279cdbc51": {
             "name": "Schritt halten",
             "front": {
-                "text": "<obj> Betrete das Herrenhaus.\nWenn keine Hinweise mehr auf Verdunkeltes Herrenhaus liegen, r\u00fccke sofort vor.",
+                "text": "<obj> Betrete das Herrenhaus.\nWenn keine Hinweise mehr auf Finsteres Herrenhaus liegen, r\u00fccke sofort vor.",
                 "flavor_text": "Anhand der Informationen auf den Zetteln, die du gefunden hast, solltest du es nun bis zum Haus auf dem H\u00fcgel schaffen, wenn du erst einmal zu dieser Treppe gelangst..."
             },
             "back": {
                 "name": "Willkommen zu Hause",
-                "text": "F\u00fcge alle Orte mit Sieg X und ohne Hinweise dem Siegpunktestapel hinzu und entferne alle anderen Orte aus dem Spiel. Ermittler werden durch diesen Effekt nicht besiegt. Lege alle Gegner- oder Verratskarten an diesen Orten ab.\nBringe die beiseite gelegten Orte Stilles Foyer, Mondbeschienener Innenhof, Tatami-Raum und Entweihtes Dojo verdeckt ins Spiel. Bewege jeden Ermittler ins Stille Foyer.\nMische den Begegnungs-Ablagestapel und die 3 beiseitegelegten Kopien von Elfenbeinfarbene Dienerin in das Begegnungsdeck.\n\n\n",
+                "text": "F\u00fcge alle Orte mit Sieg X und ohne Hinweise dem Siegpunktestapel hinzu und entferne alle anderen Orte aus dem Spiel. Ermittler werden durch diesen Effekt nicht besiegt. Lege alle Gegner- oder Verratskarten an diesen Orten ab.\nBringe die beiseite gelegten Orte Stilles Foyer, Mondbeschienener Innenhof, Tatami-Raum und Entweihtes Dojo verdeckt ins Spiel. Bewege jeden Ermittler ins Stille Foyer.\nMische den Begegnungs-Ablagestapel und die 3 beiseitegelegten Kopien von Elfenbeindienerin in das Begegnungsdeck.\n\n\n",
                 "flavor_text": "Als du deine Hand an die T\u00fcr legst, um das Herrenhaus zu betreten, ert\u00f6nt von innen ein weiterer Schrei, der dir die Nackenhaare zu Berge stehen l\u00e4sst. Es gibt keine Zeit zu verlieren und kein Zur\u00fcck mehr; vorsichtig \u00f6ffnest du die T\u00fcr und trittst ein..."
             }
         },
@@ -492,7 +495,7 @@
         "8b845c30-7ba8-4360-a2f9-12afae228ac7": {
             "name": "Bambusallee",
             "front": {
-                "text": "Ermittler m\u00fcssen eine zus\u00e4tzliche Aktion aufwenden, um sich von der Bamboo Avenue zu entfernen.\n<action> Ersch\u00f6pfe eine Nahkampf-Vorteilskarte, die du kontrollierst: Teste deine Waffe am Bambus. Heile 2 Horror. (Maximal einmal pro Spiel.)",
+                "text": "Ermittler m\u00fcssen eine zus\u00e4tzliche Aktion aufwenden, um sich von der Bambusallee zu entfernen.\n<action> Ersch\u00f6pfe eine Nahkampf-Vorteilskarte, die du kontrollierst: Teste deine Waffe am Bambus. Heile 2 Horror. (Maximal einmal pro Spiel.)",
                 "flavor_text": "Du wirst hinuntergehen zu\u2026",
                 "traits": "W\u00e4lder."
             },
@@ -834,7 +837,7 @@
         "16fe0d49-8664-4637-982a-d60759f071af": {
             "name": "Tatami-Raum",
             "front": {
-                "text": "<for> Nachdem <name> enth\u00fcllt wurde: Lege die oberste Karte des Begegnungsdecks ab bis ein  Elfenbeindienerin-Gegner enth\u00fcllt wurde und lasse diesen im <name> erscheinen.",
+                "text": "<for> Nachdem <name> enth\u00fcllt wurde: Lege die oberste Karte des Begegnungsdecks ab bis ein  Gegner Elfenbeindienerin enth\u00fcllt wurde und lasse diesen im <name> erscheinen.",
                 "flavor_text": "Die d\u00fcnnen, schmutzigen Matten auf dem Boden sehen nicht besonders bequem aus...",
                 "traits": "Erdgeschoss"
             },
@@ -865,7 +868,7 @@
             "front": {
                 "text": "Gegner d\u00fcrfen diesen Ort nicht betreten, und Ermittler d\u00fcrfen diesen Ort nicht betreten, wenn sich ein Gegner in ihrer Bedrohungszone befindet.",
                 "flavor_text": "Diese traditionellen Torb\u00f6gen wurden errichtet, um den \u00dcbergang vom Weltlichen zum Heiligen zu markieren.",
-                "subtitle": "Verlassen, Vergessen",
+                "subtitle": "Einstige Pracht",
                 "traits": "W\u00e4lder."
             },
             "back": {
@@ -890,7 +893,7 @@
             }
         },
         "904ef623-b952-42b3-a4ec-8538b55de08d": {
-            "name": "Verdunkeltes Herrenhaus",
+            "name": "Finsteres Herrenhaus",
             "front": {
                 "text": "<b>Heimgesucht </b> -- Platziere einen deiner Hinweise an diesem Ort. (L\u00f6se den Heimgesucht-Effekt dieses Ortes aus, sobald bei einer Ermittlung an diesem Ortes eine Probe misslingt.)",
                 "flavor_text": "Eine d\u00fcnne Nebelschicht verh\u00fcllt die oberen Stockwerke des Herrenhauses vor den Blicken.",
@@ -962,7 +965,7 @@
         "6e7cae13-c681-4a88-a777-ad38800a4245": {
             "name": "Wunschbrunnen",
             "front": {
-                "text": "<for> Nachdem Wunschbrunnen aufgedeckt wurde: Mische das beiseitegelegte Begegnungsset Den Brunnen hinunter und lege es verdeckt als separates Brunnen-Deck an diesen Ort.\n<free>: W\u00fcnsch dir etwas. Ziehe eine zuf\u00e4llige Karte aus den beiseitegelegten Brunnen-Deck. (Maximal einmal pro Spiel.)",
+                "text": "<for> Nachdem Wunschbrunnen aufgedeckt wurde: Mische das beiseitegelegte Begegnungsset Brunnabw\u00e4rts und lege es verdeckt als separates Brunnen-Deck an diesen Ort.\n<free>: W\u00fcnsch dir etwas. Ziehe eine zuf\u00e4llige Karte aus den beiseitegelegten Brunnen-Deck. (Maximal einmal pro Spiel.)",
                 "flavor_text": "",
                 "traits": "Dorf."
             },
@@ -1031,7 +1034,7 @@
         "9eccd594-925e-4fc7-9182-21d6b9b93787": {
             "name": "Eine weggeworfene Maske",
             "front": {
-                "text": "<rev> Jeder Ermittler darf die beiseitegelegte Vorteilskarte Shishios T\u00fccke seinem Deck hinzuf\u00fcgen und es sofort ins Spiel bringen (ohne die Ressourcenkosten zu bezahlen). Dies wird nicht auf dein Deck-Limit angerechnet.\nEntferne <name> aus dem Spiel.",
+                "text": "<rev> Jeder Ermittler darf die beiseitegelegte Vorteilskarte Shishios T\u00fccke seinem Deck hinzuf\u00fcgen und es sofort ins Spiel bringen (ohne die Ressourcenkosten zu bezahlen). Sie z\u00e4hlt nicht gegen die Deckgr\u00f6\u00dfe.\nEntferne <name> aus dem Spiel.",
                 "flavor_text": "Du ziehst einen Eimer hoch \u2026 und findest darin ein durchn\u00e4sstes St\u00fcck eines traditionellen Kopfschmucks.",
                 "traits": "Mysterium."
             },
@@ -1207,7 +1210,7 @@
         "bb43efbd-f04f-475f-827b-6a16df47b6f6": {
             "name": "Die Blasse Braut",
             "front": {
-                "text": "Gewaltig. Patrouille (Entweihtes Dojo).\n<for> Zu Beginn der Gegnerphase: Falls <name> nicht ersch\u00f6pft ist, f\u00fcge jedem Verb\u00fcndeten-Vorteil am Ort der Blassen Braut 1 direkten Schaden zu.\n<action> Gibt 1<per_large> Hinweise aus: Kampf. F\u00fcr diesen Angriff kann der <intellect>-Wert anstelle des <combat>-Wertes verwendet werden.",
+                "text": "Gewaltig. Patrouille (Entweihtes Dojo).\n<for> Zu Beginn der Gegnerphase: Falls <name> nicht ersch\u00f6pft ist, f\u00fcge jeder Verb\u00fcndeter-Vorteilskarte am Ort der Blassen Braut 1 direkten Schaden zu.\n<action> Gibt 1<per_large> Hinweise aus: Kampf. F\u00fcr diesen Angriff kann der <intellect>-Wert anstelle des <combat>-Wertes verwendet werden.",
                 "flavor_text": "Sie wird dich bis in den Tod lieben.",
                 "subtitle": "Sehr geliebt",
                 "victory": "Sieg 1.",
@@ -1218,7 +1221,7 @@
         "636d7c16-9da3-4619-bc50-0a37e611b5b8": {
             "name": "Elfenbeindienerin",
             "front": {
-                "text": "<prey> Geringster <combat>-Wert.\nFalls <name> nicht ersch\u00f6pft ist, <name>s Ort erh\u00e4lt +1 Schleierwert.",
+                "text": "<prey> Geringster <combat>-Wert.\nFalls <name> nicht ersch\u00f6pft ist, erh\u00e4lt der Ort von <name> +1 Schleierwert.",
                 "flavor_text": "W\u00e4hrend sich das Wesen bewegt, bl\u00e4ttert elfenbeinfarbene Asche von seinen Gliedma\u00dfen ab und gibt den Blick auf verkohlte Haut frei, die unter der alabasterfarbenen Schicht verborgen war.",
                 "traits": "Humanoid. Yokai."
             },
@@ -1272,7 +1275,7 @@
         "0cf9a1ed-bb94-4b09-933b-bfcb46c89456": {
             "name": "Rachs\u00fcchtiges Echo",
             "front": {
-                "text": "Patrouille (Torii-Tor).\n<spawn> Die Kapitulation des Helden, falls m\u00f6glich. Ansonsten, Der einsame Grabstein.\n<name> erh\u00e4lt +3 <per_large> Ausdauer.\n<reaction> Nachdem du Schaden zugef\u00fcgt hast: Ersch\u00f6pfe Rachs\u00fcchtiges Echo.",
+                "text": "Patrouille (Torii-Tor).\n<spawn> Kapitulation eines Helden, falls m\u00f6glich. Ansonsten, Der einsame Grabstein.\n<name> erh\u00e4lt +3 <per_large> Ausdauer.\n<reaction> Nachdem du Schaden zugef\u00fcgt hast: Ersch\u00f6pfe Rachs\u00fcchtiges Echo.",
                 "flavor_text": "Der wankende Leichnam dieses gefallenen Kriegers zuckt und windet sich bei jedem qualvollen Schritt.",
                 "victory": "Sieg 1.",
                 "traits": "Yokai. Elite. Verflucht."
@@ -1328,12 +1331,12 @@
         "6eaaddb8-8842-4e69-bdab-9302f0ecbb9a": {
             "name": "Requiem",
             "front": {
-                "text": "<obj> <i>Jage dem Schmetterling hinterher.</i>\nWenn die Ermittler sowohl den Segen der Sonne als auch den des Mondes erhalten haben, r\u00fccke vor.",
+                "text": "<obj> <i>Jage dem Schmetterling hinterher.</i>\nFalls die Ermittler sowohl den Segen der Sonne als auch den des Mondes erhalten haben, r\u00fccke vor.",
                 "flavor_text": "Du bist wie gebannt von dem geheimnisvollen Wesen, das aus Takeshis Grab aufgetaucht ist. Seine sanft flatternden Fl\u00fcgel strahlen ein warmes Leuchten aus, w\u00e4hrend es hypnotisch um dich herumtanzt, doch als du nach ihm greifst, schreckt es vor deiner Ber\u00fchrung zur\u00fcck. Hat es Angst vor dir? Oder f\u00fchrt es dich irgendwohin \u2026?"
             },
             "back": {
                 "name": "Nacht und Tag",
-                "text": "Drehe das Torii-Tor <i>(Verlassen, Vergessen)</i> auf die R\u00fcckseite.\nBringe den beiseite gelegten Gegner \u201eRachs\u00fcchtiges Echo\u201c ins Spiel.\n\n\n",
+                "text": "Drehe das Torii-Tor <i>(Verlassen, Vergessen)</i> auf die R\u00fcckseite.\nBringe den beiseite gelegten Gegner Rachs\u00fcchtiges Echo ins Spiel.\n\n\n",
                 "flavor_text": "Dank der F\u00fchrung des Wesens gelang es dir, zwei tief im Wald verborgene Schreine aufzusp\u00fcren. Zwischen ihnen besteht eine seltsame und unheilvolle Symmetrie, doch du kannst nicht begreifen, welche Bedeutung sie \u2013 wenn \u00fcberhaupt \u2013 haben k\u00f6nnten. Als du dich anschickst, den zweiten Schrein zu verlassen, bemerkst du einen Lichtstrahl, der durch das Bl\u00e4tterdach \u00fcber dir herabf\u00e4llt und auf dem alten Torii-Tor landet, an dem du zuvor vorbeigekommen bist. Pl\u00f6tzlich verschwindet der Lichtstrahl, und der Boden unter dir beginnt heftig zu beben, sodass du zu Boden geworfen wirst. Als das Beben nachl\u00e4sst und du es schaffst, dich wieder aufzurappeln, hallt ein unheilvoller Schrei von irgendwo aus dem Wald her\u00fcber. Der Purpurrote Schmetterling beginnt nerv\u00f6s in der Luft hin und her zu schwanken \u2026"
             }
         },
@@ -1358,7 +1361,7 @@
             "back": {}
         },
         "f81561b4-a73c-407f-a29a-f9e02d0043d8": {
-            "name": "Memories of Mayu",
+            "name": "Erinnerungen an Mayu",
             "front": {
                 "text": "<rev> F\u00fchre eine <willpower>-Probe (3) durch. Falls die Probe fehlschl\u00e4gt, musst du entweder 1 Verderben auf die aktuelle Agenda platzieren oder 1 direkten Schaden nehmen.",
                 "flavor_text": "Sie war jung, unschuldig und sch\u00f6n...<br>und jetzt ist sie nicht mehr da.",
