@@ -5223,8 +5223,8 @@
                 {
                     "id": "100659dd",
                     "type": "interlude",
-                    "name": "Intermezzo",
-                    "markdown": ""
+                    "name": "To do Liste",
+                    "markdown": "Guide:\n\nInhaltsverzeichnis vollst\u00e4ndig richtig\nSchriftarten einf\u00fcgen\nPlatzierung der Orte verbessern\nKampagnenlogbuch erstellen\nBilder einf\u00fcgen\n\n\n\n\n\n\n\n\nKarten:\n\n\n- Hauke ggf. Verbesserung der Bildgr\u00f6\u00dfe f\u00fcr manche Karten (\u2013Skalierung von Bildern, was m\u00f6glich, viele passgenau zugeschnitten, dann aber kein Bleed vorhanden)\n\u2013 Verbindungen von Orten pr\u00fcfen, D\u00e4mmerlicht (S5)  und Flussdelta (S3) vor allem\n\n\u2013 Wording passend zu AHLCG-Karten? Und konsistent?\n\n\u2013 Text auf Szenariokarten Untended Graves etc. im Freifeld anpassen, wenn gefixt\n\n\n\n\n\n\nBeides:\n- \u00c4nderungen der EN community einbauen\n\u2013 Begriffe konsistent von Karten Purpurroter Schmetterling, Torii-Tor, Blasse Braut etc.\n\n\nKonsistente \u00dcbersetzung der folgenden Begriffe. Festlegung muss noch erfolgen.\nSteward \u2013 Steward, Bediensteter\nChampion - Champion, Verteidiger, Krieger\nMaster - Meister\nRanger - Waldl\u00e4ufer\nGuardian - H\u00fcter\n\n\n\nIssues offen bei Tokeeto:\n- Spacing von \u00dcberschriften\n- Harmonie-Marker\n- Farbige Boxen\n- Platzierung der Orte\n- Token area gelocket auf engl. \u00dcbersetzung bei Szenariokarten"
                 }
             ]
         }
