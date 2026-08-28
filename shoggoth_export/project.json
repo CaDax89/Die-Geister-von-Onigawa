@@ -3525,7 +3525,20 @@
                         "text": "\u20134. If you fail, place one of your clues on your current location."
                     }
                 ],
-                "difficulty": "Hard/Expert"
+                "difficulty": "Hard/Expert",
+                "chaos_extra_region": {
+                    "x": 248,
+                    "y": 1600,
+                    "width": 1150,
+                    "height": 300
+                },
+                "chaos_region": {
+                    "x": 248,
+                    "y": 626,
+                    "width": 1170,
+                    "height": 940
+                },
+                "chaos_extra": "Untended Graves"
             },
             "encounter_number": "1",
             "project_number": "1",
