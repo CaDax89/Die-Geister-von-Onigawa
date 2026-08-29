@@ -2929,7 +2929,7 @@
             "name": "Hannya Mask",
             "front": {
                 "type": "asset",
-                "traits": "Item. Headgear.",
+                "traits": "Item. Mask.",
                 "text": "Limit 1 <t>Headgear</t> per investigator.\nYou get +1 <agility> while evading. \n<reaction> When a non-<t>Elite</t> enemy would engage you, discard <name>: Exhaust that enemy instead.",
                 "cost": "2",
                 "level": "1",
@@ -2941,7 +2941,10 @@
                 "illustration": "./images/hou-china-9.jpg",
                 "illustrator": "Illus. Hou China",
                 "illustration_pan_x": -219.0,
-                "illustration_pan_y": 247.0
+                "illustration_pan_y": 247.0,
+                "slots": [
+                    "mask"
+                ]
             },
             "back": {
                 "type": "player"
