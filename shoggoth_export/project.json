@@ -2930,10 +2930,10 @@
             "front": {
                 "type": "asset",
                 "traits": "Item. Mask.",
-                "text": "Limit 1 <t>Headgear</t> per investigator.\nYou get +1 <agility> while evading. \n<reaction> When a non-<t>Elite</t> enemy would engage you, discard <name>: Exhaust that enemy instead.",
+                "text": "You get +1 <agility> while evading. \n<reaction> When a non-<t>Elite</t> enemy would engage you, discard <name>: Exhaust that enemy instead.",
                 "cost": "2",
                 "level": "1",
-                "flavor_text": "\"It is better to be a warrior in a garden \nthan a gardener in a war.\"",
+                "flavor_text": "\"It is better to be a warrior in a garden <br>than a gardener in a war.\"",
                 "classes": [
                     "neutral"
                 ],
@@ -2943,7 +2943,7 @@
                 "illustration_pan_x": -219.0,
                 "illustration_pan_y": 247.0,
                 "slots": [
-                    "mask"
+                    "hat"
                 ]
             },
             "back": {

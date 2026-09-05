@@ -4867,8 +4867,8 @@
         "df835c48-36dc-49f3-998a-5e76e17b1e4e": {
             "name": "Hannya Maske",
             "front": {
-                "text": "\nDu erh\u00e4ltst +1 <agility> w\u00e4hrend Entkommensversuchen. \n<reaction> Sobald ein Nicht-<t>Elite</t>-Gegner dich in einen Kampf verwickeln w\u00fcrde, lege <name> ab: Ersch\u00f6pfe diesen Gegner stattdessen.",
-                "flavor_text": "\u201eEs ist besser, ein Krieger im Garten zu sein als ein G\u00e4rtner im Krieg.\u201c",
+                "text": "Du erh\u00e4ltst +1 <agility> w\u00e4hrend Entkommensversuchen. \n<reaction> Sobald ein Nicht-<t>Elite</t>-Gegner dich in einen Kampf verwickeln w\u00fcrde, lege <name> ab: Ersch\u00f6pfe diesen Gegner stattdessen.",
+                "flavor_text": "\u201eEs ist besser, ein Krieger im Garten zu sein<br> als ein G\u00e4rtner im Krieg.\u201c",
                 "traits": "Gegenstand. Maske."
             },
             "back": {}
