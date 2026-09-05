@@ -146,7 +146,8 @@
                         "text": "\u20133. Wenn die Probe fehlschl\u00e4gt, lege eine Nicht-Schw\u00e4che-Karte von deiner Hand ab."
                     }
                 ],
-                "difficulty": "LEICHT/NORMAL"
+                "difficulty": "LEICHT/NORMAL",
+                "chaos_extra": "Erkundungsdeck"
             },
             "back": {
                 "entries": [
@@ -175,7 +176,8 @@
                         "text": "\u20134. Lege nach dieser Probe eine Nicht-Schw\u00e4che-Karte von deiner Hand ab."
                     }
                 ],
-                "difficulty": "SCHWER/EXPERTE"
+                "difficulty": "SCHWER/EXPERTE",
+                "chaos_extra": "Erkundungsdeck"
             }
         },
         "60e362fd-8ac7-4fff-94ae-6a9f9f487dcf": {
@@ -207,7 +209,8 @@
                         "text": "\u20133. Wenn die Probe fehlschl\u00e4gt, platziere einen deiner Hinweise auf deinen Ort."
                     }
                 ],
-                "difficulty": "EINFACH/NORMAL"
+                "difficulty": "EINFACH/NORMAL",
+                "chaos_extra": "Ungepflegte Gr\u00e4ber"
             },
             "back": {
                 "entries": [
@@ -236,7 +239,8 @@
                         "text": "\u20134. Wenn die Probe fehlschl\u00e4gt, platziere einen deiner Hinweise auf deinen Ort."
                     }
                 ],
-                "difficulty": "SCHWER/EXPERTE"
+                "difficulty": "SCHWER/EXPERTE",
+                "chaos_extra": "Ungepflegte Gr\u00e4ber"
             }
         },
         "08b4411f-d95f-4f63-befe-1f51ff770ce0": {
@@ -2401,7 +2405,7 @@
                     }
                 ],
                 "difficulty": "LEICHT/NORMAL",
-                "chaos_extra": "Hunting Grounds"
+                "chaos_extra": "Jagdgr\u00fcnde"
             },
             "back": {
                 "entries": [
@@ -2431,7 +2435,7 @@
                     }
                 ],
                 "difficulty": "SCHWER/EXPERTE",
-                "chaos_extra": "Hunting Grounds"
+                "chaos_extra": "Jagdgr\u00fcnde"
             }
         },
         "c9617fd8-6e2c-4149-99e6-6e2be704a702": {
@@ -3234,7 +3238,8 @@
                         "text": "\u20134. Falls die Probe misslingt, bringe ein <b>Opfer</b> dar."
                     }
                 ],
-                "difficulty": "LEICHT/NORMAL"
+                "difficulty": "LEICHT/NORMAL",
+                "chaos_extra": "Opferdeck"
             },
             "back": {
                 "entries": [
@@ -3263,7 +3268,8 @@
                         "text": "\u20134. Nachdem die Probe beendet wurde, bringe ein <b>Opfer</b> dar."
                     }
                 ],
-                "difficulty": "Hard/Expert"
+                "difficulty": "Hard/Expert",
+                "chaos_extra": "Opferdeck"
             }
         },
         "dda9e452-281d-4184-a4ad-9cc1f88157ed": {
