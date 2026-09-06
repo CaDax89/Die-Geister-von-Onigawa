@@ -110,7 +110,7 @@
         "5e67f290-7b28-47c2-ace9-c50c0d33fc29": {
             "name": "<unique>Midoris List",
             "front": {
-                "text": "<action> Wenn Midoris List bereit ist: <b>Kampf. </b> F\u00fcge deine <agility>-Fertigkeit zu deinem Fertigkeitswert f\u00fcr diesen Angriff hinzu. Wenn du mit 2 oder mehr Punkten Erfolg hast, verursacht dieser Angriff +1 Schaden. Wenn du diese Fertigkeitsprobe nicht bestehst, ersch\u00f6pfe Midoris List, um stattdessen automatisch zu bestehen.",
+                "text": "<action> Wenn Midoris List spielbereit ist: <b>Kampf. </b> F\u00fcge deinen <agility>-Wert zu deinem Fertigkeitswert f\u00fcr diesen Angriff hinzu. Falls die Probe um 2 oder mehr gelingt, verursacht dieser Angriff +1 Schaden. Falls die Probe nicht gelingt, ersch\u00f6pfe Midoris List: Die Probe gelingt automatisch.",
                 "flavor_text": "Midori war die weiseste aller W\u00e4chterinnen; ihre diplomatischen F\u00e4higkeiten waren entscheidend f\u00fcr den Abschluss des Paktes mit Onigawa.",
                 "subtitle": "Degen der Morgend\u00e4mmerung",
                 "traits": "Gegenstand. Relikt. Waffe. Nahkampf."
@@ -324,7 +324,7 @@
             },
             "back": {
                 "name": "<unique>Feder des Kanon",
-                "text": "Feder des Kanon kann das Spiel nicht verlasseen.\n<action> Wenn Feder des Kanon bereit ist: <b>Kampf. </b>. F\u00fcge deine h\u00f6chste Nicht-<combat>-Fertigkeit zu deinem Fertigkeitswert f\u00fcr diese Probe hinzu. Dieser Angriff f\u00fcgt +1<per_large> Schaden zu. Wenn die Probe fehlschl\u00e4gt, musst du entweder ein Opfer bringen oder Feder des Kanon ersch\u00f6pfen.",
+                "text": "Feder des Kanon kann das Spiel nicht verlasseen.\n<action> Wenn Feder des Kanon spielbereit ist: <b>Kampf. </b>. F\u00fcge deinen h\u00f6chsten Nicht-<combat>-Wert zu deinem Fertigkeitswert f\u00fcr diese Probe hinzu. Dieser Angriff f\u00fcgt +1<per_large> Schaden zu. Wenn die Probe misslingt, musst du entweder ein Opfer bringen oder Feder des Kanon ersch\u00f6pfen.",
                 "flavor_text": "...aber zusammen, w\u00e4re ihre Macht unaufhaltsam.",
                 "subtitle": "R\u00e4cher des Pantheons",
                 "traits": "Gegenstand. Relikt. Waffe. Nahkampf."
@@ -343,7 +343,7 @@
         "bd93b6b1-eda0-4d71-b754-b2df7c55431a": {
             "name": "<unique>Mayu Tachibana",
             "front": {
-                "text": " Nachdem einem Gegner an deinem Ort entkommen wird: Ziehe eine Karte.\n<free>: Verschiebe 1 Ladung von Camera Obscura auf eine andere Vorteilskarte, die du kontrollierst und die Ladungen verwendet. (Maximal einmal pro Runde.)\n<elder_sign>-Effekt: +1. Bei Erfolg darfst du 1 Ladung auf Camera Obscura legen.",
+                "text": "Du hast 1 zus\u00e4tzlichen Handslot.\n<free> Ersch\u00f6pfe Mayu Tachibana und f\u00fcge dem Chaosbeutel 1<blessing>-Marker hinzu: Du erh\u00e4ltst +1 f\u00fcr diese Fertigkeitsprobe.",
                 "flavor_text": "\u201eIch habe es meiner Schwester versprochen\u2026\u201c",
                 "subtitle": "Die Zwillingsschwester",
                 "traits": "Miskatonic. Student."
@@ -353,7 +353,7 @@
         "c7e01081-7106-4fcf-9871-45dccf95a6b1": {
             "name": "<unique>Tsurugis Macht",
             "front": {
-                "text": "<action> Wenn Tsurugis Macht bereit ist: <b>Kampf. </b>F\u00fcge deine <willpower> zu deinem Fertigkeitswert f\u00fcr diesen Angriff hinzu. Wenn du mit 2 oder mehr Punkten Erfolg hast, verursacht dieser Angriff +1 Schaden. Wenn du diese Fertigkeitsprobe nicht bestehst, ersch\u00f6pfe Tsurugis Macht, um stattdessen automatisch zu bestehen.",
+                "text": "<action> Wenn Tsurugis Macht spielbereit ist: <b>Kampf. </b>F\u00fcge deinen <willpower>-Wert zu deinem Fertigkeitswert f\u00fcr diesen Angriff hinzu. Falls die Probe um 2 oder mehr gelingt, verursacht dieser Angriff +1 Schaden. Falls die Probe nicht gelingt, ersch\u00f6pfe Tsurugis Macht: Die Probe gelingt automatisch.",
                 "flavor_text": "Tsurugi galt als der m\u00e4chtigste aller W\u00e4chter; sein Atem war der Treibstoff, der das Feuer unter dem Berg Kokoro entfachte.",
                 "subtitle": "Klinge der Abendd\u00e4mmerung",
                 "traits": "Gegenstand. Relikt. Waffe. Nahkampf."
@@ -1116,7 +1116,7 @@
         "9eccd594-925e-4fc7-9182-21d6b9b93787": {
             "name": "Eine weggeworfene Maske",
             "front": {
-                "text": "<rev> Jeder Ermittler darf die beiseitegelegte Vorteilskarte Shishios T\u00fccke seinem Deck hinzuf\u00fcgen und es sofort ins Spiel bringen (ohne die Ressourcenkosten zu bezahlen). Sie z\u00e4hlt nicht gegen die Deckgr\u00f6\u00dfe.\nEntferne <name> aus dem Spiel.",
+                "text": "<rev> Jeder Ermittler darf die beiseitegelegte Vorteilskarte Shishios T\u00fccke seinem Deck hinzuf\u00fcgen und sie sofort ins Spiel bringen (ohne die Ressourcenkosten zu bezahlen). Sie z\u00e4hlt nicht gegen die Deckgr\u00f6\u00dfe.\nEntferne <name> aus dem Spiel.",
                 "flavor_text": "Du ziehst einen Eimer hoch \u2026 und findest darin ein durchn\u00e4sstes St\u00fcck eines traditionellen Kopfschmucks.",
                 "traits": "Mysterium."
             },
@@ -1270,7 +1270,7 @@
         "7d8d5a0f-5f15-4921-ba85-62e88c447ea1": {
             "name": "<unique>Buwaya",
             "front": {
-                "text": "J\u00e4ger 1.\n<b>Rache</b> -- Nimm eine Verb\u00fcndeter-Karte aus deinem Ablagestapel zur\u00fcck auf deine Hand. (Nachdem du diesen Gegner besiegt hast, musst du sofort dessen Rache-Effekt ausl\u00f6sen, falls m\u00f6glich.)",
+                "text": "J\u00e4ger 1.\n<b>Rache</b> -- Nimm eine Verb\u00fcndeter-Karte aus deinem Ablagestapel zur\u00fcck auf deine Hand. ",
                 "flavor_text": "Man sagt, dass der Buwaya auf seinem R\u00fccken eine truhe- oder sarg\u00e4hnliche Last tr\u00e4gt, in der er die ahnungslosen Opfer, die er f\u00e4ngt, begr\u00e4bt.",
                 "subtitle": "Der Laurer in der Tiefe",
                 "victory": "Sieg 1.",
@@ -1445,7 +1445,7 @@
         "f81561b4-a73c-407f-a29a-f9e02d0043d8": {
             "name": "Erinnerungen an Mayu",
             "front": {
-                "text": "<rev> F\u00fchre eine <willpower>-Probe (3) durch. Falls die Probe fehlschl\u00e4gt, musst du entweder 1 Verderben auf die aktuelle Agenda platzieren oder 1 direkten Schaden nehmen.",
+                "text": "<rev> F\u00fchre eine <willpower>-Probe (3) durch. Falls die Probe misslingt, musst du entweder 1 Verderben auf die aktuelle Agenda platzieren oder 1 direkten Schaden nehmen.",
                 "flavor_text": "Sie war jung, unschuldig und sch\u00f6n...<br>und jetzt ist sie nicht mehr da.",
                 "traits": "Wahnsinn."
             },
@@ -2094,7 +2094,7 @@
         "bcc82d44-4061-4988-bafc-c7a06fe93ce1": {
             "name": "Dem Pantheon dienen",
             "front": {
-                "text": "<rev> Ersch\u00f6pfe jede <t>Aspekt</t>-<br>Storyvorteilskarte, die von einem Ermittler kontrolliert wird. <t>Aspekt</t>-Vorteilskarten, die von Ermittlern kontrolliert werden, werden in der Unterhaltsphase nicht spielbereit gemacht.",
+                "text": "<rev> Ersch\u00f6pfe jede <t>Aspekt</t>-Storyvorteils-<br>karte, die von einem Ermittler kontrolliert wird. <t>Aspekt</t>-Vorteilskarten, die von Ermittlern kontrolliert werden, werden in der Unterhaltsphase nicht spielbereit gemacht.",
                 "flavor_text": "Die Schutzbarrieren, die Onigawa umgaben, wurden geschw\u00e4cht, als der ungest\u00fcme Prinz des g\u00f6ttlichen Pantheons auf dem Berg Kokoro gefangen gehalten wurde.",
                 "traits": "Doktrin. Erinnerung."
             },
@@ -2213,7 +2213,7 @@
         "be4a1e72-02eb-405c-af77-55de943459c5": {
             "name": "Taktiken der Tengu",
             "front": {
-                "text": "<rev> F\u00fchre eine <willpower>-Probe (X) aus, wobei X der Schleierwert deines Ortes ist. Falls die Probe misslingt, bringe 1 zus\u00e4tzliche Karten oben vom Rally-Deck zu Beginn der n\u00e4chsten Ermittlerphase ins Spiel <i>(und handle ihren Enth\u00fcllungseffekt ab).</i>",
+                "text": "<rev> F\u00fchre eine <willpower>-Probe (X) durch, wobei X der Schleierwert deines Ortes ist. Falls die Probe misslingt, bringe 1 zus\u00e4tzliche Karten oben vom Rally-Deck zu Beginn der n\u00e4chsten Ermittlerphase ins Spiel <i>(und handle ihren Enth\u00fcllungseffekt ab).</i>",
                 "flavor_text": "Bevor das Pantheon fiel, waren die Tengu die geschworenen Besch\u00fctzer der Verwalter des August. W\u00e4hrend der Belagerung wurden sie zur\u00fcckgerufen, um die Stadt zu verteidigen, wodurch der Berg Kokoro schutzlos blieb.",
                 "traits": "Falle."
             },
@@ -2222,7 +2222,7 @@
         "1102ba26-9b14-477a-b938-39913ab10137": {
             "name": "Azurblauer Eiferer",
             "front": {
-                "text": "Hinterhalt.\n<spawn> Aussichtspunkt des Meisterspions.\n<for> Sobald die Gegnerphase beginnt: F\u00fcge dem Chaosbeutel 1 <curse>-Marker hinzu.",
+                "text": "<spawn> Aussichtspunkt des Meisterspions.\nHinterhalt.\n<for> Sobald die Gegnerphase beginnt: F\u00fcge dem Chaosbeutel 1<curse>-Marker hinzu.",
                 "flavor_text": "Der Azurblaue Eiferer war der erste von Onigawas Meistern, der von einem uralten \u00dcbel verf\u00fchrt wurde, doch er sollte nicht der letzte sein.",
                 "subtitle": "Verr\u00e4ter von Onigawa",
                 "victory": "Sieg 1.",
@@ -2242,7 +2242,7 @@
         "ffa146e1-582c-4f06-b11f-f607084def7e": {
             "name": "Jadegr\u00fcner Kavalier",
             "front": {
-                "text": "Alamiert.\n<spawn> \u00dcberwuchertes Grab.\n<for> Sobald die Gegnerphase beginnt: F\u00fcge dem Chaosbeutel 1 <curse>-Marker hinzu.\n",
+                "text": "<spawn> \u00dcberwuchertes Grab.\nAlamiert.\n<for> Sobald die Gegnerphase beginnt: F\u00fcge dem Chaosbeutel 1<curse>-Marker hinzu.\n",
                 "flavor_text": "Die schnelle Hinrichtung des Jadegr\u00fcnen Kavaliers w\u00e4hrend der Belagerung veranlasste viele Soldaten, die Vorgehensweise ihrer Befehlshaber in Frage zu stellen.",
                 "subtitle": "M\u00e4rtyrer von Onigawa",
                 "victory": "Sieg 1.",
@@ -2253,7 +2253,7 @@
         "b62ed98f-c2b0-48ba-83a8-15dc2b152eb4": {
             "name": "Scharlachroter Partisan",
             "front": {
-                "text": "<spawn> Stehender Stein.\n<for> Sobald die Gegnerphase beginnt: F\u00fcge dem Chaosbeutel 1 <curse>-Marker hinzu.",
+                "text": "<spawn> Stehender Stein.\n<for> Sobald die Gegnerphase beginnt: F\u00fcge dem Chaosbeutel 1<curse>-Marker hinzu.",
                 "flavor_text": "In den Wirren des Krieges schloss Onigawas feigster General einen Pakt mit einer dunklen Macht, um die Kraft zu erlangen, die n\u00f6tig war, eine ganze Armee zu besiegen.",
                 "subtitle": "R\u00e4cher von Onigawa",
                 "victory": "Sieg 1.",
@@ -2324,8 +2324,8 @@
         "03f02070-0a08-4c03-858a-ca106fb8b687": {
             "name": "<unique>\"Madame\" Bai",
             "front": {
-                "text": "Hinterhalt. J\u00e4ger 1.\n<for> Sobald die Gegnerphase beginnt: F\u00fcge dem Chaosbeutel 1 <curse>-Marker hinzu.",
-                "flavor_text": "Lady Bai war einst die Hofapothekerin und kannte sich bestens mit der Anwendung und Behandlung exotischer Gifte aus. Als sie w\u00e4hrend der Belagerung von einem verr\u00e4terischen Untergebenen hintergangen wurde, bot ihr der k\u00f6nigliche Puppenmacher einen Weg an, ihr \u201eLeben\u201c auf unbestimmte Zeit zu verl\u00e4ngern \u2026",
+                "text": "<for> Sobald die Gegnerphase beginnt: F\u00fcge dem Chaosbeutel 1<curse>-Marker hinzu.\nHinterhalt. J\u00e4ger 1.",
+                "flavor_text": "Lady Bai war einst die Hofapothekerin und kannte sich bestens mit der Anwendung und Behandlung exotischer Gifte aus. Als sie w\u00e4hrend der Belagerung von einem verr\u00e4terischen Untergebenen hintergangen wurde, bot ihr der k\u00f6nigliche Puppenmacher einen Weg an, ihr \u201eLeben\u201c auf unbestimmte Zeit zu verl\u00e4ngern ...",
                 "subtitle": "Schlangen-Mannequin",
                 "victory": "Sieg 1.",
                 "traits": "Automata. Elite. Verflucht."
@@ -2335,7 +2335,7 @@
         "d247ddb7-1b33-49f8-bb9a-0a5ec9f11fc0": {
             "name": "<unique>Hinnagami",
             "front": {
-                "text": "Zur\u00fcckhaltend.\n<spawn> Blutroter Altar.\n<for> Sobald die Gegnerphase beginnt: Platziere 1 Verderben 1 auf jeden <t>Elite</t>-Gegner.",
+                "text": "<spawn> Blutroter Altar.\nZur\u00fcckhaltend.\n<for> Sobald die Gegnerphase beginnt: Platziere 1 Verderben 1 auf jeden <t>Elite</t>-Gegner.",
                 "flavor_text": "Nachdem sich Ger\u00fcchte verbreitet hatten, dass die vom k\u00f6niglichen Puppenmacher gefertigten Puppen ihren Besitzern Gl\u00fcck br\u00e4chten, wurden seine Dienste immer gefragter...",
                 "subtitle": "Meisterin der Puppen",
                 "victory": "Sieg 1.",
@@ -2346,7 +2346,7 @@
         "d9bbc939-b717-4d97-a77c-265355fc14bf": {
             "name": "<unique>Bondage-Mannequin",
             "front": {
-                "text": "J\u00e4ger 1.\n<spawn> Beliebiger leerer Ort.\n<for> Nachdem Bondage-Mannequin sich bewegt: Platziere 1 Schaden auf Bondage-Mannequin.\n",
+                "text": "<spawn> Beliebiger leerer Ort.\nJ\u00e4ger 1.\n<for> Nachdem sich Bondage-Mannequin  bewegt hat: Platziere 1 Schaden auf Bondage-Mannequin.\n",
                 "flavor_text": "Je verdorbener die Gel\u00fcste am Hof wurden, desto verdorbener wurden auch die Kreationen, mit deren Anfertigung der k\u00f6nigliche Puppenmacher beauftragt war...",
                 "subtitle": "Das Vergn\u00fcgen liegt ganz bei ihr",
                 "victory": "Sieg 1.",
@@ -2367,7 +2367,7 @@
         "62623cb1-a72c-4ccf-a611-6965592de90d": {
             "name": "<unique>Yatsukahaki",
             "front": {
-                "text": "J\u00e4ger 1.\n<spawn> Beliebiger leerer Ort.\n<for> Sobald die Gegnerphase beginnt: F\u00fcge dem Chaosbeutel 1 <curse>-Marker hinzu.",
+                "text": "\n<spawn> Beliebiger leerer Ort.\nJ\u00e4ger 1.\n<for> Sobald die Gegnerphase beginnt: F\u00fcge dem Chaosbeutel 1<curse>-Marker hinzu.",
                 "flavor_text": "Die Oberk\u00f6rper von drei Konkubinen scheinen ungeschickt miteinander \u201evern\u00e4ht\u201c worden zu sein, wodurch das monstr\u00f6se Wesen die \u00c4hnlichkeit eines Tausendf\u00fc\u00dflers erh\u00e4lt...",
                 "subtitle": "Das Meisterwerk des Puppenmachers",
                 "victory": "Sieg 1.",
