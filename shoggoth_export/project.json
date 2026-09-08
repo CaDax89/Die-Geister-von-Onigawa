@@ -483,7 +483,11 @@
                 "illustrator": "Illus. Anarch Fox",
                 "illustration_pan_x": -19.0,
                 "illustration_pan_y": 23.0,
-                "illustration_scale": 3.619
+                "illustration_scale": 3.619,
+                "willpower": "2",
+                "intellect": "2",
+                "combat": "4",
+                "agility": "4"
             },
             "back": {
                 "type": "investigator_back",
@@ -683,7 +687,10 @@
                 "illustrator": "Illus. Puppeteer Lee",
                 "illustration_pan_x": -57.0,
                 "illustration_pan_y": 287.0,
-                "illustration_scale": 3.258
+                "illustration_scale": 3.258,
+                "intellect": "2",
+                "combat": "5",
+                "agility": "2"
             },
             "back": {
                 "type": "investigator_back",
@@ -4761,7 +4768,7 @@
                 "title": "<unique><name>",
                 "subtitle": "Guise of the Baleful Retainer",
                 "traits": "Item. Headgear. Relic. Cursed. ",
-                "text": "Limit 1 <t>Headgear</t> per investigator.\nYou get +1 <agility>. \n<action> Exile <name>: <b>Parley.</b> Discard a non-<t>Elite</t> enemy from your threat area.",
+                "text": "You get +1 <agility>. \n<action> Exile <name>: <b>Parley.</b> Discard a non-<t>Elite</t> enemy from your threat area.",
                 "cost": "3",
                 "flavor_text": "This ornamental mask was once worn by a royal retainer to conceal his trysts with a low-born attendant.",
                 "icons": "WA",
@@ -4773,7 +4780,10 @@
                 "level": "None",
                 "illustration_pan_x": 115.0,
                 "illustration_pan_y": 140.0,
-                "illustration_scale": 3.719
+                "illustration_scale": 3.719,
+                "slots": [
+                    "hat"
+                ]
             },
             "back": {
                 "type": "player"
@@ -10654,7 +10664,7 @@
                 "title": "<unique><name>",
                 "subtitle": "Maiden of the Black Water",
                 "traits": "Yokai. Elite. Cursed.",
-                "text": "Hunter 2.\n<spawn> Dismal Anchorage.\n<b>Revenge</b> -- Instead of discarding <name>, remove all damage and doom from her, then exhaust Kayako and move her to Dismal Anchorage.",
+                "text": "<spawn> Dismal Anchorage.\nHunter 2.\n<b>Revenge</b> -- Instead of discarding <name>, remove all damage and doom from her, then exhaust Kayako and move her to Dismal Anchorage.",
                 "health": "1<per>",
                 "evade": "4",
                 "combat": "3",
