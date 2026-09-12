@@ -250,7 +250,10 @@
             "name": "scenarioset-1-b.png",
             "icon": "./images/scenarioset-1-b.png",
             "id": "9ef16d54-081f-4d28-8caf-e31da585efb1",
-            "card_amount": 22
+            "card_amount": 22,
+            "meta": {
+                "tts": {}
+            }
         },
         {
             "name": "scenarioset-2-b.png",
@@ -3855,8 +3858,9 @@
                 "flavor_text": "A solemn expanse of tall trees, shrubbery, \nand stonework beckons you deeper into the woods.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_x": -265.0,
-                "illustration_pan_y": 226.0
+                "illustration_pan_x": -359.0,
+                "illustration_pan_y": 239.0,
+                "illustration_scale": 1.658
             },
             "encounter_number": "11",
             "project_number": "11",
@@ -3894,8 +3898,9 @@
                 "flavor_text": "A solemn expanse of tall trees, shrubbery, \nand stonework beckons you deeper into the woods.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 226.0,
-                "illustration_pan_x": -265.0
+                "illustration_pan_y": 239.0,
+                "illustration_pan_x": -359.0,
+                "illustration_scale": 1.658
             },
             "encounter_number": "12",
             "project_number": "12",
@@ -3938,8 +3943,9 @@
                     "heart",
                     "star"
                 ],
-                "illustration_pan_y": 226.0,
-                "illustration_pan_x": -265.0
+                "illustration_pan_y": 239.0,
+                "illustration_pan_x": -359.0,
+                "illustration_scale": 1.658
             },
             "encounter_number": "13",
             "project_number": "13",
@@ -3982,8 +3988,9 @@
                     "heart",
                     "moon"
                 ],
-                "illustration_pan_y": 226.0,
-                "illustration_pan_x": -265.0
+                "illustration_pan_y": 239.0,
+                "illustration_pan_x": -359.0,
+                "illustration_scale": 1.658
             },
             "encounter_number": "14",
             "project_number": "14",
@@ -4021,8 +4028,9 @@
                 "flavor_text": "A solemn expanse of tall trees, shrubbery, \nand stonework beckons you deeper into the woods.",
                 "connection": "<copy>",
                 "connections": "<copy>",
-                "illustration_pan_y": 226.0,
-                "illustration_pan_x": -265.0
+                "illustration_pan_y": 239.0,
+                "illustration_pan_x": -359.0,
+                "illustration_scale": 1.658
             },
             "encounter_number": "15",
             "project_number": "15",

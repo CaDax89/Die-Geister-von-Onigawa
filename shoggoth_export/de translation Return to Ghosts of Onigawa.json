@@ -1280,5 +1280,59 @@
     "id": "4d5bc8fa-6076-491b-ae40-9ba78d7d6abd",
     "meta": {
         "dirty": []
-    }
+    },
+    "export_profiles": [
+        {
+            "id": "3c5aa5aa-ab57-464d-b8f0-ea04bb1b4302",
+            "name": "Default",
+            "scope": {
+                "type": "all",
+                "encounter_set_ids": [],
+                "card_ids": []
+            },
+            "sections": {
+                "images": {
+                    "enabled": false,
+                    "folder": null,
+                    "size_label": "FFG 726\u00d71039 px (Default)",
+                    "format": "png",
+                    "quality": 95,
+                    "filename_format": "id",
+                    "rotate": false,
+                    "bleed": true,
+                    "separate_versions": false,
+                    "include_backs": false
+                },
+                "pdf": {
+                    "enabled": true,
+                    "flavor": "azao",
+                    "folder": null,
+                    "export_images": true,
+                    "size_label": "FFG 1453\u00d72079 px",
+                    "format": "png",
+                    "quality": 100,
+                    "include_backs": false,
+                    "vector_text": true,
+                    "output_path": "C:/Users/cdpog/Desktop/Return to front.pdf",
+                    "back_output_path": "C:/Users/cdpog/Desktop/Return to back.pdf"
+                },
+                "tts": {
+                    "enabled": false,
+                    "folder": null,
+                    "export_images": true,
+                    "sync": false
+                },
+                "arkham_build": {
+                    "enabled": false,
+                    "export_thumbnails": false,
+                    "url_pattern": null
+                },
+                "guides": {
+                    "enabled": false,
+                    "export_pdf": true,
+                    "export_html": true
+                }
+            }
+        }
+    ]
 }
