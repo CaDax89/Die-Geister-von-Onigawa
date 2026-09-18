@@ -5235,7 +5235,10 @@
                 "illustration": "./images/cezar-lasiewicki-oni-gates-guardian.jpg",
                 "clues": "1<per>",
                 "shroud": "3",
-                "illustrator": "Illus. Cezar Lasiewicki"
+                "illustrator": "Illus. Cezar Lasiewicki",
+                "illustration_pan_x": 17.0,
+                "illustration_pan_y": -105.0,
+                "illustration_scale": 2.348
             },
             "back": {
                 "type": "location_back",
