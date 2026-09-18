@@ -5288,12 +5288,14 @@
                 "flavor_text": "The winding river forks into several smaller tributaries, concealing areas of interest all along the delta.",
                 "illustration_pan_y": 184.0,
                 "illustration_pan_x": -314.0,
-                "illustration_scale": 0.621
+                "illustration_scale": 0.621,
+                "connection": null
             },
             "encounter_number": "10",
             "project_number": "66",
             "encounter_set": "9ab16e64-12db-4780-a632-56f71abcc53d",
-            "id": "39e83a4b-4665-43f4-9420-1dfba6ec4e32"
+            "id": "39e83a4b-4665-43f4-9420-1dfba6ec4e32",
+            "connections": null
         },
         {
             "name": "Jagged Atoll",
@@ -6702,7 +6704,7 @@
                 "text": "<hau> Discard the top card of your deck. If it is a weakness, draw it. <i>(Trigger this location's haunted effect whenever you fail a skill test while investigating <name>.)</i>",
                 "flavor_text": "The royal servants were confined to a small dormitory on the far side of the palace; out of sight, out of mind.",
                 "illustration": "./images/thomas-zacari-0019.jpg",
-                "clues": "1",
+                "clues": "1<per>",
                 "shroud": "2",
                 "connection": "hourglass",
                 "connections": [
@@ -7032,13 +7034,13 @@
                 "clues": "1<per>",
                 "shroud": "4",
                 "connection": "square",
-                "connections": [
-                    "circle_alt"
-                ],
                 "illustrator": "Illus. David Skalesky",
                 "illustration_pan_x": -100.0,
                 "illustration_pan_y": -367.0,
-                "illustration_scale": 0.925
+                "illustration_scale": 0.925,
+                "connections": [
+                    "heart"
+                ]
             },
             "back": {
                 "type": "location_back",
@@ -7048,13 +7050,13 @@
                 "traits": "Ground Floor. Passageway.",
                 "text": "",
                 "flavor_text": "A pool of blood disappears \nbeneath the uneven floorboards...",
-                "connection": "<copy>",
-                "connections": [
-                    "circle_alt"
-                ],
+                "connection": "square",
                 "illustration_pan_x": -510.0,
                 "illustration_pan_y": 208.0,
-                "illustration_scale": 1.556
+                "illustration_scale": 1.556,
+                "connections": [
+                    "heart"
+                ]
             },
             "encounter_number": "20",
             "project_number": "118",
