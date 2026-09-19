@@ -5286,10 +5286,13 @@
                 "traits": "River.",
                 "text": "",
                 "flavor_text": "The winding river forks into several smaller tributaries, concealing areas of interest all along the delta.",
+                "connection": "null",
+                "connections": [
+                    "null"
+                ],
                 "illustration_pan_y": 184.0,
                 "illustration_pan_x": -314.0,
-                "illustration_scale": 0.621,
-                "connection": null
+                "illustration_scale": 0.621
             },
             "encounter_number": "10",
             "project_number": "66",
@@ -5356,6 +5359,10 @@
                 "traits": "River.",
                 "text": "",
                 "flavor_text": "The winding river forks into several smaller tributaries, concealing areas of interest all along the delta.",
+                "connection": "null",
+                "connections": [
+                    "null"
+                ],
                 "illustration_pan_y": 184.0,
                 "illustration_pan_x": -314.0,
                 "illustration_scale": 0.621
@@ -7862,7 +7869,7 @@
                 "illustration": "./images/irene-gufydraws-agnoletti-bg-4.jpg",
                 "clues": "1<per>",
                 "shroud": "2",
-                "connection": "heartalt",
+                "connection": "heart",
                 "connections": [
                     "circle",
                     "double_slash"
@@ -7880,8 +7887,11 @@
                 "traits": "Mountain.",
                 "text": "As an additional cost to enter Mountain Pass, investigators must spend 1 additional action for each clue on their current location.",
                 "flavor_text": "A treacherous path cuts through the blinding snow, \nslowly guiding you towards the summit...",
-                "connection": "<copy>",
-                "connections": "<copy>",
+                "connection": "heart",
+                "connections": [
+                    "circle",
+                    "double_slash"
+                ],
                 "illustration_pan_y": 180.0,
                 "illustration_pan_x": -420.0,
                 "illustration_scale": 1.596
@@ -7901,7 +7911,7 @@
                 "illustration": "./images/tom-sanders-7.jpg",
                 "clues": "1<per>",
                 "shroud": "3",
-                "connection": "doubleslash",
+                "connection": "double_slash",
                 "connections": [
                     "heart",
                     "square"
@@ -7919,8 +7929,11 @@
                 "traits": "Mountain.",
                 "text": "As an additional cost to enter Mountain Pass, investigators must spend 1 additional action for each clue on their current location.",
                 "flavor_text": "A treacherous path cuts through the blinding snow, \nslowly guiding you towards the summit...",
-                "connection": "<copy>",
-                "connections": "<copy>",
+                "connection": "double_slash",
+                "connections": [
+                    "heart",
+                    "square"
+                ],
                 "illustration_pan_y": 180.0,
                 "illustration_pan_x": -420.0,
                 "illustration_scale": 1.596
