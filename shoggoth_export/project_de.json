@@ -175,6 +175,7 @@
         "0a435cff-7e49-407c-bef9-6caaaf634078": {
             "name": "<unique>Der listige Bandit",
             "front": {
+                "illustrator": "Illus. Unbekannt",
                 "subtitle": "Segen der Tanuki",
                 "text": "Dauerhaft.\n<reaction> Nachdem du einem Gegner entkommen bist, ersch\u00f6pfe Der listige Bandit: Erhalte X Ressourcen, wobei X dem Entkommenswert des entkommenen Gegners entspricht. \n<for> Zu Beginn deines Zuges: Du musst entweder 1 Ressource bezahlen oder Der listige Bandit ersch\u00f6pfen.",
                 "traits": "Aspekt."
@@ -306,6 +307,7 @@
             "name": "Terramorpher Regenwald",
             "front": {
                 "flavor_text": "Von den R\u00e4ndern dieser Inseln st\u00fcrzen rauschende Wasserf\u00e4lle hinab, was zu hoher Luftfeuchtigkeit f\u00fchrt...",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<reaction> Nachdem du erfolgreich an diesem Ort ermittelt hast: Anstatt Hinweise zu entdecken, kannst du stattdessen dem Chaosbeutel bis zu X<blessing>-Marker hinzuf\u00fcgen, wobei X die Differenz ist, um die du erfolgreich warst.",
                 "traits": "Dschungel. Zerst\u00f6rt."
             },
@@ -522,7 +524,7 @@
             "back": {
                 "flavor_text": "Die Glocke l\u00e4utet f\u00fcr dich.",
                 "subtitle": "Der Mauteintreiber",
-                "text": "<spawn> Kaskaden-Endstation, falls m\u00f6glich. Andernfalls Fischerkai. \nMassiv. J\u00e4ger 1. Alarm. \nShinigami kann keine Nicht-<t>Fluss</t>-Orte betreten.",
+                "text": "<spawn> Kaskaden-Endstation, falls m\u00f6glich. Andernfalls Fischerkai. \nMassiv. J\u00e4ger 1. Alarmiert. \nShinigami kann keine Nicht-<t>Fluss</t>-Orte betreten.",
                 "victory": "Sieg 1."
             }
         },
@@ -639,6 +641,7 @@
             "name": "<unique>Siderisches Schisma",
             "front": {
                 "flavor_text": "Wie oben, so unten.",
+                "illustrator": "Illus. Unbekannt",
                 "subtitle": "Den Sternen trotzen",
                 "text": "Dauerhaft. \n<reaction> Sobald das Spiel beginnt: Enth\u00fclle Marker aus dem Chaosbeutel, bis du einen Marker enth\u00fcllst der nicht ein <elder_sign>- oder <auto_fail>-Marker ist. Du darfst diesen Marker hier versiegeln.",
                 "traits": "Gl\u00fccksfall."
@@ -738,7 +741,7 @@
             "back": {
                 "name": "Unscharf",
                 "flavor_text": "Die flammende Kugel verfolgt dich, w\u00e4hrend du die Tiefen der H\u00f6hle umrundest, ihr sengender Blick bleibt ununterbrochen auf dich gerichtet. Die Hitze nimmt zu, je n\u00e4her du ihr kommst, und f\u00fcr einen Moment f\u00fchlst du eine Verbundenheit mit dem Strom gequ\u00e4lter Seelen, die in ihrem Gravitationsfeld gefangen sind. Sie blickt durch dich hindurch, urteilt schweigend \u00fcber dich, und dann \u2026 entlastet sich etwas in deiner Brust, als w\u00fcrde Luft durch ein winziges Loch entweichen. Die Linse rei\u00dft und zersplittert dann wie Glas, wobei ihre gl\u00fchenden Scherben in den Abgrund darunter st\u00fcrzen. Die H\u00f6hle bebt und wirft dich fast von deinem prek\u00e4ren Ausguck, und du schaffst es gerade noch, zur\u00fcck auf festen Boden zu springen, bevor das Lavafeld abk\u00fchlt und zu einem verkohlten Gletscher aus Knochen und Asche erstarrt \u2026\nVon deinem Aussichtspunkt aus kannst du gerade noch einen fl\u00fcchtigen Blick auf das lodernde Portal am Gipfel des Vulkans erhaschen, gerade rechtzeitig, um zu sehen, wie sich seine feurige Barriere zur\u00fcckzieht \u2026 und eine dunkle Gestalt aus den Schatten dahinter hervortritt. Ein Strom von Geistern scheint die grimmige Waffe zu umkreisen, die sie tr\u00e4gt, und du sp\u00fcrst, wie der Boden unter deinen F\u00fc\u00dfen zischt \u2026",
-                "text": "Jeder Ermittler muss eine Kopie der beiseitegelegten Verratskarte Siedepunkt ziehen und sie in seiner Bedrohungszone ins Spiel bringen.\nBringe den beiseitegelegten Gegner Kurama Tengu <i>(Die Hand des Moloch)</i>  an der Brandschneise ins Spiel.\n\u00dcberpr\u00fcfe das Kampagnenlogbuch und platziere X Verderben auf Kurama Tengu, wobei X der Anzahl der <i>zur Ruhe gebetteten Meister von Onigawa </i>entspricht.\nMische den  Begegnungs-Ablagestapel in das Begegnungsdeck.\n\n\n"
+                "text": "Jeder Ermittler muss eine Kopie der beiseitegelegten Verratskarte Siedepunkt ziehen und sie in seiner Bedrohungszone ins Spiel bringen.\nBringe den beiseitegelegten Gegner Kurama Tengu <i>(Die Hand des Moloch)</i>  an der Brandschneise ins Spiel.\n\u00dcberpr\u00fcfe das Kampagnenlogbuch und platziere X Verderben auf Kurama Tengu, wobei X der Anzahl der <i>zur letzten Ruhe gebetteten Krieger von Onigawa </i>entspricht.\nMische den  Begegnungs-Ablagestapel in das Begegnungsdeck.\n\n\n"
             }
         },
         "2e822683-7e6a-4eef-a67f-7ad2604f1428": {
@@ -1133,6 +1136,7 @@
             "back": {
                 "name": "Gr\u00fcnes W\u00e4ldchen",
                 "flavor_text": "Eine ehrw\u00fcrdige Landschaft aus hohen B\u00e4umen, Str\u00e4uchern und Steinmauern lockt dich tiefer in den Wald hinein.",
+                "illustrator": "Illus. Unbekannt",
                 "traits": "W\u00e4lder."
             }
         },
@@ -1302,6 +1306,7 @@
             "name": "Den Bund einhalten",
             "front": {
                 "flavor_text": "Das Zerbrechen von Onigawas Bund mit den W\u00e4chtern war f\u00fcr alle sp\u00fcrbar, die zuvor ihren g\u00f6ttlichen Schutz genossen hatten.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev> Jeder Ermittler muss eine <t>Aspekt</t>-<br>Storyvorteilskarte, die er kontrolliert, ersch\u00f6pfen. Jeder Ermittler, der dies nicht kann, muss stattdessen 1 direkten Horror nehmen.",
                 "traits": "Doktrin. Erinnerung."
             }
@@ -1319,6 +1324,7 @@
             "name": "Der Purpurrote Schmetterling",
             "front": {
                 "flavor_text": "Eine halbtransparente, rubinrote Sph\u00e4re umgibt das Wesen, erhellt die Umgebung und h\u00e4lt Feinde fern.",
+                "illustrator": "Illus. Unbekannt",
                 "subtitle": "Blendender Wegweiser",
                 "text": "<t>Geist</t>-Gegner am Ort von <name> erhalten Zur\u00fcckhaltend und verlieren J\u00e4ger.\n<action><action>: <b>Verhandlung.</b> <i>Die Siegel schw\u00e4chen.</i> F\u00fchre eine <combat>- oder <agility>-Probe (4) durch. Falls die Probe gelingt, darfst du einen verbundenen <t>Verboten</t>-Ort enth\u00fcllen. <i>(Max. ein Mal pro Spiel.)</i>",
                 "traits": "Kreatur. Geist."
@@ -1369,6 +1375,7 @@
             "name": "G\u00e4stequartier",
             "front": {
                 "flavor_text": "Das flackernde Kerzenlicht wirft lange Schatten quer durch das beengte Schlafzimmer.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<b>Heimgesucht --</b> F\u00fcge dem Chaosbeutel 1<curse>-Marker hinzu. ",
                 "traits": "Erdgeschoss."
             },
@@ -1795,6 +1802,7 @@
             "name": "<unique>Iscariots Apokryphen",
             "front": {
                 "flavor_text": "Selbst die gro\u00dfartigste Geschichte, die je erz\u00e4hlt wurde, hat zwei Seiten.",
+                "illustrator": "Illus. Unbekannt",
                 "subtitle": "Das verlorene Evangelium",
                 "text": "<action>: Falls Iscariots Apokryphen spielbereit ist: <b>Ermitteln.</b> Falls diese Ermittlung erfolgreich ist und dabei ein <blessing>- oder <elder_sign>-Marker abgehandelt wurde, entdecke einen zus\u00e4tzlichen Hinweis an deinem Ort. Als zus\u00e4tzliche Kosten, um diese F\u00e4higkeit zu initiieren, darfst du Iscariots Aprokryphen ersch\u00f6pfen, um dem Chaosbeutel einen <blessing>-Marker hinzuzuf\u00fcgen.",
                 "traits": "Gegenstand. Buch. Gesegnet. "
@@ -1974,11 +1982,13 @@
         "6e7cae13-c681-4a88-a777-ad38800a4245": {
             "name": "Wunschbrunnen",
             "front": {
+                "illustrator": "Illus. Unbekannt",
                 "text": "<for> Nachdem Wunschbrunnen aufgedeckt wurde: Mische das beiseitegelegte Begegnungsset Brunnabw\u00e4rts und lege es verdeckt als separates Brunnen-Deck an diesen Ort.\n<free>: <i>W\u00fcnsch dir etwas.</i> Ziehe eine zuf\u00e4llige Karte aus dem beiseitegelegten Brunnen-Deck. (Maximal einmal pro Spiel.)",
                 "traits": "Dorf."
             },
             "back": {
                 "flavor_text": "Na, na, na... Was haben wir denn hier?",
+                "illustrator": "Illus. Unbekannt",
                 "traits": "Dorf."
             }
         },
@@ -1996,6 +2006,7 @@
         "6f0396d3-597f-4515-a2ef-d25faf71d185": {
             "name": "Papier-Laterne",
             "front": {
+                "illustrator": "Illus. Unbekannt",
                 "text": "Anwendungen (4 Vorr\u00e4te). Falls <name> keine Vorr\u00e4te auf sich hat, lege sie ab.\n<for> Sobald ein Ermittler an deinem Ort einen <cultist>-, <elder_thing>-, oder <auto_fail>-Marker w\u00e4hrend einer Fertigkeitsprobe enth\u00fcllt: Entferne 1 Vorrat von <name>. \n<free> Ersch\u00f6pfe <name>: Dein aktueller Ort erh\u00e4lt \u20131 Schleierwert bis zum Ende der Runde.",
                 "traits": "Gegenstand. Werkzeug."
             }
@@ -2011,6 +2022,7 @@
             "back": {
                 "name": "Gr\u00fcnes W\u00e4ldchen",
                 "flavor_text": "Eine ehrw\u00fcrdige Landschaft aus hohen B\u00e4umen, Str\u00e4uchern und Steinmauern lockt dich tiefer in den Wald hinein.",
+                "illustrator": "Illus. Unbekannt",
                 "traits": "W\u00e4lder."
             }
         },
@@ -2154,6 +2166,7 @@
             "name": "Hypnotischer Strudel",
             "front": {
                 "flavor_text": "Da unten ist irgendetwas...",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev> H\u00e4nge <name> an den n\u00e4chstgelegenen <t>Fluss</t>-Ort ohne eine Kopie von <name> an. Maximal 1 pro Ort.\n<for> Am Ende der Ermittlerphase: Jeder Ermittler an diesem Ort muss eine <willpower>-Probe (4) durchf\u00fchren. Falls die Probe misslingt, f\u00fchre eine <agility>-Probe (3) durch. Falls auch diese Probe misslingt, nimm 1 Schaden.",
                 "traits": "Gefahr. "
             }
@@ -2242,6 +2255,7 @@
             "name": "Ausgleich schaffen",
             "front": {
                 "flavor_text": "Man w\u00fcrde es nicht glauben, wenn man es nicht mit eigenen Augen gesehen h\u00e4tte. Das Relikt auf der Mondoberfl\u00e4che war keine blo\u00dfe Anomalie; es war das heilige Gef\u00e4\u00df f\u00fcr die Wiedergeburt eines W\u00e4chters...",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<b>Erinnerung</b> -- Harmonie-Marker gelten sowohl als <blessing>- als auch als <curse>-Marker. Bei Fertigkeitsproben kann der ausf\u00fchrende Ermittler w\u00e4hlen, als welchen der beiden er sie abhandeln m\u00f6chte. Abgehandelte Harmonie-Marker werden nach Beendigung der Probe in den Chaosbeutel zur\u00fcckgelegt.\n<obj> Falls sich 8 Harmonie-Marker im Chaosbeutel befinden oder sich Moloch im Siegpunktestapel befindet, r\u00fccke vor."
             },
             "back": {
@@ -2267,6 +2281,7 @@
             "back": {
                 "name": "Gr\u00fcnes W\u00e4ldchen",
                 "flavor_text": "Eine ehrw\u00fcrdige Landschaft aus hohen B\u00e4umen, Str\u00e4uchern und Steinmauern lockt dich tiefer in den Wald hinein.",
+                "illustrator": "Illus. Unbekannt",
                 "traits": "W\u00e4lder."
             }
         },
@@ -2389,6 +2404,7 @@
             "name": "Schlichtes Denkmal",
             "front": {
                 "flavor_text": "Eine Gedenkfeier bei Kerzenschein ehrt das Andenken an ehemalige Helden von Onigawa.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<b>Heimgesucht --</b> Enth\u00fclle einen Chaosmarker aus dem Chaosbeutel. Falls es ein Nicht-<elder_sign>- oder <blessing>-Symbol ist, nimm 1 Horror. ",
                 "traits": "Erdgeschoss."
             },
@@ -2416,6 +2432,7 @@
             "name": "Spiegelbild",
             "front": {
                 "flavor_text": "Glaube nicht alles, was du siehst.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "Schnell. Spiele diese Karte nur sobald dein Zug beginnt.\nEcho 1 <i>(bis zum Ende der Runde kann jeder Ermittler <name> aus dem Ablagestapel des Besitzers einmal spielen.)</i> \nBis zum Ende der Runde darfst du, wann immer du eine Basisaktion f\u00fcr Kampf, Entkommen oder Bewegen verwendest, diese Aktion ein weiteres Mal ausf\u00fchren <i>(es sei denn, diese Aktion wurde durch diesen Effekt genommen)</i>.",
                 "traits": "Trick. Mutig. Tandem."
             }
@@ -2539,6 +2556,7 @@
             "back": {
                 "name": "Gr\u00fcnes W\u00e4ldchen",
                 "flavor_text": "Eine ehrw\u00fcrdige Landschaft aus hohen B\u00e4umen, Str\u00e4uchern und Steinmauern lockt dich tiefer in den Wald hinein.",
+                "illustrator": "Illus. Unbekannt",
                 "traits": "W\u00e4lder."
             }
         },
@@ -2554,6 +2572,7 @@
             "name": "Futakuchi-Begleitung",
             "front": {
                 "flavor_text": "Die k\u00f6niglichen Begleiterinnen verzichteten oft auf Mahlzeiten, um ihre Figur zu bewahren, doch der grauenhafte Schlund, der sich nun unter ihrem rabenschwarzen Haar verbirgt, h\u00e4lt sich nicht an ihre \u201eErn\u00e4hrungsvorschriften\u201c.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "Hinterhalt.\n<for> Zu Beginn der Gegnerphase: F\u00fcge dem Chaosbeutel 1<curse>-Marker hinzu.",
                 "traits": "Humanoid. Yokai. Verflucht."
             }
@@ -2569,7 +2588,8 @@
         "8f0e6e41-31a5-4b22-9518-9fff0baa2245": {
             "name": "Fremdartige Gefahr",
             "front": {
-                "flavor_text": "Das blasse Mondlicht wirft lange Schatten in die engen Gassen des Dorfes, und die Einrichtung und Architektur strahlen eine rustikale, zeitlose Atmosph\u00e4re aus, die einem Unbehagen bereitet; auf den ersten Blick wirkt das Dorf verlassen, doch wenn die M\u00e4dchen hierher verschleppt wurden, solltest du besser auf alles gefasst sein... "
+                "flavor_text": "Das blasse Mondlicht wirft lange Schatten in die engen Gassen des Dorfes, und die Einrichtung und Architektur strahlen eine rustikale, zeitlose Atmosph\u00e4re aus, die einem Unbehagen bereitet; auf den ersten Blick wirkt das Dorf verlassen, doch wenn die M\u00e4dchen hierher verschleppt wurden, solltest du besser auf alles gefasst sein... ",
+                "illustrator": "Illus. Unbekannt"
             },
             "back": {
                 "name": "Keine Zeit mehr",
@@ -2915,6 +2935,7 @@
             "name": "Gehirnfrost",
             "front": {
                 "flavor_text": "Du zitterst, als die Luft um dich herum sp\u00fcrbar k\u00e4lter wird...",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<rev>  Enth\u00fclle einen zuf\u00e4lligen Marker aus dem Chaosbeutel. Falls es ein <auto_fail>- oder <frost>-<br>Marker ist, nimm 1 Horror. Ansonsten f\u00fcge dem Chaosbeutel einen <frost>-Marker hinzu. Falls dies nicht m\u00f6glich ist, f\u00fcge der Agenda 1 Verderben hinzu.",
                 "traits": "Gefahr."
             }
@@ -3151,6 +3172,7 @@
             "name": "Die Tore st\u00fcrmen",
             "front": {
                 "flavor_text": "Die seltsame Festungsstadt, die die Schlucht \u00fcberragt, sticht unverkennbar ins Auge. Der Weg die steile Klippe hinauf f\u00fchrt zu einer Art Wachhaus; wenn Miyu auf diesem Weg verschleppt wurde, muss es doch einen Weg ins Innere geben...",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<obj> Finde einen Weg in die mysteri\u00f6se Stadt.\n<i>(R\u00fccke diese Agenda nicht vor, bis du dazu angewiesen wirst.)</i>"
             },
             "back": {
@@ -3312,6 +3334,7 @@
             "name": "<unique>Majin Wukong",
             "front": {
                 "flavor_text": "Schluss mit dem Affentanz.",
+                "illustrator": "Illus. Unbekannt",
                 "subtitle": "<size 45>Vorbote der neuen Morgend\u00e4mmerung",
                 "text": "Sobald ein Ermittler einen <blessing>- oder <curse>-Marker w\u00e4hrend einer Fertigkeitsprobe abhandelt, darf der Marker am Ende der Probe wieder dem Chaosbeutel hinzugef\u00fcgt werden.\n<action>: Durchsuche den Chaosbeutel nach 1<blessing>- und 1<curse>-Marker und lege diese in den Markervorrat zur\u00fcck: F\u00fcge dem Chaosbeutel 1 Harmonie-Marker hinzu. Ermittler k\u00f6nnen diese F\u00e4higkeit von allen Orten ausl\u00f6sen.",
                 "traits": "Verb\u00fcndeter. Avatar."
@@ -3383,6 +3406,7 @@
             "back": {
                 "name": "Gr\u00fcnes W\u00e4ldchen",
                 "flavor_text": "Eine ehrw\u00fcrdige Landschaft aus hohen B\u00e4umen, Str\u00e4uchern und Steinmauern lockt dich tiefer in den Wald hinein.",
+                "illustrator": "Illus. Unbekannt",
                 "traits": "W\u00e4lder."
             }
         },
@@ -3629,6 +3653,7 @@
             "name": "<unique>Das unendliche Okulus",
             "front": {
                 "flavor_text": "Unter dem durchdringenden Blick der Maske werden alle Geheimnisse offenbart.",
+                "illustrator": "Illus. Unbekannt",
                 "subtitle": "Unz\u00e4hlige Wahrheiten",
                 "text": "Nur f\u00fcr das Deck von Makoto Miyazaki.\nMaximal 1 <t>Kopfbedeckung</t> pro Ermittler.\nDu erh\u00e4ltst +1 <intellect> f\u00fcr jeden Gegner an deinem Ort.\n<reaction> Sobald die Ermittlerphase beginnt, falls mindestens ein Gegner an deinem Ort ist: Erhalte 1 Ressource.",
                 "traits": "Gegenstand. Kopfbedeckung. Relikt. Okkult."
@@ -3832,6 +3857,7 @@
             "name": "Den Weg erhellen",
             "front": {
                 "flavor_text": "Vorsicht ist ein Luxus, den du dir einfach nicht leisten kannst.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "Schnell. Spiele diese Karte sobald die Ermittlerphase beginnt.\nBis zum Ende der Runde k\u00f6nnen andere Ermittler Karten zu Proben beitragen, die du durchf\u00fchrst, als wenn diese an deinem Ort w\u00e4ren. Karten die so von anderen Ermittlern beigetragen werden erhalten <wild>.",
                 "traits": "Geist. Mutig."
             }
@@ -3909,6 +3935,7 @@
             "name": "Greifende Gefahr",
             "front": {
                 "flavor_text": "Egal, wohin du rennst, sie fangen dich immer ein...",
+                "illustrator": "Illus. Unbekannt",
                 "text": "Wagnis.\n<rev> W\u00e4hle einen <t>Elite</t>-Gegner im Spiel aus. Verschiebe den ausgew\u00e4hlten Gegner um eine Position in Richtung deiner aktuellen Position und f\u00fchre anschlie\u00dfend eine <Willpower>-Probe (X) durch, wobei X dem Entkommenswert des ausgew\u00e4hlten Gegners entspricht. Wenn die Probe nicht gelingt, lege 1 Verderbensmarker auf den ausgew\u00e4hlten Gegner.",
                 "traits": "Falle."
             }
@@ -3972,6 +3999,7 @@
             "name": "Schicksalsband",
             "front": {
                 "flavor_text": "\u201eUnsere Bande wuchsen wie Wurzeln unter der Erde zusammen, bis wir schlie\u00dflich feststellten, dass wir ein einziger Baum waren und nicht zwei.\u201c",
+                "illustrator": "Illus. Unbekannt",
                 "text": "Schnell. Spiele diese Karte nur in deinem Zug.\nW\u00e4hle einen Ermittler. Die n\u00e4chste Aktion, die du ausf\u00fchrst, darf so durchgef\u00fchrt werden, als wenn du am Ort des ausgew\u00e4hlten Ermittlers w\u00e4rst. Entferne <name> aus dem Spiel."
             }
         },
@@ -4054,6 +4082,7 @@
         "e55db522-ca9d-4824-bc09-0230f5ba1c8f": {
             "name": "Papier-Laterne",
             "front": {
+                "illustrator": "Illus. Unbekannt",
                 "text": "Anwendungen (2 Vorr\u00e4te). Falls <name> keine Vorr\u00e4te auf sich hat, lege sie ab.\n<for> Sobald ein Ermittler an deinem Ort einen <cultist>-, <elder_thing>-, oder <auto_fail>-Marker w\u00e4hrend einer Fertigkeitsprobe enth\u00fcllt: Entferne 1 Vorrat von <name>. \n<free> Ersch\u00f6pfe <name>: Dein aktueller Ort erh\u00e4lt \u20131 Schleierwert bis zum Ende der Runde.",
                 "traits": "Gegenstand. Werkzeug."
             }
@@ -4246,6 +4275,7 @@
             "name": "<unique>Iscariots Apokryphen",
             "front": {
                 "flavor_text": "Selbst die gro\u00dfartigste Geschichte, die je erz\u00e4hlt wurde, hat zwei Seiten.",
+                "illustrator": "Illus. Unbekannt",
                 "subtitle": "Das verlorene Evangelium",
                 "text": "<action>: Falls Iscariots Apokryphen spielbereit ist: <b>Ermitteln.</b> Du erh\u00e4ltst +1 <intellect> f\u00fcr diese Ermittlung. Falls diese Ermittlung erfolgreich ist und dabei ein <blessing>- oder <elder_sign>-Marker abgehandelt wurde, entdecke einen zus\u00e4tzlichen Hinweis an deinem Ort. Als zus\u00e4tzliche Kosten, um diese F\u00e4higkeit zu initiieren, darfst du Iscariots Aprokryphen ersch\u00f6pfen, um dem Chaosbeutel einen <blessing>-Marker hinzuzuf\u00fcgen.",
                 "traits": "Gegenstand. Buch. Gesegnet. "
@@ -4271,11 +4301,13 @@
             "name": "Zerst\u00f6rtes Wachhaus",
             "front": {
                 "flavor_text": "Die alten Tore werden durch einen ausgekl\u00fcgelten Mechanismus verschlossen gehalten, wodurch die Stadt effektiv von der Au\u00dfenwelt abgeschottet ist.",
+                "illustrator": "Illus. Unbekannt",
                 "text": "<action><action>: <i>Manueller Noteingriff.</i> F\u00fchre eine <combat>-Probe (5) durch. Verringere die Schwierigkeit dieser Probe um 1 f\u00fcr jeden Hinweis, der von Ermittlern an <name> kontrolliert wird <i>(bis zu einem Minimum von 1)</i>. Falls die Probe gelingt, r\u00fccke vor. <i>(Max. ein Mal pro Spiel.)</i>",
                 "traits": "Stadt. Zugang."
             },
             "back": {
                 "flavor_text": "Eine Reihe von Feuerstellen in der N\u00e4he flackert auf, als du dich dem Torhaus n\u00e4herst, das in die Stadt f\u00fchrt.",
+                "illustrator": "Illus. Unbekannt",
                 "traits": "Stadt. Zugang."
             }
         },
@@ -4647,7 +4679,94 @@
             "name": "Feurige F\u00fcgung"
         },
         "4f485ace-5d62-4c3e-905b-194d814443b1": {
-            "name": "Szenario V: Halbdunkel"
+            "name": "Szenario V: Halbdunkel",
+            "meta": {
+                "location_active_layout": "3f931ba2-63db-4e26-b4e8-42ca81880ed7",
+                "location_layouts": [
+                    {
+                        "name": "Anordnung 1",
+                        "id": "3f931ba2-63db-4e26-b4e8-42ca81880ed7",
+                        "fixed_length_arrows": false,
+                        "hide_mode": false,
+                        "nodes": {
+                            "41dadafa-94d9-4604-b826-48ca75650b18_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 456.0
+                            },
+                            "4fbeace4-ace5-4e4a-9629-8fdf8b804733_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 228.0
+                            },
+                            "516ac804-ddb2-45e7-bb37-fee9f5a856a5_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 228.0
+                            },
+                            "52cb680d-2cf0-41fe-9c79-7b6fd3a0afba_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 0.0
+                            },
+                            "5f447cf3-c02b-482f-b8b6-a668f6cc8261_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 456.0
+                            },
+                            "6c963d50-d557-4cd7-a833-e9df219893fd_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 228.0
+                            },
+                            "835cc6de-b44d-44cf-b7de-3f962eda5eac_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 456.0
+                            },
+                            "87a8c993-47d1-44bb-bda0-c062c8a96e15_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 0.0
+                            },
+                            "b3fa255b-09f2-46e2-8fbf-17219027656d_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 0.0
+                            },
+                            "b90810fd-e027-4d97-9d36-233dce4fd4a9_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 684.0
+                            },
+                            "c823572e-1bc4-4c9b-82ca-64f8cc2da8ae_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 228.0
+                            },
+                            "f63275a3-27a7-4085-bad9-3053867350f1_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 456.0
+                            }
+                        },
+                        "show_arrows": true,
+                        "snap_enabled": false
+                    }
+                ]
+            }
         },
         "5db3d9c8-9382-44c6-a132-31a64709f1dd": {
             "name": "Mondschein-Manie"
@@ -4674,7 +4793,94 @@
             "name": "Szenario III: Das Flussdelta"
         },
         "9ef16d54-081f-4d28-8caf-e31da585efb1": {
-            "name": "Szenario I: Das verborgene Dorf"
+            "name": "Szenario I: Das verborgene Dorf",
+            "meta": {
+                "location_active_layout": "c70e0a1e-4e3b-4b06-977a-34a2e6ef798e",
+                "location_layouts": [
+                    {
+                        "name": "Anordnung 1",
+                        "id": "c70e0a1e-4e3b-4b06-977a-34a2e6ef798e",
+                        "fixed_length_arrows": false,
+                        "hide_mode": false,
+                        "nodes": {
+                            "0db64187-8027-4cee-9b50-f16a43e17a14_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 228.0
+                            },
+                            "16cf7e96-3c57-426f-b9eb-afc4c4469a99_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 0.0
+                            },
+                            "44ed80f6-c735-49b0-8050-eadc3aeb6904_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 456.0
+                            },
+                            "50534a68-5fe9-4003-ae5b-f8f6df3c843c_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 228.0
+                            },
+                            "57f7d241-7470-4995-9d33-44320089a803_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 456.0
+                            },
+                            "6f7188c7-4a51-446b-ba6c-f84090206c3c_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 0.0
+                            },
+                            "7af62765-ff3b-477f-8129-7dd9251fddd2_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 228.0
+                            },
+                            "84f631aa-4f52-4d2f-9ef4-764adbb0680d_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 456.0
+                            },
+                            "8b845c30-7ba8-4360-a2f9-12afae228ac7_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 0.0
+                            },
+                            "b93eca6d-3eb4-44a6-ace5-f3fab1171d4c_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 684.0
+                            },
+                            "c23fdae3-15d9-47e4-95d6-d47b1fdb03a3_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 228.0
+                            },
+                            "ccb8ec79-4589-41be-b8ac-c772546ce07d_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 456.0
+                            }
+                        },
+                        "show_arrows": false,
+                        "snap_enabled": false
+                    }
+                ]
+            }
         },
         "9f69068d-7bb0-4721-bbf4-987e49e00189": {
             "name": "Belagerung von Onigawa"
@@ -4689,7 +4895,10 @@
             "name": "Grausame Gezeiten"
         },
         "b9245037-28ef-4862-8c63-db91684ab522": {
-            "name": "F\u00fcrchterlicher Forst"
+            "name": "F\u00fcrchterlicher Forst",
+            "meta": {
+                "tts": {}
+            }
         },
         "c0cb9906-a8fb-46ab-8831-2f69e4c13291": {
             "name": "Schaurige Schwaden",
@@ -4698,7 +4907,10 @@
             }
         },
         "c46862ed-ba89-4557-adfb-c9d7e4596582": {
-            "name": "Finsteres Herrenhaus"
+            "name": "Finsteres Herrenhaus",
+            "meta": {
+                "tts": {}
+            }
         },
         "c9caaee7-3f91-461f-89e5-4996afe9e42a": {
             "name": "R\u00fcckkehr zu W\u00e4chter von Minakami"
@@ -4707,7 +4919,21 @@
             "name": "Szenario VIII: Die schwarze Ernte"
         },
         "d2d065e4-80a5-4c26-93c1-6d4d507e9e2a": {
-            "name": "Versunkenes K\u00f6nigreich"
+            "name": "Versunkenes K\u00f6nigreich",
+            "meta": {
+                "location_active_layout": "e09cdcf1-6e6a-4de5-a9c1-e3d926c77265",
+                "location_layouts": [
+                    {
+                        "name": "Anordnung 1",
+                        "id": "e09cdcf1-6e6a-4de5-a9c1-e3d926c77265",
+                        "fixed_length_arrows": false,
+                        "hide_mode": false,
+                        "nodes": {},
+                        "show_arrows": true,
+                        "snap_enabled": false
+                    }
+                ]
+            }
         },
         "d3417fd3-e4fe-4e38-ab55-302b7ab38ee9": {
             "name": "Kaltherzige Kr\u00e4hen"
@@ -4830,7 +5056,7 @@
                     "name": "Szenario IV: Der ewige Krieg",
                     "id": "623581ea",
                     "encounter_set_id": "196125a5-3d26-48ae-9eaf-b57e0b883196",
-                    "markdown": "# [encounter:196125a5-3d26-48ae-9eaf-b57e0b883196:name]\n\n\u00dcberpr\u00fcfe das Kampagnenlogbuch.\n\n- Falls *die Ermittler die Maut gezahlt haben, um Onigawa zu erreichen,* fahre mit **Einf\u00fchrung 1** fort.\n- Andernfalls fahre mit **Einf\u00fchrung 2** fort.\n\n**Einf\u00fchrung 1:** *Dein Kopf pocht, w\u00e4hrend du langsam wieder zu dir kommst. Von dem geisterhaften F\u00e4hrmann, der dich anscheinend an Land gebracht hat, fehlt jede Spur, doch nachdem du dir \u2013 deutlich leichter gewordenen \u2013 Taschen \u00fcberpr\u00fcft habt, bist du dir sicher, dass dir das mysteri\u00f6se Wesen tats\u00e4chlich eine Geb\u00fchr abverlangt hat...*\n\n- Jeder Ermittler beginnt dieses Szenario mit einer Ressource weniger.\n\n:::right\nFahre mit **Einf\u00fchrung 2** fort.\n:::\n**Einf\u00fchrung 2:** *Was auch immer dieser Ort ist, du scheinst dich zumindest nicht mehr in unmittelbarer Gefahr zu befinden; auf dem sch\u00e4bigen Hafenplatz herrscht Stille, abgesehen vom Pl\u00e4tschern der Flut am Rand des Piers und dem Knistern der Kohlebecken, die den Weg vor dir erhellen, der sich in die steile Felswand der Schlucht zu schl\u00e4ngeln scheint. Der Weg f\u00fchrt hinauf zur Festung \u00fcber dir, die den riesigen Mond am Himmel kaum verdeckt \u2026*\n\n\u00dcberpr\u00fcfe das Kampagnenlogbuch.\n\n- Falls *die Ermittler Mayu bei den Ermittlungen helfen lassen*, fahre mit **Einf\u00fchrung 3** fort.\n- Andernfalls fahre mit **Einf\u00fchrung 4** fort.\n\n**Einf\u00fchrung 3:** *Du n\u00e4herst dich vorsichtig der schmalen Treppe, die die Klippe hinauff\u00fchrt, und fragst dich schon bald, ob das Erklimmen der Schlucht euch tats\u00e4chlich n\u00e4her an irgendwelche Antworten bringen wird.\nHinter dir schnappt Mayu pl\u00f6tzlich nach Luft, und du drehst dich blitzschnell um, bereit, sie vor den Schrecken zu besch\u00fctzen, die euch vielleicht bis hierher verfolgt haben \u2013 doch der Adrenalinsto\u00df l\u00e4sst schnell nach und l\u00e4sst deine ohnehin schon angespannten Nerven noch mehr flattern, als du einfach nur Mayu mitten auf dem Weg kauern siehst, wie sie zaghaft nach etwas greift, das im Dreck vergraben ist. Du kniest dich neben sie, und sie reicht dir ihren Fund: <div style=\"break-after: column;\"></div>einen schmutzigen silbernen Armreif. Du drehst ihn einen Moment lang in deinen H\u00e4nden hin und her - ein v\u00f6llig unauff\u00e4lliges Schmuckst\u00fcck - \u2026 bis Mayu ihr eigenes Handgelenk hochh\u00e4lt, um den ein identischer Armreif h\u00e4ngt, wenn auch in viel besserem Zustand.\n\u201eMiyu und ich haben uns zum Geburtstag jeweils einen passenden geschenkt \u2026\u201c, murmelt sie, w\u00e4hrend du wieder aufstehst. Es muss niemand aussprechen, was ihr alle denkt; Miyu muss ganz in der N\u00e4he sein...*\n\n:::right\nFahre mit **Einf\u00fchrung 5** fort.\n:::\n\n<img src=\"{./images/Guide_page_19.png}\" style=\"width: 50%; height: 46%; position: fixed; bottom: 0; right: 350px; colspan: 0;\">\n\n\n\n\n\n**Einf\u00fchrung 4:** *Du folgst dem Feldweg weg vom Hafen und gehst an den Feuerstellen vorbei. Du atmest tief durch und versuchst, dich mental auf den zweifellos beschwerlichen Aufstieg durch die Schlucht vorzubereiten, der dich erwartet, als dein Fu\u00df pl\u00f6tzlich an etwas im Dreck h\u00e4ngenbleibt. Du schaust nach unten und bemerkst eine schmutzbedeckte Erhebung, die aus dem Schlamm ragt. Begierig nach jeder Ablenkung, die deinen todesmutigen Aufstieg verz\u00f6gern k\u00f6nnte, gehst du in die Hocke und versuchst, den Gegenstand zu bergen. Auf den ersten Blick scheint es ein silberner Armreif zu sein, v\u00f6llig unauff\u00e4llig \u2026 Zumindest, bis du ihn in deinen H\u00e4nden wendest und einen Blick auf die pers\u00f6nliche Inschrift auf der Innenseite erhaschst und dir klar wird, dass du vor kurzem einen genau wie diesen gesehen hast, der Mayus Handgelenk zierte; die Zwillinge m\u00fcssen sich passende Armreifen gekauft haben \u2026 Als du dich wieder aufrichtest, l\u00e4sst du das schmutzige Schmuckst\u00fcck aus deinen Fingern gleiten; du kannst es nicht ertragen, es festzuhalten. Sentimentalit\u00e4t ist ein Luxus, den du dir nicht mehr leisten kannst; Miyu ist ganz in der N\u00e4he. Du kannst es sp\u00fcren\u2026*\n\n:::right\nFahre mit **Einf\u00fchrung 5** fort.\n:::\n\n**Einf\u00fchrung 5:** *K\u00f6nnte Miyu den Armreif absichtlich zur\u00fcckgelassen haben, in der Hoffnung, dass jemand kommen w\u00fcrde, um sie zu holen? Kluges M\u00e4dchen, denkst du. Du wei\u00dft nun, dass Miyu diesen Weg genommen haben muss \u2013 ob gegen ihren Willen oder aus eigenem Antrieb, spielt keine Rolle. Es gibt keinen Ausweg; der einzige Weg nach vorne f\u00fchrt nach oben\u2026*\n\n- Falls Yuki Yagami einer der Ermittler in der Kampagne ist, fahre mit dem **Szenario-Zwischenspiel: Der Schatten von Onigawa** fort.\n\n- Andernfalls fahre mit der **Vorbereitung** fort.\n\n\n<div class=\"codex\" style=\"border: solid rgb(29, 74, 125);border-radius: 10mm;margin: 0em;box-shadow: inset 0 0 2em rgb(29, 74, 125);background-color: rgba(29, 74, 125, 0.15);\">\n<h3 align=center style=\"color: rgb(29, 74, 125);\">Nur lesen, wenn du dazu angewiesen wirst:</h3>\n<h4 align=center style=\"color: rgb(29, 74, 125);\">Szenario-Zwischenspiel: Der Schatten von Onigawa</h3>\nDer Ermittler, der Yuki Yagami spielt, muss diesen Abschnitt heimlich lesen: \n<br><br>\n\n<i>Im Schatten der Festung wird dein Atem flacher. Aus irgendeinem Grund kannst du es kaum ertragen, sie anzusehen, doch der Gedanke an Miyu, die dort gefangen ist \u2013 ver\u00e4ngstigt und allein \u2013, l\u00e4sst dein Blut kochen. Deine Augen brennen mit heiligem Zorn, w\u00e4hrend in dir eine verborgene Kraft zu erwachen beginnt \u2026</i>\n<br><br>\nDu beginnst dieses Szenario mit 1 zus\u00e4tzlichen Karte in deiner Starthand.\n\n<p style=\"text-align: right;\">Fahre mit der <b>Vorbereitung</b> fort.</p>\n</div>\n\n\n\n###Vorbereitung\n- Es werden alle Karten aus den folgenden Begegnungssets herausgesucht:  *Der ewige Krieg*, *[encounter:d3417fd3-e4fe-4e38-ab55-302b7ab38ee9:name]*, *[encounter:4451252e-ee64-4f85-b084-8b805d894660:name]*, *[encounter:82e7a0d3-b552-450a-954b-0ca2d6c505e4:name]*, *[encounter:5db3d9c8-9382-44c6-a132-31a64709f1dd:name]*, *[encounter:9f69068d-7bb0-4721-bbf4-987e49e00189:name]*. Diese Sets sind an folgenden Symbolen zu erkennen:\n\n:::center\n[encounter:196125a5-3d26-48ae-9eaf-b57e0b883196:icon]&nbsp;&nbsp;[encounter:d3417fd3-e4fe-4e38-ab55-302b7ab38ee9:icon]&nbsp;&nbsp;[encounter:4451252e-ee64-4f85-b084-8b805d894660:icon]&nbsp;&nbsp;[encounter:82e7a0d3-b552-450a-954b-0ca2d6c505e4:icon]&nbsp;&nbsp;[encounter:5db3d9c8-9382-44c6-a132-31a64709f1dd:icon]&nbsp;&nbsp;[encounter:9f69068d-7bb0-4721-bbf4-987e49e00189:icon]\n:::\n\n- Folgende Karten werden als nicht im Spiel befindlich beiseite gelegt: Das Begegnungsset *[encounter:82e7a0d3-b552-450a-954b-0ca2d6c505e4:name]* und *[encounter:9f69068d-7bb0-4721-bbf4-987e49e00189:name]*.\n- Folgende Orte werden ins Spiel gebracht *(siehe dazu die Abbildung auf Seite 19)*: Trostloser Ankerplatz, T\u00fcckischer Anstieg und Zerst\u00f6rtes Wachhaus. <br>\n <bullet> Jeder Ermittler beginnt das Spiel an Trostloser Ankerplatz.\n\n- Lege alle anderen Orte sowie die Storyvorteilskarte Purpurroter Schmetterling *(Blendender Wegweiser)* beiseite.\n- Lies den Abschnitt Rally-Deck weiter unten, mische dann das Begegnungsset *D\u00fcstere Doktrinen* und lege es verdeckt als separates Rally-Deck neben die Szenariokarte. Decke keine Karte aus diesem Deck auf, bis du dazu aufgefordert wirst.\n- Falls das Deck eines Ermittlers die **<i>Aspekt</i>**\n-Storyvorteilskarte Der reum\u00fctige Beobachter *(Segen der Okami)* enth\u00e4lt, beginnt dieser Ermittler dieses Szenario mit einer zus\u00e4tzlichen Karte in seiner Starthand.\n- Falls das Deck eines Ermittlers die **<i>Aspekt</i>**\n-Storyvorteilskarte Der listige Bandit *(Segen der Tanuki)* enth\u00e4lt, beginnt dieser Ermittler dieses Szenario mit einer Karte weniger in seiner Starthand.\n- Die \u00fcbrigen Begegnungskarten werden zum Begegnungsdeck zusammengemischt.\n\n- Das Spiel kann nun beginnen.\n\n<br>\n\n\n<div class=\"codex\" style=\"border: solid rgb(29, 74, 125);border-radius: 10mm;margin: 0em;box-shadow: inset 0 0 2em rgb(29, 74, 125);background-color: rgba(29, 74, 125, 0.15);\">\n<h3 align=center style=\"color: rgb(29, 74, 125);\">Nur lesen, wenn du dazu angewiesen wirst:</h3>\n<h4 align=center style=\"color: rgb(29, 74, 125);\">Szenario-Zwischenspiel: Versiegelt</h3>\nDer Ermittler, der Yuki Yagami spielt, muss diesen Abschnitt heimlich lesen:\n<i>Du wolltest zuvor nichts davon erw\u00e4hnen, aber als du eine Hand auf das Schutzzeichen legtest, das den Zugang zum Palast versperrt \u2026 glitt deine Hand ungehindert hindurch. Es scheint, als w\u00fcrde der Schutzzauber dich \u201eerkennen\u201c \u2013 als w\u00e4re der Zauber, der bei seiner Errichtung zum Einsatz kam, so gestaltet, dass bestimmte Personen ihn passieren k\u00f6nnen. Aus irgendeinem Grund z\u00f6gerst du, diese Information mit deinen Gef\u00e4hrten zu teilen, aber du vermutest, dass sie sp\u00e4ter noch n\u00fctzlich sein k\u00f6nnte \u2026</i>\n<br>\n<br>\nW\u00e4hrend deines Zuges gilt dein Standort als mit dem K\u00f6nigspalast verbunden (und umgekehrt).\n\n<br>\n\n</div>\n\n<br>\n###Rally-Deck\n\nDieses Szenario enth\u00e4lt Verratskarten mit dem neuen Merkmal Doktrin. Doktrin-Verratskarten wirken in der Regel als globale Modifikatoren, die einen bestimmten Aspekt des Szenarios f\u00fcr alle Ermittler beeinflussen und je nach den Umst\u00e4nden deren Fortschritt entweder f\u00f6rdern oder behindern k\u00f6nnen. \nIn diesem Szenario kommen Doktrin-Karten durch auf Szenariokarten aufgedruckte Effekte ins Spiel, die bewirken, dass die oberste Karte des Rally-Decks ins Spiel gebracht wird (und ihr aufgedruckter Enth\u00fcllungseffekt abgehandelt wird).\nDa Doktrin-Karten niemals von einem Spieler gezogen (sondern nur ins Spiel gebracht) werden, k\u00f6nnen sie nicht durch Spielerkarten wie Schutzziegel oder Eine Pr\u00fcfung des Willens als Ziel ausgew\u00e4hlt oder aufgehoben werden.\nDoktrin-Karten sollten niemals auf den Begegnungs-Ablagestapel gelegt werden; sie werden nach der Abhandlung ihrer aufgedruckten Effekte nicht abgelegt. Aufgedeckte Doktrin-Karten bleiben im Spiel, bis das Rally-Deck das n\u00e4chste Mal durch den Effekt einer Szenariokarte gemischt wird. Wenn dies geschieht, sollten alle aufgedeckten Doktrin-Karten wieder in das Rally-Deck gemischt werden.\n\n<br>\n###Platzierung der Orte in \u201eDer ewige Krieg\u201c\n\n:::image-block\n./Exports/196125a5-3d26-48ae-9eaf-b57e0b883196_location_overview_0.png\n:::\n\n\n<br>\n\n:::standalone\n## Einzelspielszenario<br>\n\nFalls ein Einzelspielszenario gespielt wird und keine anderen Vorbereitungs- und Aufl\u00f6sungs-Anweisungen verwendet werden sollen, k\u00f6nnen die unten stehenden Informationen bei der Vorbereitung und w\u00e4hrend des Spiels dieses Szenarios verwendet werden:\n\n- Der Chaosbeutel wird aus folgenden Markern zusammengestellt:<br>\n   0, 0, -1, -1, -2, -2, -3,-4,-5, <skull>, <cultist>, <tablet>, <elder_thing>, <auto_fail>, <elder_sign>.\n\n- Die *Ermittler haben Mayu ein Versprechen gegeben*.\n- Die *Ermittler haben die Jungfrau des Schwarzwassers entfesselt.*\n- Die *Ermittler haben Onigawa entdeckt.*\n- Durchsuche die Kampagne nach dem Begegnungsset *W\u00e4chter von Minakami* und dem Begegnungsset *R\u00fcckkehr zu W\u00e4chter von Minakami*. Jeder Ermittler muss f\u00fcr die Dauer dieses Szenarios zuf\u00e4llig 1 der enthaltenen **<i>Aspekt</i>**-Storyvorteilskarten in sein Deck aufnehmen. Sie z\u00e4hlt nicht gegen die Deckgr\u00f6\u00dfe des Ermittlers.\n-  Entferne am Ende dieses Szenarios alle **<i>Aspekt</i>**-Storyvorteilskarten aus den Decks der Ermittler.\n\n:::\n\n\n\n\n\n\n\n<br>\n<br>\n \n<div style=\"break-after: column;\"></div>\n\n:::resolution\n## Achtung!<br><div style=\"font-size:18px;\">Nicht vor Ende des Szenarios weiterlesen.\n\n**Falls keine Aufl\u00f6sung erreicht wurde, weil alle Ermittler besiegt wurden:** *So sehr du auch versuchst, nicht in den gespenstischen Konflikt verwickelt zu werden, der die Stadt verschlingt, findest du dich unweigerlich von feindlichen Kr\u00e4ften umzingelt. Flankiert und zahlenm\u00e4\u00dfig unterlegen kannst du nichts anderes tun, als hilflos zuzusehen, wie die geisterhaften Krieger auf deine Position vorr\u00fccken...*\n<br>\n<br>\nDie Ermittler m\u00fcssen sich entscheiden (w\u00e4hlt eine Option):\n\n- *Wehe den Besiegten...*<br> \nFahre mit **Epilog I: Die Geister von Onigawa** fort (Seite 39). (Hinweis: Damit endet die Kampagne.)\n- *D\u00e9j\u00e0-vu...?*<br>\n Fahre mit **Aufl\u00f6sung 2** fort.\n\n<br>\n**Aufl\u00f6sung 1**: *Du suchst verzweifelt Zuflucht im Inneren des Palastes und dr\u00fcckst deinen R\u00fccken gegen die vergitterten Tore, in der Hoffnung, dass die geisterhaften K\u00e4mpfer drau\u00dfen dich nicht weiter verfolgen k\u00f6nnen. Du bleibst eine lange Zeit wie erstarrt an der T\u00fcr stehen, bis die Kampfger\u00e4usche von drau\u00dfen verstummen...*\n<br>\n<br>\n\n- Im Kampagnenlogbuch wird notiert, dass *die Ermittler in den K\u00f6nigspalast eingedrungen sind.*\n- Im Kampagnenlogbuch wird notiert, dass *die Champions von Onigawa zur letzten Ruhe gebettet wurden.* Notiere daneben in Klammern die Anzahl der Elite-Gegner im Siegpunktestapel.\n- Jeder Ermittler verdient Erfahrungspunkte in H\u00f6he des Sieg-X-Wertes aller Karten im Siegpunktestapel.\n- Fahre mit **Szenario V: Halbdunkel** fort.\n\n<br>\n\n**Aufl\u00f6sung 2**: *Pl\u00f6tzlich bemerkst du, wie der Mond direkt vor deinen Augen zu zittern beginnt, am Nachthimmel hin und her vibriert, hinter dem einen Horizont verschwindet und sofort am anderen wieder auftaucht. Das Licht flackert eine gef\u00fchlte Ewigkeit lang zwischen Morgend\u00e4mmerung und Abendd\u00e4mmerung hin und her, bevor es sich schlie\u00dflich wieder auf denselben sp\u00e4ten Zeitpunkt einpendelt, zu dem es begonnen hatte.\nDu schaust nach unten \u2026 und stellst fest, dass du wieder auf den Docks stehst und dich am Licht der Kohlebecken am Feldweg w\u00e4rmst. Seltsam, denkst du, aber jetzt ist keine Zeit zum Tagtr\u00e4umen; Miyu muss irgendwo hier in der N\u00e4he sein. Zeit, diese Festung zu erkunden \u2026*\n\n<br>\n\n- Die Ermittler m\u00fcssen **Szenario IV: Der ewige Krieg** erneut spielen.\n- Setze das Spiel auf die Vorbereitungsphase dieses Szenarios zur\u00fcck. Trage nichts anderes in das Kampagnenlogbuch ein als etwaige Traumata, die du im vorherigen Spiel erlitten hast. Jeder Spieler, dessen Ermittler get\u00f6tet wurde oder in den Wahnsinn getrieben wurde, muss sich einen neuen Ermittler aussuchen, den er spielen m\u00f6chte.\n\n\n<img src=\"{./images/Guide_page_21.png}\" style=\"width: 50%; height: 100%; position: fixed; bottom: 0; right: 0px; colspan: 0;\">\n\n\n",
+                    "markdown": "# [encounter:196125a5-3d26-48ae-9eaf-b57e0b883196:name]\n\n\u00dcberpr\u00fcfe das Kampagnenlogbuch.\n\n- Falls *die Ermittler die Maut gezahlt haben, um Onigawa zu erreichen,* fahre mit **Einf\u00fchrung 1** fort.\n- Andernfalls fahre mit **Einf\u00fchrung 2** fort.\n\n**Einf\u00fchrung 1:** *Dein Kopf pocht, w\u00e4hrend du langsam wieder zu dir kommst. Von dem geisterhaften F\u00e4hrmann, der dich anscheinend an Land gebracht hat, fehlt jede Spur, doch nachdem du dir \u2013 deutlich leichter gewordenen \u2013 Taschen \u00fcberpr\u00fcft habt, bist du dir sicher, dass dir das mysteri\u00f6se Wesen tats\u00e4chlich eine Geb\u00fchr abverlangt hat...*\n\n- Jeder Ermittler beginnt dieses Szenario mit einer Ressource weniger.\n\n:::right\nFahre mit **Einf\u00fchrung 2** fort.\n:::\n**Einf\u00fchrung 2:** *Was auch immer dieser Ort ist, du scheinst dich zumindest nicht mehr in unmittelbarer Gefahr zu befinden; auf dem sch\u00e4bigen Hafenplatz herrscht Stille, abgesehen vom Pl\u00e4tschern der Flut am Rand des Piers und dem Knistern der Kohlebecken, die den Weg vor dir erhellen, der sich in die steile Felswand der Schlucht zu schl\u00e4ngeln scheint. Der Weg f\u00fchrt hinauf zur Festung \u00fcber dir, die den riesigen Mond am Himmel kaum verdeckt \u2026*\n\n\u00dcberpr\u00fcfe das Kampagnenlogbuch.\n\n- Falls *die Ermittler Mayu bei den Ermittlungen helfen lassen*, fahre mit **Einf\u00fchrung 3** fort.\n- Andernfalls fahre mit **Einf\u00fchrung 4** fort.\n\n**Einf\u00fchrung 3:** *Du n\u00e4herst dich vorsichtig der schmalen Treppe, die die Klippe hinauff\u00fchrt, und fragst dich schon bald, ob das Erklimmen der Schlucht euch tats\u00e4chlich n\u00e4her an irgendwelche Antworten bringen wird.\nHinter dir schnappt Mayu pl\u00f6tzlich nach Luft, und du drehst dich blitzschnell um, bereit, sie vor den Schrecken zu besch\u00fctzen, die euch vielleicht bis hierher verfolgt haben \u2013 doch der Adrenalinsto\u00df l\u00e4sst schnell nach und l\u00e4sst deine ohnehin schon angespannten Nerven noch mehr flattern, als du einfach nur Mayu mitten auf dem Weg kauern siehst, wie sie zaghaft nach etwas greift, das im Dreck vergraben ist. Du kniest dich neben sie, und sie reicht dir ihren Fund: <div style=\"break-after: column;\"></div>einen schmutzigen silbernen Armreif. Du drehst ihn einen Moment lang in deinen H\u00e4nden hin und her - ein v\u00f6llig unauff\u00e4lliges Schmuckst\u00fcck - \u2026 bis Mayu ihr eigenes Handgelenk hochh\u00e4lt, um den ein identischer Armreif h\u00e4ngt, wenn auch in viel besserem Zustand.\n\u201eMiyu und ich haben uns zum Geburtstag jeweils einen passenden geschenkt \u2026\u201c, murmelt sie, w\u00e4hrend du wieder aufstehst. Es muss niemand aussprechen, was ihr alle denkt; Miyu muss ganz in der N\u00e4he sein...*\n\n:::right\nFahre mit **Einf\u00fchrung 5** fort.\n:::\n\n<img src=\"{./images/Guide_page_19.png}\" style=\"width: 50%; height: 46%; position: fixed; bottom: 0; right: 350px; colspan: 0;\">\n\n\n\n\n\n**Einf\u00fchrung 4:** *Du folgst dem Feldweg weg vom Hafen und gehst an den Feuerstellen vorbei. Du atmest tief durch und versuchst, dich mental auf den zweifellos beschwerlichen Aufstieg durch die Schlucht vorzubereiten, der dich erwartet, als dein Fu\u00df pl\u00f6tzlich an etwas im Dreck h\u00e4ngenbleibt. Du schaust nach unten und bemerkst eine schmutzbedeckte Erhebung, die aus dem Schlamm ragt. Begierig nach jeder Ablenkung, die deinen todesmutigen Aufstieg verz\u00f6gern k\u00f6nnte, gehst du in die Hocke und versuchst, den Gegenstand zu bergen. Auf den ersten Blick scheint es ein silberner Armreif zu sein, v\u00f6llig unauff\u00e4llig \u2026 Zumindest, bis du ihn in deinen H\u00e4nden wendest und einen Blick auf die pers\u00f6nliche Inschrift auf der Innenseite erhaschst und dir klar wird, dass du vor kurzem einen genau wie diesen gesehen hast, der Mayus Handgelenk zierte; die Zwillinge m\u00fcssen sich passende Armreifen gekauft haben \u2026 Als du dich wieder aufrichtest, l\u00e4sst du das schmutzige Schmuckst\u00fcck aus deinen Fingern gleiten; du kannst es nicht ertragen, es festzuhalten. Sentimentalit\u00e4t ist ein Luxus, den du dir nicht mehr leisten kannst; Miyu ist ganz in der N\u00e4he. Du kannst es sp\u00fcren\u2026*\n\n:::right\nFahre mit **Einf\u00fchrung 5** fort.\n:::\n\n**Einf\u00fchrung 5:** *K\u00f6nnte Miyu den Armreif absichtlich zur\u00fcckgelassen haben, in der Hoffnung, dass jemand kommen w\u00fcrde, um sie zu holen? Kluges M\u00e4dchen, denkst du. Du wei\u00dft nun, dass Miyu diesen Weg genommen haben muss \u2013 ob gegen ihren Willen oder aus eigenem Antrieb, spielt keine Rolle. Es gibt keinen Ausweg; der einzige Weg nach vorne f\u00fchrt nach oben\u2026*\n\n- Falls Yuki Yagami einer der Ermittler in der Kampagne ist, fahre mit dem **Szenario-Zwischenspiel: Der Schatten von Onigawa** fort.\n\n- Andernfalls fahre mit der **Vorbereitung** fort.\n\n\n<div class=\"codex\" style=\"border: solid rgb(29, 74, 125);border-radius: 10mm;margin: 0em;box-shadow: inset 0 0 2em rgb(29, 74, 125);background-color: rgba(29, 74, 125, 0.15);\">\n<h3 align=center style=\"color: rgb(29, 74, 125);\">Nur lesen, wenn du dazu angewiesen wirst:</h3>\n<h4 align=center style=\"color: rgb(29, 74, 125);\">Szenario-Zwischenspiel: Der Schatten von Onigawa</h3>\nDer Ermittler, der Yuki Yagami spielt, muss diesen Abschnitt heimlich lesen: \n<br><br>\n\n<i>Im Schatten der Festung wird dein Atem flacher. Aus irgendeinem Grund kannst du es kaum ertragen, sie anzusehen, doch der Gedanke an Miyu, die dort gefangen ist \u2013 ver\u00e4ngstigt und allein \u2013, l\u00e4sst dein Blut kochen. Deine Augen brennen mit heiligem Zorn, w\u00e4hrend in dir eine verborgene Kraft zu erwachen beginnt \u2026</i>\n<br><br>\nDu beginnst dieses Szenario mit 1 zus\u00e4tzlichen Karte in deiner Starthand.\n\n<p style=\"text-align: right;\">Fahre mit der <b>Vorbereitung</b> fort.</p>\n</div>\n\n\n\n###Vorbereitung\n- Es werden alle Karten aus den folgenden Begegnungssets herausgesucht:  *Der ewige Krieg*, *[encounter:d3417fd3-e4fe-4e38-ab55-302b7ab38ee9:name]*, *[encounter:4451252e-ee64-4f85-b084-8b805d894660:name]*, *[encounter:82e7a0d3-b552-450a-954b-0ca2d6c505e4:name]*, *[encounter:5db3d9c8-9382-44c6-a132-31a64709f1dd:name]*, *[encounter:9f69068d-7bb0-4721-bbf4-987e49e00189:name]*. Diese Sets sind an folgenden Symbolen zu erkennen:\n\n:::center\n[encounter:196125a5-3d26-48ae-9eaf-b57e0b883196:icon]&nbsp;&nbsp;[encounter:d3417fd3-e4fe-4e38-ab55-302b7ab38ee9:icon]&nbsp;&nbsp;[encounter:4451252e-ee64-4f85-b084-8b805d894660:icon]&nbsp;&nbsp;[encounter:82e7a0d3-b552-450a-954b-0ca2d6c505e4:icon]&nbsp;&nbsp;[encounter:5db3d9c8-9382-44c6-a132-31a64709f1dd:icon]&nbsp;&nbsp;[encounter:9f69068d-7bb0-4721-bbf4-987e49e00189:icon]\n:::\n\n- Folgende Karten werden als nicht im Spiel befindlich beiseite gelegt: Das Begegnungsset *[encounter:82e7a0d3-b552-450a-954b-0ca2d6c505e4:name]* und *[encounter:9f69068d-7bb0-4721-bbf4-987e49e00189:name]*.\n- Folgende Orte werden ins Spiel gebracht *(siehe dazu die Abbildung auf Seite 19)*: Trostloser Ankerplatz, T\u00fcckischer Anstieg und Zerst\u00f6rtes Wachhaus. <br>\n <bullet> Jeder Ermittler beginnt das Spiel an Trostloser Ankerplatz.\n\n- Lege alle anderen Orte sowie die Storyvorteilskarte Purpurroter Schmetterling *(Blendender Wegweiser)* beiseite.\n- Lies den Abschnitt Rally-Deck weiter unten, mische dann das Begegnungsset *D\u00fcstere Doktrinen* und lege es verdeckt als separates Rally-Deck neben die Szenariokarte. Decke keine Karte aus diesem Deck auf, bis du dazu aufgefordert wirst.\n- Falls das Deck eines Ermittlers die **<i>Aspekt</i>**\n-Storyvorteilskarte Der reum\u00fctige Beobachter *(Segen der Okami)* enth\u00e4lt, beginnt dieser Ermittler dieses Szenario mit einer zus\u00e4tzlichen Karte in seiner Starthand.\n- Falls das Deck eines Ermittlers die **<i>Aspekt</i>**\n-Storyvorteilskarte Der listige Bandit *(Segen der Tanuki)* enth\u00e4lt, beginnt dieser Ermittler dieses Szenario mit einer Karte weniger in seiner Starthand.\n- Die \u00fcbrigen Begegnungskarten werden zum Begegnungsdeck zusammengemischt.\n\n- Das Spiel kann nun beginnen.\n\n<br>\n\n\n<div class=\"codex\" style=\"border: solid rgb(29, 74, 125);border-radius: 10mm;margin: 0em;box-shadow: inset 0 0 2em rgb(29, 74, 125);background-color: rgba(29, 74, 125, 0.15);\">\n<h3 align=center style=\"color: rgb(29, 74, 125);\">Nur lesen, wenn du dazu angewiesen wirst:</h3>\n<h4 align=center style=\"color: rgb(29, 74, 125);\">Szenario-Zwischenspiel: Versiegelt</h3>\nDer Ermittler, der Yuki Yagami spielt, muss diesen Abschnitt heimlich lesen:\n<i>Du wolltest zuvor nichts davon erw\u00e4hnen, aber als du eine Hand auf das Schutzzeichen legtest, das den Zugang zum Palast versperrt \u2026 glitt deine Hand ungehindert hindurch. Es scheint, als w\u00fcrde der Schutzzauber dich \u201eerkennen\u201c \u2013 als w\u00e4re der Zauber, der bei seiner Errichtung zum Einsatz kam, so gestaltet, dass bestimmte Personen ihn passieren k\u00f6nnen. Aus irgendeinem Grund z\u00f6gerst du, diese Information mit deinen Gef\u00e4hrten zu teilen, aber du vermutest, dass sie sp\u00e4ter noch n\u00fctzlich sein k\u00f6nnte \u2026</i>\n<br>\n<br>\nW\u00e4hrend deines Zuges gilt dein Standort als mit dem K\u00f6nigspalast verbunden (und umgekehrt).\n\n<br>\n\n</div>\n\n<br>\n###Rally-Deck\n\nDieses Szenario enth\u00e4lt Verratskarten mit dem neuen Merkmal Doktrin. Doktrin-Verratskarten wirken in der Regel als globale Modifikatoren, die einen bestimmten Aspekt des Szenarios f\u00fcr alle Ermittler beeinflussen und je nach den Umst\u00e4nden deren Fortschritt entweder f\u00f6rdern oder behindern k\u00f6nnen. \nIn diesem Szenario kommen Doktrin-Karten durch auf Szenariokarten aufgedruckte Effekte ins Spiel, die bewirken, dass die oberste Karte des Rally-Decks ins Spiel gebracht wird (und ihr aufgedruckter Enth\u00fcllungseffekt abgehandelt wird).\nDa Doktrin-Karten niemals von einem Spieler gezogen (sondern nur ins Spiel gebracht) werden, k\u00f6nnen sie nicht durch Spielerkarten wie Schutzziegel oder Eine Pr\u00fcfung des Willens als Ziel ausgew\u00e4hlt oder aufgehoben werden.\nDoktrin-Karten sollten niemals auf den Begegnungs-Ablagestapel gelegt werden; sie werden nach der Abhandlung ihrer aufgedruckten Effekte nicht abgelegt. Aufgedeckte Doktrin-Karten bleiben im Spiel, bis das Rally-Deck das n\u00e4chste Mal durch den Effekt einer Szenariokarte gemischt wird. Wenn dies geschieht, sollten alle aufgedeckten Doktrin-Karten wieder in das Rally-Deck gemischt werden.\n\n<br>\n###Platzierung der Orte in \u201eDer ewige Krieg\u201c\n\n:::image-block\n./Exports/196125a5-3d26-48ae-9eaf-b57e0b883196_location_overview_0.png\n:::\n\n\n<br>\n\n:::standalone\n## Einzelspielszenario<br>\n\nFalls ein Einzelspielszenario gespielt wird und keine anderen Vorbereitungs- und Aufl\u00f6sungs-Anweisungen verwendet werden sollen, k\u00f6nnen die unten stehenden Informationen bei der Vorbereitung und w\u00e4hrend des Spiels dieses Szenarios verwendet werden:\n\n- Der Chaosbeutel wird aus folgenden Markern zusammengestellt:<br>\n   0, 0, -1, -1, -2, -2, -3,-4,-5, <skull>, <cultist>, <tablet>, <elder_thing>, <auto_fail>, <elder_sign>.\n\n- Die *Ermittler haben Mayu ein Versprechen gegeben*.\n- Die *Ermittler haben die Jungfrau des Schwarzwassers entfesselt.*\n- Die *Ermittler haben Onigawa entdeckt.*\n- Durchsuche die Kampagne nach dem Begegnungsset *W\u00e4chter von Minakami* und dem Begegnungsset *R\u00fcckkehr zu W\u00e4chter von Minakami*. Jeder Ermittler muss f\u00fcr die Dauer dieses Szenarios zuf\u00e4llig 1 der enthaltenen **<i>Aspekt</i>**-Storyvorteilskarten in sein Deck aufnehmen. Sie z\u00e4hlt nicht gegen die Deckgr\u00f6\u00dfe des Ermittlers.\n-  Entferne am Ende dieses Szenarios alle **<i>Aspekt</i>**-Storyvorteilskarten aus den Decks der Ermittler.\n\n:::\n\n\n\n\n\n\n\n<br>\n<br>\n \n<div style=\"break-after: column;\"></div>\n\n:::resolution\n## Achtung!<br><div style=\"font-size:18px;\">Nicht vor Ende des Szenarios weiterlesen.\n\n**Falls keine Aufl\u00f6sung erreicht wurde, weil alle Ermittler besiegt wurden:** *So sehr du auch versuchst, nicht in den gespenstischen Konflikt verwickelt zu werden, der die Stadt verschlingt, findest du dich unweigerlich von feindlichen Kr\u00e4ften umzingelt. Flankiert und zahlenm\u00e4\u00dfig unterlegen kannst du nichts anderes tun, als hilflos zuzusehen, wie die geisterhaften Krieger auf deine Position vorr\u00fccken...*\n<br>\n<br>\nDie Ermittler m\u00fcssen sich entscheiden (w\u00e4hlt eine Option):\n\n- *Wehe den Besiegten...*<br> \nFahre mit **Epilog I: Die Geister von Onigawa** fort (Seite 39). (Hinweis: Damit endet die Kampagne.)\n- *D\u00e9j\u00e0-vu...?*<br>\n Fahre mit **Aufl\u00f6sung 2** fort.\n\n<br>\n**Aufl\u00f6sung 1**: *Du suchst verzweifelt Zuflucht im Inneren des Palastes und dr\u00fcckst deinen R\u00fccken gegen die vergitterten Tore, in der Hoffnung, dass die geisterhaften K\u00e4mpfer drau\u00dfen dich nicht weiter verfolgen k\u00f6nnen. Du bleibst eine lange Zeit wie erstarrt an der T\u00fcr stehen, bis die Kampfger\u00e4usche von drau\u00dfen verstummen...*\n<br>\n<br>\n\n- Im Kampagnenlogbuch wird notiert, dass *die Ermittler in den K\u00f6nigspalast eingedrungen sind.*\n- Im Kampagnenlogbuch wird notiert, dass *die Krieger von Onigawa zur letzten Ruhe gebettet wurden.* Notiere daneben in Klammern die Anzahl der Elite-Gegner im Siegpunktestapel.\n- Jeder Ermittler verdient Erfahrungspunkte in H\u00f6he des Sieg-X-Wertes aller Karten im Siegpunktestapel.\n- Fahre mit **Szenario V: Halbdunkel** fort.\n\n<br>\n\n**Aufl\u00f6sung 2**: *Pl\u00f6tzlich bemerkst du, wie der Mond direkt vor deinen Augen zu zittern beginnt, am Nachthimmel hin und her vibriert, hinter dem einen Horizont verschwindet und sofort am anderen wieder auftaucht. Das Licht flackert eine gef\u00fchlte Ewigkeit lang zwischen Morgend\u00e4mmerung und Abendd\u00e4mmerung hin und her, bevor es sich schlie\u00dflich wieder auf denselben sp\u00e4ten Zeitpunkt einpendelt, zu dem es begonnen hatte.\nDu schaust nach unten \u2026 und stellst fest, dass du wieder auf den Docks stehst und dich am Licht der Kohlebecken am Feldweg w\u00e4rmst. Seltsam, denkst du, aber jetzt ist keine Zeit zum Tagtr\u00e4umen; Miyu muss irgendwo hier in der N\u00e4he sein. Zeit, diese Festung zu erkunden \u2026*\n\n<br>\n\n- Die Ermittler m\u00fcssen **Szenario IV: Der ewige Krieg** erneut spielen.\n- Setze das Spiel auf die Vorbereitungsphase dieses Szenarios zur\u00fcck. Trage nichts anderes in das Kampagnenlogbuch ein als etwaige Traumata, die du im vorherigen Spiel erlitten hast. Jeder Spieler, dessen Ermittler get\u00f6tet wurde oder in den Wahnsinn getrieben wurde, muss sich einen neuen Ermittler aussuchen, den er spielen m\u00f6chte.\n\n\n<img src=\"{./images/Guide_page_21.png}\" style=\"width: 50%; height: 100%; position: fixed; bottom: 0; right: 0px; colspan: 0;\">\n\n\n",
                     "type": "scenario"
                 },
                 {
@@ -4906,7 +5132,7 @@
                 {
                     "name": "To do Liste",
                     "id": "100659dd",
-                    "markdown": "#To do list\n\n##Miscellaneous\n\n- Harmoniemarker drucken lassen, wie? Theoretisch m\u00f6glich mit zus\u00e4tzlichem Papier und jeder schneidet aus und beklebt Pappe. Oder Azao/etc. fragen was m\u00f6glich ist.https://azaogames.com/en/product/punchboards/\n\n\n##Guide:\n\n- Inaktiv: Flix - Inhaltsverzeichnis vollst\u00e4ndig richtig,  momentan Hilfe von Flix n\u00f6tig irgendwann sp\u00e4ter oder ggf. in Zukunft nochmal in Ruhe dransetzen\n\n- Inaktiv: Tokeeto - Platzierung der Orte verbessern - Tokeeto baut Verbesserung nach Arkham Con ein vermutlich November/Dezember, Orte mit den M\u00f6glichkeiten von Shoggoth derzeit so gut es geht eingebaut.\n\n- Inaktiv: TBD - Kampagnenlogbuch erstellen - ggf. jemand aus EN community, sonst sp\u00e4ter dran setzen mit Christian\n\n- Inaktiv: TBD - 1 Seite sparen um auf 48 Seiten zu kommen - gel\u00f6st aber gibt es ggf. bessere L\u00f6sungen?\n\n- Inaktiv: Schnell\u00fcbersicht mit gleicher Seitenzahlh\u00f6he einbauen\n\n- Inaktiv: Format von Guide ben\u00f6tigt Fix um n\u00e4her an Original zu sein, Boxen zu hoch, Seitenr\u00e4nder zu schmal\n\n\n\n##Karten:\n\n\n- Inaktiv: Bilder rausgesucht die Scale up ben\u00f6tigen, Hauke schiebt sie durch sein Skript um sie etwas zu vergr\u00f6\u00dfern ohne Aufl\u00f6sung zu verlieren. \n\n- Inaktiv: Numbering of cards - alignment with EN version and porting etc. , Chr1Z gefragt, sollte kein Problem sein, schickt PR\n\n\n\n\n## Beides:\n\n\n- Aktiv: \u00c4nderungen der EN community einbauen, derzeit Discord offen\n\n\n\u2013 Inaktiv: Begriffe konsistent von Karten Purpurroter Schmetterling, Torii-Tor, Blasse Braut etc.\n\n\n- Aktiv: Konsistente \u00dcbersetzung der folgenden Begriffe. Festlegung muss noch erfolgen, momentan:\nSteward \u2013 Vogt\nChampion - Krieger\nMaster - Meister\nRanger - F\u00f6rster\nGuardian - W\u00e4chter\n\n\n\n## Issues offen bei Tokeeto:\n- Spacing von \u00dcberschriften\n- Platzierung der Orte",
+                    "markdown": "#To do list\n\n##Miscellaneous\n\n- Harmoniemarker drucken lassen, wie? Theoretisch m\u00f6glich mit zus\u00e4tzlichem Papier und jeder schneidet aus und beklebt Pappe. Oder Azao/etc. fragen was m\u00f6glich ist.https://azaogames.com/en/product/punchboards/\n\n\n##Guide:\n\n- Inaktiv: Flix - Inhaltsverzeichnis vollst\u00e4ndig richtig,  momentan Hilfe von Flix n\u00f6tig irgendwann sp\u00e4ter oder ggf. in Zukunft nochmal in Ruhe dransetzen\n\n- Inaktiv: Tokeeto - Platzierung der Orte verbessern - Tokeeto baut Verbesserung nach Arkham Con ein vermutlich November/Dezember, Orte mit den M\u00f6glichkeiten von Shoggoth derzeit so gut es geht eingebaut.\n\n- Inaktiv: TBD - Kampagnenlogbuch erstellen - ggf. jemand aus EN community, sonst sp\u00e4ter dran setzen mit Christian\n\n- Inaktiv: TBD - 1 Seite sparen um auf 48 Seiten zu kommen - gel\u00f6st aber gibt es ggf. bessere L\u00f6sungen?\n\n- Inaktiv: Schnell\u00fcbersicht mit gleicher Seitenzahlh\u00f6he einbauen\n\n- Inaktiv: Format von Guide ben\u00f6tigt Fix um n\u00e4her an Original zu sein, Boxen zu hoch, Seitenr\u00e4nder zu schmal\n\n\n\n##Karten:\n\n- Inaktiv: Numbering of cards - alignment with EN version and porting etc. , Chr1Z gefragt, sollte kein Problem sein, schickt PR\n\n\n\n\n## Beides:\n\n\n- Inaktiv: \u00c4nderungen der EN community einbauen, derzeit nichts offen\n\n\n\u2013 Inaktiv: Begriffe konsistent von Karten Purpurroter Schmetterling, Torii-Tor, Blasse Braut etc.\n\n\n- Inaktiv (for future reference): Konsistente \u00dcbersetzung der folgenden Begriffe so weit m\u00f6glich derzeit erledigt.\nSteward \u2013 Vogt\nChampion - Krieger\nMaster - Meister\nRanger - F\u00f6rster\nGuardian - W\u00e4chter\n\n\n\n## Issues offen bei Tokeeto:\n- Spacing von \u00dcberschriften\n- Platzierung der Orte",
                     "type": "interlude"
                 }
             ]
