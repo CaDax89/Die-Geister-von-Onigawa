@@ -2007,7 +2007,7 @@
             "name": "Papier-Laterne",
             "front": {
                 "illustrator": "Illus. Unbekannt",
-                "text": "Anwendungen (4 Vorr\u00e4te). Falls <name> keine Vorr\u00e4te auf sich hat, lege sie ab.\n<for> Sobald ein Ermittler an deinem Ort einen <cultist>-, <elder_thing>-, oder <auto_fail>-Marker w\u00e4hrend einer Fertigkeitsprobe enth\u00fcllt: Entferne 1 Vorrat von <name>. \n<free> Ersch\u00f6pfe <name>: Dein aktueller Ort erh\u00e4lt \u20131 Schleierwert bis zum Ende der Runde.",
+                "text": "Anwendungen (4 Vorr\u00e4te). Falls <name> keine Vorr\u00e4te auf sich hat, lege sie ab.\n<for> Sobald ein Ermittler an deinem Ort einen <cultist>-, <elder_thing>- oder <auto_fail>-Marker w\u00e4hrend einer Fertigkeitsprobe enth\u00fcllt: Entferne 1 Vorrat von <name>. \n<free> Ersch\u00f6pfe <name>: Dein aktueller Ort erh\u00e4lt \u20131 Schleierwert bis zum Ende der Runde.",
                 "traits": "Gegenstand. Werkzeug."
             }
         },
@@ -4769,7 +4769,10 @@
             }
         },
         "5db3d9c8-9382-44c6-a132-31a64709f1dd": {
-            "name": "Mondschein-Manie"
+            "name": "Mondschein-Manie",
+            "meta": {
+                "tts": {}
+            }
         },
         "67140c14-dbf6-4ba0-819c-c259a8816c49": {
             "name": "Winde des Winters"

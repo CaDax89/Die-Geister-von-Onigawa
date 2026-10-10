@@ -49,7 +49,7 @@
                 "illustration_scale": 0.867,
                 "illustrator": "Illus. Unbekannt",
                 "level": "None",
-                "subtitle": "Segen der Heron",
+                "subtitle": "Segen der Aosagibi",
                 "text": "Dauerhaft.\n<free> Ersch\u00f6pfe Der rastlose Witwer: Bewege dich zum Ort eines anderen Ermittlers.\n<for> Am Ende der Runde: Falls du diese Runde eine Basisaktion verwendet hast, um dich zu bewegen, ersch\u00f6pfe Der rastlose Witwer.",
                 "title": "<unique><name>",
                 "traits": "Aspekt.",
@@ -101,7 +101,7 @@
                 "illustrator": "Illus. Libby Nixon",
                 "level": "None",
                 "subtitle": "Segen der Yukihyo",
-                "text": "Dauerhaft.\n<reaction> Falls Die stumme J\u00e4gerin zu Beginn deines Zuges spielbereit ist: Du erh\u00e4ltst eine zus\u00e4tzliche Aktion w\u00e4hrend deines Zuges, die nur dazu verwendet werden kann, um Gegner in einen Kampf zu verwickeln oder zu k\u00e4mpfen.\n<for> Am Ende der Runde: Falls du einem Gegner in dieser Runde Schaden zugef\u00fcgt hast, ersch\u00f6pfe Die stumme J\u00e4gerin.",
+                "text": "Dauerhaft.\n<reaction> Falls Die stumme J\u00e4gerin zu Beginn deines Zuges spielbereit ist: Du erh\u00e4ltst eine zus\u00e4tzliche Aktion w\u00e4hrend deines Zuges, die nur dazu verwendet werden kann, um einen Gegner in den Kampf zu verwickeln oder gegen ihn zu k\u00e4mpfen.\n<for> Am Ende der Runde: Falls du einem Gegner in dieser Runde Schaden zugef\u00fcgt hast, ersch\u00f6pfe Die stumme J\u00e4gerin.",
                 "title": "<unique><name>",
                 "traits": "Aspekt.",
                 "type": "asset"

@@ -4540,6 +4540,7 @@
         {
             "name": "Caustic Echo",
             "id": "0fbdd359-9bb3-453d-9981-3a24bb315ea3",
+            "amount": 3,
             "project_number": "38",
             "front": {
                 "flavor_text": "The spirits of desecrated corpses wander through the village, mimicking the monotony of everyday routine. Are they real, or merely memories...?",
@@ -4561,6 +4562,7 @@
         {
             "name": "Fate Falls Short",
             "id": "b18af11b-3636-425b-84ef-e1c20cb5f234",
+            "amount": 4,
             "project_number": "41",
             "front": {
                 "flavor_text": "",
@@ -4582,6 +4584,7 @@
         {
             "name": "Gruesome Harvest",
             "id": "46127b99-5951-4648-a51b-d18f819af854",
+            "amount": 3,
             "project_number": "45",
             "front": {
                 "flavor_text": "All around you, cured, painted hands \nhang from the walls; whether in celebration or in warning, you can't rightly say.",
@@ -4602,6 +4605,7 @@
         {
             "name": "Avarice Mimic",
             "id": "7b4f8fdf-e274-4d65-b737-82c414d6512e",
+            "amount": 3,
             "project_number": "48",
             "front": {
                 "attack": "3",
@@ -4629,6 +4633,7 @@
         {
             "name": "Deathbed Companion",
             "id": "85beda51-a745-46db-bb00-e51cf56c304b",
+            "amount": 3,
             "project_number": "51",
             "front": {
                 "attack": "2",
@@ -4686,6 +4691,7 @@
         {
             "name": "The Kodama's Vendetta",
             "id": "2e822683-7e6a-4eef-a67f-7ad2604f1428",
+            "amount": 2,
             "project_number": "55",
             "front": {
                 "flavor_text": "It is said that when a tree has reached a century of life, \na divine spirit comes to dwell within it. To fell such a tree, \nfor any reason, would invite catastrophic misfortune.",
@@ -5314,6 +5320,7 @@
         {
             "name": "Sink or Swim",
             "id": "de116b68-4913-404d-96f6-2bcf6e5a6609",
+            "amount": 2,
             "project_number": "75",
             "front": {
                 "flavor_text": "An unnatural wave rises out of the roiling surf, threatening to wash you away...",
@@ -6820,6 +6827,7 @@
         {
             "name": "Feast or Famine",
             "id": "c23a7507-74b2-49a3-9b68-6f9e174581de",
+            "amount": 3,
             "project_number": "119",
             "front": {
                 "flavor_text": "A spectral handmaiden shrieks as the monster lurking in her hair begins to feast on rotten sundries...\nand anything else within reach.",
@@ -6841,6 +6849,7 @@
         {
             "name": "Flame Betide",
             "id": "919b02d6-9046-48bc-8bb7-a44a7a15ae9f",
+            "amount": 4,
             "project_number": "122",
             "front": {
                 "flavor_text": "Hungry flames begin leaping from torches and lanterns, racing up into the rafters of the palace...",
@@ -6861,6 +6870,7 @@
         {
             "name": "Secret Chords",
             "id": "382e95a3-19f1-4377-8c1c-8dc3f1115aba",
+            "amount": 4,
             "project_number": "126",
             "front": {
                 "flavor_text": "The shrill chords of a haunting melody grow and diminish in volume as you move from room to room...",
@@ -6882,6 +6892,7 @@
         {
             "name": "Futakuchi Consort",
             "id": "8dd31f62-698c-45f9-85ef-12c2dfdd361c",
+            "amount": 3,
             "project_number": "130",
             "front": {
                 "attack": "3",
@@ -6909,6 +6920,7 @@
         {
             "name": "Lantern Geist",
             "id": "22349e4c-412a-4159-9f35-b2e5da097699",
+            "amount": 3,
             "project_number": "133",
             "front": {
                 "attack": "3",
@@ -6936,6 +6948,7 @@
         {
             "name": "Parasol Mimic",
             "id": "d0487fac-52e0-434e-b597-d74200caa5f9",
+            "amount": 3,
             "project_number": "136",
             "front": {
                 "attack": "3",
@@ -7735,6 +7748,7 @@
         {
             "name": "Brain Freeze",
             "id": "a541191b-4ab7-4afd-8aa5-0e19df8e9040",
+            "amount": 3,
             "project_number": "160",
             "front": {
                 "flavor_text": "You shiver as the air grows \nnoticeably colder around you...",
@@ -7756,6 +7770,7 @@
         {
             "name": "Coldsnap",
             "id": "96352c7c-e747-46e7-ae74-843b79e5c2d2",
+            "amount": 3,
             "project_number": "166",
             "front": {
                 "flavor_text": "\"Where did everybody go...?\"",
@@ -7777,6 +7792,7 @@
         {
             "name": "Thin Ice",
             "id": "cadd9435-8920-4867-a9e2-b36c695e1e0a",
+            "amount": 4,
             "project_number": "169",
             "front": {
                 "flavor_text": "\"It'll be fine... Probably.\"",
@@ -8183,6 +8199,7 @@
         {
             "name": "Pressure Cooker",
             "id": "1a090340-bda4-4f25-bd9f-4be3be53cc9a",
+            "amount": 3,
             "project_number": "184",
             "front": {
                 "flavor_text": "The fires of the sacred foundry burned the impurities away from many different \"materials\"...",
@@ -8203,6 +8220,7 @@
         {
             "name": "In the Hall of the Mountain King",
             "id": "235a640f-47f9-4c3c-8260-0193d25ef749",
+            "amount": 3,
             "project_number": "187",
             "front": {
                 "flavor_text": "When the foundry smiths' bodies began to fail, their last prescribed duty was to stoke the flame, one final time.",
@@ -8223,6 +8241,7 @@
         {
             "name": "Scorched",
             "id": "249aaa49-23ac-475f-b4f6-cce7b7767e94",
+            "amount": 3,
             "project_number": "190",
             "front": {
                 "flavor_text": "A jet of flame erupts from a nearby lava pool, \nsingeing your naked flesh...",
@@ -8274,6 +8293,7 @@
         {
             "name": "Containment Breach",
             "id": "c1b59e8a-4390-420e-b7c5-8ea1b2af899d",
+            "amount": 3,
             "project_number": "194",
             "front": {
                 "flavor_text": "When most of Onigawa despaired during the siege, the imprisoned Orochimaru saw only opportunity.",
@@ -8295,6 +8315,7 @@
         {
             "name": "Heat Wave",
             "id": "68281a94-d0bb-47f1-9bc3-aa6b1d562717",
+            "amount": 3,
             "project_number": "197",
             "front": {
                 "flavor_text": "Dehydrated due to the intense heat of the volcano, \nyou begin to hallucinate sinister shapes emerging \nfrom within the flickering flames...",
@@ -8316,6 +8337,7 @@
         {
             "name": "Cinder Manifest",
             "id": "8333f8f9-e860-4915-b6cb-b22c65f5bb05",
+            "amount": 3,
             "project_number": "200",
             "front": {
                 "attack": "3",
@@ -8343,6 +8365,7 @@
         {
             "name": "Ignition Gear",
             "id": "44478b2e-998f-4871-ae85-11736e7c0021",
+            "amount": 3,
             "project_number": "203",
             "front": {
                 "attack": "3",
@@ -8717,6 +8740,7 @@
         {
             "name": "Boiling Point",
             "id": "31b7ecb6-ed98-4a29-aa25-5f4053cb77dc",
+            "amount": 4,
             "project_number": "217",
             "front": {
                 "flavor_text": "Do not wait to strike until the iron is hot; \nyou must make it hot by striking.",
@@ -9316,6 +9340,7 @@
         {
             "name": "Cruel Obeisance",
             "id": "43d47e3a-f71e-4426-9434-1335ee4e5ba5",
+            "amount": 4,
             "project_number": "239",
             "front": {
                 "flavor_text": "Before the fortress at Onigawa was built and the Covenant with the Guardians was formed, the infant daughters and second sons of peasants were frequently offered up to appease malevolent spirits...",
@@ -9337,6 +9362,7 @@
         {
             "name": "Molochean Arbiter",
             "id": "4ebf9847-cbcd-446c-a1a1-6560fc56c8e4",
+            "amount": 3,
             "project_number": "243",
             "front": {
                 "attack": "3",
@@ -9363,6 +9389,7 @@
             "id": "ffb91090-a661-473b-927b-22b761ee65e5",
             "project_number": "246",
             "front": {
+                "name": "<unique><name>",
                 "attack": "3",
                 "combat": "3",
                 "damage": 1,
@@ -9390,6 +9417,7 @@
         {
             "name": "The Call of Carthage",
             "id": "4ab08c2e-668c-4ccd-ba0a-29d41f30b1fb",
+            "amount": 3,
             "project_number": "247",
             "front": {
                 "flavor_text": "<size 7.6>The ancient Carthaginians were so devoted to---or fearful of---Moloch that it is believed they constructed the Topheth (\"roasting place\") specifically to honor him.",
@@ -9410,6 +9438,7 @@
         {
             "name": "Nobunaga's Ambition",
             "id": "ffe2ea5f-f63c-428c-95bc-482186f6547b",
+            "amount": 3,
             "project_number": "250",
             "front": {
                 "flavor_text": "Oda Nobunaga was a powerful daimyo whose military prowess was so feared that his contemporaries came to believe he was aided by some sort of malign supernatural force...",
@@ -9431,6 +9460,7 @@
         {
             "name": "Macabre Lottery",
             "id": "fe5c7f03-07d4-42f8-94f3-207552cecd8d",
+            "amount": 3,
             "project_number": "253",
             "front": {
                 "flavor_text": "Many of the innocent souls selected to become \ntributes for Moloch were chosen \nrandomly and dispassionately...",
@@ -9452,6 +9482,7 @@
         {
             "name": "Tears For Tialoc",
             "id": "d0a5a407-b8c2-48ec-897f-ff0850a530ca",
+            "amount": 3,
             "project_number": "256",
             "front": {
                 "flavor_text": "Moloch was known to the Aztecs as \"Tialoc\" \nand they believed his favor could only earned \nby the cries of children.",
@@ -9473,6 +9504,7 @@
         {
             "name": "Murder of Crows",
             "id": "d4760f6e-528e-4e24-8938-f5ca857487ae",
+            "amount": 4,
             "project_number": "259",
             "front": {
                 "attack": "2",
@@ -9499,6 +9531,7 @@
         {
             "name": "Bramble Embargo",
             "id": "6b60829b-adf8-404b-8b3d-4c775f1fbf8d",
+            "amount": 3,
             "project_number": "263",
             "front": {
                 "flavor_text": "Nothing good can grow here.",
@@ -9520,6 +9553,7 @@
         {
             "name": "Fallen Pantheon",
             "id": "7a22d1dc-5e06-4e84-92d8-8c5e914eae40",
+            "amount": 3,
             "project_number": "266",
             "front": {
                 "flavor_text": "Their shrines aren't the only things that have fallen.",
@@ -9541,6 +9575,7 @@
         {
             "name": "Fungal Growth",
             "id": "43839519-455a-4cc8-8a53-cb494eb9c5ab",
+            "amount": 4,
             "project_number": "269",
             "front": {
                 "flavor_text": "The nauseating stench of rot nourishing the ground \nbeneath your feet hangs heavily in the air.",
@@ -9562,6 +9597,7 @@
         {
             "name": "Mortal Shell",
             "id": "41f09508-dc5f-46df-90a8-baa6300e1220",
+            "amount": 3,
             "project_number": "273",
             "front": {
                 "flavor_text": "Suspended from a tree branch, the cold body of a young child sways gently in the breeze. She is fourteen forever.",
@@ -9583,6 +9619,7 @@
         {
             "name": "The Woods Have Eyes",
             "id": "331484c6-0a0c-456e-866e-76617b95439a",
+            "amount": 3,
             "project_number": "276",
             "front": {
                 "flavor_text": "Large, glowing eyes leer at you through the thicket... and you're not sticking around to find out \nto whom they belong.",
@@ -9604,6 +9641,7 @@
         {
             "name": "Acoustic Dampening",
             "id": "a6c6b499-c521-4b09-bb1b-55eebe3345b2",
+            "amount": 3,
             "project_number": "279",
             "front": {
                 "flavor_text": "Something doesn't sound right...",
@@ -9625,6 +9663,7 @@
         {
             "name": "The Woman in the Fog",
             "id": "45d367df-146f-4e6f-bbaf-b6f0971887b3",
+            "amount": 3,
             "project_number": "282",
             "front": {
                 "flavor_text": "For a moment, you thought you heard wedding bells...",
@@ -9643,6 +9682,7 @@
         {
             "name": "Lingering Essence",
             "id": "e619d96b-6d5c-4f1c-8c21-c68875b51a63",
+            "amount": 4,
             "project_number": "285",
             "front": {
                 "attack": "3",
@@ -9670,6 +9710,7 @@
         {
             "name": "No Such Luck",
             "id": "868c8a91-06ee-4a36-b6a0-220c9c26d108",
+            "amount": 2,
             "project_number": "289",
             "front": {
                 "flavor_text": "You pull up a bucket...and find nothing inside \nbut foul, brackish water.",
@@ -9939,6 +9980,7 @@
         {
             "name": "Ivory Handmaiden",
             "id": "636d7c16-9da3-4619-bc50-0a37e611b5b8",
+            "amount": 3,
             "project_number": "299",
             "front": {
                 "attack": "3",
@@ -9966,6 +10008,7 @@
         {
             "name": "Celestial Cascade",
             "id": "62be111c-e0ea-446d-a5b6-029aa59c8324",
+            "amount": 3,
             "project_number": "302",
             "front": {
                 "flavor_text": "The moon's intensity hampers your aspect's abilities...\nand empowers the restless spirits.",
@@ -9987,6 +10030,7 @@
         {
             "name": "Lunar Cry",
             "id": "bf630a6b-fe0b-426b-85bf-123bb457eaf7",
+            "amount": 4,
             "project_number": "305",
             "front": {
                 "flavor_text": "You must be imagining things, but \nevery time you turn your back, the moon seems \nto hang lower and larger in the sky...",
@@ -10007,6 +10051,7 @@
         {
             "name": "Drowning Sphere",
             "id": "74f16bb5-c984-4668-a82f-8f7b6fb5e651",
+            "amount": 3,
             "project_number": "309",
             "front": {
                 "flavor_text": "You watch a bubble float up from beneath the water's surface and are suddenly overcome with the sensation of drowning...",
@@ -10028,6 +10073,7 @@
         {
             "name": "Eternal Blue",
             "id": "a97d3635-b835-4c17-8ccb-79d7bc4dbcc8",
+            "amount": 3,
             "project_number": "312",
             "front": {
                 "flavor_text": "The porcelain skin of the ghostly children gliding through the murky waters all around you shimmers under the pale moonlight...",
@@ -10078,6 +10124,7 @@
         {
             "name": "Shallow Skimmer",
             "id": "8f1d784e-98ec-44df-9bec-80041d89eff0",
+            "amount": 3,
             "project_number": "316",
             "front": {
                 "attack": "2",
@@ -10135,6 +10182,7 @@
         {
             "name": "Primeval Conductor",
             "id": "26035667-34a4-4e85-8262-fcc7a89687b2",
+            "amount": 3,
             "project_number": "320",
             "front": {
                 "attack": "3",
@@ -10162,6 +10210,7 @@
         {
             "name": "Hypnotic Whirlpool",
             "id": "7164cffa-5b98-4593-8646-aee2dd9c95ae",
+            "amount": 4,
             "project_number": "323",
             "front": {
                 "flavor_text": "\"There's something down there...\"",
@@ -10183,6 +10232,7 @@
         {
             "name": "Phantom Wake",
             "id": "76f340ac-a34b-4781-9f78-582e1cb33354",
+            "amount": 2,
             "project_number": "327",
             "front": {
                 "flavor_text": "The hairs on your neck stand on end as the nearby water churns as if displaced by an illusory vessel, and the galley is caught in the undertow...",
@@ -10225,6 +10275,7 @@
         {
             "name": "Koi Temptress",
             "id": "0d8e26e8-43ae-4f84-8497-208c3581cef4",
+            "amount": 3,
             "project_number": "330",
             "front": {
                 "attack": "3",
@@ -10485,6 +10536,7 @@
         {
             "name": "Unforgiven",
             "id": "9d6c6700-0e3c-4877-9b85-16774381c9c3",
+            "amount": 2,
             "project_number": "344",
             "front": {
                 "flavor_text": "She hasn't forgotten...and she hasn't forgiven.",
@@ -10506,6 +10558,7 @@
         {
             "name": "Ashen Purgatory",
             "id": "b3cb1fee-1899-4328-80e1-7503851ffa4d",
+            "amount": 3,
             "project_number": "346",
             "front": {
                 "flavor_text": " The fires of war made quick work of the cramped city.",
@@ -10527,6 +10580,7 @@
         {
             "name": "Hollow Legion",
             "id": "4381f6d1-1bf2-4765-a1cc-75d0e9e01d39",
+            "amount": 3,
             "project_number": "349",
             "front": {
                 "attack": "3",
@@ -10554,6 +10608,7 @@
         {
             "name": "Relentless Reaver",
             "id": "6859abcd-3f68-4305-972f-915617f38ee4",
+            "amount": 3,
             "project_number": "352",
             "front": {
                 "attack": "3",
@@ -10581,6 +10636,7 @@
         {
             "name": "Tengu Tactics",
             "id": "be4a1e72-02eb-405c-af77-55de943459c5",
+            "amount": 2,
             "project_number": "355",
             "front": {
                 "flavor_text": "Before the pantheon fell, the Tengu were the sworn \ndefenders of the Stewards of August. During the siege, \nthey were recalled to the protect the city, \nleaving Mount Kokoro defenseless.",
@@ -10713,6 +10769,7 @@
         {
             "name": "Armed and Dangerous",
             "id": "dcea82e6-5dd2-439a-b0de-a79c05de45a3",
+            "amount": 3,
             "project_number": "361",
             "front": {
                 "flavor_text": "No matter where you run, they always catch you...",
@@ -10875,6 +10932,7 @@
         {
             "name": "Avalanche!",
             "id": "6887b82b-3762-4e8b-88b2-2043d2510473",
+            "amount": 4,
             "project_number": "369",
             "front": {
                 "flavor_text": "The serpent's shifting has loosened the earth; you hear the sound of rushing wind mere moments before you \nfeel the ground quaking beneath your feet...",
@@ -10938,6 +10996,7 @@
         {
             "name": "Waking the Sleeper",
             "id": "2660a523-6f3d-497f-9502-7c2e0419e972",
+            "amount": 4,
             "project_number": "374",
             "front": {
                 "flavor_text": "You feel Mount Kokoro tremble in fear as the alabaster serpent rejoins the hunt. There is nowhere to hide...",
@@ -10958,6 +11017,7 @@
         {
             "name": "Remorseless Winter",
             "id": "e66eb2a0-e7ff-4698-9e13-8bf061feb04c",
+            "amount": 4,
             "project_number": "378",
             "front": {
                 "flavor_text": "It's been so long since she had a warm meal...",
@@ -11062,6 +11122,7 @@
         {
             "name": "Lunar Rend",
             "id": "f944d082-bdf9-4b0e-b7b8-5d462d41e419",
+            "amount": 4,
             "project_number": "385",
             "front": {
                 "flavor_text": "The strange light reflected from the \nbloodstained moon disorients you...",
@@ -11544,6 +11605,7 @@
         {
             "name": "Betrayers of August",
             "id": "145f925c-982c-4028-aa81-0de6fbab5f92",
+            "amount": 4,
             "project_number": "404",
             "front": {
                 "attack": "<dash>",
@@ -11571,6 +11633,7 @@
         {
             "name": "Forsworn Ronin",
             "id": "faed2629-6256-4068-8150-2176b854091a",
+            "amount": 4,
             "project_number": "408",
             "front": {
                 "attack": "4",
@@ -11598,6 +11661,7 @@
         {
             "name": "Defiant Damsel",
             "id": "47ea8df8-023a-4f2f-acbb-459e8826ad7e",
+            "amount": 4,
             "project_number": "412",
             "front": {
                 "attack": "<dash>",
@@ -11625,6 +11689,7 @@
         {
             "name": "Defiled Concubine",
             "id": "5b2030d8-56a4-47f4-8a55-b18e2a5a7e1b",
+            "amount": 4,
             "project_number": "416",
             "front": {
                 "attack": "<dash>",
@@ -11652,6 +11717,7 @@
         {
             "name": "Witch of the Wilds",
             "id": "8d3d8299-7b64-4154-bb13-8f66377fcdbd",
+            "amount": 4,
             "project_number": "420",
             "front": {
                 "attack": "<dash>",
@@ -11923,6 +11989,7 @@
         {
             "name": "Memories of Mayu",
             "id": "f81561b4-a73c-407f-a29a-f9e02d0043d8",
+            "amount": 4,
             "project_number": "433",
             "front": {
                 "classes": [
@@ -11946,6 +12013,7 @@
         {
             "name": "Memories of Miyu",
             "id": "43c9bb22-ebab-4e61-aedb-ae1baec486a1",
+            "amount": 4,
             "project_number": "437",
             "front": {
                 "classes": [
@@ -11970,6 +12038,7 @@
         {
             "name": "Chilblains",
             "id": "f30820ad-4852-417a-957f-30b0a245aabe",
+            "amount": 3,
             "project_number": "163",
             "front": {
                 "flavor_text": "Your hands begin to go numb as \na thin layer of frost coats your fingers...",
@@ -12044,6 +12113,9 @@
             "name": "encounter-candle-b.png",
             "id": "4f485ace-5d62-4c3e-905b-194d814443b1",
             "icon": "./images/encounter-candle-b.png",
+            "meta": {
+                "tts": {}
+            },
             "card_amount": 28
         },
         {
@@ -12208,6 +12280,9 @@
             "name": "encounter-shield-b.png",
             "id": "9f69068d-7bb0-4721-bbf4-987e49e00189",
             "icon": "./images/encounter-shield-b.png",
+            "meta": {
+                "tts": {}
+            },
             "card_amount": 8
         },
         {
@@ -12298,6 +12373,45 @@
             "name": "scenarioset-7-b.png",
             "id": "07af3e19-1cdc-4299-a081-f5d9c240e5eb",
             "icon": "./images/scenarioset-7-b.png",
+            "meta": {
+                "location_active_layout": "e4aacbc8-57a7-453b-92ca-a4173fad0de4",
+                "location_layouts": [
+                    {
+                        "name": "Anordnung 1",
+                        "id": "e4aacbc8-57a7-453b-92ca-a4173fad0de4",
+                        "fixed_length_arrows": false,
+                        "hide_mode": false,
+                        "nodes": {
+                            "02cc5839-845b-4318-b93b-2e1ab249b422_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 0.0
+                            },
+                            "18aa49eb-9bd0-47e4-bf5a-64fe7ecd5075_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 228.0
+                            },
+                            "6539d02d-5f5a-4d74-9271-883e3efa9e91_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 228.0
+                            },
+                            "78cedbcd-8106-4ee0-9c80-0999c89d86cf_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 0.0
+                            }
+                        },
+                        "show_arrows": true,
+                        "snap_enabled": false
+                    }
+                ]
+            },
             "card_amount": 16
         }
     ],
