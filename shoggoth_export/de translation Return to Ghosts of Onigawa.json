@@ -1163,7 +1163,7 @@
                 "illustrator": "Illus. BM Solari",
                 "sanity": "7",
                 "subtitle": "Der M\u00f6nch",
-                "text": "Du beginnst das Spiel mit Hundehaar <i>(Absinth-Elixier)</i> im Spiel.\n<free> Gib 1 Vorrat von Hundehaar aus: Du erh\u00e4ltst +1 auf deinen Fertigkeitswert f\u00fcr diese Probe. (Maximal einmal pro Zug.)\n<elder_sign>-Effekt: +X. X ist die Anzahl an Vorr\u00e4ten auf Hundehaar.",
+                "text": "Du beginnst das Spiel mit Hundehaar <i>(Absinth-Elixier)</i> im Spiel.\n<free> Gib 1 Vorrat von Hundehaar aus: Du erh\u00e4ltst +1 auf deinen Fertigkeitswert f\u00fcr diese Probe. <i>(Max. ein Mal pro Zug.)</i>\n<elder_sign>-Effekt: +X. X ist die Anzahl an Vorr\u00e4ten auf Hundehaar.",
                 "title": "<unique><name>",
                 "traits": "Gelehrter. Herumtreiber.",
                 "type": "investigator"
