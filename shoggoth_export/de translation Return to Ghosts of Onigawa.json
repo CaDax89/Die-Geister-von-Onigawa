@@ -23,7 +23,7 @@
                 "illustrator": "Illus. Unbekannt",
                 "level": "None",
                 "subtitle": "Segen der Kaeru",
-                "text": "Dauerhaft.\n<for> Am Ende der Runde: Falls du w\u00e4hrend der Ermittlerphase nicht als erstes deinen Zug gemacht hast, ersch\u00f6pfe Der einsame Monarch.\n<free> Ersch\u00f6pfe Der einsame Monarch: Du erh\u00e4ltst +1<per_large> auf deine Fertigkeitsprobe.",
+                "text": "Dauerhaft.\n<for> Am Ende der Runde: Falls du während der Ermittlerphase nicht als erstes deinen Zug gemacht hast, erschöpfe Der einsame Monarch.\n<free> Erschöpfe Der einsame Monarch: Du erhältst +1<per_large> auf deine Fertigkeitsprobe.",
                 "title": "<unique><name>",
                 "traits": "Aspekt.",
                 "type": "asset"
@@ -50,7 +50,7 @@
                 "illustrator": "Illus. Unbekannt",
                 "level": "None",
                 "subtitle": "Segen der Aosagibi",
-                "text": "Dauerhaft.\n<free> Ersch\u00f6pfe Der rastlose Witwer: Bewege dich zum Ort eines anderen Ermittlers.\n<for> Am Ende der Runde: Falls du diese Runde eine Basisaktion verwendet hast, um dich zu bewegen, ersch\u00f6pfe Der rastlose Witwer.",
+                "text": "Dauerhaft.\n<free> Erschöpfe Der rastlose Witwer: Bewege dich zum Ort eines anderen Ermittlers.\n<for> Am Ende der Runde: Falls du diese Runde eine Basisaktion verwendet hast, um dich zu bewegen, erschöpfe Der rastlose Witwer.",
                 "title": "<unique><name>",
                 "traits": "Aspekt.",
                 "type": "asset"
@@ -74,7 +74,7 @@
                 "illustrator": "Illus. Anthony Christou",
                 "level": "None",
                 "subtitle": "Segen der Kitsune",
-                "text": "Dauerhaft. Verwendungen (2 Ladungen). \nFalls Der wunderliche Lehrling spielbereit ist, kannst du Ladungen auf ihm ausgeben, um Kosten auf aktivierten F\u00e4higkeiten von Vorteilskarten, die du kontrollierst, zu bezahlen.\n<for> Am Ende der Runde: Falls dir eine Probe in dieser Runde misslungen ist, ersch\u00f6pfe Der wunderliche Lehrling.",
+                "text": "Dauerhaft. Verwendungen (2 Ladungen). \nFalls Der wunderliche Lehrling spielbereit ist, kannst du Ladungen auf ihm ausgeben, um Kosten auf aktivierten Fähigkeiten von Vorteilskarten, die du kontrollierst, zu bezahlen.\n<for> Am Ende der Runde: Falls dir eine Probe in dieser Runde misslungen ist, erschöpfe Der wunderliche Lehrling.",
                 "title": "<unique><name>",
                 "traits": "Aspekt.",
                 "type": "asset"
@@ -86,7 +86,7 @@
             "encounter_set": "e9565a15-e381-421e-854f-c2613781daef"
         },
         {
-            "name": "<unique>Die stumme J\u00e4gerin",
+            "name": "<unique>Die stumme Jägerin",
             "id": "09d05308-f3d5-42fa-9aee-ee342f6eb033",
             "project_number": "429",
             "front": {
@@ -101,7 +101,7 @@
                 "illustrator": "Illus. Libby Nixon",
                 "level": "None",
                 "subtitle": "Segen der Yukihyo",
-                "text": "Dauerhaft.\n<reaction> Falls Die stumme J\u00e4gerin zu Beginn deines Zuges spielbereit ist: Du erh\u00e4ltst eine zus\u00e4tzliche Aktion w\u00e4hrend deines Zuges, die nur dazu verwendet werden kann, um einen Gegner in den Kampf zu verwickeln oder gegen ihn zu k\u00e4mpfen.\n<for> Am Ende der Runde: Falls du einem Gegner in dieser Runde Schaden zugef\u00fcgt hast, ersch\u00f6pfe Die stumme J\u00e4gerin.",
+                "text": "Dauerhaft.\n<reaction> Falls Die stumme Jägerin zu Beginn deines Zuges spielbereit ist: Du erhältst eine zusätzliche Aktion während deines Zuges, die nur dazu verwendet werden kann, um einen Gegner in den Kampf zu verwickeln oder gegen ihn zu kämpfen.\n<for> Am Ende der Runde: Falls du einem Gegner in dieser Runde Schaden zugefügt hast, erschöpfe Die stumme Jägerin.",
                 "title": "<unique><name>",
                 "traits": "Aspekt.",
                 "type": "asset"
@@ -485,13 +485,14 @@
         {
             "name": "Grundprinzipien",
             "id": "a1656d40-0ae2-4e0d-91c2-7008ccc0a0fb",
+            "amount": 2,
             "project_number": "107",
             "front": {
                 "classes": [
                     "seeker"
                 ],
                 "cost": "0",
-                "flavor_text": "Der Tod ist f\u00fcr jeden unvermeidlich.",
+                "flavor_text": "Der Tod ist für jeden unvermeidlich.",
                 "icons": "QQ",
                 "illustration": "./images/z-wu--fp.jpg",
                 "illustration_pan_x": -328.0,
@@ -511,13 +512,14 @@
         {
             "name": "Symbolisches Enigma",
             "id": "c855b813-13e8-48c3-9f0c-a4abdf302279",
+            "amount": 2,
             "project_number": "106",
             "front": {
                 "classes": [
                     "seeker"
                 ],
                 "cost": "X",
-                "flavor_text": "\u201eDer Verstand deines Feindes h\u00fcllt seine Geheimnisse in Symbole.\u201c",
+                "flavor_text": "„Der Verstand deines Feindes hüllt seine Geheimnisse in Symbole.“",
                 "icons": "WIQ",
                 "illustration": "./images/imx-ud-din-watchful.jpg",
                 "illustration_pan_x": -418.0,
@@ -537,13 +539,14 @@
         {
             "name": "Zum Tode verurteilt",
             "id": "6eb0b2ef-d890-4b4d-aad9-9a3ff3218a29",
+            "amount": 2,
             "project_number": "108",
             "front": {
                 "classes": [
                     "rogue"
                 ],
                 "cost": "0",
-                "flavor_text": "Einen ahnungslosen Gegner anzugreifen ist nur dann unehrenhaft, wenn man daf\u00fcr nicht bezahlt wird.",
+                "flavor_text": "Einen ahnungslosen Gegner anzugreifen ist nur dann unehrenhaft, wenn man dafür nicht bezahlt wird.",
                 "icons": "AQ",
                 "illustration": "./images/inshadows_by_davidhueso_d5y3pvz-fullview.jpg",
                 "illustration_pan_x": 7.0,
@@ -551,7 +554,7 @@
                 "illustration_scale": 0.784,
                 "illustrator": "Illus. David Hueso",
                 "level": "2",
-                "text": "Schnell. Spiele diese Karte in einem beliebigen <free>-Fenster. H\u00e4nge <name> an einen Nicht-<t>Elite</t>-Gegner an, der nicht in einen Kampf verwickelt ist. Dieser Gegner erh\u00e4lt \u20131 Kampf und -1 Entkommen. \n<reaction> Nachdem dieser Gegner abgelegt wurde: Erhalte 2 Ressourcen.",
+                "text": "Schnell. Spiele diese Karte in einem beliebigen <free>-Fenster. Hänge <name> an einen Nicht-<t>Elite</t>-Gegner an, der nicht in einen Kampf verwickelt ist. Dieser Gegner erhält –1 Kampf und -1 Entkommen. \n<reaction> Nachdem dieser Gegner abgelegt wurde: Erhalte 2 Ressourcen.",
                 "traits": "Aufgabe. Illegal.",
                 "type": "event"
             },
@@ -563,13 +566,14 @@
         {
             "name": "Exorzismus",
             "id": "5d1ff481-f2c3-4392-b5b6-1cb9614bf440",
+            "amount": 2,
             "project_number": "109",
             "front": {
                 "classes": [
                     "mystic"
                 ],
                 "cost": "3",
-                "flavor_text": "\u201eDu geh\u00f6rst nicht in diese Welt!\u201c",
+                "flavor_text": "„Du gehörst nicht in diese Welt!“",
                 "icons": "WC",
                 "illustration": "./images/FHsCXei.jpg",
                 "illustration_pan_x": -120.0,
@@ -581,7 +585,7 @@
                 "slots": [
                     "arcane"
                 ],
-                "text": "<action>: <b>Kampf.</b> Dieser Angriff verwendet <willpower> statt <combat>. Du erh\u00e4ltst +2 <willpower>. Falls du w\u00e4hrend einer Fertigkeitsprobe einen <blessing>- oder <elder_sign>-Marker abhandelst oder falls dieser Angriff einen <t>Geist</t> oder <t>Yokai</t>-Gegner als Ziel hat, f\u00fcgt er +1 Schaden zu. ",
+                "text": "<action>: <b>Kampf.</b> Dieser Angriff verwendet <willpower> statt <combat>. Du bekommst +2 <willpower>. Falls du während einer Fertigkeitsprobe einen <blessing>- oder <elder_sign>-Marker abhandelst oder falls dieser Angriff einen <t>Geist</t> oder <t>Yokai</t>-Gegner als Ziel hat, fügt er +1 Schaden zu. ",
                 "traits": "Zauber. Gesegnet.",
                 "type": "asset"
             },
@@ -592,13 +596,14 @@
         {
             "name": "Exorzismus",
             "id": "3b672419-a08b-4099-963b-0bf67bff1207",
+            "amount": 2,
             "project_number": "111",
             "front": {
                 "classes": [
                     "mystic"
                 ],
                 "cost": "3",
-                "flavor_text": "\u201eDu geh\u00f6rst nicht in diese Welt!\u201c",
+                "flavor_text": "„Du gehörst nicht in diese Welt!“",
                 "icons": "WCC",
                 "illustration": "./images/FHsCXei.jpg",
                 "illustration_pan_x": -120.0,
@@ -610,7 +615,7 @@
                 "slots": [
                     "arcane"
                 ],
-                "text": "<action>: <b>Kampf.</b> Dieser Angriff verwendet <willpower> statt <combat>. Du erh\u00e4ltst +3 <willpower>. Falls du w\u00e4hrend einer Fertigkeitsprobe einen <blessing>- oder <elder_sign>-Marker abhandelst oder falls dieser Angriff einen <t>Geist</t> oder <t>Yokai</t>-Gegner als Ziel hat, f\u00fcgt er +2 Schaden zu. ",
+                "text": "<action>: <b>Kampf.</b> Dieser Angriff verwendet <willpower> statt <combat>. Du bekommst +3 <willpower>. Falls du während einer Fertigkeitsprobe einen <blessing>- oder <elder_sign>-Marker abhandelst oder falls dieser Angriff einen <t>Geist</t> oder <t>Yokai</t>-Gegner als Ziel hat, fügt er +2 Schaden zu. ",
                 "traits": "Zauber. Gesegnet.",
                 "type": "asset"
             },
@@ -621,18 +626,19 @@
         {
             "name": "Flackern",
             "id": "a212cc1b-ad2c-4d1b-8744-9225cd0201bb",
+            "amount": 2,
             "project_number": "110",
             "front": {
                 "classes": [
                     "mystic"
                 ],
                 "cost": "0",
-                "flavor_text": "\u201eWenn du mir in die Augen schaust \u2026 was siehst du dann?\u201c<br> \u201eDas sind nicht deine Augen.\u201c",
+                "flavor_text": "„Wenn du mir in die Augen schaust … was siehst du dann?“<br> „Das sind nicht deine Augen.“",
                 "icons": "QQ",
                 "illustration": "./images/FDwYWPNVgAEAc56.jpeg",
                 "illustrator": "Illus. Gu Zheng Wei",
                 "level": "3",
-                "text": "Schnell. Spiele diese Karte in einem beliebigen <free>-Fenster.\nW\u00e4hle eine Nicht-Schw\u00e4che-Karte in der Spielzone eines Ermittlers an deinem Ort und f\u00fcge sie wieder der Hand ihres Besitzers zu.",
+                "text": "Schnell. Spiele diese Karte in einem beliebigen <free>-Fenster.\nWähle eine Nicht-Schwäche-Karte in der Spielzone eines Ermittlers an deinem Ort und füge sie wieder der Hand ihres Besitzers zu.",
                 "traits": "Weissagung.",
                 "type": "event"
             },
@@ -1012,8 +1018,9 @@
             }
         },
         {
-            "name": "Dem Ruin den R\u00fccken kehren",
+            "name": "Dem Ruin den Rücken kehren",
             "id": "4cc5644c-4fc5-4789-9edc-0c365b1b83ee",
+            "amount": 2,
             "project_number": "113",
             "front": {
                 "classes": [
@@ -1028,7 +1035,7 @@
                 "illustration_scale": 2.905,
                 "illustrator": "Illus. Jeffrey Smith",
                 "level": "4",
-                "text": "Schnell. Spiele diese Karte, nachdem die Fertigkeitsprobe eines Ermittlers misslingt. \nDer ausf\u00fchrende Ermittler darf bis zu X Karten ziehen, wobei X die Zahl ist, um die die Probe misslungen ist.",
+                "text": "Schnell. Spiele diese Karte, nachdem die Fertigkeitsprobe eines Ermittlers misslingt. \nDer ausführende Ermittler darf bis zu X Karten ziehen, wobei X die Zahl ist, um die die Probe misslungen ist.",
                 "traits": "Erkenntnis.",
                 "type": "event"
             },
@@ -1040,6 +1047,7 @@
         {
             "name": "Jetzt oder nie",
             "id": "caa8e0ea-8734-44b2-b816-7841d55846cb",
+            "amount": 2,
             "project_number": "112",
             "front": {
                 "classes": [
@@ -1053,7 +1061,7 @@
                 "illustration_scale": 1.824,
                 "illustrator": "Illus. Orly Wanders",
                 "level": "2",
-                "text": "Kann maximal einmal pro Fertigkeitsprobe beigetragen werden.\n<name> erh\u00e4lt <wild> f\u00fcr jede Probe, die dem ausf\u00fchrenden Ermittler diese Runde bereits misslungen ist.",
+                "text": "Max. 1 pro Fertigkeitsprobe beitragen.\n<name> erhält <wild> für jede Probe, die dem ausführenden Ermittler in dieser Runde bereits misslungen ist.",
                 "traits": "Angeboren.",
                 "type": "skill"
             },
@@ -1065,13 +1073,14 @@
         {
             "name": "<unique>Iscariots Apokryphen",
             "id": "179675da-4c1c-4145-9287-fbdd94c51637",
+            "amount": 2,
             "project_number": "105",
             "front": {
                 "classes": [
                     "guardian"
                 ],
                 "cost": "3",
-                "flavor_text": "Selbst die gro\u00dfartigste Geschichte, die je erz\u00e4hlt wurde, hat zwei Seiten.",
+                "flavor_text": "Selbst die großartigste Geschichte, die je erzählt wurde, hat zwei Seiten.",
                 "icons": "WII",
                 "illustration": "./images/sacredtext.png",
                 "illustration_pan_x": -48.0,
@@ -1084,7 +1093,7 @@
                     "hand"
                 ],
                 "subtitle": "Das verlorene Evangelium",
-                "text": "<action> Falls Iscariots Apokryphen spielbereit ist: <b>Ermitteln.</b> Du erh\u00e4ltst +1 <intellect> f\u00fcr diese Ermittlung. Falls diese Ermittlung erfolgreich ist und dabei ein <blessing>- oder <elder_sign>-Marker abgehandelt wurde, entdecke einen zus\u00e4tzlichen Hinweis an deinem Ort. Als zus\u00e4tzliche Kosten, um diese F\u00e4higkeit zu initiieren, darfst du Iscariots Apokryphen ersch\u00f6pfen, um dem Chaosbeutel einen <blessing>-Marker hinzuzuf\u00fcgen.",
+                "text": "<action> Falls Iscariots Apokryphen spielbereit ist: <b>Ermitteln.</b> Du bekommst +1 <intellect> für diese Ermittlung. Falls diese Ermittlung erfolgreich ist und dabei ein <blessing>- oder <elder_sign>-Marker abgehandelt wurde, entdecke 1 zusätzlichen Hinweis an deinem Ort. Als zusätzliche Kosten, um diese Fähigkeit zu initiieren, darfst du Iscariots Apokryphen erschöpfen, um dem Chaosbeutel einen <blessing>-Marker hinzuzufügen.",
                 "title": "<unique><name>",
                 "traits": "Gegenstand. Buch. Gesegnet. ",
                 "type": "asset"
@@ -1096,6 +1105,7 @@
         {
             "name": "Parabellum",
             "id": "8626ef24-3730-4288-8be1-f16be47c5090",
+            "amount": 2,
             "project_number": "104",
             "front": {
                 "classes": [
@@ -1113,7 +1123,7 @@
                 "slots": [
                     "arcane"
                 ],
-                "text": "<reaction> Nachdem eine Fertigkeitsprobe in einer Kampf-Aktion w\u00e4hrend deines Zuges misslungen ist, ersch\u00f6pfe Parabellum: Du erh\u00e4ltst eine zus\u00e4tzliche Aktion in diesem Zug, die nur dazu genutzt werden kann zu k\u00e4mpfen oder einen Gegner in einen Kampf zu verwickeln. ",
+                "text": "<reaction> Nachdem eine Fertigkeitsprobe in einer Kampf-Aktion während deines Zuges misslungen ist, erschöpfe Parabellum: Du darfst eine zusätzliche Aktion in diesem Zug nehmen, die nur dazu genutzt werden kann zu kämpfen oder einen Gegner in einen Kampf zu verwickeln. ",
                 "traits": "Ritual. Geist.",
                 "type": "asset"
             },
@@ -1138,7 +1148,7 @@
                 "illustrator": "Illus. Lisa Parker",
                 "level": "None",
                 "subtitle": "Absinth-Elixier",
-                "text": "Nur f\u00fcr das Deck von Shinobu Sanosuke.\nHundehaar kann das Spiel nicht verlassen. Anwendungen (0 Vorr\u00e4te).\n<for> Sobald dein Zug beginnt: Platziere 1 Vorrat auf Hundehaar. Dann, falls es genau...\n<bullet> ...1 Vorrat auf sich hat, erh\u00e4ltst du +1 <combat> bis zum Ende der Runde.\n<bullet> ...2 Vorrat auf sich hat, erh\u00e4ltst du +1 <willpower> bis zum Ende der Runde.\n<bullet> ...3 Vorrat auf sich hat, erh\u00e4ltst du +1 <intellect> bis zum Ende der Runde.\n<bullet> ...4 oder mehr Vorr\u00e4te auf sich hat, nimm alle Vorr\u00e4te auf Hundehaar als Ressourcen.",
+                "text": "Nur für das Deck von Shinobu Sanosuke.\nHundehaar kann das Spiel nicht verlassen. Anwendungen (0 Vorräte).\n<for> Sobald dein Zug beginnt: Platziere 1 Vorrat auf Hundehaar. Dann, falls es genau...\n<bullet> ...1 Vorrat auf sich hat, bekommst du +1 <combat> bis zum Ende der Runde.\n<bullet> ...2 Vorräte auf sich hat, bekommst du +1 <willpower> bis zum Ende der Runde.\n<bullet> ...3 Vorräte auf sich hat, bekommst du +1 <intellect> bis zum Ende der Runde.\n<bullet> ...4 oder mehr Vorräte auf sich hat, nimm alle Vorräte auf Hundehaar als Ressourcen.",
                 "title": "<unique><name>",
                 "traits": "Vorrat. Illegal.",
                 "type": "asset"
@@ -1155,15 +1165,15 @@
                 "classes": [
                     "neutral"
                 ],
-                "flavor_text": "\u201eNiemand sollte das Nirwana erreichen, ohne den Geschmack von gutem Sake auf den Lippen zu haben.\u201c",
+                "flavor_text": "„Niemand sollte das Nirwana erreichen, ohne den Geschmack von gutem Sake auf den Lippen zu haben.“",
                 "health": "7",
                 "illustration": "./images/bm-solari-dm1-removebg-preview (1).png",
                 "illustration_pan_x": 126.0,
                 "illustration_pan_y": 285.0,
                 "illustrator": "Illus. BM Solari",
                 "sanity": "7",
-                "subtitle": "Der M\u00f6nch",
-                "text": "Du beginnst das Spiel mit Hundehaar <i>(Absinth-Elixier)</i> im Spiel.\n<free> Gib 1 Vorrat von Hundehaar aus: Du erh\u00e4ltst +1 auf deinen Fertigkeitswert f\u00fcr diese Probe. <i>(Max. ein Mal pro Zug.)</i>\n<elder_sign>-Effekt: +X. X ist die Anzahl an Vorr\u00e4ten auf Hundehaar.",
+                "subtitle": "Der Mönch",
+                "text": "Du beginnst das Spiel mit Hundehaar <i>(Absinth-Elixier)</i> im Spiel.\n<free> Gib 1 Vorrat von Hundehaar aus: Du erhältst +1 auf deinen Fertigkeitswert für diese Probe. <i>(Max. ein Mal pro Zug.)</i>\n<elder_sign>-Effekt: +X. X ist die Anzahl an Vorräten auf Hundehaar.",
                 "title": "<unique><name>",
                 "traits": "Gelehrter. Herumtreiber.",
                 "type": "investigator"
@@ -1171,32 +1181,32 @@
             "back": {
                 "entries": [
                     [
-                        "<b>Deckgr\u00f6\u00dfe:</b>",
+                        "<b>Deckgröße:</b>",
                         "30"
                     ],
                     [
                         "<b>Wahl der Klassen:</b>",
-                        "W\u00e4hle beim Deckbau 2 Klassen: W\u00e4chter (<guardian>), Sucher (<seeker>), Schurke (<rogue>), Mystiker (<mystic>) oder \u00dcberlebender (<survivor>)."
+                        "Wähle beim Deckbau 2 Klassen: Wächter (<guardian>), Sucher (<seeker>), Schurke (<rogue>), Mystiker (<mystic>) oder Überlebender (<survivor>)."
                     ],
                     [
                         "<b>Deckbau-Optionen:</b>",
-                        "<t>Illegal</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5, Karten deiner gew\u00e4hlten Klassen Stufe 0-3."
+                        "<t>Illegal</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5, Karten deiner gewählten Klassen Stufe 0-3."
                     ],
                     [
-                        "<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe):",
-                        "Hundehaar, Kalter Entzug, 1 zuf\u00e4llige Grundschw\u00e4che."
+                        "<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße):",
+                        "Hundehaar, Kalter Entzug, 1 zufällige Grundschwäche."
                     ],
                     [
-                        "<b>Zus\u00e4tzliche Einschr\u00e4nkungen:</b>",
+                        "<b>Zusätzliche Einschränkungen:</b>",
                         "Keine <t>Gelassenheit</t>-Vorteilskarten."
                     ]
                 ],
-                "flavor_text": "Shinobu war ein mittelloser S\u00e4ufer, als er vom legend\u00e4ren \u201ebetrunkenen Meister\u201c Hiro Hachimura unter seine Fittiche genommen wurde. Unter der Anleitung seines Meisters entwickelte Shinobu schnell ein Talent f\u00fcr die handwerkliche Braukunst, doch Shinobus \u201eMarkenzeichen\u201c \u2013 ein mit Absinth angereichertes Gebr\u00e4u \u2013 erwies sich selbst f\u00fcr seinen Meister als zu gewaltig. Seitdem der \u201ebetrunkene Meister\u201c unerwartet ins Koma fiel, sucht sein Sch\u00fcler nach immer exotischeren Zutaten, um sein esoterisches Brauarsenal zu erweitern, in der Hoffnung, eines Tages eine Tinktur zu brauen, die seinen Meister zur\u00fcckbringen k\u00f6nnte \u2026",
+                "flavor_text": "Shinobu war ein mittelloser Säufer, als er vom legendären „betrunkenen Meister“ Hiro Hachimura unter seine Fittiche genommen wurde. Unter der Anleitung seines Meisters entwickelte Shinobu schnell ein Talent für die handwerkliche Braukunst, doch Shinobus „Markenzeichen“ – ein mit Absinth angereichertes Gebräu – erwies sich selbst für seinen Meister als zu gewaltig. Seitdem der „betrunkene Meister“ unerwartet ins Koma fiel, sucht sein Schüler nach immer exotischeren Zutaten, um sein esoterisches Brauarsenal zu erweitern, in der Hoffnung, eines Tages eine Tinktur zu brauen, die seinen Meister zurückbringen könnte …",
                 "illustration": "./images/bm-solari-dm1.jpg",
                 "illustration_pan_x": -15.0,
                 "illustration_pan_y": 70.0,
                 "illustration_scale": 0.705,
-                "text": "<b>Deckgr\u00f6\u00dfe:</b> 30\n<b>Wahl der Klassen:</b> W\u00e4hle beim Deckbau 2 Klassen: W\u00e4chter (<guardian>), Sucher (<seeker>), Schurke (<rogue>), Mystiker (<mystic>) oder \u00dcberlebender (<survivor>).\n<b>Deckbau-Optionen:</b> <t>Illegal</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5, Karten deiner gew\u00e4hlten Klassen Stufe 0-3.\n<b>Deckbau-Voraussetzungen</b> (z\u00e4hlen nicht gegen die Deckgr\u00f6\u00dfe): Hundehaar, Kalter Entzug, 1 zuf\u00e4llige Grundschw\u00e4che.\n<b>Zus\u00e4tzliche Einschr\u00e4nkungen:</b> Keine <t>Gelassenheit</t>-Vorteilskarten.",
+                "text": "<b>Deckgröße:</b> 30\n<b>Wahl der Klassen:</b> Wähle beim Deckbau 2 Klassen: Wächter (<guardian>), Sucher (<seeker>), Schurke (<rogue>), Mystiker (<mystic>) oder Überlebender (<survivor>).\n<b>Deckbau-Optionen:</b> <t>Illegal</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5, Karten deiner gewählten Klassen Stufe 0-3.\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): Hundehaar, Kalter Entzug, 1 zufällige Grundschwäche.\n<b>Zusätzliche Einschränkungen:</b> Keine <t>Gelassenheit</t>-Vorteilskarten.",
                 "type": "investigator_back"
             }
         },
@@ -1230,7 +1240,7 @@
                 "illustration_pan_y": -59.0,
                 "illustration_scale": 0.879,
                 "illustrator": "Illus. Sam Hogg",
-                "text": "<rev> Entferne alle Vorr\u00e4te von Hundehaar und bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Sobald du einen Vorrat auf Hundehaar platzieren w\u00fcrdest: Platziere es stattdessen auf <name>.\n<action> Falls mindestens 3 Vorr\u00e4te auf dieser Karte liegen: Lege Kalter Entzug ab.",
+                "text": "<rev> Entferne alle Vorräte von Hundehaar und bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Sobald du einen Vorrat auf Hundehaar platzieren würdest: Platziere es stattdessen auf <name>.\n<action> Falls mindestens 3 Vorräte auf dieser Karte liegen: Lege Kalter Entzug ab.",
                 "traits": "Gift.",
                 "type": "treachery"
             },
@@ -1242,6 +1252,7 @@
         {
             "name": "Papier-Laterne",
             "id": "e9c22dce-ae60-419d-a1f1-8f1eab37d016",
+            "amount": 2,
             "project_number": "114",
             "front": {
                 "classes": [
@@ -1260,7 +1271,7 @@
                 "slots": [
                     "hand"
                 ],
-                "text": "Anwendungen (4 Vorr\u00e4te). Falls <name> keine Vorr\u00e4te auf sich hat, lege sie ab.\n<for> Sobald ein Ermittler an deinem Ort einen <cultist>-, <elder_thing>- oder <auto_fail>-Marker w\u00e4hrend einer Fertigkeitsprobe enth\u00fcllt: Entferne 1 Vorrat von <name>. \n<free> Ersch\u00f6pfe <name>: Dein aktueller Ort erh\u00e4lt \u20131 Schleierwert bis zum Ende der Runde.",
+                "text": "Anwendungen (4 Vorräte). Falls <name> keine Vorräte auf sich hat, lege sie ab.\n<for> Sobald ein Ermittler an deinem Ort einen <cultist>-, <elder_thing>- oder <auto_fail>-Marker während einer Fertigkeitsprobe enthüllt: Entferne 1 Vorrat von <name>. \n<free> Erschöpfe <name>: Dein aktueller Ort erhält –1 Schleierwert bis zum Ende der Runde.",
                 "traits": "Gegenstand. Werkzeug.",
                 "type": "asset"
             },
@@ -1271,7 +1282,7 @@
     ],
     "encounter_sets": [
         {
-            "name": "R\u00fcckkehr zu W\u00e4chter von Minakami",
+            "name": "Rückkehr zu Wächter von Minakami",
             "id": "e9565a15-e381-421e-854f-c2613781daef",
             "icon": "./images/Return to Guardians of Minakami.png",
             "meta": {
@@ -1310,7 +1321,7 @@
                     "quality": 95,
                     "rotate": false,
                     "separate_versions": false,
-                    "size_label": "FFG 726\u00d71039 px (Default)"
+                    "size_label": "FFG 726×1039 px (Default)"
                 },
                 "pdf": {
                     "back_output_path": "C:/Users/cdpog/Desktop/Return to back.pdf",
@@ -1322,7 +1333,7 @@
                     "include_backs": false,
                     "output_path": "C:/Users/cdpog/Desktop/Return to front.pdf",
                     "quality": 100,
-                    "size_label": "FFG 1453\u00d72079 px",
+                    "size_label": "FFG 1453×2079 px",
                     "vector_text": true
                 },
                 "tts": {
