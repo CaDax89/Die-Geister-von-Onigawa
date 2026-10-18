@@ -10,7 +10,7 @@
         {
             "name": "<unique>Der einsame Monarch",
             "id": "7ef8295f-4a3e-4114-b790-85851fd5bc3b",
-            "project_number": "428",
+            "project_number": 1,
             "front": {
                 "classes": [
                     "neutral"
@@ -37,7 +37,7 @@
         {
             "name": "<unique>Der rastlose Witwer",
             "id": "514d04c1-0e6c-47f1-89d0-8003389bb43d",
-            "project_number": "431",
+            "project_number": 2,
             "front": {
                 "classes": [
                     "neutral"
@@ -58,13 +58,13 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "4",
+            "encounter_number": "2",
             "encounter_set": "e9565a15-e381-421e-854f-c2613781daef"
         },
         {
             "name": "<unique>Der wunderliche Lehrling",
             "id": "7e95e544-e073-483f-ac75-de6390559818",
-            "project_number": "430",
+            "project_number": 3,
             "front": {
                 "classes": [
                     "neutral"
@@ -88,7 +88,7 @@
         {
             "name": "<unique>Die stumme Jägerin",
             "id": "09d05308-f3d5-42fa-9aee-ee342f6eb033",
-            "project_number": "429",
+            "project_number": 4,
             "front": {
                 "classes": [
                     "neutral"
@@ -109,384 +109,14 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "2",
+            "encounter_number": "4",
             "encounter_set": "e9565a15-e381-421e-854f-c2613781daef"
-        },
-        {
-            "name": "The Guardian",
-            "id": "62af246d-4423-4ffd-b5be-3ceabec59c31",
-            "amount": 1,
-            "investigator": "The Guardian",
-            "front": {
-                "type": "investigator"
-            },
-            "back": {
-                "entries": [
-                    [
-                        "<b>Deck Size:</b>",
-                        "30"
-                    ],
-                    [
-                        "<b>Secondary Class Choice:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Options:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
-                        "<:ff4ae323-bbe5-42b4-8fec-212eff06902f name>, <:6b8e3883-bc25-4dfd-a13f-4478722987b4 name>, 1 random basic weakness."
-                    ],
-                    [
-                        "<b>Deckbuilding Restrictions:</b>",
-                        ""
-                    ]
-                ],
-                "type": "investigator_back"
-            }
-        },
-        {
-            "name": "Signature",
-            "id": "ff4ae323-bbe5-42b4-8fec-212eff06902f",
-            "amount": 2,
-            "investigator": "The Guardian",
-            "front": {
-                "text": "<:62af246d-4423-4ffd-b5be-3ceabec59c31 name> deck only.",
-                "type": "asset"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "Weakness",
-            "id": "6b8e3883-bc25-4dfd-a13f-4478722987b4",
-            "amount": 1,
-            "investigator": "The Guardian",
-            "front": {
-                "classes": [
-                    "weakness"
-                ],
-                "type": "treachery"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "mini The Guardian",
-            "id": "e60ef1c0-ca52-4cc5-b4b4-4628817902ae",
-            "amount": 1,
-            "investigator": "The Guardian",
-            "front": {
-                "type": "mini_investigator"
-            },
-            "back": {
-                "type": "mini_investigator_back"
-            }
-        },
-        {
-            "name": "The Rogue",
-            "id": "69dc8239-c694-4275-a5ea-84a27007d850",
-            "amount": 1,
-            "investigator": "The Rogue",
-            "front": {
-                "type": "investigator"
-            },
-            "back": {
-                "entries": [
-                    [
-                        "<b>Deck Size:</b>",
-                        "30"
-                    ],
-                    [
-                        "<b>Secondary Class Choice:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Options:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
-                        "<:4eb6c1b6-e411-408f-948e-8cb59f2c0231 name>, <:3393a81d-1193-4120-b43e-3132627ad6d7 name>, 1 random basic weakness."
-                    ],
-                    [
-                        "<b>Deckbuilding Restrictions:</b>",
-                        ""
-                    ]
-                ],
-                "type": "investigator_back"
-            }
-        },
-        {
-            "name": "Signature",
-            "id": "4eb6c1b6-e411-408f-948e-8cb59f2c0231",
-            "amount": 2,
-            "investigator": "The Rogue",
-            "front": {
-                "text": "<:69dc8239-c694-4275-a5ea-84a27007d850 name> deck only.",
-                "type": "asset"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "Weakness",
-            "id": "3393a81d-1193-4120-b43e-3132627ad6d7",
-            "amount": 1,
-            "investigator": "The Rogue",
-            "front": {
-                "classes": [
-                    "weakness"
-                ],
-                "type": "treachery"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "mini The Rogue",
-            "id": "8fcf8653-2463-41a8-9073-e034a61f7b88",
-            "amount": 1,
-            "investigator": "The Rogue",
-            "front": {
-                "type": "mini_investigator"
-            },
-            "back": {
-                "type": "mini_investigator_back"
-            }
-        },
-        {
-            "name": "The Seeker",
-            "id": "2235a968-b620-423d-a96e-0f39c48023a3",
-            "amount": 1,
-            "investigator": "The Seeker",
-            "front": {
-                "type": "investigator"
-            },
-            "back": {
-                "entries": [
-                    [
-                        "<b>Deck Size:</b>",
-                        "30"
-                    ],
-                    [
-                        "<b>Secondary Class Choice:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Options:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
-                        "<:eba2a944-a8ff-4451-8ccb-830fccb6f0f1 name>, <:861159f2-b232-4b06-9029-e831227e5743 name>, 1 random basic weakness."
-                    ],
-                    [
-                        "<b>Deckbuilding Restrictions:</b>",
-                        ""
-                    ]
-                ],
-                "type": "investigator_back"
-            }
-        },
-        {
-            "name": "Signature",
-            "id": "eba2a944-a8ff-4451-8ccb-830fccb6f0f1",
-            "amount": 2,
-            "investigator": "The Seeker",
-            "front": {
-                "text": "<:2235a968-b620-423d-a96e-0f39c48023a3 name> deck only.",
-                "type": "asset"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "Weakness",
-            "id": "861159f2-b232-4b06-9029-e831227e5743",
-            "amount": 1,
-            "investigator": "The Seeker",
-            "front": {
-                "classes": [
-                    "weakness"
-                ],
-                "type": "treachery"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "mini The Seeker",
-            "id": "5203242e-84fb-456f-a51b-03660c843c63",
-            "amount": 1,
-            "investigator": "The Seeker",
-            "front": {
-                "type": "mini_investigator"
-            },
-            "back": {
-                "type": "mini_investigator_back"
-            }
-        },
-        {
-            "name": "The Mystic",
-            "id": "273dfdaa-495d-4999-8dd6-3e8b0555afe0",
-            "amount": 1,
-            "investigator": "The Mystic",
-            "front": {
-                "type": "investigator"
-            },
-            "back": {
-                "entries": [
-                    [
-                        "<b>Deck Size:</b>",
-                        "30"
-                    ],
-                    [
-                        "<b>Secondary Class Choice:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Options:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
-                        "<:049b3435-b96c-45eb-a736-cd4af25afdd4 name>, <:72473e31-c4d7-46ee-aaaf-14b3c0b3c9e6 name>, 1 random basic weakness."
-                    ],
-                    [
-                        "<b>Deckbuilding Restrictions:</b>",
-                        ""
-                    ]
-                ],
-                "type": "investigator_back"
-            }
-        },
-        {
-            "name": "Signature",
-            "id": "049b3435-b96c-45eb-a736-cd4af25afdd4",
-            "amount": 2,
-            "investigator": "The Mystic",
-            "front": {
-                "text": "<:273dfdaa-495d-4999-8dd6-3e8b0555afe0 name> deck only.",
-                "type": "asset"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "Weakness",
-            "id": "72473e31-c4d7-46ee-aaaf-14b3c0b3c9e6",
-            "amount": 1,
-            "investigator": "The Mystic",
-            "front": {
-                "classes": [
-                    "weakness"
-                ],
-                "type": "treachery"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "mini The Mystic",
-            "id": "53f55862-23d6-4147-95cb-a799b6c28b6d",
-            "amount": 1,
-            "investigator": "The Mystic",
-            "front": {
-                "type": "mini_investigator"
-            },
-            "back": {
-                "type": "mini_investigator_back"
-            }
-        },
-        {
-            "name": "The Survivor",
-            "id": "6f32eb2c-d493-4c83-b24d-3c79b8ca6fce",
-            "amount": 1,
-            "investigator": "The Survivor",
-            "front": {
-                "type": "investigator"
-            },
-            "back": {
-                "entries": [
-                    [
-                        "<b>Deck Size:</b>",
-                        "30"
-                    ],
-                    [
-                        "<b>Secondary Class Choice:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Options:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
-                        "<:567f1526-d921-4355-8355-1c8aa10aeb79 name>, <:d88190ac-392d-47ab-9cda-4c41cea0bd83 name>, 1 random basic weakness."
-                    ],
-                    [
-                        "<b>Deckbuilding Restrictions:</b>",
-                        ""
-                    ]
-                ],
-                "type": "investigator_back"
-            }
-        },
-        {
-            "name": "Signature",
-            "id": "567f1526-d921-4355-8355-1c8aa10aeb79",
-            "amount": 2,
-            "investigator": "The Survivor",
-            "front": {
-                "text": "<:6f32eb2c-d493-4c83-b24d-3c79b8ca6fce name> deck only.",
-                "type": "asset"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "Weakness",
-            "id": "d88190ac-392d-47ab-9cda-4c41cea0bd83",
-            "amount": 1,
-            "investigator": "The Survivor",
-            "front": {
-                "classes": [
-                    "weakness"
-                ],
-                "type": "treachery"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "mini The Survivor",
-            "id": "ac338578-f669-4d20-8667-ee6ab1884fcb",
-            "amount": 1,
-            "investigator": "The Survivor",
-            "front": {
-                "type": "mini_investigator"
-            },
-            "back": {
-                "type": "mini_investigator_back"
-            }
         },
         {
             "name": "Grundprinzipien",
             "id": "a1656d40-0ae2-4e0d-91c2-7008ccc0a0fb",
             "amount": 2,
-            "project_number": "107",
+            "project_number": 10,
             "front": {
                 "classes": [
                     "seeker"
@@ -513,7 +143,7 @@
             "name": "Symbolisches Enigma",
             "id": "c855b813-13e8-48c3-9f0c-a4abdf302279",
             "amount": 2,
-            "project_number": "106",
+            "project_number": 9,
             "front": {
                 "classes": [
                     "seeker"
@@ -540,7 +170,7 @@
             "name": "Zum Tode verurteilt",
             "id": "6eb0b2ef-d890-4b4d-aad9-9a3ff3218a29",
             "amount": 2,
-            "project_number": "108",
+            "project_number": 11,
             "front": {
                 "classes": [
                     "rogue"
@@ -567,7 +197,7 @@
             "name": "Exorzismus",
             "id": "5d1ff481-f2c3-4392-b5b6-1cb9614bf440",
             "amount": 2,
-            "project_number": "109",
+            "project_number": 12,
             "front": {
                 "classes": [
                     "mystic"
@@ -597,7 +227,7 @@
             "name": "Exorzismus",
             "id": "3b672419-a08b-4099-963b-0bf67bff1207",
             "amount": 2,
-            "project_number": "111",
+            "project_number": 14,
             "front": {
                 "classes": [
                     "mystic"
@@ -627,7 +257,7 @@
             "name": "Flackern",
             "id": "a212cc1b-ad2c-4d1b-8744-9225cd0201bb",
             "amount": 2,
-            "project_number": "110",
+            "project_number": 13,
             "front": {
                 "classes": [
                     "mystic"
@@ -648,380 +278,10 @@
             "encounter_number": "1"
         },
         {
-            "name": "The Guardian",
-            "id": "1df16f17-d5e6-4a2c-a77b-ee520c735a8b",
-            "amount": 1,
-            "investigator": "The Guardian",
-            "front": {
-                "type": "investigator"
-            },
-            "back": {
-                "entries": [
-                    [
-                        "<b>Deck Size:</b>",
-                        "30"
-                    ],
-                    [
-                        "<b>Secondary Class Choice:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Options:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
-                        "<:95e94b07-4809-4e20-822d-6428c3d9eaeb name>, <:389b3e69-5ff0-47a7-bedf-145d54e672ea name>, 1 random basic weakness."
-                    ],
-                    [
-                        "<b>Deckbuilding Restrictions:</b>",
-                        ""
-                    ]
-                ],
-                "type": "investigator_back"
-            }
-        },
-        {
-            "name": "Signature",
-            "id": "95e94b07-4809-4e20-822d-6428c3d9eaeb",
-            "amount": 2,
-            "investigator": "The Guardian",
-            "front": {
-                "text": "<:1df16f17-d5e6-4a2c-a77b-ee520c735a8b name> deck only.",
-                "type": "asset"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "Weakness",
-            "id": "389b3e69-5ff0-47a7-bedf-145d54e672ea",
-            "amount": 1,
-            "investigator": "The Guardian",
-            "front": {
-                "classes": [
-                    "weakness"
-                ],
-                "type": "treachery"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "mini The Guardian",
-            "id": "9f9ae6f6-b52f-4b30-bcc9-54e997835628",
-            "amount": 1,
-            "investigator": "The Guardian",
-            "front": {
-                "type": "mini_investigator"
-            },
-            "back": {
-                "type": "mini_investigator_back"
-            }
-        },
-        {
-            "name": "The Rogue",
-            "id": "b046afd0-95c4-475b-9c14-1d741668c067",
-            "amount": 1,
-            "investigator": "The Rogue",
-            "front": {
-                "type": "investigator"
-            },
-            "back": {
-                "entries": [
-                    [
-                        "<b>Deck Size:</b>",
-                        "30"
-                    ],
-                    [
-                        "<b>Secondary Class Choice:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Options:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
-                        "<:5795dc78-459c-4fd1-8b50-ae38dcccde69 name>, <:b3cb633f-69a9-48c1-96b8-8cf3fa46b7ef name>, 1 random basic weakness."
-                    ],
-                    [
-                        "<b>Deckbuilding Restrictions:</b>",
-                        ""
-                    ]
-                ],
-                "type": "investigator_back"
-            }
-        },
-        {
-            "name": "Signature",
-            "id": "5795dc78-459c-4fd1-8b50-ae38dcccde69",
-            "amount": 2,
-            "investigator": "The Rogue",
-            "front": {
-                "text": "<:b046afd0-95c4-475b-9c14-1d741668c067 name> deck only.",
-                "type": "asset"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "Weakness",
-            "id": "b3cb633f-69a9-48c1-96b8-8cf3fa46b7ef",
-            "amount": 1,
-            "investigator": "The Rogue",
-            "front": {
-                "classes": [
-                    "weakness"
-                ],
-                "type": "treachery"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "mini The Rogue",
-            "id": "ca994dae-ac45-4133-8787-6b6ec85813e2",
-            "amount": 1,
-            "investigator": "The Rogue",
-            "front": {
-                "type": "mini_investigator"
-            },
-            "back": {
-                "type": "mini_investigator_back"
-            }
-        },
-        {
-            "name": "The Seeker",
-            "id": "3f8ced26-6777-430b-af72-29d487e1a442",
-            "amount": 1,
-            "investigator": "The Seeker",
-            "front": {
-                "type": "investigator"
-            },
-            "back": {
-                "entries": [
-                    [
-                        "<b>Deck Size:</b>",
-                        "30"
-                    ],
-                    [
-                        "<b>Secondary Class Choice:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Options:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
-                        "<:1e045263-7d9d-415b-ab1c-89d9849254db name>, <:dcc85e1b-2cc9-4954-86db-47ee0351c71e name>, 1 random basic weakness."
-                    ],
-                    [
-                        "<b>Deckbuilding Restrictions:</b>",
-                        ""
-                    ]
-                ],
-                "type": "investigator_back"
-            }
-        },
-        {
-            "name": "Signature",
-            "id": "1e045263-7d9d-415b-ab1c-89d9849254db",
-            "amount": 2,
-            "investigator": "The Seeker",
-            "front": {
-                "text": "<:3f8ced26-6777-430b-af72-29d487e1a442 name> deck only.",
-                "type": "asset"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "Weakness",
-            "id": "dcc85e1b-2cc9-4954-86db-47ee0351c71e",
-            "amount": 1,
-            "investigator": "The Seeker",
-            "front": {
-                "classes": [
-                    "weakness"
-                ],
-                "type": "treachery"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "mini The Seeker",
-            "id": "f353aa67-9b6b-4e50-9a8d-db93e5333436",
-            "amount": 1,
-            "investigator": "The Seeker",
-            "front": {
-                "type": "mini_investigator"
-            },
-            "back": {
-                "type": "mini_investigator_back"
-            }
-        },
-        {
-            "name": "The Mystic",
-            "id": "6ad8ad35-1557-41c7-9839-f2bfa7566587",
-            "amount": 1,
-            "investigator": "The Mystic",
-            "front": {
-                "type": "investigator"
-            },
-            "back": {
-                "entries": [
-                    [
-                        "<b>Deck Size:</b>",
-                        "30"
-                    ],
-                    [
-                        "<b>Secondary Class Choice:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Options:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
-                        "<:b5fcda1e-8f14-4e1d-ae8c-03fc1fe79cd1 name>, <:ad5cdeb6-4ef0-4e0e-8860-001cc74db7dc name>, 1 random basic weakness."
-                    ],
-                    [
-                        "<b>Deckbuilding Restrictions:</b>",
-                        ""
-                    ]
-                ],
-                "type": "investigator_back"
-            }
-        },
-        {
-            "name": "Signature",
-            "id": "b5fcda1e-8f14-4e1d-ae8c-03fc1fe79cd1",
-            "amount": 2,
-            "investigator": "The Mystic",
-            "front": {
-                "text": "<:6ad8ad35-1557-41c7-9839-f2bfa7566587 name> deck only.",
-                "type": "asset"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "Weakness",
-            "id": "ad5cdeb6-4ef0-4e0e-8860-001cc74db7dc",
-            "amount": 1,
-            "investigator": "The Mystic",
-            "front": {
-                "classes": [
-                    "weakness"
-                ],
-                "type": "treachery"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "mini The Mystic",
-            "id": "e2506cb1-8b6f-4710-a981-a635bd4d8f8a",
-            "amount": 1,
-            "investigator": "The Mystic",
-            "front": {
-                "type": "mini_investigator"
-            },
-            "back": {
-                "type": "mini_investigator_back"
-            }
-        },
-        {
-            "name": "The Survivor",
-            "id": "a9bcd85f-0f08-4751-a586-9ece63a860dd",
-            "amount": 1,
-            "investigator": "The Survivor",
-            "front": {
-                "type": "investigator"
-            },
-            "back": {
-                "entries": [
-                    [
-                        "<b>Deck Size:</b>",
-                        "30"
-                    ],
-                    [
-                        "<b>Secondary Class Choice:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Options:</b>",
-                        ""
-                    ],
-                    [
-                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
-                        "<:b2b53781-5acb-43e7-9cae-09bf8556d569 name>, <:5e593c3e-a0d7-42e1-948c-fa0c6ac84753 name>, 1 random basic weakness."
-                    ],
-                    [
-                        "<b>Deckbuilding Restrictions:</b>",
-                        ""
-                    ]
-                ],
-                "type": "investigator_back"
-            }
-        },
-        {
-            "name": "Signature",
-            "id": "b2b53781-5acb-43e7-9cae-09bf8556d569",
-            "amount": 2,
-            "investigator": "The Survivor",
-            "front": {
-                "text": "<:a9bcd85f-0f08-4751-a586-9ece63a860dd name> deck only.",
-                "type": "asset"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "Weakness",
-            "id": "5e593c3e-a0d7-42e1-948c-fa0c6ac84753",
-            "amount": 1,
-            "investigator": "The Survivor",
-            "front": {
-                "classes": [
-                    "weakness"
-                ],
-                "type": "treachery"
-            },
-            "back": {
-                "type": "player"
-            }
-        },
-        {
-            "name": "mini The Survivor",
-            "id": "07107ef4-643d-4882-94f1-9873db15ff96",
-            "amount": 1,
-            "investigator": "The Survivor",
-            "front": {
-                "type": "mini_investigator"
-            },
-            "back": {
-                "type": "mini_investigator_back"
-            }
-        },
-        {
             "name": "Dem Ruin den Rücken kehren",
             "id": "4cc5644c-4fc5-4789-9edc-0c365b1b83ee",
             "amount": 2,
-            "project_number": "113",
+            "project_number": 16,
             "front": {
                 "classes": [
                     "survivor"
@@ -1048,7 +308,7 @@
             "name": "Jetzt oder nie",
             "id": "caa8e0ea-8734-44b2-b816-7841d55846cb",
             "amount": 2,
-            "project_number": "112",
+            "project_number": 15,
             "front": {
                 "classes": [
                     "survivor"
@@ -1074,7 +334,7 @@
             "name": "<unique>Iscariots Apokryphen",
             "id": "179675da-4c1c-4145-9287-fbdd94c51637",
             "amount": 2,
-            "project_number": "105",
+            "project_number": 8,
             "front": {
                 "classes": [
                     "guardian"
@@ -1106,7 +366,7 @@
             "name": "Parabellum",
             "id": "8626ef24-3730-4288-8be1-f16be47c5090",
             "amount": 2,
-            "project_number": "104",
+            "project_number": 7,
             "front": {
                 "classes": [
                     "guardian"
@@ -1134,7 +394,7 @@
         {
             "name": "<unique>Hundehaar",
             "id": "cbe9972d-3ee1-4576-a8d1-dd2b7244b980",
-            "project_number": "102",
+            "project_number": 19,
             "front": {
                 "classes": [
                     "neutral"
@@ -1160,7 +420,7 @@
         {
             "name": "Shinobu Sanosuke",
             "id": "13d15232-a017-4d43-851a-6af7bb00497e",
-            "project_number": "101",
+            "project_number": 6,
             "front": {
                 "classes": [
                     "neutral"
@@ -1213,6 +473,7 @@
         {
             "name": "XRT098mini-Shinobu Sanosuke.eon",
             "id": "ca6f6770-e4ea-4a7c-adbd-e36f596c2354",
+            "project_number": 17,
             "front": {
                 "classes": [
                     "neutral"
@@ -1223,12 +484,13 @@
             "back": {
                 "illustration": "./images/bm-solari-dm1.jpg",
                 "type": "mini_back"
-            }
+            },
+            "enumerated": "ignored"
         },
         {
             "name": "Kalter Entzug",
             "id": "335308b8-2a71-4fdc-85ef-a90e5bd3b895",
-            "project_number": "103",
+            "project_number": 5,
             "front": {
                 "name": "<unique><name>",
                 "classes": [
@@ -1253,7 +515,7 @@
             "name": "Papier-Laterne",
             "id": "e9c22dce-ae60-419d-a1f1-8f1eab37d016",
             "amount": 2,
-            "project_number": "114",
+            "project_number": 18,
             "front": {
                 "classes": [
                     "neutral"
@@ -1286,9 +548,23 @@
             "id": "e9565a15-e381-421e-854f-c2613781daef",
             "icon": "./images/Return to Guardians of Minakami.png",
             "meta": {
+                "location_active_layout": "61ceb0c4-efec-4f6e-b80c-cdd6a93f4474",
+                "location_layouts": [
+                    {
+                        "name": "Anordnung 1",
+                        "id": "61ceb0c4-efec-4f6e-b80c-cdd6a93f4474",
+                        "fixed_length_arrows": false,
+                        "hide_mode": false,
+                        "nodes": {},
+                        "show_arrows": true,
+                        "snap_enabled": false
+                    }
+                ],
                 "tts": {}
             },
-            "cards": []
+            "cards": [],
+            "card_amount": 4,
+            "order": 7
         }
     ],
     "export_profiles": [
