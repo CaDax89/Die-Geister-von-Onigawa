@@ -8758,26 +8758,6 @@
             "card_amount": 3
         },
         {
-            "name": "Return to Guardians of Minakami.png",
-            "id": "c9caaee7-3f91-461f-89e5-4996afe9e42a",
-            "icon": "./images/Return to Guardians of Minakami.png",
-            "meta": {
-                "location_active_layout": "7546a929-ab61-4b4c-8202-b418bde83775",
-                "location_layouts": [
-                    {
-                        "name": "Anordnung 1",
-                        "id": "7546a929-ab61-4b4c-8202-b418bde83775",
-                        "fixed_length_arrows": false,
-                        "hide_mode": false,
-                        "nodes": {},
-                        "show_arrows": true,
-                        "snap_enabled": false
-                    }
-                ]
-            },
-            "card_amount": 4
-        },
-        {
             "name": "encounter-candle-b.png",
             "id": "4f485ace-5d62-4c3e-905b-194d814443b1",
             "icon": "./images/encounter-candle-b.png",
