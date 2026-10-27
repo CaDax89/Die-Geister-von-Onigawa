@@ -8758,6 +8758,15 @@
             "card_amount": 3
         },
         {
+            "name": "Rückkehr zu Wächter von Minakami",
+            "id": "dd37f56c-7d12-4858-99bd-5e02f893b001",
+            "icon": "C:/Users/cdpog/Documents/GitHub/Die-Geister-von-Onigawa/images/Return to Guardians of Minakami.png",
+            "meta": {
+                "tts": {}
+            },
+            "cards": []
+        },
+        {
             "name": "encounter-candle-b.png",
             "id": "4f485ace-5d62-4c3e-905b-194d814443b1",
             "icon": "./images/encounter-candle-b.png",
