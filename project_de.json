@@ -613,7 +613,7 @@
                 "name": "<name>",
                 "flavor_text": "Diese verzierte Maske wurde einst von einem königlichen Gefolgsmann getragen, um seine heimlichen Treffen mit einer Dienstmagd aus einfachen Verhältnissen zu verbergen.",
                 "subtitle": "Maske des unheilvollen Dieners",
-                "text": "Du erhältst +1 <agility>.\n<action>: Entferne Shishios Tücke aus dem Spiel: <b>Verhandlung.</b> Entferne einen Nicht-<t>Elite</t>-Gegner aus deiner Bedrohungszone.",
+                "text": "Du erhältst +1 <agility>.\n<action> Entferne Shishios Tücke aus dem Spiel: <b>Verhandlung.</b> Entferne einen Nicht-<t>Elite</t>-Gegner aus deiner Bedrohungszone.",
                 "traits": "Gegenstand. Maske. Relikt. Verflucht. "
             },
             "encounter_number": "34"
@@ -4022,7 +4022,7 @@
         "0cd539bd-6331-411e-966c-e0457e69abcd": {
             "name": "Klammer Kummer",
             "card_amount": 10,
-            "order": 19
+            "order": 27
         },
         "1446ab7b-f63b-4df9-8ea2-5495496365e9": {
             "name": "Herde des Hirten",
@@ -4030,7 +4030,7 @@
                 "tts": {}
             },
             "card_amount": 20,
-            "order": 32
+            "order": 22
         },
         "196125a5-3d26-48ae-9eaf-b57e0b883196": {
             "name": "Szenario IV: Der ewige Krieg",
@@ -4129,15 +4129,15 @@
                 "tts": {}
             },
             "card_amount": 4,
-            "order": 29
+            "order": 20
         },
         "292f9460-0ecc-45bc-8b2f-a1800d633769": {
             "name": "Abstoßende Abscheulichkeiten",
             "meta": {
                 "tts": {}
             },
-            "card_amount": 4,
-            "order": 17
+            "card_amount": 12,
+            "order": 11
         },
         "32772015-9d7a-4ce4-affe-3e8c1151b62d": {
             "name": "Erinnerungen an Mayu",
@@ -4145,21 +4145,21 @@
                 "tts": {}
             },
             "card_amount": 5,
-            "order": 15
+            "order": 29
         },
         "4451252e-ee64-4f85-b084-8b805d894660": {
             "name": "Düstere Doktrinen",
             "meta": {
                 "tts": {}
             },
-            "order": 20
+            "order": 13
         },
         "4d9b7d52-8bdc-4ce6-a6ee-96608f93c306": {
             "name": "Ungeschenkte Geschenke",
             "meta": {
                 "tts": {}
             },
-            "order": 24
+            "order": 32
         },
         "4dbbf3e6-90af-44d2-ae86-54d33b3fe059": {
             "name": "Feurige Fügung",
@@ -4167,7 +4167,7 @@
                 "tts": {}
             },
             "card_amount": 15,
-            "order": 28
+            "order": 8
         },
         "4f485ace-5d62-4c3e-905b-194d814443b1": {
             "name": "Szenario V: Halbdunkel",
@@ -4267,7 +4267,7 @@
                 "tts": {}
             },
             "card_amount": 7,
-            "order": 14
+            "order": 21
         },
         "67140c14-dbf6-4ba0-819c-c259a8816c49": {
             "name": "Winde des Winters",
@@ -4275,7 +4275,7 @@
                 "tts": {}
             },
             "card_amount": 5,
-            "order": 26
+            "order": 28
         },
         "7ca3acea-fdaf-464e-8f37-694b3b94fc90": {
             "name": "Brunnabwärts",
@@ -4283,7 +4283,7 @@
                 "tts": {}
             },
             "card_amount": 4,
-            "order": 13
+            "order": 14
         },
         "82e7a0d3-b552-450a-954b-0ca2d6c505e4": {
             "name": "Geisterhafter Groll",
@@ -4291,19 +4291,19 @@
                 "tts": {}
             },
             "card_amount": 3,
-            "order": 21
+            "order": 18
         },
         "8e627222-336f-4147-be8d-26467016ab45": {
             "name": "In Flammen geschmiedet",
             "meta": {
                 "tts": {}
             },
-            "order": 30
+            "order": 17
         },
         "8eea5ad2-971a-4cf9-bba5-04717966b447": {
             "name": "Behändes Böses",
             "card_amount": 8,
-            "order": 23
+            "order": 19
         },
         "9a753fcd-4dfa-48f4-9933-0d3e686ad2dd": {
             "name": "Schlummernde Schlangen",
@@ -4311,7 +4311,7 @@
                 "tts": {}
             },
             "card_amount": 9,
-            "order": 25
+            "order": 24
         },
         "9ab16e64-12db-4780-a632-56f71abcc53d": {
             "name": "Szenario III: Das Flussdelta",
@@ -4415,7 +4415,7 @@
         "9f69068d-7bb0-4721-bbf4-987e49e00189": {
             "name": "Belagerung von Onigawa",
             "card_amount": 15,
-            "order": 22
+            "order": 23
         },
         "ab1646e6-575e-430a-b26a-1a66ac40e727": {
             "name": "Erinnerungen an Miyu",
@@ -4423,19 +4423,31 @@
                 "tts": {}
             },
             "card_amount": 4,
-            "order": 31
+            "order": 30
         },
         "addb2692-6e09-407b-bbd7-0f707cfed118": {
             "name": "Wächter von Minakami",
             "meta": {
+                "location_active_layout": "669fbe8e-7c24-4d90-87f9-bedb37ae7df9",
+                "location_layouts": [
+                    {
+                        "name": "Anordnung 1",
+                        "id": "669fbe8e-7c24-4d90-87f9-bedb37ae7df9",
+                        "fixed_length_arrows": false,
+                        "hide_mode": false,
+                        "nodes": {},
+                        "show_arrows": true,
+                        "snap_enabled": false
+                    }
+                ],
                 "tts": {}
             },
-            "order": 34
+            "order": 33
         },
         "b148ed1e-7af7-43b9-a6af-6eb2132fccbd": {
             "name": "Grausame Gezeiten",
             "card_amount": 10,
-            "order": 18
+            "order": 26
         },
         "b9245037-28ef-4862-8c63-db91684ab522": {
             "name": "Fürchterlicher Forst",
@@ -4443,7 +4455,7 @@
                 "tts": {}
             },
             "card_amount": 16,
-            "order": 10
+            "order": 16
         },
         "c0cb9906-a8fb-46ab-8831-2f69e4c13291": {
             "name": "Schaurige Schwaden",
@@ -4451,7 +4463,7 @@
                 "tts": {}
             },
             "card_amount": 10,
-            "order": 11
+            "order": 15
         },
         "c46862ed-ba89-4557-adfb-c9d7e4596582": {
             "name": "Finsteres Herrenhaus",
@@ -4470,7 +4482,7 @@
         "caac83c5-2469-4f8d-8806-3090b1c263e8": {
             "name": "Szenario VIII: Die schwarze Ernte",
             "card_amount": 38,
-            "order": 8
+            "order": 9
         },
         "d2d065e4-80a5-4c26-93c1-6d4d507e9e2a": {
             "name": "Versunkenes Königreich",
@@ -4489,7 +4501,7 @@
                 ],
                 "tts": {}
             },
-            "order": 33
+            "order": 25
         },
         "d3417fd3-e4fe-4e38-ab55-302b7ab38ee9": {
             "name": "Kaltherzige Krähen",
@@ -4497,11 +4509,11 @@
                 "tts": {}
             },
             "card_amount": 4,
-            "order": 9
+            "order": 10
         },
         "d486f6db-3b30-4ab8-b57c-4351482025c9": {
             "name": "Astrale Ausrüstung",
-            "order": 27
+            "order": 31
         },
         "d8a0a331-ba19-4137-a79d-7aa938c77a3d": {
             "name": "Szenario II: Das Haus auf dem Hügel",
