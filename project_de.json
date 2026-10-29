@@ -62,12 +62,12 @@
             "encounter_number": "4"
         },
         "03f02070-0a08-4c03-858a-ca106fb8b687": {
-            "name": "<unique>\"Madam\" Bai",
+            "name": "<unique>„Madame“ Bai",
             "project_number": 226,
             "front": {
-                "flavor_text": "Lady Bai war einst die Hofapothekerin und kannte sich bestens mit der Anwendung und Behandlung exotischer Gifte aus. Als sie während der Belagerung von einem verräterischen Untergebenen hintergangen wurde, bot ihr der königliche Puppenmacher einen Weg an, ihr „Leben“ auf unbestimmte Zeit zu verlängern ...<br>",
+                "flavor_text": "Lady Bai war einst die Hofapothekerin und kannte sich bestens mit der Anwendung exotischer Gifte aus. Als sie während der Belagerung von einem verräterischen Untergebenen hintergangen wurde, bot ihr der königliche Puppenmacher einen Weg an, ihr „Leben“ auf unbestimmte Zeit zu verlängern...<br>",
                 "subtitle": "Schlangen-Mannequin",
-                "text": "<margin 25><for> Sobald die Gegnerphase beginnt: Füge dem Chaosbeutel 1<curse>-Marker hinzu.\nHinterhalt. Jäger 1.",
+                "text": "<margin 25>Hinterhalt. Jäger 1.\n<for> Sobald die Gegnerphase beginnt: Füge dem Chaosbeutel 1<curse>-Marker hinzu.",
                 "traits": "Automata. Elite. Verflucht.",
                 "victory": "Sieg 1."
             },
@@ -87,7 +87,7 @@
             "project_number": 77,
             "front": {
                 "flavor_text": "Eine Anordnung ritueller Kerzen umgibt einen Kreis aus purpurroten Runen, die in den Boden eingraviert sind, der ein übertriebenes Knarren von sich gibt, ganz gleich, wie behutsam man darauf tritt...",
-                "text": "<action>: Falls keine Hinweise auf <name> liegen: Rücke vor. <i><i>(Max. ein Mal pro Spiel.)</i></i>",
+                "text": "<action>: Falls keine Hinweise auf <name> liegen: Rücke vor. <i>(Max. ein Mal pro Spiel.)</i>",
                 "traits": "Stadt. Kultstätte.",
                 "victory": "Sieg 1."
             },
@@ -176,7 +176,7 @@
             "project_number": 22,
             "front": {
                 "flavor_text": "Der wankende Leichnam dieses gefallenen Kriegers zuckt und windet sich bei jedem qualvollen Schritt.<br>\n",
-                "text": "<spawn> Kapitulation eines Helden, falls möglich. Ansonsten: Der einsame Grabstein.\nPatrouille (Torii-Tor). <name> erhält +3 <per_large> Ausdauer.\n<reaction> Nachdem du Schaden zugefügt hast: Erschöpfe Rachsüchtiges Echo.",
+                "text": "Patrouille (Torii-Tor). <name> erhält +3 <per_large> Ausdauer.\n<spawn> Kapitulation eines Helden, falls möglich. Ansonsten: Der einsame Grabstein.\n<reaction> Nachdem du Schaden zugefügt hast: Erschöpfe <name>.",
                 "traits": "Yokai. Elite. Verflucht.",
                 "victory": "Sieg 1."
             }
@@ -186,7 +186,7 @@
             "project_number": 203,
             "front": {
                 "flavor_text": "Es heißt, die Nure-Onna würden verzweifelte Mütter nachahmen, die nach ihren Säuglingen rufen, um „Hilfe“ von ahnungslosen Seeleuten und Fischern zu erbitten.",
-                "text": "Jäger 1.\n<prey> Geringster <agility>-Wert.\n<b>Vorteil -- </b> Erschöpfe Tyrische Galeere, falls sie sich an deinem Ort befindet. ",
+                "text": "Jäger 1.\n<prey> Geringster <agility>-Wert.\n<b>Vorteil --</b> Erschöpfe Tyrische Galeere, falls sie sich an deinem Ort befindet. ",
                 "traits": "Humanoid. Yokai. Vampir."
             }
         },
@@ -195,7 +195,7 @@
             "project_number": 14,
             "front": {
                 "flavor_text": "Die Größe des Grabsteins spiegelt die Bedeutung der Person wider, der er gewidmet ist; das kann unmöglich dein Freund sein.",
-                "text": "Kapitulation eines Helden ist mit dem Ort verbunden, der ihn ins Spiel gebracht hat und umgekehrt.\n<for> Nachdem der Ort enthüllt wurde: Ziehe die oberste Karte des Begegnungsdecks.",
+                "text": "<name> ist mit dem Ort verbunden, der ihn ins Spiel gebracht hat und umgekehrt.\n<for> Nachdem der Ort enthüllt wurde: Ziehe die oberste Karte des Begegnungsdecks.",
                 "traits": "Friedhof.",
                 "victory": "Sieg 1."
             },
@@ -222,7 +222,7 @@
             "front": {
                 "flavor_text": "Jahrhunderte sind vergangen, doch die Jungfrau des Schwarzwassers hegt immer noch ihren Groll…",
                 "subtitle": "Jungfrau des Schwarzwassers",
-                "text": "<spawn> Trostloser Ankerplatz.\nJäger 2.\n<b>Rache --</b> Anstatt Kayako abzulegen, entferne allen Schaden und Verderben von ihr, dann erschöpfe Kayako und bewege sie zu Trostloser Ankerplatz.",
+                "text": "Jäger 2.\n<spawn> Trostloser Ankerplatz.\n<b>Rache --</b> Anstatt Kayako abzulegen, entferne allen Schaden und Verderben von ihr, dann erschöpfe Kayako und bewege sie zu Trostloser Ankerplatz.",
                 "traits": "Yokai. Elite. Verflucht."
             },
             "encounter_number": "3"
@@ -233,7 +233,7 @@
             "front": {
                 "flavor_text": "Der Azurblaue Eiferer war der Erste von Onigawas Meistern, der von einem uralten Übel verführt wurde, doch er sollte nicht der Letzte sein.<br><br>",
                 "subtitle": "Verräter von Onigawa",
-                "text": "<spawn> Aussichtspunkt des Meisterspions.<margin 35>\nHinterhalt.\n<for> Sobald die Gegnerphase beginnt: Füge dem Chaosbeutel 1<curse>-Marker hinzu.",
+                "text": "Hinterhalt.\n<spawn> Aussichtspunkt des Meisterspions.<margin 35>\n<for> Sobald die Gegnerphase beginnt: Füge dem Chaosbeutel 1<curse>-Marker hinzu.",
                 "traits": "Humanoid. Elite. Geist. Verflucht.",
                 "victory": "Sieg 1."
             },
@@ -245,7 +245,7 @@
             "front": {
                 "flavor_text": "Lang lebe der König.",
                 "subtitle": "<size 50>Das Feuer wird niemals erlöschen",
-                "text": "Jede Nicht-Schwäche-Karte, die sich auf deiner Hand befindet oder zu einer Fertigkeitsprobe beigetragen wird, erhält <wild> <wild>. \n<action>: Durchsuche den Chaosbeutel nach 1<blessing>- und 1<curse>-Marker und lege diese in den Markervorrat zurück: Füge dem Chaosbeutel 1 Harmonie-Marker hinzu. Ermittler können diese Fähigkeit von allen Orten auslösen.",
+                "text": "Jede Nicht-Schwäche-Karte, die sich auf deiner Hand befindet oder zu einer Fertigkeitsprobe beigetragen wird, erhält <wild> <wild>. \n<action>: Durchsuche den Chaosbeutel nach 1<blessing>- und 1<curse>-Marker und lege diese in den Markervorrat zurück: Füge dem Chaosbeutel 1<font \".\\fonts\\AHLCGHarmony.otf\">Y</font>-Marker hinzu. Ermittler können diese Fähigkeit von allen Orten aus auslösen.",
                 "traits": "Verbündeter. Avatar."
             },
             "encounter_number": "8"
@@ -284,7 +284,7 @@
                 "traits": "Dschungel. Zerstört."
             },
             "back": {
-                "flavor_text": "Der durch die Katastrophe freigesetzte Wärmeenergie scheint dazu geführt zu haben, dass die Gletscher auf diesen schwimmenden Brocken des Berges Kokoro geschmolzen sind...",
+                "flavor_text": "Die durch die Katastrophe freigesetzte Wärmeenergie scheint dazu geführt zu haben, dass die Gletscher auf diesen schwimmenden Brocken des Berges Kokoro geschmolzen sind...",
                 "traits": "Dschungel. Zerstört."
             }
         },
@@ -302,9 +302,9 @@
             "name": "<unique>Onikuma Kanzen",
             "project_number": 259,
             "front": {
-                "flavor_text": "Unter dem wachsamen Blick seiner Mutter hat der Berg Kokoro Äonen voller Unruhen überstanden … und er wird auch heute nicht fallen.",
+                "flavor_text": "Unter dem wachsamen Blick seiner Mutter hat der Berg Kokoro Äonen voller Unruhen überstanden… und er wird auch heute nicht fallen.",
                 "subtitle": "<size 50>Die Hölle kennt keine größere Wut",
-                "text": "Ermittler dürfen den ersten Gelegenheitsangriff in ihrem Zug ignorieren.\n<action>: Durchsuche den Chaosbeutel nach 1<blessing>- und 1<curse>-Marker und lege diese in den Markervorrat zurück: Füge dem Chaosbeutel 1 Harmonie-Marker hinzu. Ermittler können diese Fähigkeit von allen Orten auslösen.",
+                "text": "Ermittler dürfen den ersten Gelegenheitsangriff in ihrem Zug ignorieren.\n<action>: Durchsuche den Chaosbeutel nach 1<blessing>- und 1<curse>-Marker und lege diese in den Markervorrat zurück: Füge dem Chaosbeutel 1<font \".\\fonts\\AHLCGHarmony.otf\">Y</font>-Marker hinzu. Ermittler können diese Fähigkeit von allen Orten aus auslösen.",
                 "traits": "Verbündeter. Avatar."
             }
         },
@@ -328,7 +328,7 @@
             "front": {
                 "flavor_text": "Irgendwie weißt du einfach, dass er hier ist...",
                 "subtitle": "Takeshis Grab",
-                "text": "Der einsame Grabstein ist mit dem Ort verbunden, der ihn ins Spiel gebracht hat und umgekehrt.\n<action>: Merke dir, dass du <i>Takeshi die letzte Ehre erwiesen hast</i>. <i>(Max. ein Mal pro Spiel.)</i>",
+                "text": "<name> ist mit dem Ort verbunden, der ihn ins Spiel gebracht hat und umgekehrt.\n<action>: Merke dir, dass du <i>Takeshi die letzte Ehre erwiesen hast</i>. <i>(Max. ein Mal pro Spiel.)</i>",
                 "traits": "Friedhof.",
                 "victory": "Sieg 1."
             },
@@ -374,7 +374,7 @@
             "front": {
                 "flavor_text": "Der Drachenwächter Tsurugi war dafür bekannt, Knochen als Opfergaben anzunehmen … vorzugsweise solche, die den Leichen seiner Feinde entrissen worden waren.",
                 "subtitle": "Schrein der Ryu",
-                "text": "<free>: <i>Sprich ein Gebet.</i> Mache eine <t>Aspekt</t>-<br>Vorteilskarte, die du kontrollierst, spielbereit. <i><i>(Max. ein Mal pro Spiel.)</i></i>",
+                "text": "<free>: <i>Sprich ein Gebet.</i> Mache eine <t>Aspekt</t>-<br>Vorteilskarte, die du kontrollierst, spielbereit. <i>(Max. ein Mal pro Spiel.)</i>",
                 "traits": "Vulkan. Heiligtum."
             },
             "back": {
@@ -500,16 +500,16 @@
             "back": {
                 "flavor_text": "Die Glocke läutet für dich.",
                 "subtitle": "Der Mauteintreiber",
-                "text": "<spawn> Kaskaden-Endstation, falls möglich. Andernfalls Fischerkai. \nMassiv. Jäger 1. Alarmiert. \nShinigami kann keine Nicht-<t>Fluss</t>-Orte betreten.",
+                "text": "Massiv. Jäger 1. Alarmiert. \n<spawn> Kaskaden-Endstation, falls möglich. Andernfalls Fischerkai. \nShinigami kann keine Nicht-<t>Fluss</t>-Orte betreten.",
                 "victory": "Sieg 1."
             }
         },
         "22349e4c-412a-4159-9f35-b2e5da097699": {
-            "name": "Lanternengeist",
+            "name": "Laternengeist",
             "project_number": 110,
             "front": {
                 "flavor_text": "Im Königspalast war es verboten, Geistergeschichten zu erzählen, aus Angst, man könnte damit die Ao-Andō herbeirufen – schelmische Geister, die Lichtquellen auslöschten und ahnungslose Opfer in der Dunkelheit überfielen.",
-                "text": "Zurückhaltend. Jäger 2.\n<prey> Höchster <intellect>-Wert.\nLanternengeist verliert Zurückhaltend, wenn keine Hinweise an dem Ort vorhanden sind.",
+                "text": "Zurückhaltend. Jäger 2.\n<prey> Höchster <intellect>-Wert.\n<name> verliert Zurückhaltend, wenn keine Hinweise an dem Ort vorhanden sind.",
                 "traits": "Yokai. Geist."
             }
         },
@@ -528,7 +528,7 @@
             "front": {
                 "flavor_text": "Dein Streitwagen aus Feuer erwartet dich.",
                 "subtitle": "Da wo Rauch ist",
-                "text": "Ermittler erhalten eine zusätzliche Aktion während ihres Zuges.\n<action>: Durchsuche den Chaosbeutel nach 1<blessing>- und 1<curse>-Marker und lege diese in den Markervorrat zurück: Füge dem Chaosbeutel 1 Harmonie-Marker hinzu. Ermittler können diese Fähigkeit von allen Orten auslösen.",
+                "text": "Ermittler erhalten eine zusätzliche Aktion während ihres Zuges.\n<action>: Durchsuche den Chaosbeutel nach 1<blessing>- und 1<curse>-Marker und lege diese in den Markervorrat zurück: Füge dem Chaosbeutel 1<font \".\\fonts\\AHLCGHarmony.otf\">Y</font>-Marker hinzu. Ermittler können diese Fähigkeit von allen Orten aus auslösen.",
                 "traits": "Verbündeter. Avatar."
             },
             "encounter_number": "5"
@@ -538,7 +538,7 @@
             "project_number": 152,
             "front": {
                 "flavor_text": "Eine Flammenfontäne schießt aus einem nahegelegenen Lavasee empor und versengt deine nackte Haut...",
-                "text": "<rev> Führe eine <agility>-Probe (3) durch. Falls die Probe misslingt, musst du entweder einen Nicht-Schwäche-Gegenstand-Karte aus deiner Hand oder deinem Spielbereich ablegen, die mindestens 1 Handslot benötigt, oder für jeden Punkt, um den die Probe misslungen ist, 1 Schaden nehmen.",
+                "text": "<rev> Führe eine <agility>-Probe (3) durch. Falls die Probe misslingt, musst du entweder eine Nicht-Schwäche-<t>Gegenstand</t>-Karte aus deiner Hand oder deinem Spielbereich ablegen, die mindestens 1 Handslot benötigt, oder für jeden Punkt, um den die Probe misslungen ist, 1 Schaden nehmen.",
                 "traits": "Verletzung."
             },
             "encounter_number": "21-23"
@@ -557,7 +557,7 @@
             "project_number": 232,
             "front": {
                 "flavor_text": "Du spürst, wie der Berg Kokoro vor Angst erbebt, als sich die alabasterfarbene Schlange wieder der Jagd anschließt. Es gibt kein Versteck mehr …",
-                "text": "Wagnis.\n<rev> Falls Orochimaru <i>(Ewiger Schlummer)</i> im Spiel ist, drehe ihn um. Führe eine <agility>-Probe (3) durch. Falls die Probe misslingt, mische Den Schläfer erwecken zurück in das Begegnungsdeck, und Orochimaru <i>(Fluch des August)</i> greift dich sofort an.",
+                "text": "Wagnis.\n<rev> Falls Orochimaru <i>(Ewiger Schlummer)</i> im Spiel ist, drehe ihn um. Führe eine <agility>-Probe (3) durch. Falls die Probe misslingt, mische <name> zurück in das Begegnungsdeck, und Orochimaru <i>(Fluch des August)</i> greift dich sofort an.",
                 "traits": "Patzer."
             },
             "encounter_number": "1-4"
@@ -751,7 +751,7 @@
             "name": "Fürchte dich nicht vor dem Sensenmann",
             "project_number": 157,
             "front": {
-                "flavor_text": "Der seltsame Priester, der Miyu entführt hat, führt ein profanes Ritual durch, um dem Mädchen ihre Lebenskraft zu entziehen und seinen dunklen Meister in diese Welt zu beschwören. Um das Ritual zu nähren und die magische Barriere zu stärken, die sie schützt, werden verlorene Seelen aus allen Ecken von Onigawa, über alle Zeiten und Räume hinweg, zum Galgen gerufen …",
+                "flavor_text": "Der seltsame Priester, der Miyu entführt hat, führt ein lästerliches Ritual durch, um dem Mädchen ihre Lebenskraft zu entziehen und seinen dunklen Meister in diese Welt zu beschwören. Um das Ritual zu nähren und die magische Barriere zu stärken, die sie schützt, werden verlorene Seelen aus allen Ecken von Onigawa, über alle Zeiten und Räume hinweg, zum Galgen gerufen …",
                 "text": "<for> Sobald die Mythosphase endet: Bringe ein <b>Opfer</b> dar."
             },
             "back": {
@@ -775,7 +775,7 @@
             "project_number": 93,
             "front": {
                 "flavor_text": "Fast alle Papiertalismane an der Wand sind so stark verbrannt, dass sie nicht mehr lesbar sind...",
-                "text": "<reaction> Nachdem du den letzten Hinweis an <name> entdeckt hast: Ziehe eine Karte. <i><i>(Max. ein Mal pro Spiel.)</i></i>",
+                "text": "<reaction> Nachdem du den letzten Hinweis an <name> entdeckt hast: Ziehe eine Karte. <i>(Max. ein Mal pro Spiel.)</i>",
                 "traits": "Erdgeschoss."
             },
             "back": {
@@ -813,7 +813,7 @@
             "front": {
                 "flavor_text": "Asche zu Asche.",
                 "subtitle": "Adel verpflichtet",
-                "text": "Während Chaosmarker in Fertigkeitsproben abgehandelt werden, können Ermittler <blessing>-Marker behandeln, als wären sie <elder_sign>-Marker.\n<action>: Durchsuche den Chaosbeutel nach 1<blessing>- und 1<curse>-Marker und lege diese in den Markervorrat zurück: Füge dem Chaosbeutel 1 Harmonie-Marker hinzu. Ermittler können diese Fähigkeit von allen Orten auslösen.",
+                "text": "Während Chaosmarker in Fertigkeitsproben abgehandelt werden, können Ermittler <blessing>-Marker behandeln, als wären sie <elder_sign>-Marker.\n<action>: Durchsuche den Chaosbeutel nach 1<blessing>- und 1<curse>-Marker und lege diese in den Markervorrat zurück: Füge dem Chaosbeutel 1<font \".\\fonts\\AHLCGHarmony.otf\">Y</font>-Marker hinzu. Ermittler können diese Fähigkeit von allen Orten aus auslösen.",
                 "traits": "Verbündeter. Avatar."
             },
             "encounter_number": "6"
@@ -833,7 +833,7 @@
             "project_number": 52,
             "front": {
                 "flavor_text": "Das verrottende Holz von uralten, zerfallenen Gebäuden treibt im trüben Wasser.",
-                "text": "<action>: Falls keine Hinweise auf Feuchtes Moor liegen: <i>Blicke in das Wasser.</i> Führe eine <willpower>- oder <agility>-Probe (3) durch. Falls die Probe gelingt, bringe den beiseitegelegten Ort Versunkener Schrein benachbart zu Feuchtes Moor verhüllt ins Spiel. <i><i>(Max. ein Mal pro Spiel.)</i></i>",
+                "text": "<action>: Falls keine Hinweise auf <name> liegen: <i>Blicke in das Wasser.</i> Führe eine <willpower>- oder <agility>-Probe (3) durch. Falls die Probe gelingt, bringe den beiseitegelegten Ort Versunkener Schrein benachbart zu <name> verhüllt ins Spiel. <i>(Max. ein Mal pro Spiel.)</i>",
                 "traits": "Fluss."
             },
             "back": {
@@ -853,7 +853,7 @@
                 "victory": "Sieg 1."
             },
             "back": {
-                "flavor_text": "Eine schwebende Plattform nahe der hinteren Wand scheint das abfließende Wasser aus einem der oberen Lavabecken aufzufangen und es in eine Reihe von Kanälen umzuleiten...",
+                "flavor_text": "Eine schwebende Plattform nahe der hinteren Wand scheint die abfließende Lava eines der oberen Becken aufzufangen und in eine Reihe von Kanälen umzuleiten...",
                 "traits": "Vulkan. Insel."
             }
         },
@@ -866,7 +866,7 @@
             },
             "back": {
                 "name": "  In guten wie in schlechten Tagen   ",
-                "flavor_text": "Nach einem verzweifelten Kampf gelingt es dir, den Griff des Geistes um das Mädchen zu lösen, und Die Blasse Braut stößt einen letzten ohrenbetäubenden Schrei aus, bevor sie sich in nebligen Äther auflöst. Das ferne Echo von Hochzeitsglocken verwirrt dich für einen Moment, bevor sich deine Aufmerksamkeit wieder dem Körper des jungen Mädchens zuwendet, das sich immer noch vor Schmerzen auf dem Boden windet... ",
+                "flavor_text": "Nach einem verzweifelten Kampf gelingt es dir, den Griff des Geistes um das Mädchen zu lösen, und Die Blasse Braut stößt einen letzten ohrenbetäubenden Schrei aus, bevor sie sich in nebligen Äther auflöst. Das ferne Echo von Hochzeitsglocken verwirrt dich für einen Moment, bevor sich deine Aufmerksamkeit wieder dem jungen Mädchen zuwendet, das sich immer noch vor Schmerzen auf dem Boden windet... ",
                 "text": "(<resolution><b>A2</b>)\n\n\n"
             }
         },
@@ -924,7 +924,7 @@
             "project_number": 220,
             "front": {
                 "flavor_text": "Für viele Soldaten endete die Belagerung von Onigawa nie.",
-                "text": "Gewaltig.\n<for> Nachdem Hüllenlegion ins Spiel kommt: Platziere 1 Verderben darauf.",
+                "text": "Gewaltig.\n<for> Nachdem <name> ins Spiel kommt: Platziere 1 Verderben darauf.",
                 "traits": "Bataillon. Geist. Verflucht."
             },
             "encounter_number": "8-10"
@@ -934,7 +934,7 @@
             "project_number": 185,
             "front": {
                 "flavor_text": "Der widerliche Gestank von Verwesung, der den Boden unter deinen Füßen nährt, hängt schwer in der Luft.",
-                "text": "<rev> Hänge Pilzbefall an den nächstgelegenen Ort an, an dem noch kein Exemplar von Pilzbefall angehängt ist. Max. 1 pro Ort.\n<for> Am Ende der Ermittlerphase: Jeder Ermittler an diesem Ort nimmt 1 Schaden.",
+                "text": "<rev> Hänge <name> an den nächstgelegenen Ort an, an dem noch kein Exemplar von <name> angehängt ist. Max. 1 pro Ort.\n<for> Am Ende der Ermittlerphase: Jeder Ermittler an diesem Ort nimmt 1 Schaden.",
                 "traits": "Gefahr."
             },
             "encounter_number": "10-13"
@@ -970,12 +970,12 @@
             "name": "<unique>Kurama Tengu",
             "project_number": 249,
             "front": {
-                "flavor_text": "Aus der Asche des Konflikts, der Onigawa verwüstet hatte, erhob sich ein neuer Held. Seine Rücksichtslosigkeit im Kampf wurde nur noch von seiner Treue gegenüber seinem dunklen Schutzherrn übertroffen.<br><margin 15>\n",
+                "flavor_text": "Aus der Asche des Konflikts, der Onigawa verwüstet hatte, erhob sich ein neuer Champion. Seine Rücksichtslosigkeit im Kampf wurde nur noch von seiner Treue gegenüber seinem dunklen Schutzherrn übertroffen.<br><margin 15>\n",
                 "illustration_pan_x": -595.0,
                 "illustration_pan_y": 719.0,
                 "illustration_scale": 1.158,
                 "subtitle": "Die Hand des Moloch",
-                "text": "<spawn> Brandschneise.\nJäger 2. Zurückschlagen.\n<for> Sobald die Gegnerphase beginnt: Füge dem Chaosbeutel 1<per_large> <curse>-Marker hinzu.",
+                "text": "Jäger 2. Zurückschlagen.\n<spawn> Brandschneise.\n<for> Sobald die Gegnerphase beginnt: Füge dem Chaosbeutel 1<per_large> <curse>-Marker hinzu.",
                 "traits": "Humanoid. Elite. Yokai. Verflucht.",
                 "victory": "Sieg 1."
             },
@@ -986,7 +986,7 @@
             "project_number": 19,
             "front": {
                 "flavor_text": "Es gibt keinen offensichtlichen Grund dafür, dass der Weg so umständlich verläuft, aber aus Vorsicht hält man sich lieber nicht zu weit von den ausgetretenen Pfaden entfernt.",
-                "text": "<for> Nachdem du dich zu Verschlungener Pfad bewegt hast: Führe eine <agility>-Probe (3) durch. Falls die Probe misslingt, verliere alle verbliebenen Aktionen und beende deinen Zug.",
+                "text": "<for> Nachdem du dich zu <name> bewegt hast: Führe eine <agility>-Probe (3) durch. Falls die Probe misslingt, verliere alle verbliebenen Aktionen und beende deinen Zug.",
                 "traits": "Wälder."
             },
             "back": {
@@ -1002,7 +1002,7 @@
             "project_number": 187,
             "front": {
                 "flavor_text": "Für einen Moment dachtest du, du hättest Hochzeitsglocken läuten hören...",
-                "text": "Wagnis. Verborgen.\n<rev> Füge diese Karte deiner Hand hinzu und merke dir, dass du <i>einen flüchtigen Blick auf Die Blasse Braut erhascht hast.</i> Du darfst Die Blasse Braut für den Rest dieses Szenarios nicht erwähnen. Jedes Mal, wenn du dies tust, nimmst du 1 direkten Schrecken.\n ",
+                "text": "Wagnis. Verborgen.\n<rev> Füge diese Karte deiner Hand hinzu und merke dir, dass du <i>einen flüchtigen Blick auf Die Blasse Braut erhascht hast.</i> Du darfst Die Blasse Braut für den Rest dieses Szenarios nicht erwähnen. Jedes Mal, wenn du dies tust, nimmst du 1 direkten Horror.\n ",
                 "traits": "Mysterium."
             },
             "encounter_number": "1-3"
@@ -1012,7 +1012,7 @@
             "project_number": 38,
             "front": {
                 "flavor_text": "Überall um dich herum hängen getrocknete, bemalte Hände an den Wänden; ob zum Feiern oder als Warnung, lässt sich nicht so recht sagen.",
-                "text": "<rev> Führe eine <willpower>-Probe (X) durch. X ist der Schleierwert deines Ortes. Falls die Probe misslingt, musst du entweder 1 Horror nehmen oder dich einmal in Richtung des nächstgelegenen Zentral-Ortes bewegen. Falls die Probe um 2 oder mehr misslingt, mache beides.",
+                "text": "<rev> Führe eine <willpower>-Probe (X) durch. X ist der Schleierwert deines Ortes. Falls die Probe misslingt, musst du entweder 1 Horror nehmen oder dich einmal in Richtung des nächstgelegenen <t>Zentral</t>-Ortes bewegen. Falls die Probe um 2 oder mehr misslingt, mache beides.",
                 "traits": "Schrecken."
             },
             "encounter_number": "19-21"
@@ -1035,7 +1035,7 @@
             "project_number": 120,
             "front": {
                 "flavor_text": "Die Wächter gewährten denjenigen, die den Palast verlassen hatten, gnädigerweise eine letzte Chance, ihre Ehre wiederherzustellen.",
-                "text": "<action>: <b>Verhandlung.</b> <i>Stürze dich die Klippen hinab.</i> Alle Gegner, die mit dir in einen Kampf verwickelt sind, werden besiegt. Du bist besiegt und erleidest ein körperliches Trauma.",
+                "text": "<action>: <b>Verhandlung.</b> <i>Stürze dich die Klippen hinab.</i> Alle Gegner, die mit dir in einen Kampf verwickelt sind, werden besiegt. Du bist besiegt und erleidest 1 körperliches Trauma.",
                 "traits": "Berg. Durchgang."
             },
             "back": {
@@ -1050,7 +1050,7 @@
             "name": "Rebellische Maid",
             "project_number": 265,
             "front": {
-                "flavor_text": "Anstatt sich der Gnade der Vogte des August auszuliefern, zogen es viele angehende Schreinmaiden vor, ihr Schicksal selbst in die Hand zu nehmen.",
+                "flavor_text": "Anstatt sich der Gnade der Vögte des Augusts auszuliefern, zogen es viele angehende Schreinmaiden vor, ihr Schicksal selbst in die Hand zu nehmen.",
                 "text": "<b>Opfer --</b> Platziere einen Hinweis auf jeden Ort mit einem Ermittler <i>(aus dem Markervorrat)</i>. Der Ermittlungsleiter darf eine andere Karte im Opferbereich wählen und diese zurück in das Opferdeck mischen <i>(und dann die oberste Karte des Opferdecks ziehen und sie am Ende des Opferbereichs anlegen)</i>.",
                 "traits": "Humanoid. Verflucht."
             },
@@ -1076,7 +1076,7 @@
             "back": {
                 "name": "Raucherpause",
                 "flavor_text": "Du beobachtest, wie das Magma die Rinne des Schmelztiegels hinunterfließt und in den Ofen gelangt, der sich über dem geschwärzten Amboss darunter befindet. Das geschmolzene Gestein fließt dann in zwei Formen über dem Amboss, die vor Hitze zischen… Gerade als du dich darauf vorbereitest, deine Wachsamkeit zu verringern, während die Maschinen ihre Arbeit verrichten, beginnt die Lava, die die Granitplattform umgibt, plötzlich überzukochen, und eine riesige Kreatur taucht mit einem tierischen Brüllen auf – sichtlich verärgert über deinen Versuch, sich ihre Werkzeuge „anzueignen“...",
-                "text": "Jeder Ermittler muss eine Kopie der beiseitegelegten Verratskarte Siedepunkt ziehen und sie in seiner Bedrohungszone ins Spiel bringen.\nBringe den beiseitegelegten Gegner \"Sensei\" Kanuti <i>(Meister der Schmiede)</i> am Amboss der Entstehung ins Spiel.\nÜberprüfe das Kampagnenlogbuch und platziere X Verderben auf \"Sensei\" Kanuti, wobei X der Anzahl der <i>zur Ruhe gebetteten Meister von Onigawa </i>entspricht.\nMische den  Begegnungs-Ablagestapel in das Begegnungsdeck.\n\n"
+                "text": "Jeder Ermittler muss eine Kopie der beiseitegelegten Verratskarte Siedepunkt ziehen und sie in seiner Bedrohungszone ins Spiel bringen.\nBringe den beiseitegelegten Gegner „Sensei“ Kanuti <i>(Meister der Schmiede)</i> am Amboss der Entstehung ins Spiel.\nÜberprüfe das Kampagnenlogbuch und platziere X Verderben auf „Sensei“ Kanuti, wobei X der Anzahl der <i>Anzahl der zur Ruhe gebetteten Krieger von Onigawa </i>entspricht.\nMische den  Begegnungs-Ablagestapel in das Begegnungsdeck.\n\n"
             },
             "encounter_number": "2"
         },
@@ -1086,7 +1086,7 @@
             "front": {
                 "flavor_text": "Unzählige Jahrtausende voller Opfer treiben den Motor seiner Auferstehung an.",
                 "subtitle": "Die Höllenmaschine",
-                "text": "Zurückhaltend. Geschützt.\n<for> Zu Beginn der Gegnerphase: Der Ermittlungsleiter muss, falls möglich, einen Nicht-<t>Elite</t>-Gegner, der nicht im Opferbereich liegt, wählen und ablegen. Falls er das tut, muss er ein Verderben auf Moloch platzieren.",
+                "text": "Zurückhaltend. Geschützt.\n<for> Zu Beginn der Gegnerphase: Der Ermittlungsleiter muss, falls möglich, einen Nicht-<t>Elite</t>-Gegner, der nicht im Opferbereich liegt, wählen und ablegen. Falls er das tut, muss er 1 Verderben auf Moloch platzieren.",
                 "traits": "Großer Alter. Elite. Geist."
             },
             "back": {
@@ -1119,8 +1119,8 @@
             "name": "Ruf von Karthago",
             "project_number": 174,
             "front": {
-                "flavor_text": "Die alten Karthager waren Moloch so ergeben – oder fürchteten ihn so sehr –, dass man annimmt, sie hätten das Topheth („Röstplatz“) eigens zu seinen Ehren errichtet.",
-                "text": "<rev> Du musst entweder eine <t>Verbündeter</t>-Vorteilskarte von deiner Hand oder aus deiner Spielzone ablegen oder ein Verderben auf die aktuelle Agenda platzieren.",
+                "flavor_text": "Die alten Karthager waren Moloch so ergeben – oder fürchteten ihn so sehr –, dass man annimmt, sie hätten den Topheth („Röstplatz“) eigens zu seinen Ehren errichtet.",
+                "text": "<rev> Du musst entweder eine <t>Verbündeter</t>-Vorteilskarte von deiner Hand oder aus deiner Spielzone ablegen oder 1 Verderben auf die aktuelle Agenda platzieren.",
                 "traits": "Wahnsinn."
             },
             "encounter_number": "26-28"
@@ -1175,8 +1175,8 @@
             "name": "Molocheanischer Vollstrecker",
             "project_number": 179,
             "front": {
-                "flavor_text": "Die Förster bildeten die erste Verteidigungslinie der Vogte von August. Die meisten von ihnen fanden während der Belagerung von Onigawa den Tod, doch es kursierten Gerüchte, dass es einigen gelungen sei, zu überleben...",
-                "text": "<spawn> Torii-Nexus.\nAlarmiert.\n<for> Sobald die Gegnerphase beginnt: Falls <name> spielbereit und nicht in einen Kampf verwickelt ist, nimmt jeder Ermittler an seinem Ort und jedem verbundenen Ort 1 Schaden.",
+                "flavor_text": "Die Förster bildeten die erste Verteidigungslinie der Vögte von August. Die meisten von ihnen fanden während der Belagerung von Onigawa den Tod, doch es kursierten Gerüchte, dass es einigen gelungen sei, zu überleben...",
+                "text": "Alarmiert.\n<spawn> Torii-Nexus.\n<for> Sobald die Gegnerphase beginnt: Falls <name> spielbereit und nicht in einen Kampf verwickelt ist, nimmt jeder Ermittler an seinem Ort und jedem verbundenen Ort 1 Schaden.",
                 "traits": "Humanoid. Kultist."
             },
             "encounter_number": "35-37"
@@ -1216,7 +1216,7 @@
             "project_number": 12,
             "front": {
                 "flavor_text": "Einige der Schreine sind zwar verfallen, doch man kann immer noch die unverwechselbaren Umrisse der Tiergeister erkennen, denen sie einst gewidmet waren.",
-                "text": "<free>: <i>Sprich ein Gebet.</i> Mache eine <b>Aspekt</b>-<br>Vorteilskarte bereit, die du kontrollierst. <i><i>(Max. ein Mal pro Spiel.)</i></i>",
+                "text": "<free>: <i>Sprich ein Gebet.</i> Mache eine <b>Aspekt</b>-<br>Vorteilskarte bereit, die du kontrollierst. <i>(Max. ein Mal pro Spiel.)</i>",
                 "traits": "Wälder. Heiligtum."
             },
             "back": {
@@ -1242,7 +1242,7 @@
             "name": "Meditationskammer",
             "project_number": 99,
             "front": {
-                "flavor_text": "Das reflektierte Licht des zerbrochenen Spiegels, der über dem schlichten Schrein hängt, desorientiert dich...",
+                "flavor_text": "Das reflektierte Licht des zerbrochenen Spiegels, der über dem schlichten Schrein hängt, raubt dir die Orientierung...",
                 "subtitle": "Schrein des Kujaku",
                 "text": "<free>: <i>Flüstere ein Gebet.</i> Mache eine <b>Aspekt</b>-<br>Vorteilskarte bereit, die du kontrollierst. <i>(Max. ein Mal pro Spiel.)</i>",
                 "traits": "Erdgeschoss. Heiligtum.",
@@ -1338,7 +1338,7 @@
             "name": "Blick des Waisenkindes",
             "project_number": 94,
             "front": {
-                "flavor_text": "Eine beunruhigende Skulptur, die das Gesicht eines jungen Mädchens darstellt und in die Wand eingelassen ist, starrt einen mit ihren leeren Augen an...",
+                "flavor_text": "Eine beunruhigende Skulptur, die das Gesicht eines jungen Mädchens darstellt und in die Wandnische eingelassen ist, starrt dich mit ihren leeren Augen an...",
                 "text": "<for> Sobald <name> enthüllt wurde: Füge dem Chaosbeutel 1<per_large> <curse>-<br>Marker hinzu. Wenn das nicht möglich ist, platziere stattdessen 1 Verderben auf die aktuelle Agenda.",
                 "traits": "Erdgeschoss."
             },
@@ -1364,7 +1364,7 @@
             "project_number": 208,
             "front": {
                 "flavor_text": "Als Onigawas Bündnis mit dem göttlichen Pantheon zerbrach, brachte dessen Königin spezielle Opfer dar, um das Überleben ihres Volkes zu sichern.",
-                "text": "<rev> Entferne alle Gegner, die keine <t>Elite</t>-Gegner sind, aus dem Spiel. Falls mindestens ein Gegner auf diese Weise entfernt wurde, lege einen Verderbensmarker auf die aktuelle Agenda.",
+                "text": "<rev> Entferne alle Gegner, die keine <t>Elite</t>-Gegner sind, aus dem Spiel. Falls mindestens ein Gegner auf diese Weise entfernt wurde, lege 1 Verderben auf die aktuelle Agenda.",
                 "traits": "Doktrin. Erinnerung."
             },
             "encounter_number": "5"
@@ -1389,7 +1389,7 @@
                 "victory": "Sieg 1."
             },
             "back": {
-                "flavor_text": "Über der Schmelzfront schwebt eine geheimnisvolle Granitplattform, die das Gewicht eines geschwärzten Ambosses trägt...",
+                "flavor_text": "Über dem Magmameer schwebt eine geheimnisvolle Granitplattform, die das Gewicht eines geschwärzten Ambosses trägt...",
                 "traits": "Vulkan. Uralt."
             },
             "encounter_number": "5"
@@ -1417,7 +1417,7 @@
             "front": {
                 "flavor_text": "Trotz seiner offensichtlichen Restaurierung liegt das Tor nun verlassen da.",
                 "subtitle": "Einstige Pracht",
-                "text": "<action>: <i>Deja vu?</i> Durchsuche die 7 obersten Karten deines Decks nach einer <t>Geist</t>- oder <t>Zauber</t>-Karte und ziehe sie. Mische dein Deck. <i><i>(Max. ein Mal pro Spiel.)</i></i>",
+                "text": "<action>: <i>Deja vu?</i> Durchsuche die 7 obersten Karten deines Decks nach einer <t>Geist</t>- oder <t>Zauber</t>-Karte und ziehe sie. Mische dein Deck. <i>(Max. ein Mal pro Spiel.)</i>",
                 "traits": "Dorf. Zentral."
             },
             "back": {
@@ -1446,7 +1446,7 @@
             "name": "Geschändete Konkubine",
             "project_number": 263,
             "front": {
-                "flavor_text": "Es war nicht ungewöhnlich, dass Mitglieder des Hofes ihre aus einfachen Verhältnissen stammenden Geliebten den Vogten des August „spendeten“, nachdem sie fertig mit ihnen waren.",
+                "flavor_text": "Es war nicht ungewöhnlich, dass Mitglieder des Hofes ihre aus einfachen Verhältnissen stammenden Geliebten den Vögten des Augusts „spendeten“, nachdem sie fertig mit ihnen waren.",
                 "text": "<b>Opfer --</b> Jeder Ermittler muss 1 direkten Horror nehmen.",
                 "traits": "Yokai. Verflucht."
             },
@@ -1587,7 +1587,7 @@
                 "name": "<unique> Innereien und Extremitäten",
                 "flavor_text": "Mit den königlichen Botschaftern hatte man immer alle Hände voll zu tun.",
                 "subtitle": "Diplomatische Kontaktaufnahme",
-                "text": "<spawn> Schlichtes Denkmal.\nGewaltig. Jäger 1.\nInnereien und Extremitäten können nicht besiegt werden.\n<for> Wenn Schaden zugefügt werden würde: Entferne stattdessen 1 Verderben von Innereien und Extremitäten oder, falls sich kein Verderben darauf befindet, erschöpfe es."
+                "text": "Gewaltig. Jäger 1.\n<spawn> Schlichtes Denkmal.\nInnereien und Extremitäten können nicht besiegt werden.\n<for> Wenn Schaden zugefügt werden würde: Entferne stattdessen 1 Verderben von Innereien und Extremitäten oder, falls sich kein Verderben darauf befindet, erschöpfe es."
             }
         },
         "625530a6-be90-409d-82e9-a00a8e0f8da4": {
@@ -1605,7 +1605,7 @@
             "front": {
                 "flavor_text": "Die Oberkörper von drei Konkubinen scheinen ungeschickt miteinander „vernäht“ worden zu sein, wodurch das monströse Wesen die Ähnlichkeit eines Tausendfüßlers erhält...<br><margin 15>",
                 "subtitle": "Das Meisterwerk des Puppenmachers",
-                "text": "<spawn> Beliebiger leerer Ort.\nJäger 1.\n<for> Sobald die Gegnerphase beginnt: Füge dem Chaosbeutel 1<curse>-Marker hinzu.",
+                "text": "Jäger 1.\n<spawn> Beliebiger leerer Ort.\n<for> Sobald die Gegnerphase beginnt: Füge dem Chaosbeutel 1<curse>-Marker hinzu.",
                 "traits": "Monster. Elite. Yokai. Verflucht.",
                 "victory": "Sieg 1."
             },
@@ -1616,7 +1616,7 @@
             "project_number": 190,
             "front": {
                 "flavor_text": "Die Kraft des Mondes beeinträchtigt die Fähigkeiten deines Aspekts … und stärkt die ruhelosen Geister.",
-                "text": "<rev> Lege diese Karte in deine Bedrohungszone. Befinden sich anschließend 3 oder mehr Exemplare von <name> in deiner Bedrohungszone, bist du besiegt und erleidest ein seelisches Trauma. Gegner in deiner Bedrohungszone erhalten +1 Kampf und +1 Entkommen.\n<action>: Erschöpfe eine Aspekt-Vorteilskarte, die du kontrollierst: Lege alle Kopien von <name> aus deiner Bedrohungszone ab.",
+                "text": "<rev> Lege diese Karte in deine Bedrohungszone. Befinden sich anschließend 3 oder mehr Exemplare von <name> in deiner Bedrohungszone, bist du besiegt und erleidest 1 seelisches Trauma. Gegner in deiner Bedrohungszone erhalten +1 Kampf und +1 Entkommen.\n<action>: Erschöpfe eine <t>Aspekt</t>-Vorteilskarte, die du kontrollierst: Lege alle Kopien von <name> aus deiner Bedrohungszone ab.",
                 "traits": "Macht."
             }
         },
@@ -1625,7 +1625,7 @@
             "project_number": 127,
             "front": {
                 "flavor_text": "Ein merkwürdiger Felsvorsprung ragt aus einem nahegelegenen Felsen hervor, als würde eine offene Hand nach dem Himmel greifen.",
-                "text": "<for> Sobald <name> enthüllt wurde: Rücke vor. <i><i>(Max. ein Mal pro Spiel.)</i></i>",
+                "text": "<for> Sobald <name> enthüllt wurde: Rücke vor. <i>(Max. ein Mal pro Spiel.)</i>",
                 "traits": "Berg. Heiligtum.",
                 "victory": "Sieg 1."
             },
@@ -1651,7 +1651,7 @@
             "project_number": 170,
             "front": {
                 "flavor_text": "Die Wärme der darunter liegenden Gießerei sorgt dafür, dass das reine Quellwasser niemals zufriert.",
-                "text": " Gegner an <name> erhalten \"<b>Rache --</b> Entferne 1 Verderben von einem beliebigen Gegner im Spiel. <i>(Gegner im Opferbereich befinden sich im Spiel.)</i>\"\n<action>: Nimm 1 Schaden: Füge dem Chaosbeutel 1<blessing>-Marker hinzu.",
+                "text": " Gegner an <name> erhalten:<br> <b>Rache --</b> Entferne 1 Verderben von einem beliebigen Gegner im Spiel. <i>(Gegner im Opferbereich befinden sich im Spiel.)</i>\n<action>: Nimm 1 Schaden: Füge dem Chaosbeutel 1<blessing>-Marker hinzu.",
                 "traits": "Aquatisch. Zerstört."
             },
             "back": {
@@ -1762,7 +1762,7 @@
             "front": {
                 "flavor_text": "Im Zentrum der Runen-Konfluenz zischt eine überhitzte Kapsel in einem tiefen Krater…",
                 "subtitle": "Was im Feuer verloren ging",
-                "text": "<reaction> Sobald dem Chaosbeutel ein <blessing>-Marker hinzugefügt werden würde: Versiegel den Marker stattdessen hier. Ermittler können diese Reaktion von allen Orten auslösen.",
+                "text": "<reaction> Sobald dem Chaosbeutel ein <blessing>-Marker hinzugefügt werden würde: Versiegle den Marker stattdessen hier. Ermittler können diese Reaktion von allen Orten auslösen.",
                 "traits": "Relikt. Okkult."
             }
         },
@@ -1796,7 +1796,7 @@
             "project_number": 36,
             "front": {
                 "illustrator": "Illus. Unbekannt",
-                "text": "<for> Nachdem Wunschbrunnen aufgedeckt wurde: Mische das beiseitegelegte Begegnungsset Brunnabwärts und lege es verdeckt als separates Brunnen-Deck an diesen Ort.\n<free>: <i>Wünsch dir etwas.</i> Ziehe eine zufällige Karte aus dem beiseitegelegten Brunnen-Deck. <i>(Max. ein Mal pro Spiel.)</i>",
+                "text": "<for> Nachdem <name> aufgedeckt wurde: Mische das beiseitegelegte Begegnungsset Brunnabwärts und lege es verdeckt als separates Brunnen-Deck an diesen Ort.\n<free>: <i>Wünsch dir etwas.</i> Ziehe eine zufällige Karte aus dem beiseitegelegten Brunnen-Deck. <i>(Max. ein Mal pro Spiel.)</i>",
                 "traits": "Dorf."
             },
             "back": {
@@ -1822,7 +1822,7 @@
             "project_number": 11,
             "front": {
                 "flavor_text": "Vor langer Zeit bedeckten Kirschblütenblätter die Straßen von Minakami. Heute ist dieser stolze Baum der einzige Überlebende seiner Art.",
-                "text": "<action>: Gebt als Gruppe 1<per_large> Hinweise aus: Wähle einen zufälligen Ort aus den Ungepflegten Gräbern aus und bringe ihn verdeckt ins Spiel. <i><i>(Max. ein Mal pro Spiel.)</i></i>",
+                "text": "<action>: Gebt als Gruppe 1<per_large> Hinweise aus: Wähle einen zufälligen Ort aus den Ungepflegten Gräbern aus und bringe ihn verdeckt ins Spiel. <i>(Max. ein Mal pro Spiel.)</i>",
                 "traits": "Wälder.",
                 "victory": "Sieg 1."
             },
@@ -2013,11 +2013,11 @@
             "front": {
                 "flavor_text": "Man würde es nicht glauben, wenn man es nicht mit eigenen Augen gesehen hätte. Das Relikt auf der Mondoberfläche war keine bloße Anomalie; es war das heilige Gefäß für die Wiedergeburt eines Wächters...",
                 "illustrator": "Illus. Unbekannt",
-                "text": "<b>Erinnerung</b> -- Harmonie-Marker gelten sowohl als <blessing>- als auch als <curse>-Marker. Bei Fertigkeitsproben kann der ausführende Ermittler wählen, als welchen der beiden er sie abhandeln möchte. Abgehandelte Harmonie-Marker werden nach Beendigung der Probe in den Chaosbeutel zurückgelegt.\n<obj> Falls sich 8 Harmonie-Marker im Chaosbeutel befinden oder sich Moloch im Siegpunktestapel befindet, rücke vor."
+                "text": "<b>Erinnerung</b> -- Harmonie-Marker gelten sowohl als <blessing>- als auch als <curse>-Marker. Bei Fertigkeitsproben kann der ausführende Ermittler wählen, als welchen der beiden er sie abhandeln möchte. Abgehandelte <font \".\\fonts\\AHLCGHarmony.otf\">Y</font>-Marker werden nach Beendigung der Probe in den Chaosbeutel zurückgelegt.\n<obj> Falls sich 8 Harmonie-Marker im Chaosbeutel befinden oder sich Moloch im Siegpunktestapel befindet, rücke vor."
             },
             "back": {
                 "name": "Was versprochen wurde",
-                "text": "<b>Falls Moloch </b><bi>(Der Geist von Onigawa)</bi> <b>sich im Siegpunktestapel befand, als diese Szene vorgerückt ist:</b>\n<blockquote>Moloch heult auf, während er unter deinem unerbittlichen Angriff taumelt; er hatte offensichtlich nicht damit gerechnet, dass du in der Lage bist, ihm Schaden zuzufügen. Seine burgunderrote Haut verwandelt sich in Asche, während seine verdorbene Essenz allmählich den Halt an seiner physischen Gestalt verliert. Der Boden unter dir beginnt zu beben; in der Verwirrung schnappst du dir schnell Miyu vom Altar, bevor du dich in das nächste Torii-Tor stürzt...</blockquote>\n(<resolution><b>A2</b>)\n<hr>\n<b>Falls sich 8 Harmonie-Marker im Chaosbeutel befanden, als diese Szene vorgerückt ist:</b>\n<blockquote>Gestärkt durch deine Fürsorge stürzt sich der wiedergeborene Wächter auf die Kathedrale, um Moloch frontal anzugreifen. Es knistern magische Energieblitze über die Landschaft, während sie Schläge austauschen, und die Wucht ihres Duells schleudert dich in das Portal eines nahegelegenen Torii-Tors... </blockquote>\n(<resolution><b>A1</b>)\n\n"
+                "text": "<b>Falls Moloch <bi>(Der Geist von Onigawa)</bi> sich im Siegpunktestapel befand, als diese Szene vorgerückt ist:</b>\n<blockquote>Moloch heult auf, während er unter deinem unerbittlichen Angriff taumelt; er hatte offensichtlich nicht damit gerechnet, dass du in der Lage bist, ihm Schaden zuzufügen. Seine burgunderrote Haut verwandelt sich in Asche, während seine verdorbene Essenz allmählich den Halt an seiner physischen Gestalt verliert. Der Boden unter dir beginnt zu beben; in der Verwirrung schnappst du dir schnell Miyu vom Altar, bevor du dich in das nächste Torii-Tor stürzt...</blockquote>\n(<resolution><b>A2</b>)\n<hr>\n<b>Falls sich 8<font \".\\fonts\\AHLCGHarmony.otf\">Y</font>-Marker im Chaosbeutel befanden, als diese Szene vorgerückt ist:</b>\n<blockquote>Gestärkt durch deine Fürsorge stürzt sich der wiedergeborene Wächter auf die Kathedrale, um Moloch frontal anzugreifen. Es knistern magische Energieblitze über die Landschaft, während sie Schläge austauschen, und die Wucht ihres Duells schleudert dich in das Portal eines nahegelegenen Torii-Tors... </blockquote>\n(<resolution><b>A1</b>)\n\n"
             }
         },
         "7a22d1dc-5e06-4e84-92d8-8c5e914eae40": {
@@ -2060,7 +2060,7 @@
             "project_number": "301",
             "front": {
                 "flavor_text": "Geschwollene, durchweichte Finger kommen unter der Wasseroberfläche hervor...",
-                "text": "Wagnis.\n<rev> Lies das Szenario-Zwischenspiel: Das Mädchen im Brunnen im Kampagnenleitfaden.",
+                "text": "Wagnis.\n<rev> Lies das <b>Szenario-Zwischenspiel:<br> Das Mädchen im Brunnen</b> im Kampagnenleit-<br>faden.   ",
                 "traits": "Mysterium.",
                 "victory": "Sieg 1."
             },
@@ -2083,8 +2083,8 @@
             "project_number": 194,
             "front": {
                 "flavor_text": "Man sagt, dass der Buwaya auf seinem Rücken eine truhen- oder sargähnliche Last trägt, in der er die ahnungslosen Opfer, die er fängt, begräbt.",
-                "subtitle": "Der Laurer in der Tiefe",
-                "text": "Jäger 1.\n<b>Rache --</b> Nimm eine Verbündeter-Karte aus deinem Ablagestapel zurück auf deine Hand. ",
+                "subtitle": "Der Lauernde in der Tiefe",
+                "text": "Jäger 1.\n<b>Rache --</b> Nimm eine <t>Verbündeter</t>-Karte aus deinem Ablagestapel zurück auf deine Hand. ",
                 "traits": "Kreatur. Elite. Yokai.",
                 "victory": "Sieg 1."
             }
@@ -2119,7 +2119,7 @@
             "name": "<unique>Mayu Tachibana",
             "project_number": 180,
             "front": {
-                "flavor_text": "\"Wir kommen, Miyu! Halte durch!\"",
+                "flavor_text": "„Wir kommen, Miyu! Halte durch!“",
                 "subtitle": "Ermittler in Ausbildung",
                 "text": "<free> Erschöpfe Mayu Tachibana: Füge dem Chaosbeutel 1<blessing>- oder <curse>-Marker hinzu.\n<action><action>: Erschöpfe Mayu Tachibana: Wähle eine Karte im Opferbereich und mische sie zurück in das Opferdeck, ziehe dann die oberste Karte des Opferdecks und füge sie am Ende des Opferbereichs hinzu.",
                 "traits": "Verbündeter. Assistent."
@@ -2130,7 +2130,7 @@
             "name": "Aschene Manifestation",
             "project_number": 153,
             "front": {
-                "flavor_text": "Man kann nur vermuten, dass dieser verkohlte Golem die Überreste eines der Arbeiter der Gießerei sein muss...",
+                "flavor_text": "Man kann nur vermuten, dass es sich bei diesem verkohlten Golem um die Überreste eines der Gießereiarbeiter handeln muss...",
                 "text": "Hinterhalt.\n<b>Rache --</b> Platziere 1 Verderben auf die aktuelle Agenda."
             },
             "encounter_number": "24-26"
@@ -2141,7 +2141,7 @@
             "front": {
                 "flavor_text": "Eine Gedenkfeier bei Kerzenschein ehrt das Andenken an ehemalige Helden von Onigawa.",
                 "illustrator": "Illus. Unbekannt",
-                "text": "<b>Heimgesucht --</b> Enthülle einen Chaosmarker aus dem Chaosbeutel. Falls es ein Nicht-<elder_sign>- oder <blessing>-Symbol ist, nimm 1 Horror. ",
+                "text": "<b>Heimgesucht --</b> Enthülle einen Chaosmarker aus dem Chaosbeutel. Falls es ein Nicht-<elder_sign>- oder Nicht-<blessing>-Symbol ist, nimm 1 Horror. ",
                 "traits": "Erdgeschoss."
             },
             "back": {
@@ -2187,7 +2187,7 @@
             "name": "<unique>Hirte der schwarzen Ernte",
             "project_number": 176,
             "front": {
-                "flavor_text": "Die vermummte Gestalt flüstert eine uralte Hymne und führt ihre Gemeinde zum Altar...",
+                "flavor_text": "Die vermummte Gestalt flüstert eine uralte Hymne und lockt ihre Gemeinde zum Altar...",
                 "subtitle": "Der letzte Vogt",
                 "text": "Zurückhaltend. Geschützt.\n<b>Opfer</b> --  Füge dem Chaosbeutel 1<per_large> <curse>-Marker hinzu. \n<for> Sobald die Mythosphase endet: Platziere 1 Verderben auf allen anderen <t>Elite</t>-Gegnern im Spiel <i>(inklusive allen Gegnern im Opferbereich).</i>",
                 "traits": "Kultist. Elite. Verflucht."
@@ -2239,7 +2239,7 @@
             "project_number": 95,
             "front": {
                 "flavor_text": "In einem kleinen Behälter, der auf dem Altar steht, pocht ein noch schlagendes Herz...",
-                "text": "<for> Wenn dieser Ort enthüllt wird: Lege 1 Verderben auf den nächstgelegenen Elite-Gegner. Befinden sich keine Elite-Gegner im Spiel, drehe stattdessen 1 der Hinweise auf diesem Ort auf die Verderben-Seite.",
+                "text": "<for> Wenn dieser Ort enthüllt wird: Lege 1 Verderben auf den nächstgelegenen <t>Elite</t>-Gegner. Befinden sich keine <t>Elite</t>-Gegner im Spiel, drehe stattdessen 1 der Hinweise auf diesem Ort auf die Verderben-Seite.",
                 "traits": "Erdgeschoss. Heiligtum.",
                 "victory": "Sieg 1."
             },
@@ -2256,14 +2256,14 @@
             "front": {
                 "flavor_text": "Der gefürchtete Orochimaru, der ewige Erzfeind des Wächters Jiraiya, versank in stillen Schlaf, nachdem ihm seine Beute nach dem Untergang des Pantheons „entkommen“ war.",
                 "subtitle": "Ewiger Schlummer",
-                "text": "Gewaltig. Geschützt. Zurückhaltend.\nOrochimaru erhält +1<per_large> Ausdauer und gilt als an jedem Ort der Ermittler befindlich.",
+                "text": "<margin 10>Gewaltig. Geschützt. Zurückhaltend.\nOrochimaru erhält +1<per_large> Ausdauer und gilt als an jedem Ort der Ermittler befindlich.",
                 "traits": "Großer Alter. Elite. Schlange."
             },
             "back": {
                 "name": "<unique>Orochimaru",
-                "flavor_text": "Die Vögte von August glaubten, dass Orochimaru neun verschiedene Köpfe habe, obwohl keiner ihrer Förster jemals lange genug lebte, um sie tatsächlich alle zu zählen.",
+                "flavor_text": "Die Vögte des Augusts glaubten, dass Orochimaru neun verschiedene Köpfe habe, obwohl keiner ihrer Förster jemals lange genug lebte, um sie tatsächlich alle zu zählen.",
                 "subtitle": "Fluch des August",
-                "text": "Gewaltig. Alarmiert.\n<b>Rache --</b> Anstatt Orochimaru abzulegen, lege allen Schaden und Verderben von Orochimaru ab und drehe ihn um.\nOrochimaru erhält +1<per_large> Ausdauer und gilt als an jedem Ort der Ermittler befindlich.",
+                "text": "<margin 10>Gewaltig. Alarmiert.\n<b>Rache --</b> Anstatt Orochimaru abzulegen, lege allen Schaden und Verderben von Orochimaru ab und drehe ihn um.\nOrochimaru erhält +1<per_large> Ausdauer und gilt als an jedem Ort der Ermittler befindlich.",
                 "traits": "Großer Alter. Elite. Schlange."
             },
             "encounter_number": "9"
@@ -2272,7 +2272,7 @@
             "name": "Schneebedeckte Festung",
             "project_number": 128,
             "front": {
-                "flavor_text": "Diese uralte Festung wurde von den Vogten des August als Geburtsort der Wächter angesehen.",
+                "flavor_text": "Diese uralte Festung wurde von den Vögten des August als Geburtsort der Wächter angesehen.",
                 "text": "<action> Falls keine Hinweise auf <name> liegen, gib alle deine Hinweise aus: <b>Aufgeben.</b> <i>Du suchst Schutz in der Festung.</i>",
                 "traits": "Berg. Festung.",
                 "victory": "Sieg 1."
@@ -2290,7 +2290,7 @@
             "project_number": 9,
             "front": {
                 "flavor_text": "Du wirst hinuntergehen zu…",
-                "text": "Ermittler müssen eine zusätzliche Aktion aufwenden, um sich von der Bambusallee zu entfernen.\n<action>: Erschöpfe eine Nahkampf-Vorteilskarte, die du kontrollierst. Teste deine Waffe am Bambus. Heile 2 Horror. <i>(Max. ein Mal pro Spiel.)</i>",
+                "text": "Ermittler müssen eine zusätzliche Aktion aufwenden, um sich von <name> zu entfernen.\n<action>: Erschöpfe eine <t>Nahkampf</t>-Vorteilskarte, die du kontrollierst. Teste deine Waffe am Bambus. Heile 2 Horror. <i>(Max. ein Mal pro Spiel.)</i>",
                 "traits": "Wälder."
             },
             "back": {
@@ -2305,7 +2305,7 @@
             "name": "Hexe der Wildnis",
             "project_number": 264,
             "front": {
-                "flavor_text": "Die Förster des August wurden oft damit beauftragt, abtrünnige Schreinmaiden zu bergen, die sich in der Wildnis „verirrt“ hatten.",
+                "flavor_text": "Die Förster des Augusts wurden oft damit beauftragt, abtrünnige Schreinmaiden zu bergen, die sich in der Wildnis „verirrt“ hatten.",
                 "text": "<b>Opfer --</b> Jeder Ermittler muss den Chaosbeutel nach 1<blessing>-Marker durchsuchen und diesen in den Markervorrat zurücklegen. Falls dies nicht möglich ist, muss er stattdessen 1<curse>-Marker hinzufügen.",
                 "traits": "Hexe. Verflucht."
             },
@@ -2339,7 +2339,7 @@
             "project_number": 199,
             "front": {
                 "flavor_text": "Viele der im Wasser gefundenen, aufgeblähten Leichen waren einst Fischer, die sich über Bord gestürzt hatten, in der Hoffnung, die gedämpfte Serenade der Sirene deutlicher hören zu können.",
-                "text": "<spawn> Nächstgelegener <t>Fluss</t>-Ort.\nJäger 1.\n"
+                "text": "Jäger 1.\n<spawn> Nächstgelegener <t>Fluss</t>-Ort."
             }
         },
         "8f902c30-85de-4981-a159-1cf27802e8f3": {
@@ -2425,8 +2425,8 @@
             "name": "Kälteeinbruch",
             "project_number": 136,
             "front": {
-                "flavor_text": "\"Wo sind alle hin...?\"",
-                "text": "<rev> Führe eine <combat>- oder <agility>-Probe (3) durch. Falls die Probe misslingt, musst du entweder eine Verbündeter-Vorteilskarte von deiner Hand oder aus dem Spiel ablegen oder dem Chaosbeutel einen <frost>-Marker hinzufügen.",
+                "flavor_text": "„Wo sind alle hin...?“",
+                "text": "<rev> Führe eine <combat>- oder <agility>-Probe (3) durch. Falls die Probe misslingt, musst du entweder eine <t>Verbündeter</t>-Vorteilskarte von deiner Hand oder aus dem Spiel ablegen oder dem Chaosbeutel 1 <frost>-Marker hinzufügen.",
                 "traits": "Gefahr."
             },
             "encounter_number": "30-32"
@@ -2458,7 +2458,7 @@
             "name": "Dauerhafte Ausgangssperre",
             "project_number": 25,
             "front": {
-                "flavor_text": "Das Herrenhaus auf dem Hügel schien die Quelle der Schreie zu sein, die du gehört hast, aber du musst herausfinden, wie du dir einen Weg durch das eng bebaute Dorf bahnen ...kannst, um dorthin zu gelangen – hoffentlich, bevor es zu spät ist.",
+                "flavor_text": "Das Herrenhaus auf dem Hügel schien die Quelle der Schreie zu sein, die du gehört hast, aber du musst herausfinden, wie du dir einen Weg durch das eng bebaute Dorf bahnen kannst, um dorthin zu gelangen – hoffentlich, bevor es zu spät ist.",
                 "text": "<obj> Finde den Weg zum Herrenhaus.\nDie Ermittler können als Gruppe die erforderliche Anzahl an Hinweisen<br> ausgeben, um vorzurücken."
             },
             "back": {
@@ -2485,7 +2485,7 @@
             "project_number": 123,
             "front": {
                 "flavor_text": "Die Kälte wird noch beißender, während du beobachtest, wie hypnotische Mondstrahlen über die zerklüfteten, kristallartigen Formationen streuen, die die schmale Brücke flankieren.",
-                "text": "<for> Sobald <name> enthüllt wurde: Füge dem Chaosbeutel einen <frost>-Marker hinzu. Falls dies nicht möglich ist, füge dem Chaosbeutel stattdessen 2<curse>-Marker hinzu.",
+                "text": "<for> Sobald <name> enthüllt wurde: Füge dem Chaosbeutel 1 <frost>-Marker hinzu. Falls dies nicht möglich ist, füge dem Chaosbeutel stattdessen 2<curse>-Marker hinzu.",
                 "traits": "Berg. Durchgang."
             },
             "back": {
@@ -2541,7 +2541,7 @@
             "project_number": 122,
             "front": {
                 "flavor_text": "Die Bedeutung der geheimnisvollen Rune, die in die Schneewehe geritzt wurde, ist sofort klar: Kehr um. Sofort.",
-                "text": "<for> Nachdem <name> enthüllt wurde: Rücke vor. <i><i>(Max. ein Mal pro Spiel.)</i></i>\n<for> Sobald die Ermittlerphase endet: Falls weniger als 1<per_large> Hinweise auf <name> liegen, platziere 1 Hinweis aus dem Markervorrat darauf.",
+                "text": "<for> Nachdem <name> enthüllt wurde: Rücke vor. <i>(Max. ein Mal pro Spiel.)</i>\n<for> Sobald die Ermittlerphase endet: Falls weniger als 1<per_large> Hinweise auf <name> liegen, platziere 1 Hinweis aus dem Markervorrat darauf.",
                 "traits": "Berg. Ritualstätte."
             },
             "back": {
@@ -2558,7 +2558,7 @@
             "front": {
                 "flavor_text": "Seitdem der edle Beschützer des Berges Kokoro dem Gift des Orochimaru erlag, berichten die Förster des Augusts von Sichtungen einer bärenartigen Gestalt, die durch die Wälder wandert...\n<margin 5><br>",
                 "subtitle": "Der letzte Wächter",
-                "text": "<margin 25><spawn> Nächstgelegener nicht enthüllter Ort.\nZurückhaltend. Zurückschlagen.\n<for> Sobald die Gegnerphase beginnt: Platziere 1 Verderben auf Onikuma.",
+                "text": "<margin 25>Zurückhaltend. Zurückschlagen.\n<spawn> Nächstgelegener nicht enthüllter Ort.\n<for> Sobald die Gegnerphase beginnt: Platziere 1 Verderben auf Onikuma.",
                 "traits": "Großer Alter. Elite. Verflucht.",
                 "victory": "Sieg 0."
             }
@@ -2573,7 +2573,7 @@
             "back": {
                 "name": "Schlangen auf dem Berg",
                 "flavor_text": "Je näher du dem Gipfel des Berges kommst, desto unerbittlicher werden die Angriffe der Schlange. Dort muss es etwas geben, das sie vor dir verbergen will, aber du bist dir nicht sicher, wie lange du ihr noch ausweichen kannst, und die Temperatur sinkt immer weiter, je höher du steigst...",
-                "text": "Falls Orochimaru <i>(Ewiger Schlummer)</i> im Spiel ist, drehe ihn um.\nOrochimaru <i>(Fluch des August)</i> führt gegen jeden Ermittler einen Gelegenheitsangriff durch.\nDrehe diese Agenda wieder um und lege für jeden <frost>-Marker im Chaosbeutel 1 Verderbensmarker darauf. <i>(Sie kann mehrmals vorrücken.)</i>\n\n\n"
+                "text": "Falls Orochimaru <i>(Ewiger Schlummer)</i> im Spiel ist, drehe ihn um.\nOrochimaru <i>(Fluch des August)</i> führt gegen jeden Ermittler einen Gelegenheitsangriff durch.\nDrehe diese Agenda wieder um und lege für jeden <frost>-Marker im Chaosbeutel 1 Verderben darauf. <i>(Sie kann mehrmals vorrücken.)</i>\n\n\n"
             }
         },
         "a4c15b8d-8e53-48b9-8bbb-7dbf81f3fddd": {
@@ -2598,7 +2598,7 @@
             "front": {
                 "flavor_text": "Du zitterst, als die Luft um dich herum spürbar kälter wird...",
                 "illustrator": "Illus. Unbekannt",
-                "text": "<rev>  Enthülle einen zufälligen Marker aus dem Chaosbeutel. Falls es ein <auto_fail>- oder <frost>-<br>Marker ist, nimm 1 Horror. Ansonsten füge dem Chaosbeutel einen <frost>-Marker hinzu. Falls dies nicht möglich ist, füge der Agenda 1 Verderben hinzu.",
+                "text": "<rev> Enthülle einen zufälligen Marker aus dem Chaosbeutel. Falls es ein <auto_fail>- oder <frost>- Marker ist, nimm 1 Horror. Ansonsten füge dem Chaosbeutel 1 <frost>-Marker hinzu. Falls dies nicht möglich ist, füge der Agenda 1 Verderben hinzu.",
                 "traits": "Gefahr."
             },
             "encounter_number": "27-29"
@@ -2608,7 +2608,7 @@
             "project_number": 188,
             "front": {
                 "flavor_text": "Da klingt etwas nicht ganz richtig...",
-                "text": "<rev> Lege <name> in deine Bedrohungszone.\nBehandle Vorteile in deinem Spielbereich, die einen Verbündetenslot belegen, so, als wären ihre Textfelder leer (mit Ausnahme der Merkmale).\n<reaction> Am Ende der Runde: Lege Schalldämpfung ab.",
+                "text": "<rev> Lege <name> in deine Bedrohungszone.\nBehandle Vorteile in deinem Spielbereich, die einen Verbündetenslot belegen, so, als wären ihre Textfelder leer (mit Ausnahme der Merkmale).\n<reaction> Am Ende der Runde: Lege <name> ab.",
                 "traits": "Verwünschung."
             },
             "encounter_number": "4-6"
@@ -2644,7 +2644,7 @@
             "project_number": 197,
             "front": {
                 "flavor_text": "Die porzellanartige Haut der geisterhaften Kinder, die um dich herum durch das trübe Wasser gleiten, schimmert im fahlen Mondlicht...",
-                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Nachdem dir eine Fertigkeitsprobe misslingt: Drehe einen Hinweis an deinem Ort auf seine Verderbensseite. Falls keine Hinweise an diesem Ort sind, platziere stattdessen einen Hinweis aus dem Markervorrat auf dem Ort.\n<reaction> Am Ende deines Zuges: Lege Ewiges Blau ab.",
+                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Nachdem dir eine Fertigkeitsprobe misslingt: Drehe einen Hinweis an deinem Ort auf seine Verderbensseite. Falls keine Hinweise an diesem Ort sind, platziere stattdessen einen Hinweis aus dem Markervorrat auf dem Ort.\n<reaction> Am Ende deines Zuges: Lege <name> ab.",
                 "traits": "Schrecken."
             }
         },
@@ -2663,7 +2663,7 @@
             "encounter_number": "9"
         },
         "afabc73c-6365-4469-8b94-1c835c0f2353": {
-            "name": "<unique>Hitokiri Daimyo",
+            "name": "<unique>Hitokiri Daimyō",
             "project_number": 41,
             "front": {
                 "flavor_text": "Aus irgendeinem Grund wandern deine Gedanken zu der schlurfenden Leiche des gefallenen Kriegers, der dich durch den Wald gejagt hat...",
@@ -2708,7 +2708,7 @@
             "name": "Das Versagen des Schicksals",
             "project_number": 37,
             "front": {
-                "text": "<rev> Enthülle einen zufälligen Chaosmarker. Falls es\n<bullet> ein <skull>-Marker ist, nimm 1 Schaden.\n<bullet> ein <cultist>-Marker ist, nimm 1 Horror.\n<bullet> ein <tablet>-Marker ist, lege eine Karte von deiner Hand ab.\n<bullet> ein <elder_thing>-Marker ist, verliere eine Aktion in deinem nächsten Zug.\n<bullet> irgendein anderer Nicht-<elder_sign>-Marker ist, verliere 1 Ressource."
+                "text": "<rev> Enthülle einen zufälligen Chaosmarker. Falls es...\n<bullet> ...ein <skull>-Marker ist, nimm 1 Schaden.\n<bullet> ...ein <cultist>-Marker ist, nimm 1 Horror.\n<bullet> ...ein <tablet>-Marker ist, lege eine Karte von deiner Hand ab.\n<bullet> ...ein <elder_thing>-Marker ist, verliere eine Aktion in deinem nächsten Zug.\n<bullet> ...irgendein anderer Nicht-<elder_sign>-Marker ist, verliere 1 Ressource."
             },
             "encounter_number": "15-18"
         },
@@ -2754,7 +2754,7 @@
             "name": "Aschenes Fegefeuer",
             "project_number": 216,
             "front": {
-                "flavor_text": " Die Feuer des Krieges machten der überfüllten Stadt schnell ein Ende.",
+                "flavor_text": "Die Feuer des Krieges machten der überfüllten Stadt schnell ein Ende.",
                 "text": "<rev> Hänge <name> an den nächstgelegenen Ort ohne Kopie von <name> an. Max. 1 pro Ort. Gegner an diesem Ort erhalten Zurückschlagen.\n<reaction> Nachdem ein Gegner an diesem Ort besiegt wird: Lege <name> ab.",
                 "traits": "Macht."
             }
@@ -2804,7 +2804,7 @@
             "front": {
                 "flavor_text": "In den Wirren des Krieges schloss Onigawas feigster General einen Pakt mit einer dunklen Macht, um die Kraft zu erlangen, die nötig war, eine ganze Armee zu besiegen.",
                 "subtitle": "Rächer von Onigawa",
-                "text": "<spawn> Stehender Stein.\n<for> Sobald die Gegnerphase beginnt: Füge dem Chaosbeutel 1<curse>-Marker hinzu.",
+                "text": "<margin 20><spawn> Stehender Stein.\n<for> Sobald die Gegnerphase beginnt: Füge dem Chaosbeutel 1<curse>-Marker hinzu.",
                 "traits": "Humanoid. Elite. Geist. Verflucht.",
                 "victory": "Sieg 1."
             },
@@ -2884,7 +2884,7 @@
             "front": {
                 "flavor_text": "Sie wird dich bis in den Tod lieben.",
                 "subtitle": "Sehr geliebt",
-                "text": "Gewaltig. Patrouille (Entweihtes Dojo).\n<for> Zu Beginn der Gegnerphase: Falls <name> nicht erschöpft ist, füge jeder Verbündeter-Vorteilskarte am Ort der Blassen Braut 1 direkten Schaden zu.\n<action>: <b>Kampf.</b> Gib 1<per_large> Hinweise aus, um für diesen Angriff den <intellect>-Wert anstelle des <combat>-Wertes zu verwenden.",
+                "text": "Gewaltig. Patrouille (Entweihtes Dojo).\n<for> Zu Beginn der Gegnerphase: Falls <name> nicht erschöpft ist, füge jeder <t>Verbündeter</t>-Vorteilskarte am Ort der Blassen Braut 1 direkten Schaden zu.\n<action>: <b>Kampf.</b> Gib 1<per_large> Hinweise aus, um für diesen Angriff den <intellect>-Wert anstelle des <combat>-Wertes zu verwenden.",
                 "traits": "Humanoid. Elite. Geist.",
                 "victory": "Sieg 1."
             },
@@ -2975,7 +2975,7 @@
                 "flavor_text": "Schluss mit dem Affentanz.",
                 "illustrator": "Illus. Unbekannt",
                 "subtitle": "<size 45>Vorbote der neuen Morgendämmerung",
-                "text": "Sobald ein Ermittler einen <blessing>- oder <curse>-Marker während einer Fertigkeitsprobe abhandelt, darf der Marker am Ende der Probe wieder dem Chaosbeutel hinzugefügt werden.\n<action>: Durchsuche den Chaosbeutel nach 1<blessing>- und 1<curse>-Marker und lege diese in den Markervorrat zurück: Füge dem Chaosbeutel 1 Harmonie-Marker hinzu. Ermittler können diese Fähigkeit von allen Orten auslösen.",
+                "text": "Sobald ein Ermittler einen <blessing>- oder <curse>-Marker während einer Fertigkeitsprobe abhandelt, darf der Marker am Ende der Probe wieder dem Chaosbeutel hinzugefügt werden.\n<action>: Durchsuche den Chaosbeutel nach 1<blessing>- und 1<curse>-Marker und lege diese in den Markervorrat zurück: Füge dem Chaosbeutel 1<font \".\\fonts\\AHLCGHarmony.otf\">Y</font>-Marker hinzu. Ermittler können diese Fähigkeit von allen Orten aus auslösen.",
                 "traits": "Verbündeter. Avatar."
             },
             "encounter_number": "4"
@@ -2984,19 +2984,19 @@
             "name": "Taktiken der Tengu",
             "project_number": 218,
             "front": {
-                "flavor_text": "Bevor das Pantheon fiel, waren die Tengu die geschworenen Beschützer der Verwalter des August. Während der Belagerung wurden sie zurückgerufen, um die Stadt zu verteidigen, wodurch der Berg Kokoro schutzlos blieb.",
+                "flavor_text": "Bevor das Pantheon fiel, waren die Tengu die geschworenen Beschützer der Vögte des August. Während der Belagerung wurden sie zurückgerufen, um die Stadt zu verteidigen, wodurch der Berg Kokoro schutzlos blieb.",
                 "text": "<rev> Führe eine <willpower>-Probe (X) durch, wobei X der Schleierwert deines Ortes ist. Falls die Probe misslingt, bringe 1 zusätzliche Karte oben vom Rally-Deck zu Beginn der nächsten Ermittlerphase ins Spiel <i>(und handle ihren Enthüllungseffekt ab).</i>",
                 "traits": "Falle."
             },
             "encounter_number": "5-6"
         },
         "bf57416d-05e1-4002-97f8-4efd49d3bf01": {
-            "name": "<unique>Sensei Kanuti",
+            "name": "<unique>„Sensei“ Kanuti",
             "project_number": 250,
             "front": {
                 "flavor_text": "Kanuti war ein freundlicher Riese, der diese Länder bewohnte, als die Wächter noch jung waren. Nachdem diese an die Macht gekommen waren, würdigte Tsurugi Kanutis Stärke, indem er ihn mit einer lebenslangen Ernennung zu seinem persönlichen Schmiedemeister „ehrte“.<br>",
                 "subtitle": "Meister der Schmiede",
-                "text": "<spawn> Amboss der Entstehung.\nGewaltig. Alarmiert. Patrouille (Amboss der Entstehung).",
+                "text": "Gewaltig. Alarmiert. Patrouille (Amboss der Entstehung).\n<spawn> Amboss der Entstehung.",
                 "victory": "Sieg 1."
             },
             "encounter_number": "14"
@@ -3016,7 +3016,7 @@
             "front": {
                 "flavor_text": "Frische Opfergaben lassen vermuten, dass jemand oder etwas den Schrein pflegt, selbst nach seinem Einsturz...",
                 "subtitle": "Sitz des Koi-Kaisers",
-                "text": "<for> Am Ende der Ermittlerphase: Jeder Ermittler an diesem Ort nimmt 1 Schaden. \n<free>: <i>Was tot ist, kann niemals sterben.</i> Mache eine <t>Aspekt</t>-Vorteilskarte, die du kontrollierst, spielbereit. <i><i>(Max. ein Mal pro Spiel.)</i></i>",
+                "text": "<for> Am Ende der Ermittlerphase: Jeder Ermittler an diesem Ort nimmt 1 Schaden. \n<free>: <i>Was tot ist, kann niemals sterben.</i> Mache eine <t>Aspekt</t>-Vorteilskarte, die du kontrollierst, spielbereit. <i>(Max. ein Mal pro Spiel.)</i>",
                 "traits": "Heiligtum.",
                 "victory": "Sieg 1."
             },
@@ -3086,7 +3086,7 @@
             },
             "back": {
                 "name": "Ruhe in Frieden",
-                "flavor_text": "Du verweilst einen Moment in stillem Gedenken, während du das Armengrab betrachtest, in dem sie deinen Freund begraben ließen. Eigentlich solltest du wohl dankbar sein, dass sie sich überhaupt die Mühe gemacht haben, ihn hierher zu schleppen, aber der Abstand zwischen seinem Grabstein und den anderen passt dir einfach nicht; es fühlt sich wie eine absichtliche Kränkung an. Vielleicht steckt hinter Takeshis Tod mehr, als man dir glauben machen wollte. Gerade als du beschließt, ins Dorf zurückzukehren und Antworten einzufordern, taucht hinter dem Steinhaufen ein geheimnisvolles Licht auf ...",
+                "flavor_text": "Du verweilst einen Moment in stillem Gedenken, während du das Armengrab betrachtest, in dem sie deinen Freund begraben ließen. Eigentlich solltest du wohl dankbar sein, dass sie sich überhaupt die Mühe gemacht haben, ihn hierher zu schleppen, aber der Abstand zwischen seinem Grabstein und den anderen passt dir einfach nicht; es fühlt sich wie eine absichtliche Kränkung an. Vielleicht steckt hinter Takeshis Tod mehr, als man dir glauben machen wollte. Gerade als du beschließt, ins Dorf zurückzukehren und Antworten einzufordern, taucht hinter dem Steinhaufen ein geheimnisvolles Licht auf...",
                 "text": "Bringe den beiseitegelegten Gegner Der Purpurrote Schmetterling (Der Wegweiser) am Ort Der einsame Grabstein ins Spiel.\nEntferne den Ort Waldschwelle aus dem Spiel und wirf alle daran anliegenden Karten ab. Verschiebe alle Gegner oder Ermittler an diesem Ort in die Grotte der Wächter.\nBringe die beiden beiseitegelegten Orte Geheimer Schrein mit der verhüllten Seite ins Spiel.\n\n"
             }
         },
@@ -3112,7 +3112,7 @@
             "project_number": 8,
             "front": {
                 "flavor_text": "Diese Gruppe von Grabsteinen scheint für eine Familie angelegt worden zu sein; soweit du weißt, war Takeshi nie verheiratet.",
-                "text": "Atempause der Witwe ist mit dem Ort verbunden, der ihn ins Spiel gebracht hat und umgekehrt.\n<for> Wenn dieser Ort enthüllt wird: Jeder Ermittler an diesem Ort muss eine Karte aus seiner Hand ablegen, die keine Schwächekarte ist.",
+                "text": "<name> ist mit dem Ort verbunden, der ihn ins Spiel gebracht hat und umgekehrt.\n<for> Wenn dieser Ort enthüllt wird: Jeder Ermittler an diesem Ort muss eine Karte aus seiner Hand ablegen, die keine Schwächekarte ist.",
                 "traits": "Friedhof.",
                 "victory": "Sieg 1."
             },
@@ -3181,7 +3181,7 @@
             "front": {
                 "flavor_text": "Eines der Gesichter in der sich windenden Masse aus geschmolzenem Wachs hat etwas beunruhigend Vertrautes an sich...",
                 "subtitle": "Zuwachs und Schwund",
-                "text": "<spawn> Abfallschleuse.\nGewaltig. Jäger 1.\nWachschor kann keine Gelegenheitsangriffe ausführen.",
+                "text": "Gewaltig. Jäger 1.\n<spawn> Abfallschleuse.\nWachschor kann keine Gelegenheitsangriffe ausführen.",
                 "victory": "Sieg 1."
             },
             "encounter_number": "15"
@@ -3287,7 +3287,7 @@
             "front": {
                 "flavor_text": "Nachdem sich Gerüchte verbreitet hatten, dass die vom königlichen Puppenmacher gefertigten Puppen ihren Besitzern Glück brächten, wurden seine Dienste immer gefragter...<br><br>",
                 "subtitle": "Meisterin der Puppen",
-                "text": "<spawn> Blutroter Altar.\nZurückhaltend.\n<for> Sobald die Gegnerphase beginnt: Platziere 1 Verderben auf jeden <t>Elite</t>-Gegner.",
+                "text": "Zurückhaltend.\n<spawn> Blutroter Altar.\n<for> Sobald die Gegnerphase beginnt: Platziere 1 Verderben auf jeden <t>Elite</t>-Gegner.",
                 "traits": "Humanoid. Elite. Geist. Verflucht.",
                 "victory": "Sieg 1."
             },
@@ -3298,7 +3298,7 @@
             "project_number": 181,
             "front": {
                 "flavor_text": "Man sagt, dass Krähen die Seelen der Verstorbenen ins Reich der Toten tragen. Manche glauben auch, dass eine Krähe, wenn diese Seele von schrecklichem Kummer erfüllt ist, sie zurückbringen kann, um Unrecht wiedergutzumachen.",
-                "text": "<spawn> Beliebiger leerer Ort.\nJäger 2.\n<for> Nachdem <name> dich angegriffen hat: Lege eine Nicht-Schwäche-Karte von deiner Hand ab.",
+                "text": "Jäger 2.\n<spawn> Beliebiger leerer Ort.\n<for> Nachdem <name> dich angegriffen hat: Lege eine Nicht-Schwäche-Karte von deiner Hand ab.",
                 "traits": "Kreatur. Rudel. Verflucht."
             }
         },
@@ -3453,7 +3453,7 @@
             "front": {
                 "flavor_text": "Je verdorbener die Gelüste am Hof wurden, desto verdorbener wurden auch die Kreationen, mit deren Anfertigung der königliche Puppenmacher beauftragt war...<br>",
                 "subtitle": "Das Vergnügen liegt ganz bei ihr",
-                "text": "<spawn> Beliebiger leerer Ort.\nJäger 1.\n<for> Nachdem sich Bondage-Mannequin  bewegt hat: Platziere 1 Schaden auf Bondage-Mannequin.",
+                "text": "Jäger 1.\n<spawn> Beliebiger leerer Ort.\n<for> Nachdem sich Bondage-Mannequin  bewegt hat: Platziere 1 Schaden auf Bondage-Mannequin.",
                 "traits": "Automata. Elite. Verflucht.",
                 "victory": "Sieg 1."
             },
@@ -3465,7 +3465,7 @@
             "front": {
                 "flavor_text": "Egal, wohin du rennst, sie fangen dich immer ein...",
                 "illustrator": "Illus. Unbekannt",
-                "text": "Wagnis.\n<rev> Wähle einen <t>Elite</t>-Gegner im Spiel aus. Verschiebe den ausgewählten Gegner um eine Position in Richtung deiner aktuellen Position und führe anschließend eine <Willpower>-Probe (X) durch, wobei X dem Entkommenswert des ausgewählten Gegners entspricht. Wenn die Probe nicht gelingt, lege 1 Verderbensmarker auf den ausgewählten Gegner.",
+                "text": "Wagnis.\n<rev> Wähle einen <t>Elite</t>-Gegner im Spiel aus. Verschiebe den ausgewählten Gegner um eine Position in Richtung deiner aktuellen Position und führe anschließend eine <Willpower>-Probe (X) durch, wobei X dem Entkommenswert des ausgewählten Gegners entspricht. Wenn die Probe nicht gelingt, lege 1 Verderben auf den ausgewählten Gegner.",
                 "traits": "Falle."
             },
             "encounter_number": "2-4"
@@ -3479,7 +3479,7 @@
             },
             "back": {
                 "name": "Am Ende",
-                "flavor_text": "Es hat keinen Sinn. Wie die Vogte des August vor dir, die Mondkönigin und sogar die Wächter selbst hast auch du es lediglich geschafft, Molochs unvermeidliches Kommen hinauszuzögern. Er ist die Verkörperung der Angst, und nichts kann ihn nun noch aufhalten …\nWehe den Besiegten.",
+                "flavor_text": "Es hat keinen Sinn. Wie die Vögte des Augusts vor dir, die Mondkönigin und sogar die Wächter selbst hast auch du es lediglich geschafft, Molochs unvermeidliches Kommen hinauszuzögern. Er ist die Verkörperung der Angst, und nichts kann ihn nun noch aufhalten …\nWehe den Besiegten.",
                 "text": "(<resolution><b>A4</b>)\n\n\n"
             },
             "encounter_number": "6"
@@ -3490,7 +3490,7 @@
             "front": {
                 "flavor_text": "Konohana Sakuya gilt als freundlicher Baumgeist, dessen beruhigende Präsenz die Feuer im Inneren des Berges Kokoro zähmt.<br><margin 15>",
                 "subtitle": "Die Trauerweide",
-                "text": "<spawn> Nächstgelegener nicht enthüllter Ort.\nZurückhaltend.\n<for> Sobald die Ermittlerphase beginnt: Füge dem Chaosbeutel 1<frost>-Marker hinzu.",
+                "text": "<margin 25>Zurückhaltend.\n<spawn> Nächstgelegener nicht enthüllter Ort.\n<for> Sobald die Ermittlerphase beginnt: Füge dem Chaosbeutel 1<frost>-Marker hinzu.",
                 "victory": "Sieg 1."
             }
         },
@@ -3518,8 +3518,8 @@
             "name": "Höheres Terrain",
             "project_number": 159,
             "front": {
-                "flavor_text": "Die Katastrophe hat dich sowohl von deinen Begleitern als auch von Miyu getrennt. Du musst einen Weg zu ihr finden ...",
-                "text": "<action>: Falls sich keine Hinweise an deinem Ort befinden: Drehe den Ort Torii-Nexus auf seine enthüllte Seite. <i><i>(Max. ein Mal pro Spiel.)</i></i>\n<obj> Ermittler am Torii-Nexus können als Gruppe die erforderliche Anzahl an Hinweisen ausgeben, um vorzurücken."
+                "flavor_text": "Die Katastrophe hat dich sowohl von deinen Begleitern als auch von Miyu getrennt. Du musst einen Weg zu ihr finden...",
+                "text": "<action>: Falls sich keine Hinweise an deinem Ort befinden: Drehe den Ort Torii-Nexus auf seine enthüllte Seite. <i>(Max. ein Mal pro Spiel.)</i>\n<obj> Ermittler am Torii-Nexus können als Gruppe die erforderliche Anzahl an Hinweisen ausgeben, um vorzurücken."
             },
             "back": {
                 "name": "Die Sterne über uns",
@@ -3626,11 +3626,11 @@
             }
         },
         "e79997e7-ce58-45ac-b3ac-4f240ced249a": {
-            "name": "<unique> Der Purpurrote Schmetterling",
+            "name": "<unique>Der Purpurrote Schmetterling",
             "project_number": 21,
             "front": {
                 "subtitle": "Den Weg erhellend",
-                "text": "Zurückhaltend. Geschützt.\nSenke den Schleierwert am Ort von Der Purpurrote Schmetterling um 1.\n<action>: <b>Verhandlung.</b>  Jage dem Schmetterling nach. Führe eine <combat>- oder <agility>-Probe (X) durch. Falls die Probe gelingt, bewege Der Purpurrote Schmetterling an einen benachbarten Wälder-Ort und enthülle ihn, falls er noch verdeckt ist. X ist der Schleierwert deines aktuellen Ortes. Als zusätzliche Kosten für die Aktivierung dieser Fähigkeit kannst du einen Hinweis ausgeben, um den Schwierigkeitsgrad dieser Probe für jeden Ermittler am Ort von Der Purpurrote Schmetterling um 1 zu verringern.",
+                "text": "Zurückhaltend. Geschützt.\nSenke den Schleierwert am Ort von Der Purpurrote Schmetterling um 1.\n<action>: <b>Verhandlung.</b> Jage dem Schmetterling nach. Führe eine <combat>- oder <agility>-Probe (X) durch. Falls die Probe gelingt, bewege Der Purpurrote Schmetterling an einen benachbarten <t>Wälder</t>-Ort und enthülle ihn, falls er noch verdeckt ist. X ist der Schleierwert deines aktuellen Ortes. Als zusätzliche Kosten für die Aktivierung dieser Fähigkeit kannst du einen Hinweis ausgeben, um den Schwierigkeitsgrad dieser Probe für jeden Ermittler am Ort von Der Purpurrote Schmetterling um 1 zu verringern.",
                 "traits": "Kreatur. Elite. Geist."
             }
         },
@@ -3653,7 +3653,7 @@
             "front": {
                 "flavor_text": "Es war einmal, da hat es dich an diesen Ort gebracht … Vielleicht kann es dich, wenn alles vorbei ist, wieder nach Hause bringen.",
                 "subtitle": "Überall, auf einmal",
-                "text": "Torii-Nexus ist mit allen enthüllten Orten verbunden (und umgekehrt).\n<action><action>: <i>Sprung ins Ungewisse.</i> Bewege dich zu einem verhüllten <t>Zerstört</t>-Ort. <i>(Max. ein Mal pro Runde.)</i>",
+                "text": "<name> ist mit allen enthüllten Orten verbunden (und umgekehrt).\n<action><action>: <i>Sprung ins Ungewisse.</i> Bewege dich zu einem verhüllten <t>Zerstört</t>-Ort. <i>(Max. ein Mal pro Runde.)</i>",
                 "traits": "Tor."
             },
             "back": {
@@ -3703,7 +3703,7 @@
             "front": {
                 "flavor_text": "Der Kriegsgott des Pantheons folgt stets dem Ruf der Schlacht.",
                 "subtitle": "Die Seele brennt noch immer",
-                "text": "<for> Sobald die Gegnerphase beginnt: Füge jedem Gegner im Spiel, der nicht im Opferbereich liegt, 1 Schaden zu.\n<action>: Durchsuche den Chaosbeutel nach 1<blessing>- und 1<curse>-Marker und lege diese in den Markervorrat zurück: Füge dem Chaosbeutel 1 Harmonie-Marker hinzu. Ermittler können diese Fähigkeit von allen Orten auslösen.",
+                "text": "<for> Sobald die Gegnerphase beginnt: Füge jedem Gegner im Spiel, der nicht im Opferbereich liegt, 1 Schaden zu.\n<action> Durchsuche den Chaosbeutel nach 1<blessing>- und 1<curse>-Marker und lege diese in den Markervorrat zurück: Füge dem Chaosbeutel 1<font \".\\fonts\\AHLCGHarmony.otf\">Y</font>-Marker hinzu. Ermittler können diese Fähigkeit von allen Orten aus auslösen.",
                 "traits": "Verbündeter. Avatar."
             },
             "encounter_number": "3"
@@ -3723,7 +3723,7 @@
             "project_number": 200,
             "front": {
                 "flavor_text": "Ein junges Mädchen treibt an der Wasseroberfläche, umgeben von einer Schar wunderschön bunter Fische...",
-                "text": "Wagnis.\n<rev> Lies das Szenario-Zwischenspiel: Die Maid aus der Tiefe im Kampagnenleitfaden.",
+                "text": "Wagnis.\n<rev> Lies das <b>Szenario-Zwischenspiel:<br> Die Maid aus der Tiefe</b> im Kampagnenleit-<br>faden.",
                 "traits": "Mysterium.",
                 "victory": "Sieg 1."
             },
@@ -3810,7 +3810,7 @@
             "name": "Augusts Ende",
             "project_number": 121,
             "front": {
-                "flavor_text": "Bevor der Bund gebrochen wurde, wurden Onigawas Schreinmaiden im Tempel von August aufgezogen und ausgebildet, um sie auf ein Leben im Dienst vorzubereiten.",
+                "flavor_text": "Bevor der Bund gebrochen wurde, wurden Onigawas Schreinmaiden im Tempel des Augusts aufgezogen und ausgebildet, um sie auf ein Leben im Dienst vorzubereiten.",
                 "text": "<b>Heimgesucht --</b> Platziere 1 Hinweis auf <name> <i>(aus dem Markervorrat)</i>.",
                 "traits": "Berg. Heiligtum. Ruinen.",
                 "victory": "Sieg 1."
@@ -3879,7 +3879,7 @@
             "name": "Mondriss",
             "project_number": 252,
             "front": {
-                "flavor_text": "Das seltsame Licht, das vom blutbefleckten Mond reflektiert wird, desorientiert dich...",
+                "flavor_text": "Das seltsame Licht, das vom blutbefleckten Mond reflektiert wird, raubt dir die Orientierung...",
                 "text": "<rev> Lege die obersten 5 Karten deines Decks ab. Falls dadurch Schwächen abgelegt werden, ziehe diese. Dann, falls durch diesen Effekt keine Schwäche gezogen wurde, führe eine <willpower>-Probe (3) durch. Falls die Probe misslingt, musst du entweder 1 direkten Horror nehmen oder eine <t>Aspekt</t>-Vorteilskarte, die du kontrollierst, erschöpfen."
             }
         },
@@ -3889,7 +3889,7 @@
             "front": {
                 "flavor_text": "Einst von den Förstern des Augusts sorgfältig gepflegt, ruht der Schrein dieses Wächters nun in einem eisigen Grab.",
                 "subtitle": "Schrein von Yukihyo",
-                "text": "<free>: <i>Sprich ein Gebet.</i> Mache eine <t>Aspekt</t>-<br>Vorteilskarte bereit, die du kontrollierst. <i><i>(Max. ein Mal pro Spiel.)</i></i>",
+                "text": "<free>: <i>Sprich ein Gebet.</i> Mache eine <t>Aspekt</t>-<br>Vorteilskarte bereit, die du kontrollierst. <i>(Max. ein Mal pro Spiel.)</i>",
                 "traits": "Berg. Höhle. Heiligtum.",
                 "victory": "Sieg 1."
             },
@@ -3922,7 +3922,7 @@
                 "victory": "Sieg 1."
             },
             "back": {
-                "flavor_text": "Man nimmt an, dass das Feuer erstmals in dieses Land gelangte, als der Wächter Tsurugi, der eine Flamme zum Härten seiner Klinge benötigte, sein Großschwert in den unberührten Boden stieß und den Berg Kokoro aus der Landschaft durchschnitt...",
+                "flavor_text": "Man nimmt an, dass das Feuer erstmals in dieses Land gelangte, als der Wächter Tsurugi, der eine Flamme zum Härten seiner Klinge benötigte, sein Großschwert in den unberührten Boden stieß und damit den Berg Kokoro aus der Landschaft schnitt...",
                 "traits": "Vulkan. Vergessen."
             }
         },
@@ -3956,7 +3956,7 @@
             "project_number": 172,
             "front": {
                 "flavor_text": "Viele der unschuldigen Seelen, die als Tribut für Moloch ausgewählt wurden, wurden zufällig und ohne Mitgefühl ausgewählt...",
-                "text": "<rev> Enthülle nacheinander zufällig Marker aus dem Chaosbeutel, bis ein Nicht-<elder_sign>- oder <auto_fail>-Marker enthüllt wird. Füge dem Chaosbeutel dann X<curse>-Marker hinzu, wobei X der Modifikator des enthüllten Markers ist <i>(+/– wird hierbei ignoriert)</i>.",
+                "text": "<rev> Enthülle nacheinander zufällig Marker aus dem Chaosbeutel, bis ein Nicht-<elder_sign>- oder Nicht-<auto_fail>-Marker enthüllt wird. Füge dem Chaosbeutel dann X<curse>-Marker hinzu, wobei X der Modifikator des enthüllten Markers ist <i>(+/– wird hierbei ignoriert)</i>.",
                 "traits": "Bündnis."
             },
             "encounter_number": "20-22"
@@ -3982,19 +3982,18 @@
             "front": {
                 "flavor_text": "Die schnelle Hinrichtung des Jadegrünen Kavaliers während der Belagerung veranlasste viele Soldaten, die Vorgehensweise ihrer Befehlshaber in Frage zu stellen.<br>",
                 "subtitle": "Märtyrer von Onigawa",
-                "text": "<spawn> Überwuchertes Grab.<margin 25>\nAlarmiert.\n<for> Sobald die Gegnerphase beginnt: Füge dem Chaosbeutel 1<curse>-Marker hinzu.",
+                "text": "Alarmiert.\n<spawn> Überwuchertes Grab.<margin 25>\n<for> Sobald die Gegnerphase beginnt: Füge dem Chaosbeutel 1<curse>-Marker hinzu.",
                 "traits": "Humanoid. Elite. Geist. Verflucht.",
                 "victory": "Sieg 1."
             },
             "encounter_number": "11"
         },
         "ffb91090-a661-473b-927b-22b761ee65e5": {
-            "name": "<unique>Yatagarasu",
             "project_number": 178,
             "front": {
                 "flavor_text": "Er hat dich die ganze Zeit beobachtet, aber...",
                 "subtitle": "Der Spionagechef – entlarvt",
-                "text": "<spawn> Zerbrochenes Felsenriff.\nJede Kopie von Krähenschwarm erhält +1 Kampf, +1 Entkommen, und +1 Ausdauer. <i>(Dieser Effekt ist auch aktiv, wenn sich Yatagarasu im Opferbereich befindet.)</i>\n<b>Opfer --</b> Durchsuche das Begegnungsdeck und den Begegnungs-<br>Ablagestapel nach einer Kopie von Krähenschwarm pro <per_large> und bringe sie ins Spiel.\n<b>Rache --</b> Mische Yatagarasu in das Opferdeck zurück anstatt ihn abzulegen.",
+                "text": "<spawn> Zerbrochenes Felsenriff.\nJede Kopie von Krähenschwarm erhält +1 Kampf, +1 Entkommen und +1 Ausdauer. <i>(Dieser Effekt ist auch aktiv, wenn sich Yatagarasu im Opferbereich befindet.)</i>\n<b>Opfer --</b> Durchsuche das Begegnungsdeck und den Begegnungs-<br>Ablagestapel nach einer Kopie von Krähenschwarm pro <per_large> und bringe sie ins Spiel.\n<b>Rache --</b> Mische Yatagarasu in das Opferdeck zurück anstatt ihn abzulegen.",
                 "traits": "Avatar. Elite. Aspekt."
             },
             "encounter_number": "34"
@@ -4003,7 +4002,7 @@
             "name": "Nobunagas Ehrgeiz",
             "project_number": 173,
             "front": {
-                "flavor_text": "Oda Nobunaga war ein mächtiger Daimyo, dessen militärisches Können so gefürchtet war, dass seine Zeitgenossen schließlich glaubten, er werde von einer Art bösartiger übernatürlicher Kraft unterstützt...",
+                "flavor_text": "Oda Nobunaga war ein mächtiger Daimyō, dessen militärisches Können so gefürchtet war, dass seine Zeitgenossen schließlich glaubten, er werde von einer Art bösartiger übernatürlicher Kraft unterstützt...",
                 "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel, falls noch keine Kopie in dieser Zone liegt. (Falls bereits eine Karte dort liegt, lege <name> ab und sie erhält stattdessen Nachrüsten.)\n<for> Nachdem dir eine Probe misslingt: Nimm insgesamt X Schaden und/oder Horror, wobei X die Anzahl an <curse>-Markern ist, die während der Probe abgehandelt wurden.",
                 "traits": "Macht."
             },
@@ -4451,9 +4450,6 @@
         },
         "b9245037-28ef-4862-8c63-db91684ab522": {
             "name": "Fürchterlicher Forst",
-            "meta": {
-                "tts": {}
-            },
             "card_amount": 16,
             "order": 16
         },
@@ -4665,7 +4661,7 @@
                 {
                     "name": "Zwischenspiel IV: Das Gambit der Königin",
                     "id": "fa3fff14",
-                    "markdown": "# Zwischenspiel IV: Das Gambit der Königin\n\n**Zwischenspiel 1:** *Yuki nähert sich vorsichtig der Mondkönigin…*\n\n- Nur der Spieler, der Yuki Yagami spielt, darf den Rest dieses Zwischenspiels lesen. Dies muss im Verborgenen geschehen. Der Spieler muss eine Reihe von Entscheidungen selbst treffen, und erhält die Anweisung, wann er wieder vorlesen darf. Wenn er bereit ist, kann er mit **Zwischenspiel 2** fortfahren.\n<br>\n\n\n<img src=\"{./images/Guide_page_31.png}\" style=\"width: 49%; height: 80%; position: fixed; bottom: 5px; right: 350px; colspan: 0;\">\n\n<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>\n\n<div class=\"codex\" style=\"border: solid rgb(29, 74, 125);border-radius: 10mm;margin: 0em;box-shadow: inset 0 0 2em rgb(29, 74, 125);background-color: rgba(29, 74, 125, 0.15);\">\n<h3 align=center style=\"color: rgb(29, 74, 125);\">Nur lesen, wenn du dazu angewiesen wirst:</h3>\n\n\n<b>Zwischenspiel 2:</b><i> Während die Mondkönigin spricht, fühlst du dich zu ihr hingezogen, und als sie ihre Geschichte beendet hat, stehst du vor ihr, unsicher, was du sagen sollst, aber sicher, dass sie etwas hat, das du brauchst. Wortlos lächelt die Königin dich an, bevor sie ein Kuriosum hervorholt, das in den Falten ihres Gewandes verborgen war. Sie hält es vor dir in ihren Händen, und du betrachtest das seltsame Relikt; es scheint eine eisige Kugel zu sein, die ein noch schlagendes Herz enthält. Du kannst dir nicht vorstellen, wozu es dient, aber du spürst seine immense Kraft. Während du in den gefrorenen Talisman blickst, dringt eine Stimme in deine Gedanken; sie ist sanft und weich und trotz der Umstände seltsam tröstlich.</i>\n<br><br>\n<i> Du hast das Gefühl, sie vage wiederzuerkennen, wie einen halb vergessenen Traum oder eine Erinnerung aus deiner fernen Vergangenheit...</i>\n<br><br>\n<i> „Erkennst du sie wieder, mein Kind? Du bist in der Tat von meinem Blut, und ihre Rituale waren nicht mächtig genug, um dich deines Geburtsrechts zu berauben. Die Vogte des August haben im Laufe der Jahrhunderte viele Schreinmaiden gezeugt. Sie sind nun längst verschwunden, doch Blut ist offenbar dicker als selbst Eis. Die Kraft der Göttin fließt durch unsere Adern; durch ihre Gnade wurde Moloch so lange in Schach gehalten, und ein solcher Segen verlangt ein entsprechendes Opfer. Als das Pantheon fiel und Onigawa belagert wurde, brachte ich ein solches Opfer, um mein Volk zu retten, obwohl ich den wahren Preis nicht einmal ansatzweise hatte erahnen können.\nMoloch hielt seinen Teil der Abmachung ein; der Ewige Krieg tobt dort unten noch immer, wie du gesehen hast. Die Schlacht um Onigawa ist nicht verloren, obwohl ich mir jetzt wünschte, es wäre so. Als Gegenleistung für diesen „Segen“ verwandelte er mich in etwas Profanes, etwas, das selbst die Wächter niemals vergeben könnten: die Yuki-onna, die Verschlingerin der Menschen … Die erste Vampirin. Solange das Herz noch schlägt, kann ich nicht vernichtet werden; ich kann nur seinen endlosen Hunger stillen. Doch ich könnte seine Macht an einen anderen aus der Blutlinie weitergeben, falls ihr mich von dieser Qual befreien wollt …“</i><br><br>\n\nDu allein musst entscheiden (ohne dich mit anderen Ermittlern abzusprechen):\n<br>\n\n<ul>\n    <li> Nimm die Bitte der Mondkönigin an. Fahre mit <b>Zwischenspiel 3</b> fort.\n<br>\n    <li> Lehne die Bitte der Mondkönigin ab. Fahre mit <b>Zwischenspiel 4</b> fort.\n</ul>\n\n</div>\n\n\n\n\n<br>\n\n<div class=\"codex\" style=\"border: solid rgb(29, 74, 125);border-radius: 10mm;margin: 0em;box-shadow: inset 0 0 2em rgb(29, 74, 125);background-color: rgba(29, 74, 125, 0.15);\">\n<h3 align=center style=\"color: rgb(29, 74, 125);\">Nur lesen, wenn du dazu angewiesen wirst:</h3>\n\n\n<b>Zwischenspiel 3:</b><i> Während sie spricht, macht sich in Kaorus Augen eine Traurigkeit breit, deren Ausmaß du nicht einmal ansatzweise ermessen kannst. Dein Mitgefühl für dieses edle Wesen überwältigt dich, und instinktiv streckst du deine Hände aus und legst sie auf den gefrorenen Talisman.</i>\n<br><br>\n<i> „Ich habe schon so lange auf diese Weise gelebt …“ Der Klang der Stimme der Mondkönigin wird in deinen Gedanken unregelmäßig; es ist offensichtlich, dass sie nicht damit gerechnet hat, dass du diese Entscheidung triffst. „Vielleicht wirst du diese Last edler tragen, als ich es könnte. Danke, mein Kind …“</i>\n<br><br>\n\n<i> Ihre Hände ziehen sich von der Kugel zurück, und sie tritt einen Schritt zurück, während diese dich mit ihrer unheiligen Kraft erfüllt. Du schauderst, als sowohl die Kugel als auch die Mondkönigin vor deinen Augen ins Nichts verschwinden, und du spürst, wie eine dunkle Kraft in deiner Brust Wurzeln schlägt … „Ich werde immer bei dir sein …“</i><br><br>\n<ul>\n <li> Du musst die im Begegnungsset <i>Ungeschenkte Geschenke</i> enthaltene Storyvorteilskarte Eisgebundener Fetisch <i>(Segen der Mondkönigin)</i> deinem Deck hinzufügen.\n</ul> \n<p style=\"text-align: right;\">Fahre mit <b>Zwischenspiel 5</b> fort.</p>\n</div>\n\n<br>\n<div class=\"codex\" style=\"border: solid rgb(29, 74, 125);border-radius: 10mm;margin: 0em;box-shadow: inset 0 0 2em rgb(29, 74, 125);background-color: rgba(29, 74, 125, 0.15);\">\n<h3 align=center style=\"color: rgb(29, 74, 125);\">Nur lesen, wenn du dazu angewiesen wirst:</h3>\n\n\n<b>Zwischenspiel 4:</b><i> Blut mag dick sein, doch Blutmagie ist noch dicker … Du hast das Gefühl, dass die Mondkönigin es gut meint, doch dein Glaube ist dein Schutzschild und du brauchst keine andere Kraft als deine eigene. Du streckst die Hand aus und ergreifst die zarten Hände der Mondkönigin, um sie über den gefrorenen Talisman zu legen. Ihr kaltes Fleisch brennt zunächst wie Brennnesseln, taut aber schnell durch deine Wärme auf. Du schließt die Augen und sprichst ein Gebet an die Wächter, und als du sie wieder öffnest und deine Hände entfaltest, ist das schlagende Organ im Inneren der Kugel verschwunden. Die Mondkönigin wirkt einen Moment lang fassungslos und löst sich dann in Nichts auf, während ihre dankbare Stimme noch immer in deinem Kopf nachhallt … „Du … Kann es wirklich wahr sein? Die wiedergeborene Göttin …?\"</i>\n<br><br>\n<ul>\n <li> Du erhältst 2 zusätzliche Erfahrungspunkte, da sich dein Einblick in den Mythos vertieft.\n</ul> \n \n<p style=\"text-align: right;\">Fahre mit <b>Zwischenspiel 5</b> fort.</p>\n</div>\n\n\n\n\n\n<img src=\"{./images/Guide_page_32.png}\" style=\"width: 49%; height: 25%; position: fixed; bottom: 0px; right: 350px; colspan: 0;\">\n<br><br><br><br>\n\n\n<br>\n\n\n<div class=\"codex\" style=\"border: solid rgb(29, 74, 125);border-radius: 10mm;margin: 0em;box-shadow: inset 0 0 2em rgb(29, 74, 125);background-color: rgba(29, 74, 125, 0.15);\">\n<h3 align=center style=\"color: rgb(29, 74, 125);\">Nur lesen, wenn du dazu angewiesen wirst:</h3>\n\n\n<b>Zwischenspiel 5:</b><i> Du atmest tief ein, während eine Flut von Einsichten in deinen Geist strömt. Es fühlt sich an wie eine Schleuse, die sich geöffnet hat, und für einen kurzen Moment erinnerst du dich an alles …\nDu stammst von diesem Ort, geboren und aufgewachsen, um eine Schreinmaid von Onigawa zu werden. Die Vogte des August wollten dich dieser dunklen Macht opfern, um Molochs Vordringen aufzuhalten, doch damit hätten sie sein unvermeidliches Kommen nur beschleunigt. Doch dein heiliges Blut schützte dich vor ihren verdorbenen Ritualen, und sie konnten deinen Körper nicht so entweihen, wie sie es bei den anderen getan hatten. Der Zauber geriet außer Kontrolle und schleuderte dich durch Zeit und Raum, und als du aufwachtest, befandest du dich in Minakami und stiegst in einen Zug ein … \nDu wirfst einen Blick zurück auf deine Begleiter, die dich misstrauisch beobachten. Würden sie es verstehen? Wie könnten sie …?</i>\n<br><br>\nDu allein musst entscheiden (ohne dich mit anderen Ermittlern abzusprechen):\n<ul>\n <li> Verberge das Geheimnis deiner Herkunft vor deinen Verbündeten. Fahre mit <b>Zwischenspiel 6</b> fort und lies weiter vor.\n\n <li>Teile das Geheimnis deiner Herkunft mit deinen Verbündeten. Fahre mit <b>Zwischenspiel 7</b> fort und lies weiter vor.\n\n</ul> \n\n</div>\n\n\n\n\n<br>\n**Zwischenspiel 6:** *Du beobachtest schweigend, wie die Mondkönigin deine Begleiterin anstarrt. Die beiden wechseln kein Wort, doch du siehst, wie sie Yuki etwas anbietet, bevor sie verschwindet. Als deine Begleiterin zurückkehrt, scheint sie sprachlos zu sein und nicht in der Lage, zu vermitteln, was gerade geschehen ist, doch du bemerkst, dass ihre Augen vor wilder Entschlossenheit brennen. Du hast das Gefühl, dass es am besten ist, sie nicht danach zu fragen; es gibt dringlichere Anliegen...*\n\n- Im Kampagnenlogbuch wird notiert, dass *Yukis Entschlossenheit gestärkt wurde.*\n- Der Ermittler, der Yuki Yagami spielt, darf 2 Erfahrungspunkte ausgeben, um 1 körperliches oder seelisches Trauma zu heilen. Die Ermittler dürfen nun ihre Erfahrungspunkte ausgeben.\n:::right\nFahre mit **Szenario VII: Die geschmolzene Waffenkammer** fort.\n:::\n<br>\n\n**Zwischenspiel 7:** *Du beobachtest schweigend, wie die Mondkönigin deine Begleiterin unverwandt anstarrt. Die beiden wechseln kein Wort, doch du siehst, wie sie Yuki etwas anbietet, bevor sie verschwindet. Als deine Begleiterin zu dir zurückkehrt, bemerkst du sofort eine Verbesserung in ihrem Auftreten, als wäre eine Last von ihren Schultern genommen worden. Yuki vertraut dir ernst an, dass die Mondkönigin mit ihr über Yukis wahre Herkunft gesprochen hat: Yuki stammt weder aus Arkham noch aus Minakami, wie du vermutet hattest. Sie war einst eine Schreinmaid von Onigawa, die unter dem Joch der Vogte des August aufgewachsen war, um ihren Göttern geopfert zu werden – genau wie einst die Mondkönigin. Irgendwie schützte die Kraft ihrer heiligen Blutlinie sie vor dem letzten dunklen Ritual und versetzte sie in eure Welt – auf Kosten ihrer Erinnerungen. Die Mondkönigin ist eine entfernte Vorfahrin von ihr, die naiv einen Pakt mit Moloch schloss, um ihre Heimat vor Eindringlingen zu retten, dafür aber einen schrecklichen Preis zahlte … den Yuki ihr nun offenbar abgenommen hat.*\n\n- Im Kampagnenlogbuch wird notiert, dass *Yukis Entschlossenheit gestärkt wurde.*\n- Jeder Ermittler erhält 1 zusätzlichen Erfahrungspunkt, da sich sein Einblick in den Mythos vertieft. Die Ermittler dürfen nun ihre Erfahrungspunkte ausgeben.\n:::right\nFahre mit **Szenario VII: Die geschmolzene Waffenkammer** fort.\n:::\n\n",
+                    "markdown": "# Zwischenspiel IV: Das Gambit der Königin\n\n**Zwischenspiel 1:** *Yuki nähert sich vorsichtig der Mondkönigin…*\n\n- Nur der Spieler, der Yuki Yagami spielt, darf den Rest dieses Zwischenspiels lesen. Dies muss im Verborgenen geschehen. Der Spieler muss eine Reihe von Entscheidungen selbst treffen, und erhält die Anweisung, wann er wieder vorlesen darf. Wenn er bereit ist, kann er mit **Zwischenspiel 2** fortfahren.\n<br>\n\n\n<img src=\"{./images/Guide_page_31.png}\" style=\"width: 49%; height: 80%; position: fixed; bottom: 5px; right: 350px; colspan: 0;\">\n\n<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>\n\n<div class=\"codex\" style=\"border: solid rgb(29, 74, 125);border-radius: 10mm;margin: 0em;box-shadow: inset 0 0 2em rgb(29, 74, 125);background-color: rgba(29, 74, 125, 0.15);\">\n<h3 align=center style=\"color: rgb(29, 74, 125);\">Nur lesen, wenn du dazu angewiesen wirst:</h3>\n\n\n<b>Zwischenspiel 2:</b><i> Während die Mondkönigin spricht, fühlst du dich zu ihr hingezogen, und als sie ihre Geschichte beendet hat, stehst du vor ihr, unsicher, was du sagen sollst, aber sicher, dass sie etwas hat, das du brauchst. Wortlos lächelt die Königin dich an, bevor sie ein Kuriosum hervorholt, das in den Falten ihres Gewandes verborgen war. Sie hält es vor dir in ihren Händen, und du betrachtest das seltsame Relikt; es scheint eine eisige Kugel zu sein, die ein noch schlagendes Herz enthält. Du kannst dir nicht vorstellen, wozu es dient, aber du spürst seine immense Kraft. Während du in den gefrorenen Talisman blickst, dringt eine Stimme in deine Gedanken; sie ist sanft und weich und trotz der Umstände seltsam tröstlich.</i>\n<br><br>\n<i> Du hast das Gefühl, sie vage wiederzuerkennen, wie einen halb vergessenen Traum oder eine Erinnerung aus deiner fernen Vergangenheit...</i>\n<br><br>\n<i> „Erkennst du sie wieder, mein Kind? Du bist in der Tat von meinem Blut, und ihre Rituale waren nicht mächtig genug, um dich deines Geburtsrechts zu berauben. Die Vögte des August haben im Laufe der Jahrhunderte viele Schreinmaiden gezeugt. Sie sind nun längst verschwunden, doch Blut ist offenbar dicker als selbst Eis. Die Kraft der Göttin fließt durch unsere Adern; durch ihre Gnade wurde Moloch so lange in Schach gehalten, und ein solcher Segen verlangt ein entsprechendes Opfer. Als das Pantheon fiel und Onigawa belagert wurde, brachte ich ein solches Opfer, um mein Volk zu retten, obwohl ich den wahren Preis nicht einmal ansatzweise hatte erahnen können.\nMoloch hielt seinen Teil der Abmachung ein; der Ewige Krieg tobt dort unten noch immer, wie du gesehen hast. Die Schlacht um Onigawa ist nicht verloren, obwohl ich mir jetzt wünschte, es wäre so. Als Gegenleistung für diesen „Segen“ verwandelte er mich in etwas Profanes, etwas, das selbst die Wächter niemals vergeben könnten: die Yuki-onna, die Verschlingerin der Menschen … Die erste Vampirin. Solange das Herz noch schlägt, kann ich nicht vernichtet werden; ich kann nur seinen endlosen Hunger stillen. Doch ich könnte seine Macht an einen anderen aus der Blutlinie weitergeben, falls ihr mich von dieser Qual befreien wollt …“</i><br><br>\n\nDu allein musst entscheiden (ohne dich mit anderen Ermittlern abzusprechen):\n<br>\n\n<ul>\n    <li> Nimm die Bitte der Mondkönigin an. Fahre mit <b>Zwischenspiel 3</b> fort.\n<br>\n    <li> Lehne die Bitte der Mondkönigin ab. Fahre mit <b>Zwischenspiel 4</b> fort.\n</ul>\n\n</div>\n\n\n\n\n<br>\n\n<div class=\"codex\" style=\"border: solid rgb(29, 74, 125);border-radius: 10mm;margin: 0em;box-shadow: inset 0 0 2em rgb(29, 74, 125);background-color: rgba(29, 74, 125, 0.15);\">\n<h3 align=center style=\"color: rgb(29, 74, 125);\">Nur lesen, wenn du dazu angewiesen wirst:</h3>\n\n\n<b>Zwischenspiel 3:</b><i> Während sie spricht, macht sich in Kaorus Augen eine Traurigkeit breit, deren Ausmaß du nicht einmal ansatzweise ermessen kannst. Dein Mitgefühl für dieses edle Wesen überwältigt dich, und instinktiv streckst du deine Hände aus und legst sie auf den gefrorenen Talisman.</i>\n<br><br>\n<i> „Ich habe schon so lange auf diese Weise gelebt …“ Der Klang der Stimme der Mondkönigin wird in deinen Gedanken unregelmäßig; es ist offensichtlich, dass sie nicht damit gerechnet hat, dass du diese Entscheidung triffst. „Vielleicht wirst du diese Last edler tragen, als ich es könnte. Danke, mein Kind …“</i>\n<br><br>\n\n<i> Ihre Hände ziehen sich von der Kugel zurück, und sie tritt einen Schritt zurück, während diese dich mit ihrer unheiligen Kraft erfüllt. Du schauderst, als sowohl die Kugel als auch die Mondkönigin vor deinen Augen ins Nichts verschwinden, und du spürst, wie eine dunkle Kraft in deiner Brust Wurzeln schlägt … „Ich werde immer bei dir sein …“</i><br><br>\n<ul>\n <li> Du musst die im Begegnungsset <i>Ungeschenkte Geschenke</i> enthaltene Storyvorteilskarte Eisgebundener Fetisch <i>(Segen der Mondkönigin)</i> deinem Deck hinzufügen.\n</ul> \n<p style=\"text-align: right;\">Fahre mit <b>Zwischenspiel 5</b> fort.</p>\n</div>\n\n<br>\n<div class=\"codex\" style=\"border: solid rgb(29, 74, 125);border-radius: 10mm;margin: 0em;box-shadow: inset 0 0 2em rgb(29, 74, 125);background-color: rgba(29, 74, 125, 0.15);\">\n<h3 align=center style=\"color: rgb(29, 74, 125);\">Nur lesen, wenn du dazu angewiesen wirst:</h3>\n\n\n<b>Zwischenspiel 4:</b><i> Blut mag dick sein, doch Blutmagie ist noch dicker … Du hast das Gefühl, dass die Mondkönigin es gut meint, doch dein Glaube ist dein Schutzschild und du brauchst keine andere Kraft als deine eigene. Du streckst die Hand aus und ergreifst die zarten Hände der Mondkönigin, um sie über den gefrorenen Talisman zu legen. Ihr kaltes Fleisch brennt zunächst wie Brennnesseln, taut aber schnell durch deine Wärme auf. Du schließt die Augen und sprichst ein Gebet an die Wächter, und als du sie wieder öffnest und deine Hände entfaltest, ist das schlagende Organ im Inneren der Kugel verschwunden. Die Mondkönigin wirkt einen Moment lang fassungslos und löst sich dann in Nichts auf, während ihre dankbare Stimme noch immer in deinem Kopf nachhallt … „Du … Kann es wirklich wahr sein? Die wiedergeborene Göttin …?\"</i>\n<br><br>\n<ul>\n <li> Du erhältst 2 zusätzliche Erfahrungspunkte, da sich dein Einblick in den Mythos vertieft.\n</ul> \n \n<p style=\"text-align: right;\">Fahre mit <b>Zwischenspiel 5</b> fort.</p>\n</div>\n\n\n\n\n\n<img src=\"{./images/Guide_page_32.png}\" style=\"width: 49%; height: 25%; position: fixed; bottom: 0px; right: 350px; colspan: 0;\">\n<br><br><br><br>\n\n\n<br>\n\n\n<div class=\"codex\" style=\"border: solid rgb(29, 74, 125);border-radius: 10mm;margin: 0em;box-shadow: inset 0 0 2em rgb(29, 74, 125);background-color: rgba(29, 74, 125, 0.15);\">\n<h3 align=center style=\"color: rgb(29, 74, 125);\">Nur lesen, wenn du dazu angewiesen wirst:</h3>\n\n\n<b>Zwischenspiel 5:</b><i> Du atmest tief ein, während eine Flut von Einsichten in deinen Geist strömt. Es fühlt sich an wie eine Schleuse, die sich geöffnet hat, und für einen kurzen Moment erinnerst du dich an alles …\nDu stammst von diesem Ort, geboren und aufgewachsen, um eine Schreinmaid von Onigawa zu werden. Die Vögte des August wollten dich dieser dunklen Macht opfern, um Molochs Vordringen aufzuhalten, doch damit hätten sie sein unvermeidliches Kommen nur beschleunigt. Doch dein heiliges Blut schützte dich vor ihren verdorbenen Ritualen, und sie konnten deinen Körper nicht so entweihen, wie sie es bei den anderen getan hatten. Der Zauber geriet außer Kontrolle und schleuderte dich durch Zeit und Raum, und als du aufwachtest, befandest du dich in Minakami und stiegst in einen Zug ein … \nDu wirfst einen Blick zurück auf deine Begleiter, die dich misstrauisch beobachten. Würden sie es verstehen? Wie könnten sie …?</i>\n<br><br>\nDu allein musst entscheiden (ohne dich mit anderen Ermittlern abzusprechen):\n<ul>\n <li> Verberge das Geheimnis deiner Herkunft vor deinen Verbündeten. Fahre mit <b>Zwischenspiel 6</b> fort und lies weiter vor.\n\n <li>Teile das Geheimnis deiner Herkunft mit deinen Verbündeten. Fahre mit <b>Zwischenspiel 7</b> fort und lies weiter vor.\n\n</ul> \n\n</div>\n\n\n\n\n<br>\n**Zwischenspiel 6:** *Du beobachtest schweigend, wie die Mondkönigin deine Begleiterin anstarrt. Die beiden wechseln kein Wort, doch du siehst, wie sie Yuki etwas anbietet, bevor sie verschwindet. Als deine Begleiterin zurückkehrt, scheint sie sprachlos zu sein und nicht in der Lage, zu vermitteln, was gerade geschehen ist, doch du bemerkst, dass ihre Augen vor wilder Entschlossenheit brennen. Du hast das Gefühl, dass es am besten ist, sie nicht danach zu fragen; es gibt dringlichere Anliegen...*\n\n- Im Kampagnenlogbuch wird notiert, dass *Yukis Entschlossenheit gestärkt wurde.*\n- Der Ermittler, der Yuki Yagami spielt, darf 2 Erfahrungspunkte ausgeben, um 1 körperliches oder seelisches Trauma zu heilen. Die Ermittler dürfen nun ihre Erfahrungspunkte ausgeben.\n:::right\nFahre mit **Szenario VII: Die geschmolzene Waffenkammer** fort.\n:::\n<br>\n\n**Zwischenspiel 7:** *Du beobachtest schweigend, wie die Mondkönigin deine Begleiterin unverwandt anstarrt. Die beiden wechseln kein Wort, doch du siehst, wie sie Yuki etwas anbietet, bevor sie verschwindet. Als deine Begleiterin zu dir zurückkehrt, bemerkst du sofort eine Verbesserung in ihrem Auftreten, als wäre eine Last von ihren Schultern genommen worden. Yuki vertraut dir ernst an, dass die Mondkönigin mit ihr über Yukis wahre Herkunft gesprochen hat: Yuki stammt weder aus Arkham noch aus Minakami, wie du vermutet hattest. Sie war einst eine Schreinmaid von Onigawa, die unter dem Joch der Vögte des August aufgewachsen war, um ihren Göttern geopfert zu werden – genau wie einst die Mondkönigin. Irgendwie schützte die Kraft ihrer heiligen Blutlinie sie vor dem letzten dunklen Ritual und versetzte sie in eure Welt – auf Kosten ihrer Erinnerungen. Die Mondkönigin ist eine entfernte Vorfahrin von ihr, die naiv einen Pakt mit Moloch schloss, um ihre Heimat vor Eindringlingen zu retten, dafür aber einen schrecklichen Preis zahlte … den Yuki ihr nun offenbar abgenommen hat.*\n\n- Im Kampagnenlogbuch wird notiert, dass *Yukis Entschlossenheit gestärkt wurde.*\n- Jeder Ermittler erhält 1 zusätzlichen Erfahrungspunkt, da sich sein Einblick in den Mythos vertieft. Die Ermittler dürfen nun ihre Erfahrungspunkte ausgeben.\n:::right\nFahre mit **Szenario VII: Die geschmolzene Waffenkammer** fort.\n:::\n\n",
                     "type": "interlude"
                 },
                 {
@@ -4679,7 +4675,7 @@
                     "name": "Szenario VIII: Die schwarze Ernte",
                     "id": "e71737b4",
                     "encounter_set_id": "caac83c5-2469-4f8d-8806-3090b1c263e8",
-                    "markdown": ":::image-block\n./images/Guide_page_36.png\n:::\n\n\n\n\n\n\n# [encounter:caac83c5-2469-4f8d-8806-3090b1c263e8:name]\n\nÜberprüfe das Kampagnenlogbuch.\n\n- Falls *die Ermittler Mayu ein Versprechen gegeben haben*, fahre mit **Einführung 1** fort.\n\n- Falls *Mayu allein nach Miyu sucht* und *die Ermittler Mayus feuriges Schicksal abgewendet haben*, fahre mit **Einführung 4** fort.\n\n- Falls *Mayu im verborgenen Dorf getötet wurde* oder *Mayu ihrem feurigen Schicksal nicht entkommen konnte*, fahre mit **Einführung 2** fort.\n\n- Andernfalls fahre mit **Einführung 3** fort.\n\n**Einführung 1:** *Es kommt dir vor, als sei es schon eine Ewigkeit her, dass du Mayu damals im Dorf versprochen hast, ihre Schwester zu finden und sie sicher nach Hause zu bringen. Hättet du gewusst, was die Einhaltung dieses Versprechens mit sich bringen würde, hättest du es wahrscheinlich nicht gegeben; doch in letzter Zeit ist es dir aus Gründen, die du nicht ganz in Worte fassen könnst, immer wichtiger geworden, dass Menschen das tun, was sie versprechen. Also bist du hier – wo und wann auch immer – und marschierst blindlings auf ein Ende zu, das du nicht einmal ansatzweise erahnen kannst. Niemand wird dir jemals glauben, wenn du versuchst, die Details deines Urlaubs zu schildern. Wie sollten sie auch? Niemand sonst hat gesehen, was du gesehen hast. Niemand außer einem jungen Mädchen namens Miyu. Sie ist jetzt ganz in der Nähe … und du wirst sie nach Hause bringen.*\n\nIm Kampagnenlogbuch wird notiert, dass *die Ermittler den Gipfel des Berges Kokoro allein erreicht haben.*\n:::right\nFahre mit **Einführung 5** fort.\n:::\n**Einführung 2:** *Du spielst die Ereignisse immer wieder in deinem Kopf durch und versuchst dir vorzustellen, ob es noch einen anderen Ausweg hätte geben können, aber die Realität bleibt unverändert: Mayu ist fort, und du kannst nichts dagegen tun. Es gibt nur eine Person, der du jetzt noch helfen kannst … ein junges Mädchen namens Miyu. Sie ist jetzt ganz in der Nähe. Du kannst es spüren. Und du wirst sie nach Hause bringen. Was auch immer es kostet …*\n\n- Im Kampagnenlogbuch wird notiert, dass *die Ermittler den Gipfel des Berges Kokoro allein erreicht haben.*\n:::right\nFahre mit **Einführung 5** fort.\n:::\n**Einführung 3:** *Die Ironie ist bitter: Gerade als du kurz davor warst, eine der Zwillingsschwestern zu finden, hast du die andere verloren. \nDas war zu erwarten; du hättest Mayu durch das Portal zurückschicken sollen, als du die Gelegenheit dazu hattest, aber du vermutest, dass es am Ende keine Rolle spielen wird. Sie muss es doch geschafft haben, oder …? Ihr wart beide auf dem Weg zum selben Ort, hattet dasselbe Ziel vor Augen: Miyu zurückzuholen, koste es, was es wolle …*\n\n- Im Kampagnenlogbuch wird notiert, dass *die Ermittler den Gipfel des Berges Kokoro allein erreicht haben.*\n\n:::right\nFahre mit **Einführung 5** fort.\n:::\n**Einführung 4:** *Hinter dir spürst du, wie Mayu Mühe hat, mit deinen langen Schritten mitzuhalten, während ihr gemeinsam die Treppe hinaufsteigt. Wenn man bedenkt, was sie durchgemacht hat, bist du überrascht, dass sie überhaupt noch auf den Beinen ist. Aber andererseits: Wenn dir jemand, den du liebst, entrissen würde, wer weiß, wozu du dann fähig wärst?\nDu verlangsamst dein Tempo, damit Mayu aufschließen kann, und sie blickt erwartungsvoll mit glasigen Augen und geröteten Wangen zu dir auf …*\n\n*„Alles wird gut“, sagst du, ebenso sehr zu dir selbst wie zu dem kleinen Mädchen, das dir den ganzen Weg gefolgt ist, „Du machst das großartig … Wir werden deine Schwester zurückholen, gemeinsam.“\n„Ich weiß“, antwortet Mayu leise und wischt sich die Tränen, die sich in ihren Augenwinkeln bilden, mit dem zerfetzten Saum ihres Ärmels ab, bevor sie fortfährt: „Es tut mir leid, dass ich weggelaufen bin …“*\n\n*Du bist nicht böse; du verstehst, warum sie es getan hat. An ihrer Stelle hättest du wahrscheinlich dasselbe getan. Diese Art von rücksichtsloser Hartnäckigkeit hat dich im Leben weit gebracht. Sie hat dich sogar hierher gebracht …*\n\n*Während ihr weitergeht, findet Mayus zarte Hand irgendwo unterwegs deine und gleitet in deine Handfläche, und du umschließt ihre warmen Finger mit deiner Faust und drückst sie sanft. Mayus Atem beruhigt sich, gestärkt durch deine Unterstützung. Sie mag dich zwar gerade erst kennengelernt haben, aber sie weiß, dass sie dir vollkommen vertrauen kann …*\n\n- Im Kampagnenlogbuch wird der Eintrag *Mayu sucht allein nach Miyu* durchgestrichen. Notiere stattdessen *Mayu ist bis zum Schluss bei dir.*\n:::right\nFahre mit **Einführung 5** fort.\n:::\n\n**Einführung 5:** *Gerade als die Hitze, die dir in den Rücken brennt, nachlässt, mündet die Treppe endlich auf einen gepflasterten Vorplatz am Rande eines kleinen Tempels, der aus den höhlenartigen Tiefen des Berges herausragt, und der schneebedeckte Gipfel des Berges Kokoro kommt wieder in Sicht, wenn auch nun viel größer in deinem Blickfeld als bei deinem letzten Blick darauf. Seine zerklüftete Kante, wie ein mit Eis bedeckter Speer, zeichnet einen pfeilspitzenförmigen Schatten in den Himmel, wo sie den blutroten Mond verdeckt. Nahe dem Gipfel ragt eine hohe Turmspitze empor, die ihren eigenen Schatten auf die Plattform wirft, hinter der sich der an ihrem Fuß errichtete Schrein verbirgt.*\n\n*Im Inneren der Kathedrale schwebt ein formloses rotes Licht in der Luft direkt über dem Altar des Schreins; seine geisterhafte Essenz verschmilzt sanft mit dem Mondlicht, und dahinter steht ein großer Mann in priesterlicher Gewandung. Er scheint dich weder zu bemerken noch zu beachten und steht lediglich mit gesenktem, von einer Kapuze bedecktem Kopf und gefalteten Händen da, als wäre er tief ins Gebet versunken. \nDir kommt es so vor, als würdest du die Farben und Symbole auf seiner Robe als die der Vogte des August erkennen – jenem religiösen Orden, von dem du herausgefunden hast, dass er einst den Berg Kokoro als seine Heimat bezeichnete.*\n\n*Du öffnest den Mund, um den Priester anzusprechen, doch die Worte bleiben dir im Hals stecken, als ein scharfer Schmerz deine Eingeweide durchbohrt. Etwas stimmt nicht; es fühlt sich an, als würde sich etwas aus deiner Seele selbst herausreißen. Doch so schnell, wie er begonnen hat, lässt der Schmerz nach, und für einen Moment fühlst du nur eine angenehmen Taubheit. Ein Lichtfleck schießt aus deiner Brust empor und tanzt gen Himmel, rast mit rücksichtsloser Hingabe auf den blutroten Mond zu. Während du zusiehst, wie er immer kleiner wird, erinnerst du dich an Kanons Aufstieg im Schneesturm …*\n\n*und erst dann wird dir klar, dass die schmerzende Leere in deiner Brust darauf zurückzuführen ist, dass etwas sehr Kostbares fehlt – etwas, das du die ganze Zeit über törichterweise für selbstverständlich gehalten hast …\nIn dieser hohlen, tiefen Kluft in deinem Innersten hatte der Segen gewohnt – jener, den du damals in der Waldgrotte außerhalb des Dorfes Minakami empfangen hattest, was dir vorkommt, als liege es bereits ein ganzes Leben zurück. Damals hattest du nicht wirklich an Schicksal oder Vorsehung geglaubt … doch die Umstände rund um Takeshis Tod hatten dich in die Verzweiflung getrieben, also hattest du es auf gut Glück versucht. Wer könnte es dir verübeln? Ein Sprung ins Ungewisse … und seitdem waren die Wächter an deiner Seite.*\n \n*Wie sonst hättest du es so weit schaffen und all das vollbringen können, was du getan hast?\nDoch nun ist dieses Licht erloschen, die Tinte auf den Seiten der Geschichte ist getrocknet, und die Wächter von Onigawa und ihr göttliches Pantheon sind nichts weiter als eine verblassende Erinnerung…*\n\n- Jeder Ermittler muss jede **<i>Aspekt</i>**-Storyvorteilskarte aus seinem Deck entfernen.\n\n:::right\nFahre mit **Einführung 6** fort.\n:::\n\n**Einführung 6:** *„Glückwünsche sind angebracht“, ruft der Priester dir schließlich zu, und seine Stimme hallt unnatürlich wider, als käme sie von weit her: „Ich hätte nie erwartet, dass du es so weit schaffst, Außenseiter. Deine Beharrlichkeit ist bewundernswert. Aber sie ist ohne Bedeutung …* \n\n*Ein Donnerschlag hallt über dir und unterbricht die Rede des Priesters. Du blickst gerade noch rechtzeitig auf, um zu sehen, wie sich die Oberfläche des blutroten Mondes aufwirbelt, als wäre sie ein stürmisches Meer. Das Rot fließt von den Rändern des Mondes und sammelt sich zu einer kleinen Sichel in der Mitte der Kugel, und als sich der Sturm legt, taucht eine runenartige Gestalt aus der Mondoberfläche auf, wie eine mit Pinselstrichen gemalte Kalligraphie auf einem grauen Ziegelstein …*\n\n*Du hast keine Zeit, über die Bedeutung des Symbols nachzudenken, denn schon bald ertönen erneut Donnerschläge, und ein eingesperrter Blitz schießt aus der Mondoberfläche hervor und trifft die Turmspitze der Kathedrale. Der Boden unter dir explodiert, und du wirst durch das darauf folgende Beben von den Füßen gerissen.\nDie Geräusche der aufwirbelnden Erde machen dich taub, während du dich verzweifelt an deinem Fleckchen Erde festklammerst, und als du die Augen öffnest, stellst du fest, dass die Kathedrale und sogar der eisige Gipfel des Berges Kokoro selbst durch die Katastrophe zerschmettert wurden …*\n\n*Nun schweben winzige Inseln überall um dich herum in der Luft, umkreisen die tiefe Wunde im Berg und werden – wie du nur vermuten kannst – durch eine Kombination aus okkulter Energie und den Gravitationskräften des absinkenden Mondes in der Schwebe gehalten. Die Turmspitze der Kathedrale ist eingestürzt, und das Gebäude selbst wurde in zwei Hälften gespalten, doch die Insel, auf der sich der hintere Teil befindet, driftet plötzlich in dein Blickfeld. Eine schimmernde purpurrote Barriere umgibt sie nun, offenbar vom Priester errichtet, um sich zu verteidigen, als die Katastrophe zuschlug, doch als du einen Blick auf den Altar vor ihm erhaschst, lächelst du…*\n\n*Ein Teil von dir wusste schon immer, dass du diesen Ort erreichen würdest, aber es fühlt sich gut an, endlich einen konkreten Beweis zu haben, der deine Intuition bestätigt. Es fühlt sich gut an, Recht zu haben. Es fühlt sich gut an, Miyu zu sehen.\n… Doch sie ist nicht allein. Der Priester setzt sein Ritual fort und deutet auf den Körper des jungen Mädchens, das an seinen Altar gefesselt ist und für dich ärgerlicherweise unerreichbar bleibt, so nah sie dir auch sein mag …*\n\n*„… wie du siehst, bist du zu spät, um das Kind zu retten. Mein Meister hat sehr, sehr lange auf diesen Tag gewartet; die Wächter fürchteten seine Macht, doch ihr viel gepriesener Bund mit den Barbaren dieses Reiches konnte sein unvermeidliches Kommen bestenfalls hinauszögern. Nun sind sie alle vor ihm gefallen, einer nach dem anderen, und endlich tragen seine Machenschaften Früchte… Dieses blutige Opfer befeuert den Motor seiner Auferstehung. Er wird wieder unter uns wandeln und er wird seine Rache an unserer Welt nehmen, in vollem Umfang, für alle Zeit!“\nMiyus Körper wird von Schmerzen geschüttelt, als der Priester sein profanes Ritual nach kurzer Zeit wieder aufnimmt. Du weißt, dass sie es nicht mehr viel länger aushalten kann, also atmest du tief durch, um deine Nerven zu beruhigen...*\n\nÜberprüfe das Kampagnenlogbuch.\n\n- Falls *der Purpurrote Schmetterling den Geist der Mondkönigin gereinigt hat*, fahre mit **Einführung 7** fort.\n\n- Andernfalls fahre mit **Einführung 8** fort.\n\n**Einführung 7:** *Leise Glockentöne erklingen, und hinter dir kommt ein eisiger Sturm auf. Ein Lächeln huscht über deine Lippen, als du eine Präsenz hinter deinem Rücken spürst und der Wind dir in einer uralten Sprache ins Ohr flüstert... \n„Die Nacht bricht herein … und ich stehe an deiner Seite.“*\n \n- Der Ermittler, der die Storyvorteilskarte Königin Kaoru *(Erste der Nachtgefallenen)* seinem Deck hinzugefügt hat, darf dieses Szenario mit dieser Karte im Spiel beginnen. \n\nFahre mit **Einführung 8** fort.\n\n**Einführung 8:** *Das Rauschen der tosenden Brandung lenkt deine Aufmerksamkeit auf ein großes Becken auf eine der zerklüfteten Inseln…*\n\nÜberprüfe das Kampagnenlogbuch.\n\n- Falls *die Ermittler der Koi-Prinzessin begegnet sind*, fahre mit **Einführung 9** fort.\n\n- Andernfalls fahre mit **Einführung 10** fort.\n\n**Einführung 9:** *Ein Geysir schießt aus der Mitte des Wasserbeckens empor, und ein Schatten taucht aus dem Nebel auf. Du beobachtest, wie eine schuppige Kreatur über die Wasseroberfläche gleitet, unsicher, ob sie Freund oder Feind ist. Irgendetwas an ihr kommt dir bekannt vor, aber du erkennst sie erst, als sie die Stirn runzelt und deinem Blick mit einem feierlichen Nicken begegnet; wie auf ein Stichwort hin beginnt ein Schwarm bunter Fische um ihre Füße herum aus dem Wasser zu springen und im melodischen Takt eines Kriegsrufs zu planschen. Es scheint, als sei das Mädchen, dem du am Fluss begegnet bist, doch kein gewöhnliches Mädchen gewesen...*\n\n- Streiche in deinem Kampagnenlogbuch, dass *die Ermittler der Koi-Prinzessin begegnet sind*, und notiere stattdessen, dass *die Koi-Prinzessin auf deiner Seite ist.*\n:::right\nFahre mit **Einführung 11** fort.\n:::\n\n**Einführung 10:** *Ein Geysir schießt aus der Mitte des Teiches empor, und aus dem Nebel taucht ein Schatten auf. Ein großer, schlangenartiger Mann mit reptilienartigen Augen schreitet über die Wasseroberfläche und mustert dich misstrauisch. In seinen Armen trägt er den blassen Körper einer Frau, die in ein weißes, mit orangefarbenen Flecken übersätes Laken gehüllt ist. Sie rührt sich nicht, selbst als eine Schar bemalter Fische beginnt, im Wasser um sie herum zu planschen. Du beobachtest voller Staunen, wie der Purpurrote Schmetterling aus der Brust des Mädchens hervorbricht und zum Altar emporsteigt. Als er den Priester erreicht, löst er sich in Nichts auf und scheint so dem Ritual Kraft zu verleihen... Ist das ein gefallener Wächter, fragst du dich, oder lediglich ein opportunistischer Eindringling? Du vermutest, dass du keine Gelegenheit haben wirst, das herauszufinden...*\n\n- Im Kampagnenlogbuch wird notiert, dass *der Koi-Kaiser gegen dich ist.*\n\n:::right\nFahre mit **Einführung 11** fort.\n:::\n\n**Einführung 11:** *Du verlierst fast den Halt, als ein weiteres Beben durch das zerklüftete Gelände rollt; der Berg Kokoro stürzt unter deinen Füßen ein...*\n\nÜberprüfe das Kampagnenlogbuch.\n\n- Falls die Ermittler die heilige Gießerei sabotiert haben, fahre mit **Einführung 13** fort.\n\n- Andernfalls, fahre mit **Einführung 12** fort.\n\n**Einführung 12:** *Du blickst ein letztes Mal zurück und lässt den Blick über die Landschaft schweifen. Irgendwo unter euch brennt Onigawa unaufhörlich in der schwarzen Nacht. Jenseits seiner Mauern lenkt ein geisterhafter Fährmann sein Boot durch das schwarze Wasser des Flusses, und sein finsteres Treiben ist schwach von einem Balkon auf dem Gipfel eines Herrenhauses auf einem Hügel zu erkennen, wo eine geisterhafte Jungfrau sich so sehr nach einem verlorenen Geliebten sehnt, dass sie ein längst vergangenes Leben nicht loslassen kann...*\n\n*Eines ist klar: Was auch immer dieser Ort einst war, welche Pracht er auch immer einmal besessen haben mag – jetzt ist dies ein Reich der Dunkelheit. Die Wächter sind alle fort, und vielleicht waren sterbliche Wesen ihnen schon immer unwürdig...\nDie Bitterkeit droht dich zu überwältigen; in dir herrscht nun eine unverkennbare Leere, dort, wo einst der Aspekt wohnte, der dich führte... \nDoch in dieser Leere bleibt noch ein Funke zurück, und er versichert dir: Auch wenn sie besiegt sein mögen … die Wächter waren keine Narren.*\n\n*Instinktiv greift deine Hand nach einer der Klingen, die du am Berg Kokoro geschmiedet hast. Mondlicht fällt auf ihre scharfe Kante und taucht sie in ein reinigendes Licht. Für einen Moment glaubst du, fast etwas darin zu spüren … Etwas Zorniges … Etwas Mächtiges.*\n\n- Der Ermittler, der die Storyvorteilskarten Tsurugis Macht *(Klinge der Abenddämmerung)* und Midoris List *(Degen der Morgendämmerung)* seinem Deck hinzugefügt hat, darf eine davon auswählen, um dieses Szenario mit dieser Karte im Spiel zu beginnen.\n- Dieser Ermittler muss außerdem die Storyvorteilskarte Notfallplan des Pantheons *(Ein Funke ist noch übrig)* seinem Deck hinzufügen. Sie zählt nicht gegen die Deckgröße des Ermittlers. Schau dir die Rückseite dieser Karte erst an, wenn du dazu aufgefordert wirst.\n\n**Einführung 13:** *Ein weiteres Beben bringt dich ins Wanken; deine Einmischung in den \"normalen“ Betrieb der Gießerei hat in Verbindung mit der jüngsten Katastrophe den Vulkan offensichtlich destabilisiert. Du kannst nur hoffen, dass sich diese Aktion im bevorstehenden Kampf auszahlen wird. Vorerst hast du alle Vorbereitungen getroffen, die möglich waren. Jetzt kommt es darauf an …*\n\n- Falls Yuki Yagami einer der Ermittler in dieser Kampagne ist, fahre mit dem **Szenario-Zwischenspiel: Die wiedergeborene Göttin** fort.\n- Andernfalls fahre mit der **Vorbereitung** fort.\n\n\n<div class=\"codex\" style=\"border: solid rgb(29, 74, 125);border-radius: 10mm;margin: 0em;box-shadow: inset 0 0 2em rgb(29, 74, 125);background-color: rgba(29, 74, 125, 0.15);\">\n<h3 align=center style=\"color: rgb(29, 74, 125);\">Nur lesen, wenn du dazu angewiesen wirst:</h3>\n<h4 align=center style=\"color: rgb(29, 74, 125);\">Szenario-Zwischenspiel: Die wiedergeborene Göttin</h3>\n\nDer Ermittler, der Yuki Yagami spielt, muss diesen Abschnitt vorlesen:\n<br><br>\n<i> Eine sanfte Gelassenheit hüllt deinen Geist wie eine Decke ein, und du weißt, dass die Wächter dich nicht im Stich gelassen haben. Ein helles Licht strahlt aus deinem Inneren, umhüllt dich mit warmer Strahlkraft, und als es vergeht, bist du verwandelt; hier, an diesem Ort, bist du zu dem geworden, wozu du schon immer bestimmt warst. All diese Macht … Dafür war sie schon immer bestimmt. Dafür bist du bestimmt …</i>\n<br><br>\nDu beginnst dieses Szenario mit Apotheose <i>(Lebendige Heiligkeit)</i> im Spiel.\n \n<p style=\"text-align: right;\">Fahre mit der <b>Vorbereitung</b> fort.</p>\n</div>\n\n\n###Vorbereitung\n\n- Es werden alle Karten aus den folgenden Begegnungssets herausgesucht: *Die schwarze Ernte*, *[encounter:d3417fd3-e4fe-4e38-ab55-302b7ab38ee9:name]*, *[encounter:8e627222-336f-4147-be8d-26467016ab45:name]*, *[encounter:ab1646e6-575e-430a-b26a-1a66ac40e727:name]*, *[encounter:1446ab7b-f63b-4df9-8ea2-5495496365e9:name]* und *[encounter:d2d065e4-80a5-4c26-93c1-6d4d507e9e2a:name]*. Diese Sets sind an folgenden Symbolen zu erkennen: \n:::center\n[encounter:caac83c5-2469-4f8d-8806-3090b1c263e8:icon]&nbsp;&nbsp;[encounter:d3417fd3-e4fe-4e38-ab55-302b7ab38ee9:icon]&nbsp;&nbsp;[encounter:8e627222-336f-4147-be8d-26467016ab45:icon]&nbsp;&nbsp;[encounter:ab1646e6-575e-430a-b26a-1a66ac40e727:icon]&nbsp;&nbsp;[encounter:1446ab7b-f63b-4df9-8ea2-5495496365e9:icon]&nbsp;&nbsp;[encounter:d2d065e4-80a5-4c26-93c1-6d4d507e9e2a:icon]\n:::\n\n- Folgende Karten werden als nicht im Spiel befindlich beiseite gelegt: Die Begegnungssets *[encounter:8e627222-336f-4147-be8d-26467016ab45:name]*, *[encounter:d2d065e4-80a5-4c26-93c1-6d4d507e9e2a:name]* und *[encounter:ab1646e6-575e-430a-b26a-1a66ac40e727:name]*.\n- Folgende Orte werden ins Spiel gebracht *(siehe dazu die Abbildung auf Seite 38)*: Zerbrochenes Felsenriff, Torii-Nexus, Überlaufendes Becken, Terramorpher Regenwald, Offenes Weltenknäuel, Zerstörte Kathedrale und Profaner Altar. <br>\n <bullet> Der Ermittlungsleiter beginnt das Spiel am Ort Zerbrochenes Felsenriff.<br>\n<bullet> Jeder andere Ermittler muss jeweils einen anderen Zerstört-Ort wählen, an dem er das Spiel beginnt.\n- Bringe die Gegner Hirte der Schwarzen Ernte *(Der letzte Vogt)* und Miyu Tachibana *(Verloren und Gefunden)* an Profaner Altar ins Spiel.\n- Lies den Abschnitt Opferdeck auf dieser Seite, mische dann das Begegnungsset *[encounter:1446ab7b-f63b-4df9-8ea2-5495496365e9:name]* und bringe es verdeckt als separates Opferdeck ins Spiel, das neben die Szenariokarte gelegt wird. Decke anschließend nacheinander die obersten vier Karten des Opferdecks auf und füge sie dem Opferbereich hinzu (in der Reihenfolge, in der sie aufgedeckt wurden).\n- Überprüfe das Kampagnenlogbuch und nimm folgende Anpassungen vor:\n<br><bullet> Falls *der Koi-Kaiser gegen dich ist*, bringe den beiseitegelegten Gegner Koi-Kaiser *(Wiedererstarkter Souverän)* am Ort Überlaufendes Becken ins Spiel, mische den beiseitegelegten Gegner Koi-Prinzessin *(Wässriges Grab)* in das Opferdeck und entferne die beiseitegelegte Storyvorteilskarte Koi-Prinzessin *(Witwe der verlorenen Hoffnung)* aus dem Spiel.\n<br><bullet> Falls *die Koi-Prinzessin auf deiner Seite ist*, bringe die beiseitegelegte Storyvorteilskarte Koi-Prinzessin *(Witwe der verlorenen Hoffnung)* am Ort Überlaufendes Becken ins Spiel, mische den beiseitegelegten Gegner Koi-Kaiser *(Wiedererstarkter Souverän)* in den Opferstapel und entferne den beiseitegelegten Gegner Koi-Prinzessin *(Wässriges Grab)* aus dem Spiel. \n\n- Falls die Ermittler *den Gipfel des Berges Kokoro allein erreicht haben*, lege 1 <curse>-Marker in den Chaosbeutel und entferne die Storyvorteilskarte Mayu Tachibana *(Ermittler in Ausbildung)* aus dem Spiel.\n- Falls *Mayu bis zum Schluss bei euch ist*, lege 1 <blessing>-Marker in den Chaosbeutel und bringe die Storyvorteilskarte Mayu Tachibana *(Ermittler in Ausbildung)* am Torii-Nexus ins Spiel.\n- Die übrigen Begegnungskarten werden zum Begegnungsdeck zusammengemischt.\n- Das Spiel kann nun beginnen.\n\n\n###Opferdeck\n\nDieses Szenario enthält ein separates Begegnungsdeck, das Opferdeck, das Begegnungskarten mit dem neuen Schlüsselwort „Opfer“ enthält. Karten mit dem Schlüsselwort „Opfer“ lösen ihren aufgedruckten „Opfer“-Effekt aus, wenn sie aus dem Spiel entfernt werden. In diesem Szenario wird außerdem eine neue Spielzone eingeführt, der „Opferbereich“. Offen ausgelegte Karten im Opferbereich gelten als im Spiel befindlich und können durch Effekte von Szenariokarten mit Markern belegt werden, gelten jedoch nicht als an einem bestimmten Ort befindlich und können von Ermittlern nicht beeinflusst werden, es sei denn, dies wird durch auf Szenariokarten aufgedruckte Effekte ausdrücklich ermöglicht. Im Opferbereich sollten sich stets vier Karten befinden. Wird eine Karte aus dem Opferbereich entfernt (in der Regel durch einen Effekt einer Szenariokarte), verschiebt man die verbleibenden Karten nach vorne, bis die zuerst aufgedeckte Karte die erste Position im Opferbereich einnimmt. Diese Position wird auch als derzeitiges Opfer bezeichnet. Anschließend wird die oberste Karte des Opferdecks aufgedeckt und an das Ende des Opferbereichs angelegt. \nWiederholt diesen Vorgang, bis sich vier Karten im Opferbereich befinden. Wenn die Ermittler durch einen Spieleffekt angewiesen werden, ein Opfer darzubringen, muss der Ermittlungsleiter den auf dem derzeitigen Opfer (der Karte ganz links im Opferbereich) aufgedruckten Opfereffekt abhandeln und diese Karte anschließend aus dem Spiel entfernen.\n\n###Harmonie-Marker\n\nDieses Szenario führt eine neue Art von Chaosmarker ein: den Harmonie-(<font face='AHLCGHarmony'>Y</font>)-Marker. <font face='AHLCGHarmony'>Y</font>-Marker gelten sowohl als <blessing>- als auch als <curse>-Marker. Bei Fertigkeitsproben kann der ausführende Ermittler wählen, als welche der beiden Arten er sie abhandeln möchte. Abgehandelte <font face='AHLCGHarmony'>Y</font>-Marker werden nach Ende der Probe in den Chaosbeutel zurückgelegt.\n\n<br>\n\n###Platzierung der Orte in „Die schwarze Ernte“\n\n:::image-block\n./Exports/caac83c5-2469-4f8d-8806-3090b1c263e8_location_overview_0.png\n:::\n\n\n\n<br>\n:::standalone\n## Einzelspielszenario<br>\n\nFalls ein Einzelspielszenario gespielt wird und keine anderen Vorbereitungs- und Auflösungs-Anweisungen verwendet werden sollen, können die unten stehenden Informationen bei der Vorbereitung und während des Spiels dieses Szenarios verwendet werden:\n\n- Der Chaosbeutel wird aus folgenden Markern zusammengestellt:                                                              \n    0, 0, -1, -1, -2, -2, -3,-4,-5, <skull>, <cultist>, <tablet>, <elder_thing>, <auto_fail>, <elder_sign>.\n- *Mayu wurde im verborgenen Dorf getötet.*\n- *Die Ermittler haben Mayu ein Versprechen gegeben.*\n- *Die Yuki-onna hat den Purpurroten Schmetterling verbannt.*\n- *Die Ermittler haben die heilige Gießerei sabotiert.*\n- * Der Koi-Kaiser ist gegen dich.*\n:::\n\n<br>\n:::resolution\n## Achtung!<br><div style=\"font-size:18px;\">Nicht vor Ende des Szenarios weiterlesen.\n\n**Falls keine Auflösung erreicht wurde, weil alle Ermittler besiegt wurden:** Lies **Auflösung 4**.\n\n**Auflösung 1:** Überprüfe das Kampagnenlogbuch und fahre dann mit dem entsprechenden Abschnitt fort:\n\n- Falls *Mayu allein nach Miyu sucht* oder *Mayu bis zum Ende bei dir ist*, fahre mit **Epilog V: Die Hüter des Bundes** fort.\n- Falls *die Ermittler Mayu ein Versprechen gegeben haben*, fahre mit **Epilog IV: Die Jungfrauen von Minakami** fort.\n- Andernfalls fahre mit **Epilog III: Zusammen, für immer** fort.\n\n**Auflösung 2:** Überprüfe das Kampagnenlogbuch und fahre dann mit dem entsprechenden Abschnitt fort:\n\n- Falls *die Ermittler Mayu ein Versprechen gegeben haben* oder *Mayu bis zum Schluss bei euch ist*, fahre mit **Epilog IV: Die Jungfrauen von Minakami** fort.\n- Andernfalls fahre mit **Epilog III: Zusammen, für immer** fort.\n\n**Auflösung 3:** Überprüfe das Kampagnenlogbuch und fahre dann mit dem entsprechenden Abschnitt fort:\n\n- Falls *die Ermittler Mayu ein Versprechen gegeben haben* oder *Mayu bis zum Ende bei euch ist* oder *Mayu allein nach Miyu sucht*, fahre mit **Epilog II: Gebrochene Versprechen** fort.\n- Andernfalls fahre mit **Epilog I: Die Geister von Onigawa** fort.\n\n**Auflösung 4:**\n\n- Fahre mit **Epilog I: Die Geister von Onigawa** fort.\n\n<img src=\"{./images/Guide_page_39.png}\" style=\"width: 49%; height: 51%; position: fixed; bottom: 0px; right: 0px; colspan: 0;\">\n",
+                    "markdown": ":::image-block\n./images/Guide_page_36.png\n:::\n\n\n\n\n\n\n# [encounter:caac83c5-2469-4f8d-8806-3090b1c263e8:name]\n\nÜberprüfe das Kampagnenlogbuch.\n\n- Falls *die Ermittler Mayu ein Versprechen gegeben haben*, fahre mit **Einführung 1** fort.\n\n- Falls *Mayu allein nach Miyu sucht* und *die Ermittler Mayus feuriges Schicksal abgewendet haben*, fahre mit **Einführung 4** fort.\n\n- Falls *Mayu im verborgenen Dorf getötet wurde* oder *Mayu ihrem feurigen Schicksal nicht entkommen konnte*, fahre mit **Einführung 2** fort.\n\n- Andernfalls fahre mit **Einführung 3** fort.\n\n**Einführung 1:** *Es kommt dir vor, als sei es schon eine Ewigkeit her, dass du Mayu damals im Dorf versprochen hast, ihre Schwester zu finden und sie sicher nach Hause zu bringen. Hättet du gewusst, was die Einhaltung dieses Versprechens mit sich bringen würde, hättest du es wahrscheinlich nicht gegeben; doch in letzter Zeit ist es dir aus Gründen, die du nicht ganz in Worte fassen könnst, immer wichtiger geworden, dass Menschen das tun, was sie versprechen. Also bist du hier – wo und wann auch immer – und marschierst blindlings auf ein Ende zu, das du nicht einmal ansatzweise erahnen kannst. Niemand wird dir jemals glauben, wenn du versuchst, die Details deines Urlaubs zu schildern. Wie sollten sie auch? Niemand sonst hat gesehen, was du gesehen hast. Niemand außer einem jungen Mädchen namens Miyu. Sie ist jetzt ganz in der Nähe … und du wirst sie nach Hause bringen.*\n\nIm Kampagnenlogbuch wird notiert, dass *die Ermittler den Gipfel des Berges Kokoro allein erreicht haben.*\n:::right\nFahre mit **Einführung 5** fort.\n:::\n**Einführung 2:** *Du spielst die Ereignisse immer wieder in deinem Kopf durch und versuchst dir vorzustellen, ob es noch einen anderen Ausweg hätte geben können, aber die Realität bleibt unverändert: Mayu ist fort, und du kannst nichts dagegen tun. Es gibt nur eine Person, der du jetzt noch helfen kannst … ein junges Mädchen namens Miyu. Sie ist jetzt ganz in der Nähe. Du kannst es spüren. Und du wirst sie nach Hause bringen. Was auch immer es kostet …*\n\n- Im Kampagnenlogbuch wird notiert, dass *die Ermittler den Gipfel des Berges Kokoro allein erreicht haben.*\n:::right\nFahre mit **Einführung 5** fort.\n:::\n**Einführung 3:** *Die Ironie ist bitter: Gerade als du kurz davor warst, eine der Zwillingsschwestern zu finden, hast du die andere verloren. \nDas war zu erwarten; du hättest Mayu durch das Portal zurückschicken sollen, als du die Gelegenheit dazu hattest, aber du vermutest, dass es am Ende keine Rolle spielen wird. Sie muss es doch geschafft haben, oder …? Ihr wart beide auf dem Weg zum selben Ort, hattet dasselbe Ziel vor Augen: Miyu zurückzuholen, koste es, was es wolle …*\n\n- Im Kampagnenlogbuch wird notiert, dass *die Ermittler den Gipfel des Berges Kokoro allein erreicht haben.*\n\n:::right\nFahre mit **Einführung 5** fort.\n:::\n**Einführung 4:** *Hinter dir spürst du, wie Mayu Mühe hat, mit deinen langen Schritten mitzuhalten, während ihr gemeinsam die Treppe hinaufsteigt. Wenn man bedenkt, was sie durchgemacht hat, bist du überrascht, dass sie überhaupt noch auf den Beinen ist. Aber andererseits: Wenn dir jemand, den du liebst, entrissen würde, wer weiß, wozu du dann fähig wärst?\nDu verlangsamst dein Tempo, damit Mayu aufschließen kann, und sie blickt erwartungsvoll mit glasigen Augen und geröteten Wangen zu dir auf …*\n\n*„Alles wird gut“, sagst du, ebenso sehr zu dir selbst wie zu dem kleinen Mädchen, das dir den ganzen Weg gefolgt ist, „Du machst das großartig … Wir werden deine Schwester zurückholen, gemeinsam.“\n„Ich weiß“, antwortet Mayu leise und wischt sich die Tränen, die sich in ihren Augenwinkeln bilden, mit dem zerfetzten Saum ihres Ärmels ab, bevor sie fortfährt: „Es tut mir leid, dass ich weggelaufen bin …“*\n\n*Du bist nicht böse; du verstehst, warum sie es getan hat. An ihrer Stelle hättest du wahrscheinlich dasselbe getan. Diese Art von rücksichtsloser Hartnäckigkeit hat dich im Leben weit gebracht. Sie hat dich sogar hierher gebracht …*\n\n*Während ihr weitergeht, findet Mayus zarte Hand irgendwo unterwegs deine und gleitet in deine Handfläche, und du umschließt ihre warmen Finger mit deiner Faust und drückst sie sanft. Mayus Atem beruhigt sich, gestärkt durch deine Unterstützung. Sie mag dich zwar gerade erst kennengelernt haben, aber sie weiß, dass sie dir vollkommen vertrauen kann …*\n\n- Im Kampagnenlogbuch wird der Eintrag *Mayu sucht allein nach Miyu* durchgestrichen. Notiere stattdessen *Mayu ist bis zum Schluss bei dir.*\n:::right\nFahre mit **Einführung 5** fort.\n:::\n\n**Einführung 5:** *Gerade als die Hitze, die dir in den Rücken brennt, nachlässt, mündet die Treppe endlich auf einen gepflasterten Vorplatz am Rande eines kleinen Tempels, der aus den höhlenartigen Tiefen des Berges herausragt, und der schneebedeckte Gipfel des Berges Kokoro kommt wieder in Sicht, wenn auch nun viel größer in deinem Blickfeld als bei deinem letzten Blick darauf. Seine zerklüftete Kante, wie ein mit Eis bedeckter Speer, zeichnet einen pfeilspitzenförmigen Schatten in den Himmel, wo sie den blutroten Mond verdeckt. Nahe dem Gipfel ragt eine hohe Turmspitze empor, die ihren eigenen Schatten auf die Plattform wirft, hinter der sich der an ihrem Fuß errichtete Schrein verbirgt.*\n\n*Im Inneren der Kathedrale schwebt ein formloses rotes Licht in der Luft direkt über dem Altar des Schreins; seine geisterhafte Essenz verschmilzt sanft mit dem Mondlicht, und dahinter steht ein großer Mann in priesterlicher Gewandung. Er scheint dich weder zu bemerken noch zu beachten und steht lediglich mit gesenktem, von einer Kapuze bedecktem Kopf und gefalteten Händen da, als wäre er tief ins Gebet versunken. \nDir kommt es so vor, als würdest du die Farben und Symbole auf seiner Robe als die der Vögte des August erkennen – jenem religiösen Orden, von dem du herausgefunden hast, dass er einst den Berg Kokoro als seine Heimat bezeichnete.*\n\n*Du öffnest den Mund, um den Priester anzusprechen, doch die Worte bleiben dir im Hals stecken, als ein scharfer Schmerz deine Eingeweide durchbohrt. Etwas stimmt nicht; es fühlt sich an, als würde sich etwas aus deiner Seele selbst herausreißen. Doch so schnell, wie er begonnen hat, lässt der Schmerz nach, und für einen Moment fühlst du nur eine angenehmen Taubheit. Ein Lichtfleck schießt aus deiner Brust empor und tanzt gen Himmel, rast mit rücksichtsloser Hingabe auf den blutroten Mond zu. Während du zusiehst, wie er immer kleiner wird, erinnerst du dich an Kanons Aufstieg im Schneesturm …*\n\n*und erst dann wird dir klar, dass die schmerzende Leere in deiner Brust darauf zurückzuführen ist, dass etwas sehr Kostbares fehlt – etwas, das du die ganze Zeit über törichterweise für selbstverständlich gehalten hast …\nIn dieser hohlen, tiefen Kluft in deinem Innersten hatte der Segen gewohnt – jener, den du damals in der Waldgrotte außerhalb des Dorfes Minakami empfangen hattest, was dir vorkommt, als liege es bereits ein ganzes Leben zurück. Damals hattest du nicht wirklich an Schicksal oder Vorsehung geglaubt … doch die Umstände rund um Takeshis Tod hatten dich in die Verzweiflung getrieben, also hattest du es auf gut Glück versucht. Wer könnte es dir verübeln? Ein Sprung ins Ungewisse … und seitdem waren die Wächter an deiner Seite.*\n \n*Wie sonst hättest du es so weit schaffen und all das vollbringen können, was du getan hast?\nDoch nun ist dieses Licht erloschen, die Tinte auf den Seiten der Geschichte ist getrocknet, und die Wächter von Onigawa und ihr göttliches Pantheon sind nichts weiter als eine verblassende Erinnerung…*\n\n- Jeder Ermittler muss jede **<i>Aspekt</i>**-Storyvorteilskarte aus seinem Deck entfernen.\n\n:::right\nFahre mit **Einführung 6** fort.\n:::\n\n**Einführung 6:** *„Glückwünsche sind angebracht“, ruft der Priester dir schließlich zu, und seine Stimme hallt unnatürlich wider, als käme sie von weit her: „Ich hätte nie erwartet, dass du es so weit schaffst, Außenseiter. Deine Beharrlichkeit ist bewundernswert. Aber sie ist ohne Bedeutung …* \n\n*Ein Donnerschlag hallt über dir und unterbricht die Rede des Priesters. Du blickst gerade noch rechtzeitig auf, um zu sehen, wie sich die Oberfläche des blutroten Mondes aufwirbelt, als wäre sie ein stürmisches Meer. Das Rot fließt von den Rändern des Mondes und sammelt sich zu einer kleinen Sichel in der Mitte der Kugel, und als sich der Sturm legt, taucht eine runenartige Gestalt aus der Mondoberfläche auf, wie eine mit Pinselstrichen gemalte Kalligraphie auf einem grauen Ziegelstein …*\n\n*Du hast keine Zeit, über die Bedeutung des Symbols nachzudenken, denn schon bald ertönen erneut Donnerschläge, und ein eingesperrter Blitz schießt aus der Mondoberfläche hervor und trifft die Turmspitze der Kathedrale. Der Boden unter dir explodiert, und du wirst durch das darauf folgende Beben von den Füßen gerissen.\nDie Geräusche der aufwirbelnden Erde machen dich taub, während du dich verzweifelt an deinem Fleckchen Erde festklammerst, und als du die Augen öffnest, stellst du fest, dass die Kathedrale und sogar der eisige Gipfel des Berges Kokoro selbst durch die Katastrophe zerschmettert wurden …*\n\n*Nun schweben winzige Inseln überall um dich herum in der Luft, umkreisen die tiefe Wunde im Berg und werden – wie du nur vermuten kannst – durch eine Kombination aus okkulter Energie und den Gravitationskräften des absinkenden Mondes in der Schwebe gehalten. Die Turmspitze der Kathedrale ist eingestürzt, und das Gebäude selbst wurde in zwei Hälften gespalten, doch die Insel, auf der sich der hintere Teil befindet, driftet plötzlich in dein Blickfeld. Eine schimmernde purpurrote Barriere umgibt sie nun, offenbar vom Priester errichtet, um sich zu verteidigen, als die Katastrophe zuschlug, doch als du einen Blick auf den Altar vor ihm erhaschst, lächelst du…*\n\n*Ein Teil von dir wusste schon immer, dass du diesen Ort erreichen würdest, aber es fühlt sich gut an, endlich einen konkreten Beweis zu haben, der deine Intuition bestätigt. Es fühlt sich gut an, Recht zu haben. Es fühlt sich gut an, Miyu zu sehen.\n… Doch sie ist nicht allein. Der Priester setzt sein Ritual fort und deutet auf den Körper des jungen Mädchens, das an seinen Altar gefesselt ist und für dich ärgerlicherweise unerreichbar bleibt, so nah sie dir auch sein mag …*\n\n*„… wie du siehst, bist du zu spät, um das Kind zu retten. Mein Meister hat sehr, sehr lange auf diesen Tag gewartet; die Wächter fürchteten seine Macht, doch ihr viel gepriesener Bund mit den Barbaren dieses Reiches konnte sein unvermeidliches Kommen bestenfalls hinauszögern. Nun sind sie alle vor ihm gefallen, einer nach dem anderen, und endlich tragen seine Machenschaften Früchte… Dieses blutige Opfer befeuert den Motor seiner Auferstehung. Er wird wieder unter uns wandeln und er wird seine Rache an unserer Welt nehmen, in vollem Umfang, für alle Zeit!“\nMiyus Körper wird von Schmerzen geschüttelt, als der Priester sein profanes Ritual nach kurzer Zeit wieder aufnimmt. Du weißt, dass sie es nicht mehr viel länger aushalten kann, also atmest du tief durch, um deine Nerven zu beruhigen...*\n\nÜberprüfe das Kampagnenlogbuch.\n\n- Falls *der Purpurrote Schmetterling den Geist der Mondkönigin gereinigt hat*, fahre mit **Einführung 7** fort.\n\n- Andernfalls fahre mit **Einführung 8** fort.\n\n**Einführung 7:** *Leise Glockentöne erklingen, und hinter dir kommt ein eisiger Sturm auf. Ein Lächeln huscht über deine Lippen, als du eine Präsenz hinter deinem Rücken spürst und der Wind dir in einer uralten Sprache ins Ohr flüstert... \n„Die Nacht bricht herein … und ich stehe an deiner Seite.“*\n \n- Der Ermittler, der die Storyvorteilskarte Königin Kaoru *(Erste der Nachtgefallenen)* seinem Deck hinzugefügt hat, darf dieses Szenario mit dieser Karte im Spiel beginnen. \n\nFahre mit **Einführung 8** fort.\n\n**Einführung 8:** *Das Rauschen der tosenden Brandung lenkt deine Aufmerksamkeit auf ein großes Becken auf eine der zerklüfteten Inseln…*\n\nÜberprüfe das Kampagnenlogbuch.\n\n- Falls *die Ermittler der Koi-Prinzessin begegnet sind*, fahre mit **Einführung 9** fort.\n\n- Andernfalls fahre mit **Einführung 10** fort.\n\n**Einführung 9:** *Ein Geysir schießt aus der Mitte des Wasserbeckens empor, und ein Schatten taucht aus dem Nebel auf. Du beobachtest, wie eine schuppige Kreatur über die Wasseroberfläche gleitet, unsicher, ob sie Freund oder Feind ist. Irgendetwas an ihr kommt dir bekannt vor, aber du erkennst sie erst, als sie die Stirn runzelt und deinem Blick mit einem feierlichen Nicken begegnet; wie auf ein Stichwort hin beginnt ein Schwarm bunter Fische um ihre Füße herum aus dem Wasser zu springen und im melodischen Takt eines Kriegsrufs zu planschen. Es scheint, als sei das Mädchen, dem du am Fluss begegnet bist, doch kein gewöhnliches Mädchen gewesen...*\n\n- Streiche in deinem Kampagnenlogbuch, dass *die Ermittler der Koi-Prinzessin begegnet sind*, und notiere stattdessen, dass *die Koi-Prinzessin auf deiner Seite ist.*\n:::right\nFahre mit **Einführung 11** fort.\n:::\n\n**Einführung 10:** *Ein Geysir schießt aus der Mitte des Teiches empor, und aus dem Nebel taucht ein Schatten auf. Ein großer, schlangenartiger Mann mit reptilienartigen Augen schreitet über die Wasseroberfläche und mustert dich misstrauisch. In seinen Armen trägt er den blassen Körper einer Frau, die in ein weißes, mit orangefarbenen Flecken übersätes Laken gehüllt ist. Sie rührt sich nicht, selbst als eine Schar bemalter Fische beginnt, im Wasser um sie herum zu planschen. Du beobachtest voller Staunen, wie der Purpurrote Schmetterling aus der Brust des Mädchens hervorbricht und zum Altar emporsteigt. Als er den Priester erreicht, löst er sich in Nichts auf und scheint so dem Ritual Kraft zu verleihen... Ist das ein gefallener Wächter, fragst du dich, oder lediglich ein opportunistischer Eindringling? Du vermutest, dass du keine Gelegenheit haben wirst, das herauszufinden...*\n\n- Im Kampagnenlogbuch wird notiert, dass *der Koi-Kaiser gegen dich ist.*\n\n:::right\nFahre mit **Einführung 11** fort.\n:::\n\n**Einführung 11:** *Du verlierst fast den Halt, als ein weiteres Beben durch das zerklüftete Gelände rollt; der Berg Kokoro stürzt unter deinen Füßen ein...*\n\nÜberprüfe das Kampagnenlogbuch.\n\n- Falls die Ermittler die heilige Gießerei sabotiert haben, fahre mit **Einführung 13** fort.\n\n- Andernfalls, fahre mit **Einführung 12** fort.\n\n**Einführung 12:** *Du blickst ein letztes Mal zurück und lässt den Blick über die Landschaft schweifen. Irgendwo unter euch brennt Onigawa unaufhörlich in der schwarzen Nacht. Jenseits seiner Mauern lenkt ein geisterhafter Fährmann sein Boot durch das schwarze Wasser des Flusses, und sein finsteres Treiben ist schwach von einem Balkon auf dem Gipfel eines Herrenhauses auf einem Hügel zu erkennen, wo eine geisterhafte Jungfrau sich so sehr nach einem verlorenen Geliebten sehnt, dass sie ein längst vergangenes Leben nicht loslassen kann...*\n\n*Eines ist klar: Was auch immer dieser Ort einst war, welche Pracht er auch immer einmal besessen haben mag – jetzt ist dies ein Reich der Dunkelheit. Die Wächter sind alle fort, und vielleicht waren sterbliche Wesen ihnen schon immer unwürdig...\nDie Bitterkeit droht dich zu überwältigen; in dir herrscht nun eine unverkennbare Leere, dort, wo einst der Aspekt wohnte, der dich führte... \nDoch in dieser Leere bleibt noch ein Funke zurück, und er versichert dir: Auch wenn sie besiegt sein mögen … die Wächter waren keine Narren.*\n\n*Instinktiv greift deine Hand nach einer der Klingen, die du am Berg Kokoro geschmiedet hast. Mondlicht fällt auf ihre scharfe Kante und taucht sie in ein reinigendes Licht. Für einen Moment glaubst du, fast etwas darin zu spüren … Etwas Zorniges … Etwas Mächtiges.*\n\n- Der Ermittler, der die Storyvorteilskarten Tsurugis Macht *(Klinge der Abenddämmerung)* und Midoris List *(Degen der Morgendämmerung)* seinem Deck hinzugefügt hat, darf eine davon auswählen, um dieses Szenario mit dieser Karte im Spiel zu beginnen.\n- Dieser Ermittler muss außerdem die Storyvorteilskarte Notfallplan des Pantheons *(Ein Funke ist noch übrig)* seinem Deck hinzufügen. Sie zählt nicht gegen die Deckgröße des Ermittlers. Schau dir die Rückseite dieser Karte erst an, wenn du dazu aufgefordert wirst.\n\n**Einführung 13:** *Ein weiteres Beben bringt dich ins Wanken; deine Einmischung in den \"normalen“ Betrieb der Gießerei hat in Verbindung mit der jüngsten Katastrophe den Vulkan offensichtlich destabilisiert. Du kannst nur hoffen, dass sich diese Aktion im bevorstehenden Kampf auszahlen wird. Vorerst hast du alle Vorbereitungen getroffen, die möglich waren. Jetzt kommt es darauf an …*\n\n- Falls Yuki Yagami einer der Ermittler in dieser Kampagne ist, fahre mit dem **Szenario-Zwischenspiel: Die wiedergeborene Göttin** fort.\n- Andernfalls fahre mit der **Vorbereitung** fort.\n\n\n<div class=\"codex\" style=\"border: solid rgb(29, 74, 125);border-radius: 10mm;margin: 0em;box-shadow: inset 0 0 2em rgb(29, 74, 125);background-color: rgba(29, 74, 125, 0.15);\">\n<h3 align=center style=\"color: rgb(29, 74, 125);\">Nur lesen, wenn du dazu angewiesen wirst:</h3>\n<h4 align=center style=\"color: rgb(29, 74, 125);\">Szenario-Zwischenspiel: Die wiedergeborene Göttin</h3>\n\nDer Ermittler, der Yuki Yagami spielt, muss diesen Abschnitt vorlesen:\n<br><br>\n<i> Eine sanfte Gelassenheit hüllt deinen Geist wie eine Decke ein, und du weißt, dass die Wächter dich nicht im Stich gelassen haben. Ein helles Licht strahlt aus deinem Inneren, umhüllt dich mit warmer Strahlkraft, und als es vergeht, bist du verwandelt; hier, an diesem Ort, bist du zu dem geworden, wozu du schon immer bestimmt warst. All diese Macht … Dafür war sie schon immer bestimmt. Dafür bist du bestimmt …</i>\n<br><br>\nDu beginnst dieses Szenario mit Apotheose <i>(Lebendige Heiligkeit)</i> im Spiel.\n \n<p style=\"text-align: right;\">Fahre mit der <b>Vorbereitung</b> fort.</p>\n</div>\n\n\n###Vorbereitung\n\n- Es werden alle Karten aus den folgenden Begegnungssets herausgesucht: *Die schwarze Ernte*, *[encounter:d3417fd3-e4fe-4e38-ab55-302b7ab38ee9:name]*, *[encounter:8e627222-336f-4147-be8d-26467016ab45:name]*, *[encounter:ab1646e6-575e-430a-b26a-1a66ac40e727:name]*, *[encounter:1446ab7b-f63b-4df9-8ea2-5495496365e9:name]* und *[encounter:d2d065e4-80a5-4c26-93c1-6d4d507e9e2a:name]*. Diese Sets sind an folgenden Symbolen zu erkennen: \n:::center\n[encounter:caac83c5-2469-4f8d-8806-3090b1c263e8:icon]&nbsp;&nbsp;[encounter:d3417fd3-e4fe-4e38-ab55-302b7ab38ee9:icon]&nbsp;&nbsp;[encounter:8e627222-336f-4147-be8d-26467016ab45:icon]&nbsp;&nbsp;[encounter:ab1646e6-575e-430a-b26a-1a66ac40e727:icon]&nbsp;&nbsp;[encounter:1446ab7b-f63b-4df9-8ea2-5495496365e9:icon]&nbsp;&nbsp;[encounter:d2d065e4-80a5-4c26-93c1-6d4d507e9e2a:icon]\n:::\n\n- Folgende Karten werden als nicht im Spiel befindlich beiseite gelegt: Die Begegnungssets *[encounter:8e627222-336f-4147-be8d-26467016ab45:name]*, *[encounter:d2d065e4-80a5-4c26-93c1-6d4d507e9e2a:name]* und *[encounter:ab1646e6-575e-430a-b26a-1a66ac40e727:name]*.\n- Folgende Orte werden ins Spiel gebracht *(siehe dazu die Abbildung auf Seite 38)*: Zerbrochenes Felsenriff, Torii-Nexus, Überlaufendes Becken, Terramorpher Regenwald, Offenes Weltenknäuel, Zerstörte Kathedrale und Profaner Altar. <br>\n <bullet> Der Ermittlungsleiter beginnt das Spiel am Ort Zerbrochenes Felsenriff.<br>\n<bullet> Jeder andere Ermittler muss jeweils einen anderen Zerstört-Ort wählen, an dem er das Spiel beginnt.\n- Bringe die Gegner Hirte der Schwarzen Ernte *(Der letzte Vogt)* und Miyu Tachibana *(Verloren und Gefunden)* an Profaner Altar ins Spiel.\n- Lies den Abschnitt Opferdeck auf dieser Seite, mische dann das Begegnungsset *[encounter:1446ab7b-f63b-4df9-8ea2-5495496365e9:name]* und bringe es verdeckt als separates Opferdeck ins Spiel, das neben die Szenariokarte gelegt wird. Decke anschließend nacheinander die obersten vier Karten des Opferdecks auf und füge sie dem Opferbereich hinzu (in der Reihenfolge, in der sie aufgedeckt wurden).\n- Überprüfe das Kampagnenlogbuch und nimm folgende Anpassungen vor:\n<br><bullet> Falls *der Koi-Kaiser gegen dich ist*, bringe den beiseitegelegten Gegner Koi-Kaiser *(Wiedererstarkter Souverän)* am Ort Überlaufendes Becken ins Spiel, mische den beiseitegelegten Gegner Koi-Prinzessin *(Wässriges Grab)* in das Opferdeck und entferne die beiseitegelegte Storyvorteilskarte Koi-Prinzessin *(Witwe der verlorenen Hoffnung)* aus dem Spiel.\n<br><bullet> Falls *die Koi-Prinzessin auf deiner Seite ist*, bringe die beiseitegelegte Storyvorteilskarte Koi-Prinzessin *(Witwe der verlorenen Hoffnung)* am Ort Überlaufendes Becken ins Spiel, mische den beiseitegelegten Gegner Koi-Kaiser *(Wiedererstarkter Souverän)* in den Opferstapel und entferne den beiseitegelegten Gegner Koi-Prinzessin *(Wässriges Grab)* aus dem Spiel. \n\n- Falls die Ermittler *den Gipfel des Berges Kokoro allein erreicht haben*, lege 1 <curse>-Marker in den Chaosbeutel und entferne die Storyvorteilskarte Mayu Tachibana *(Ermittler in Ausbildung)* aus dem Spiel.\n- Falls *Mayu bis zum Schluss bei euch ist*, lege 1 <blessing>-Marker in den Chaosbeutel und bringe die Storyvorteilskarte Mayu Tachibana *(Ermittler in Ausbildung)* am Torii-Nexus ins Spiel.\n- Die übrigen Begegnungskarten werden zum Begegnungsdeck zusammengemischt.\n- Das Spiel kann nun beginnen.\n\n\n###Opferdeck\n\nDieses Szenario enthält ein separates Begegnungsdeck, das Opferdeck, das Begegnungskarten mit dem neuen Schlüsselwort „Opfer“ enthält. Karten mit dem Schlüsselwort „Opfer“ lösen ihren aufgedruckten „Opfer“-Effekt aus, wenn sie aus dem Spiel entfernt werden. In diesem Szenario wird außerdem eine neue Spielzone eingeführt, der „Opferbereich“. Offen ausgelegte Karten im Opferbereich gelten als im Spiel befindlich und können durch Effekte von Szenariokarten mit Markern belegt werden, gelten jedoch nicht als an einem bestimmten Ort befindlich und können von Ermittlern nicht beeinflusst werden, es sei denn, dies wird durch auf Szenariokarten aufgedruckte Effekte ausdrücklich ermöglicht. Im Opferbereich sollten sich stets vier Karten befinden. Wird eine Karte aus dem Opferbereich entfernt (in der Regel durch einen Effekt einer Szenariokarte), verschiebt man die verbleibenden Karten nach vorne, bis die zuerst aufgedeckte Karte die erste Position im Opferbereich einnimmt. Diese Position wird auch als derzeitiges Opfer bezeichnet. Anschließend wird die oberste Karte des Opferdecks aufgedeckt und an das Ende des Opferbereichs angelegt. \nWiederholt diesen Vorgang, bis sich vier Karten im Opferbereich befinden. Wenn die Ermittler durch einen Spieleffekt angewiesen werden, ein Opfer darzubringen, muss der Ermittlungsleiter den auf dem derzeitigen Opfer (der Karte ganz links im Opferbereich) aufgedruckten Opfereffekt abhandeln und diese Karte anschließend aus dem Spiel entfernen.\n\n###Harmonie-Marker\n\nDieses Szenario führt eine neue Art von Chaosmarker ein: den Harmonie-(<font face='AHLCGHarmony'>Y</font>)-Marker. <font face='AHLCGHarmony'>Y</font>-Marker gelten sowohl als <blessing>- als auch als <curse>-Marker. Bei Fertigkeitsproben kann der ausführende Ermittler wählen, als welche der beiden Arten er sie abhandeln möchte. Abgehandelte <font face='AHLCGHarmony'>Y</font>-Marker werden nach Ende der Probe in den Chaosbeutel zurückgelegt.\n\n<br>\n\n###Platzierung der Orte in „Die schwarze Ernte“\n\n:::image-block\n./Exports/caac83c5-2469-4f8d-8806-3090b1c263e8_location_overview_0.png\n:::\n\n\n\n<br>\n:::standalone\n## Einzelspielszenario<br>\n\nFalls ein Einzelspielszenario gespielt wird und keine anderen Vorbereitungs- und Auflösungs-Anweisungen verwendet werden sollen, können die unten stehenden Informationen bei der Vorbereitung und während des Spiels dieses Szenarios verwendet werden:\n\n- Der Chaosbeutel wird aus folgenden Markern zusammengestellt:                                                              \n    0, 0, -1, -1, -2, -2, -3,-4,-5, <skull>, <cultist>, <tablet>, <elder_thing>, <auto_fail>, <elder_sign>.\n- *Mayu wurde im verborgenen Dorf getötet.*\n- *Die Ermittler haben Mayu ein Versprechen gegeben.*\n- *Die Yuki-onna hat den Purpurroten Schmetterling verbannt.*\n- *Die Ermittler haben die heilige Gießerei sabotiert.*\n- * Der Koi-Kaiser ist gegen dich.*\n:::\n\n<br>\n:::resolution\n## Achtung!<br><div style=\"font-size:18px;\">Nicht vor Ende des Szenarios weiterlesen.\n\n**Falls keine Auflösung erreicht wurde, weil alle Ermittler besiegt wurden:** Lies **Auflösung 4**.\n\n**Auflösung 1:** Überprüfe das Kampagnenlogbuch und fahre dann mit dem entsprechenden Abschnitt fort:\n\n- Falls *Mayu allein nach Miyu sucht* oder *Mayu bis zum Ende bei dir ist*, fahre mit **Epilog V: Die Hüter des Bundes** fort.\n- Falls *die Ermittler Mayu ein Versprechen gegeben haben*, fahre mit **Epilog IV: Die Jungfrauen von Minakami** fort.\n- Andernfalls fahre mit **Epilog III: Zusammen, für immer** fort.\n\n**Auflösung 2:** Überprüfe das Kampagnenlogbuch und fahre dann mit dem entsprechenden Abschnitt fort:\n\n- Falls *die Ermittler Mayu ein Versprechen gegeben haben* oder *Mayu bis zum Schluss bei euch ist*, fahre mit **Epilog IV: Die Jungfrauen von Minakami** fort.\n- Andernfalls fahre mit **Epilog III: Zusammen, für immer** fort.\n\n**Auflösung 3:** Überprüfe das Kampagnenlogbuch und fahre dann mit dem entsprechenden Abschnitt fort:\n\n- Falls *die Ermittler Mayu ein Versprechen gegeben haben* oder *Mayu bis zum Ende bei euch ist* oder *Mayu allein nach Miyu sucht*, fahre mit **Epilog II: Gebrochene Versprechen** fort.\n- Andernfalls fahre mit **Epilog I: Die Geister von Onigawa** fort.\n\n**Auflösung 4:**\n\n- Fahre mit **Epilog I: Die Geister von Onigawa** fort.\n\n<img src=\"{./images/Guide_page_39.png}\" style=\"width: 49%; height: 51%; position: fixed; bottom: 0px; right: 0px; colspan: 0;\">\n",
                     "type": "scenario"
                 },
                 {

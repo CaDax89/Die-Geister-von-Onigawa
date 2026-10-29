@@ -186,7 +186,7 @@
             "front": {
                 "clues": "?",
                 "flavor_text": "You find yourself entranced by the mysterious creature that has emerged from Takeshi's grave. Its softly fluttering wings emit a warm glow as it hypnotically dances around you, but when you reach out for it, it recoils from your touch. Is it afraid of you? Or leading you somewhere...?",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/Die-Geister-von-Onigawa/shoggoth_export/images/nichelle-nolan-crimsonbutterfly-finalrgb-portfolio-artstation.jpg",
+                "illustration": "./images/nichelle-nolan-crimsonbutterfly-finalrgb-portfolio-artstation.jpg",
                 "illustration_pan_x": 854.0,
                 "illustration_pan_y": -308.0,
                 "illustration_scale": 0.809,
@@ -5695,7 +5695,7 @@
                 "clues": "19",
                 "doom": "19<per>",
                 "flavor_text": "Despite your amateur interventions---or, perhaps, because of them---Moloch walks the world once more, and he has no purpose other than to gorge himself on Onigawa's misery. Creation itself trembles; without the strength of the Guardians left to oppose him, is there any hope...? ",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/Die-Geister-von-Onigawa/shoggoth_export/images/agenda full.jpg",
+                "illustration": "./images/agenda full.jpg",
                 "illustration_pan_x": -28.0,
                 "illustration_pan_y": -448.0,
                 "illustration_scale": 1.92,
@@ -8809,6 +8809,9 @@
             "name": "encounter-forestfrights-b.png",
             "id": "b9245037-28ef-4862-8c63-db91684ab522",
             "icon": "./images/encounter-forestfrights-b.png",
+            "meta": {
+                "tts": {}
+            },
             "card_amount": 5
         },
         {

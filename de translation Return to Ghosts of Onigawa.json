@@ -263,7 +263,7 @@
                     "mystic"
                 ],
                 "cost": "0",
-                "flavor_text": "„Wenn du mir in die Augen schaust … was siehst du dann?“<br> „Das sind nicht deine Augen.“",
+                "flavor_text": "„Wenn du mir in die Augen schaust… was siehst du dann?“<br> „Das sind nicht deine Augen.“",
                 "icons": "QQ",
                 "illustration": "./images/FDwYWPNVgAEAc56.jpeg",
                 "illustrator": "Illus. Gu Zheng Wei",
@@ -295,7 +295,7 @@
                 "illustration_scale": 2.905,
                 "illustrator": "Illus. Jeffrey Smith",
                 "level": "4",
-                "text": "Schnell. Spiele diese Karte, nachdem die Fertigkeitsprobe eines Ermittlers misslingt. \nDer ausführende Ermittler darf bis zu X Karten ziehen, wobei X die Zahl ist, um die die Probe misslungen ist.",
+                "text": "Schnell. Spiele diese Karte, nachdem die Fertigkeitsprobe eines Ermittlers misslingt. \nDer ausführende Ermittler darf bis zu X Karten ziehen. X ist die Zahl, um die die Probe misslungen ist.",
                 "traits": "Erkenntnis.",
                 "type": "event"
             },
@@ -394,6 +394,7 @@
         {
             "name": "<unique>Hundehaar",
             "id": "cbe9972d-3ee1-4576-a8d1-dd2b7244b980",
+            "investigator": "Shinobu Sanosuke",
             "project_number": 19,
             "front": {
                 "classes": [
@@ -420,6 +421,7 @@
         {
             "name": "Shinobu Sanosuke",
             "id": "13d15232-a017-4d43-851a-6af7bb00497e",
+            "investigator": "Shinobu Sanosuke",
             "project_number": 6,
             "front": {
                 "classes": [
@@ -463,8 +465,8 @@
                 ],
                 "flavor_text": "Shinobu war ein mittelloser Säufer, als er vom legendären „betrunkenen Meister“ Hiro Hachimura unter seine Fittiche genommen wurde. Unter der Anleitung seines Meisters entwickelte Shinobu schnell ein Talent für die handwerkliche Braukunst, doch Shinobus „Markenzeichen“ – ein mit Absinth angereichertes Gebräu – erwies sich selbst für seinen Meister als zu gewaltig. Seitdem der „betrunkene Meister“ unerwartet ins Koma fiel, sucht sein Schüler nach immer exotischeren Zutaten, um sein esoterisches Brauarsenal zu erweitern, in der Hoffnung, eines Tages eine Tinktur zu brauen, die seinen Meister zurückbringen könnte …",
                 "illustration": "./images/bm-solari-dm1.jpg",
-                "illustration_pan_x": -15.0,
-                "illustration_pan_y": 70.0,
+                "illustration_pan_x": -164.0,
+                "illustration_pan_y": 35.0,
                 "illustration_scale": 0.705,
                 "text": "<b>Deckgröße:</b> 30\n<b>Wahl der Klassen:</b> Wähle beim Deckbau 2 Klassen: Wächter (<guardian>), Sucher (<seeker>), Schurke (<rogue>), Mystiker (<mystic>) oder Überlebender (<survivor>).\n<b>Deckbau-Optionen:</b> <t>Illegal</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5, Karten deiner gewählten Klassen Stufe 0-3.\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): Hundehaar, Kalter Entzug, 1 zufällige Grundschwäche.\n<b>Zusätzliche Einschränkungen:</b> Keine <t>Gelassenheit</t>-Vorteilskarten.",
                 "type": "investigator_back"
@@ -490,6 +492,7 @@
         {
             "name": "Kalter Entzug",
             "id": "335308b8-2a71-4fdc-85ef-a90e5bd3b895",
+            "investigator": "Shinobu Sanosuke",
             "project_number": 5,
             "front": {
                 "name": "<unique><name>",
@@ -502,7 +505,7 @@
                 "illustration_pan_y": -59.0,
                 "illustration_scale": 0.879,
                 "illustrator": "Illus. Sam Hogg",
-                "text": "<rev> Entferne alle Vorräte von Hundehaar und bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Sobald du einen Vorrat auf Hundehaar platzieren würdest: Platziere es stattdessen auf <name>.\n<action> Falls mindestens 3 Vorräte auf dieser Karte liegen: Lege Kalter Entzug ab.",
+                "text": "<rev> Entferne alle Vorräte von Hundehaar und bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Sobald du einen Vorrat auf Hundehaar platzieren würdest: Platziere es stattdessen auf <name>.\n<action> Falls mindestens 3 Vorräte auf dieser Karte liegen: Lege <name> ab.",
                 "traits": "Gift.",
                 "type": "treachery"
             },

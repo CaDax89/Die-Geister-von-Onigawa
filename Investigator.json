@@ -505,7 +505,7 @@
             "front": {
                 "agility": "4",
                 "classes": [
-                    "mystic"
+                    "parallel_mystic"
                 ],
                 "combat": "2",
                 "flavor_text": "\"I made a promise to my sister...\"",
@@ -1338,7 +1338,7 @@
                 ],
                 "flavor_text": "\"Read ’em and weep!\"",
                 "icons": "Q",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/Die-Geister-von-Onigawa/shoggoth_export/images/Hanley-Leng-3d-art-mahjong-Маджонг-3934270.jpeg",
+                "illustration": "./images/Hanley-Leng-3d-art-mahjong-Маджонг-3934270.jpeg",
                 "illustration_pan_x": -628.0,
                 "illustration_pan_y": -194.0,
                 "illustration_scale": 1.529,
@@ -1395,6 +1395,9 @@
                 "illustrator": "Illus. Jonathon Bick",
                 "level": "0",
                 "slot": "1 Hand",
+                "slots": [
+                    "hand"
+                ],
                 "subtitle": "Disarmed and Dangerous",
                 "text": "Permanent. Purchase at deck creation.\nWhen you purchase <name>, suffer 2 physical trauma.\nYou have 3 additional hand slots, which can only be used to hold <t>Tool</t> assets that take up exactly 1 hand slot.",
                 "title": "<unique><name>",
@@ -1525,7 +1528,7 @@
                 "cost": "4",
                 "flavor_text": "",
                 "icons": "CCAA",
-                "illustration": "C:/Users/cdpog/Documents/GitHub/Die-Geister-von-Onigawa/shoggoth_export/images/Untitled-new.png",
+                "illustration": "./images/Untitled-new.png",
                 "illustration_pan_x": 119.0,
                 "illustration_pan_y": 77.0,
                 "illustration_scale": 2.606,
@@ -2162,11 +2165,11 @@
                 "cost": "1",
                 "flavor_text": "<size 7.6>\"Our bonds grew together like roots underground until at last we found that we were one tree and not two.\"",
                 "icons": "WW",
-                "illustration": "./images/1185799-illustration-fantasy-art-lake-water-artwork-fish-blue-Yin-and-Yang-Avatar-The-Last-Airbender-vortex-lily-pads-ART-screenshot-computer-wallpaper-fictional-character-frac.jpg",
+                "illustration": "./images/1185799.jpg",
                 "illustration_pan_x": -207.0,
                 "illustration_pan_y": 7.0,
                 "illustration_scale": 1.152,
-                "illustrator": "Illus. Unknown",
+                "illustrator": "Illus. moni158",
                 "level": "3",
                 "text": "Fast. Play only during your turn.\nChoose an investigator. The next action you perform this turn may be performed as if you were at the chosen investigator's location. Remove <name> from the game.",
                 "traits": "Paradox. ",
