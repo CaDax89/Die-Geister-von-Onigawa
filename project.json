@@ -9,7 +9,7 @@
         {
             "name": "The Hidden Village",
             "id": "60e362fd-8ac7-4fff-94ae-6a9f9f487dcf",
-            "project_number": "1",
+            "project_number": 1,
             "front": {
                 "chaos_extra": "Untended Graves",
                 "chaos_extra_region": {
@@ -85,7 +85,7 @@
         {
             "name": "Into the Wild",
             "id": "e2f5d4db-bb23-43a3-90d1-8dda38bfa574",
-            "project_number": "2",
+            "project_number": 2,
             "front": {
                 "doom": "4",
                 "flavor_text": "Though the slight chill nipping at your extremities urges you to tread carefully, you are certain you are alone here; the only sound that pierces the veil of eerie silence blanketing these woods is your own heartbeat.",
@@ -110,7 +110,7 @@
         {
             "name": "Foggy Fettles",
             "id": "91a0ea77-d3ad-4a9d-b4ac-9a81f9f42211",
-            "project_number": "3",
+            "project_number": 3,
             "front": {
                 "doom": "7",
                 "flavor_text": "Frankly, the foggy forest frequently feels far from friendly. From underfoot, the fetid fumes of fallow, festering fecundity fuel a frantic fight-or-flight frenzy, and further forth from your flank, the fluttering of foul flies frequenting the fragile, frozen-over flower fields fully forms a flickering flash of fickle fear. Forward feels foolhardy, but furtively fleeing for freedom feels futile...",
@@ -133,7 +133,7 @@
         {
             "name": "Silent Night",
             "id": "2ecb2ccb-a456-4712-92df-4aa26f1c5b19",
-            "project_number": "4",
+            "project_number": 4,
             "front": {
                 "doom": "8",
                 "flavor_text": "\n<center><b> ...?</b>\n\n",
@@ -158,7 +158,7 @@
         {
             "name": "Funeral for a Friend",
             "id": "c53361f3-af93-4aed-967e-a5984046e4f6",
-            "project_number": "5",
+            "project_number": 5,
             "front": {
                 "clues": "?",
                 "flavor_text": "The villagers mentioned Takeshi was buried somewhere in this forest, but neglected to elaborate further. Somehow, you feel like you'll know his final resting place when you see it...",
@@ -182,7 +182,7 @@
         {
             "name": "Requiem",
             "id": "6eaaddb8-8842-4e69-bdab-9302f0ecbb9a",
-            "project_number": "6",
+            "project_number": 6,
             "front": {
                 "clues": "?",
                 "flavor_text": "You find yourself entranced by the mysterious creature that has emerged from Takeshi's grave. Its softly fluttering wings emit a warm glow as it hypnotically dances around you, but when you reach out for it, it recoils from your touch. Is it afraid of you? Or leading you somewhere...?",
@@ -207,7 +207,7 @@
         {
             "name": "Between Angels and Insects",
             "id": "eaf09e57-f187-4dff-a478-813b46a5d3f6",
-            "project_number": "7",
+            "project_number": 7,
             "front": {
                 "clues": "?",
                 "flavor_text": "Something has come alive in the forest, and The Crimson Butterfly is clearly unsettled by it. Unfortunately, the forest feels like it has \"rearranged\" itself while you've been inside it, somehow obscuring the exit. You strongly feel you should find your way back to the gate...before whatever is out there finds you.",
@@ -236,7 +236,7 @@
         {
             "name": "Forest Threshold",
             "id": "b93eca6d-3eb4-44a6-ace5-f3fab1171d4c",
-            "project_number": "8",
+            "project_number": 9,
             "front": {
                 "clues": "0",
                 "connection": "diamond",
@@ -264,17 +264,18 @@
                 "illustration_pan_x": -125.0,
                 "illustration_pan_y": 127.0,
                 "illustration_scale": 0.925,
+                "illustrator": "Illus. Unknown",
                 "text": "",
                 "traits": "Woods.",
                 "type": "location_back"
             },
-            "encounter_number": "8",
+            "encounter_number": "9",
             "encounter_set": "9ef16d54-081f-4d28-8caf-e31da585efb1"
         },
         {
             "name": "Grotto of the Guardians",
             "id": "50534a68-5fe9-4003-ae5b-f8f6df3c843c",
-            "project_number": "9",
+            "project_number": 10,
             "front": {
                 "clues": "1",
                 "connection": "clover",
@@ -302,17 +303,18 @@
                 "illustration_pan_x": -1103.0,
                 "illustration_pan_y": -115.0,
                 "illustration_scale": 0.992,
+                "illustrator": "Illus. Connor Sheehan",
                 "text": "",
                 "traits": "Woods. Sanctum.",
                 "type": "location_back"
             },
-            "encounter_number": "9",
+            "encounter_number": "10",
             "encounter_set": "9ef16d54-081f-4d28-8caf-e31da585efb1"
         },
         {
             "name": "Torii Gate",
             "id": "ccb8ec79-4589-41be-b8ac-c772546ce07d",
-            "project_number": "10",
+            "project_number": 18,
             "front": {
                 "clues": "0",
                 "connection": "hourglass",
@@ -351,13 +353,13 @@
                 "traits": "Woods.",
                 "type": "location"
             },
-            "encounter_number": "10",
+            "encounter_number": "18",
             "encounter_set": "9ef16d54-081f-4d28-8caf-e31da585efb1"
         },
         {
             "name": "Bamboo Avenue",
             "id": "8b845c30-7ba8-4360-a2f9-12afae228ac7",
-            "project_number": "11",
+            "project_number": 8,
             "front": {
                 "clues": "1<per>",
                 "connection": "slash",
@@ -386,18 +388,18 @@
                 "illustration_pan_x": -359.0,
                 "illustration_pan_y": 217.0,
                 "illustration_scale": 0.711,
-                "illustrator": "Illus. Unknown",
+                "illustrator": "Illus. Claudia Prommegger",
                 "text": "",
                 "traits": "Woods.",
                 "type": "location_back"
             },
-            "encounter_number": "11",
+            "encounter_number": "8",
             "encounter_set": "9ef16d54-081f-4d28-8caf-e31da585efb1"
         },
         {
             "name": "Winding Wend",
             "id": "44ed80f6-c735-49b0-8050-eadc3aeb6904",
-            "project_number": "12",
+            "project_number": 20,
             "front": {
                 "clues": "1<per>",
                 "connection": "triangle",
@@ -426,18 +428,18 @@
                 "illustration_pan_x": -359.0,
                 "illustration_pan_y": 217.0,
                 "illustration_scale": 0.711,
-                "illustrator": "Illus. Unknown",
+                "illustrator": "Illus. Claudia Prommegger",
                 "text": "",
                 "traits": "Woods.",
                 "type": "location_back"
             },
-            "encounter_number": "12",
+            "encounter_number": "20",
             "encounter_set": "9ef16d54-081f-4d28-8caf-e31da585efb1"
         },
         {
             "name": "Midori's Rise",
             "id": "7af62765-ff3b-477f-8129-7dd9251fddd2",
-            "project_number": "13",
+            "project_number": 13,
             "front": {
                 "clues": "2<per>",
                 "connection": "square",
@@ -471,7 +473,7 @@
                 "illustration_pan_x": -359.0,
                 "illustration_pan_y": 217.0,
                 "illustration_scale": 0.711,
-                "illustrator": "Illus. Unknown",
+                "illustrator": "Illus. Claudia Prommegger",
                 "text": "",
                 "traits": "Woods.",
                 "type": "location_back"
@@ -482,7 +484,7 @@
         {
             "name": "Jiraiya's Redoubt",
             "id": "c23fdae3-15d9-47e4-95d6-d47b1fdb03a3",
-            "project_number": "14",
+            "project_number": 12,
             "front": {
                 "clues": "2<per>",
                 "connection": "circle",
@@ -516,18 +518,18 @@
                 "illustration_pan_x": -359.0,
                 "illustration_pan_y": 217.0,
                 "illustration_scale": 0.711,
-                "illustrator": "Illus. Unknown",
+                "illustrator": "Illus. Claudia Prommegger",
                 "text": "",
                 "traits": "Woods.",
                 "type": "location_back"
             },
-            "encounter_number": "14",
+            "encounter_number": "12",
             "encounter_set": "9ef16d54-081f-4d28-8caf-e31da585efb1"
         },
         {
             "name": "The Last Scion",
             "id": "6f7188c7-4a51-446b-ba6c-f84090206c3c",
-            "project_number": "15",
+            "project_number": 16,
             "front": {
                 "clues": "2<per>",
                 "connection": "heart",
@@ -556,18 +558,18 @@
                 "illustration_pan_x": -359.0,
                 "illustration_pan_y": 217.0,
                 "illustration_scale": 0.711,
-                "illustrator": "Illus. Unknown",
+                "illustrator": "Illus. Claudia Prommegger",
                 "text": "",
                 "traits": "Woods.",
                 "type": "location_back"
             },
-            "encounter_number": "15",
+            "encounter_number": "16",
             "encounter_set": "9ef16d54-081f-4d28-8caf-e31da585efb1"
         },
         {
             "name": "Hero's Surrender",
             "id": "0db64187-8027-4cee-9b50-f16a43e17a14",
-            "project_number": "16",
+            "project_number": 11,
             "front": {
                 "clues": "1<per>",
                 "flavor_text": "The size of the marker indicates the importance of the person it honors; this couldn't possibly be your friend.",
@@ -596,13 +598,13 @@
                 "traits": "Graveyard.",
                 "type": "location_back"
             },
-            "encounter_number": "16",
+            "encounter_number": "11",
             "encounter_set": "9ef16d54-081f-4d28-8caf-e31da585efb1"
         },
         {
             "name": "The Lonely Cairn",
             "id": "16cf7e96-3c57-426f-b9eb-afc4c4469a99",
-            "project_number": "17",
+            "project_number": 17,
             "front": {
                 "clues": "1<per>",
                 "flavor_text": "Somehow, you know he's here...",
@@ -638,7 +640,7 @@
         {
             "name": "Widow's Respite",
             "id": "c7b19421-9ab6-4ef9-9059-6fd41f287690",
-            "project_number": "18",
+            "project_number": 19,
             "front": {
                 "clues": "1<per>",
                 "flavor_text": "This cluster of markers seems to represent a family; \nTakeshi never married, as far as you know.",
@@ -667,13 +669,13 @@
                 "traits": "Graveyard.",
                 "type": "location_back"
             },
-            "encounter_number": "18",
+            "encounter_number": "19",
             "encounter_set": "9ef16d54-081f-4d28-8caf-e31da585efb1"
         },
         {
             "name": "Shrine of the Moon",
             "id": "84f631aa-4f52-4d2f-9ef4-764adbb0680d",
-            "project_number": "19",
+            "project_number": 14,
             "front": {
                 "clues": "1<per>",
                 "connection": "moon",
@@ -706,13 +708,13 @@
                 "traits": "Woods.",
                 "type": "location_back"
             },
-            "encounter_number": "19",
+            "encounter_number": "14",
             "encounter_set": "9ef16d54-081f-4d28-8caf-e31da585efb1"
         },
         {
             "name": "Shrine of the Sun",
             "id": "57f7d241-7470-4995-9d33-44320089a803",
-            "project_number": "20",
+            "project_number": 15,
             "front": {
                 "clues": "1<per>",
                 "connection": "star",
@@ -745,13 +747,13 @@
                 "traits": "Woods.",
                 "type": "location_back"
             },
-            "encounter_number": "20",
+            "encounter_number": "15",
             "encounter_set": "9ef16d54-081f-4d28-8caf-e31da585efb1"
         },
         {
             "name": "The Crimson Butterfly",
             "id": "e79997e7-ce58-45ac-b3ac-4f240ced249a",
-            "project_number": "21",
+            "project_number": 21,
             "front": {
                 "attack": "?",
                 "combat": "?",
@@ -780,7 +782,7 @@
         {
             "name": "Vengeful Echo",
             "id": "0cf9a1ed-bb94-4b09-933b-bfcb46c89456",
-            "project_number": "22",
+            "project_number": 22,
             "front": {
                 "attack": "4",
                 "combat": "4",
@@ -808,7 +810,7 @@
         {
             "name": "The House on the Hill",
             "id": "2eb73518-9fe7-4e00-8bed-f9d5047fd63e",
-            "project_number": "23",
+            "project_number": 23,
             "front": {
                 "chaos_extra": "Explore Deck",
                 "chaos_extra_region": {
@@ -884,7 +886,7 @@
         {
             "name": "Stranger Danger",
             "id": "8f0e6e41-31a5-4b22-9518-9fff0baa2245",
-            "project_number": "24",
+            "project_number": 24,
             "front": {
                 "doom": "19",
                 "flavor_text": "The moon's pale light casts long shadows down the village's narrow alleyways and there is a rustic, time-lost quality to its decor and architecture that unnerves you; at first glance, the village seems deserted, but if the girls have been taken here, you'd better be prepared for anything... ",
@@ -908,7 +910,7 @@
         {
             "name": "A Permanent Curfew",
             "id": "9c2b2e77-302c-4aff-8e02-48f91284e5f3",
-            "project_number": "25",
+            "project_number": 25,
             "front": {
                 "clues": "4<per>",
                 "flavor_text": "The manor on the hill seemed to be the source of the screams you heard, but you'll need to figure out how to carve a path through the cramped village in order to reach it... Hopefully, before it's too late.",
@@ -932,7 +934,7 @@
         {
             "name": "Keeping Up",
             "id": "47850c36-6532-419f-a153-5c4279cdbc51",
-            "project_number": "26",
+            "project_number": 26,
             "front": {
                 "clues": "?",
                 "flavor_text": "Using the information on the notes you found, you should now be able to make it to the house on the hill if you can get to those stairs...",
@@ -957,7 +959,7 @@
         {
             "name": "The Hardest Homecoming",
             "id": "50b08639-7409-4e03-ad34-f0ead81a51c6",
-            "project_number": "27",
+            "project_number": 27,
             "front": {
                 "clues": "?",
                 "flavor_text": "The dim light scatters inside the musty mansion's narrow halls, leaving you feeling more than slightly claustrophobic. The source of the screams you heard earlier must lay further within...but is anybody actually home?",
@@ -982,7 +984,7 @@
         {
             "name": "The Reception",
             "id": "3ac58838-4ba5-4c9d-88c9-674d6215b9e9",
-            "project_number": "28",
+            "project_number": 28,
             "front": {
                 "clues": "<dash>",
                 "flavor_text": "The young girl that the ghostly maiden has in her clutches must be one of the missing twins from Minakami. If you act quickly, you might still be able to save her...",
@@ -1007,7 +1009,7 @@
         {
             "name": "Torii Gate",
             "id": "597a23c4-44b9-41ef-b906-61af73be97d7",
-            "project_number": "29",
+            "project_number": 33,
             "front": {
                 "clues": "0",
                 "connection": "square",
@@ -1039,13 +1041,13 @@
                 "traits": "Village. Central.",
                 "type": "location_back"
             },
-            "encounter_number": "7",
+            "encounter_number": "11",
             "encounter_set": "d8a0a331-ba19-4137-a79d-7aa938c77a3d"
         },
         {
             "name": "Village Square",
             "id": "a8dedbad-060c-4294-8510-105f05f1814a",
-            "project_number": "30",
+            "project_number": 35,
             "front": {
                 "clues": "2<per>",
                 "connection": "t",
@@ -1083,13 +1085,13 @@
                 "traits": "Village.",
                 "type": "location_back"
             },
-            "encounter_number": "8",
+            "encounter_number": "13",
             "encounter_set": "d8a0a331-ba19-4137-a79d-7aa938c77a3d"
         },
         {
             "name": "Darkened Manor",
             "id": "904ef623-b952-42b3-a4ec-8538b55de08d",
-            "project_number": "31",
+            "project_number": 29,
             "front": {
                 "clues": "1<per>",
                 "connection": "moon",
@@ -1117,13 +1119,13 @@
                 "traits": "Village. Lodge.",
                 "type": "location_back"
             },
-            "encounter_number": "9",
+            "encounter_number": "7",
             "encounter_set": "d8a0a331-ba19-4137-a79d-7aa938c77a3d"
         },
         {
             "name": "Derelict Barracks",
             "id": "275ecea3-38c6-41dc-b875-7754305bed0a",
-            "project_number": "32",
+            "project_number": 30,
             "front": {
                 "clues": "3<per>",
                 "connection": "cross",
@@ -1149,13 +1151,13 @@
                 "traits": "Village. Fort.",
                 "type": "location_back"
             },
-            "encounter_number": "10",
+            "encounter_number": "8",
             "encounter_set": "d8a0a331-ba19-4137-a79d-7aa938c77a3d"
         },
         {
             "name": "Endless Ascent",
             "id": "93a17bdf-8c2b-4dd3-84ef-d78c7d8ef190",
-            "project_number": "33",
+            "project_number": 31,
             "front": {
                 "clues": "2<per>",
                 "connection": "hourglass",
@@ -1186,13 +1188,13 @@
                 "traits": "Village. Steps.",
                 "type": "location_back"
             },
-            "encounter_number": "11",
+            "encounter_number": "9",
             "encounter_set": "d8a0a331-ba19-4137-a79d-7aa938c77a3d"
         },
         {
             "name": "Fisherman's Wharf",
             "id": "15ede677-c8a6-49f9-9438-d0a81ab79d47",
-            "project_number": "34",
+            "project_number": 32,
             "front": {
                 "clues": "2<per>",
                 "connection": "triangle",
@@ -1223,13 +1225,13 @@
                 "traits": "Village. Port.",
                 "type": "location_back"
             },
-            "encounter_number": "12",
+            "encounter_number": "10",
             "encounter_set": "d8a0a331-ba19-4137-a79d-7aa938c77a3d"
         },
         {
             "name": "Twilight Crescent",
             "id": "f52e4c7f-e683-4f90-bcf7-0f7b99947844",
-            "project_number": "35",
+            "project_number": 34,
             "front": {
                 "clues": "2<per>",
                 "connection": "star",
@@ -1260,13 +1262,13 @@
                 "traits": "Village. Farm.",
                 "type": "location_back"
             },
-            "encounter_number": "13",
+            "encounter_number": "12",
             "encounter_set": "d8a0a331-ba19-4137-a79d-7aa938c77a3d"
         },
         {
             "name": "Wishing Well",
             "id": "6e7cae13-c681-4a88-a777-ad38800a4245",
-            "project_number": "36",
+            "project_number": 36,
             "front": {
                 "clues": "1<per>",
                 "connection": "circle",
@@ -1303,7 +1305,7 @@
         {
             "name": "Shishio's Guile",
             "id": "2d76dea6-2674-45cc-835c-53c57f624ab8",
-            "project_number": "37",
+            "project_number": 44,
             "front": {
                 "classes": [
                     "neutral"
@@ -1329,14 +1331,14 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "15",
+            "encounter_number": "34",
             "encounter_set": "d8a0a331-ba19-4137-a79d-7aa938c77a3d"
         },
         {
             "name": "Caustic Echo",
             "id": "0fbdd359-9bb3-453d-9981-3a24bb315ea3",
             "amount": 3,
-            "project_number": "38",
+            "project_number": 37,
             "front": {
                 "flavor_text": "The spirits of desecrated corpses wander through the village, mimicking the monotony of everyday routine. Are they real, or merely memories...?",
                 "illustration": "./images/nicolas-lizotte-nicolaslizotte-svafa-sigrun-full.jpg",
@@ -1351,14 +1353,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "16-18",
+            "encounter_number": "15-17",
             "encounter_set": "d8a0a331-ba19-4137-a79d-7aa938c77a3d"
         },
         {
             "name": "Fate Falls Short",
             "id": "b18af11b-3636-425b-84ef-e1c20cb5f234",
             "amount": 4,
-            "project_number": "41",
+            "project_number": 38,
             "front": {
                 "flavor_text": "",
                 "illustration": "./images/edward-tsang-onmyoji-2.jpg",
@@ -1373,14 +1375,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "19-22",
+            "encounter_number": "18-21",
             "encounter_set": "d8a0a331-ba19-4137-a79d-7aa938c77a3d"
         },
         {
             "name": "Gruesome Harvest",
             "id": "46127b99-5951-4648-a51b-d18f819af854",
             "amount": 3,
-            "project_number": "45",
+            "project_number": 39,
             "front": {
                 "flavor_text": "All around you, cured, painted hands \nhang from the walls; whether in celebration or in warning, you can't rightly say.",
                 "illustration": "./images/audrius-mitkus-kuuro-slap.jpg",
@@ -1394,14 +1396,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "23-25",
+            "encounter_number": "22-24",
             "encounter_set": "d8a0a331-ba19-4137-a79d-7aa938c77a3d"
         },
         {
             "name": "Avarice Mimic",
             "id": "7b4f8fdf-e274-4d65-b737-82c414d6512e",
             "amount": 3,
-            "project_number": "48",
+            "project_number": 41,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -1422,14 +1424,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "26-28",
+            "encounter_number": "27-29",
             "encounter_set": "d8a0a331-ba19-4137-a79d-7aa938c77a3d"
         },
         {
             "name": "Deathbed Companion",
             "id": "85beda51-a745-46db-bb00-e51cf56c304b",
             "amount": 3,
-            "project_number": "51",
+            "project_number": 42,
             "front": {
                 "attack": "2",
                 "combat": "2",
@@ -1450,13 +1452,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "29-31",
+            "encounter_number": "30-32",
             "encounter_set": "d8a0a331-ba19-4137-a79d-7aa938c77a3d"
         },
         {
             "name": "Hitokiri Daimyo",
             "id": "afabc73c-6365-4469-8b94-1c835c0f2353",
-            "project_number": "54",
+            "project_number": 43,
             "front": {
                 "attack": "4",
                 "combat": "4",
@@ -1480,14 +1482,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "32",
+            "encounter_number": "33",
             "encounter_set": "d8a0a331-ba19-4137-a79d-7aa938c77a3d"
         },
         {
             "name": "The Kodama's Vendetta",
             "id": "2e822683-7e6a-4eef-a67f-7ad2604f1428",
             "amount": 2,
-            "project_number": "55",
+            "project_number": 40,
             "front": {
                 "flavor_text": "It is said that when a tree has reached a century of life, \na divine spirit comes to dwell within it. To fell such a tree, \nfor any reason, would invite catastrophic misfortune.",
                 "illustration": "./images/alison-reimold-kodama.png",
@@ -1502,13 +1504,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "33-34",
+            "encounter_number": "25-26",
             "encounter_set": "d8a0a331-ba19-4137-a79d-7aa938c77a3d"
         },
         {
             "name": "The River Delta",
             "id": "d8d279d2-df52-4f10-86fb-a22c134cc039",
-            "project_number": "57",
+            "project_number": 45,
             "front": {
                 "entries": [
                     {
@@ -1558,7 +1560,7 @@
         {
             "name": "Open Waters",
             "id": "bccc45f5-a0bf-4ffa-b2a3-ada2a6d9e78d",
-            "project_number": "58",
+            "project_number": 46,
             "front": {
                 "doom": "4",
                 "flavor_text": "It's a silent night upon the river delta and its calm waters reflect the light of the full moon shinning brightly overhead. You cannot begin to fathom what dangers might lay ahead...",
@@ -1582,7 +1584,7 @@
         {
             "name": "Rising Tide",
             "id": "221becb4-0723-47df-b931-23905a498161",
-            "project_number": "59",
+            "project_number": 47,
             "front": {
                 "doom": "5",
                 "flavor_text": "Your activities on the delta have not gone unnoticed. Wild currents erupt from beneath the placid waters, revealing the churning of restless spirits trapped beneath the surf...",
@@ -1622,7 +1624,7 @@
         {
             "name": "All Aboard",
             "id": "663eebb4-f39c-467d-932e-0d23daa1bd8b",
-            "project_number": "60",
+            "project_number": 48,
             "front": {
                 "doom": "8",
                 "flavor_text": "The sound of a bellowing horn rings out over the water. It feels familiar somehow, like a stirred memory. Something's coming... It's calling you home...",
@@ -1647,7 +1649,7 @@
         {
             "name": "Gone Fishing",
             "id": "9c5e6b98-735e-4b3f-a879-2653708c825a",
-            "project_number": "61",
+            "project_number": 49,
             "front": {
                 "clues": "4<per>",
                 "flavor_text": "The documents you discovered at the harbor indicate Mayu's sister may have been transported via the river. Miyu's out there, somewhere, and you've got a seaworthy vessel... Time to get to work.",
@@ -1671,7 +1673,7 @@
         {
             "name": "Line and Sinker",
             "id": "4d48285e-dc64-4e06-9ceb-f1c9cf65e613",
-            "project_number": "62",
+            "project_number": 50,
             "front": {
                 "clues": "4<per>",
                 "flavor_text": "It seems Miyu is en route to something called \"Onigawa.\" There must be some clue as to its location around here; hopefully you can find it before it's too late.",
@@ -1700,7 +1702,7 @@
         {
             "name": "Fisherman's Wharf",
             "id": "acdb2adf-eee1-4f31-90fb-729be71242ef",
-            "project_number": "63",
+            "project_number": 55,
             "front": {
                 "clues": "0",
                 "flavor_text": " The documents you found by the harbor suggests recent shipments have been dispatched from these very docks.",
@@ -1727,13 +1729,13 @@
                 "traits": "Village. Port.",
                 "type": "location_back"
             },
-            "encounter_number": "7",
+            "encounter_number": "11",
             "encounter_set": "9ab16e64-12db-4780-a632-56f71abcc53d"
         },
         {
             "name": "Abandoned Dockyard",
             "id": "776a3ed6-c9af-4d7f-86ca-fe0d1e123ad3",
-            "project_number": "64",
+            "project_number": 51,
             "front": {
                 "clues": "1<per>",
                 "flavor_text": "A modest pier flanks a large warehouse \nat the edge of a nearby swamp.",
@@ -1761,13 +1763,13 @@
                 "traits": "River.",
                 "type": "location_back"
             },
-            "encounter_number": "8",
+            "encounter_number": "7",
             "encounter_set": "9ab16e64-12db-4780-a632-56f71abcc53d"
         },
         {
             "name": "Coastal Fort",
             "id": "20175298-0daa-4d8e-b147-1bf268a83429",
-            "project_number": "65",
+            "project_number": 53,
             "front": {
                 "clues": "1<per>",
                 "flavor_text": "Flotsam caught in the undertow batters against the stone cliff beneath the barracks like a battering ram.",
@@ -1801,7 +1803,7 @@
         {
             "name": "Fetid Bog",
             "id": "39e83a4b-4665-43f4-9420-1dfba6ec4e32",
-            "project_number": "66",
+            "project_number": 54,
             "front": {
                 "clues": "1<per>",
                 "connection": "triangle",
@@ -1842,7 +1844,7 @@
         {
             "name": "Jagged Atoll",
             "id": "4a66aac1-c67f-432f-b77a-d4ac69d0283e",
-            "project_number": "67",
+            "project_number": 56,
             "front": {
                 "clues": "1<per>",
                 "flavor_text": "The architecture of the ominous isle \nsuggests military significance...",
@@ -1871,13 +1873,13 @@
                 "traits": "River.",
                 "type": "location_back"
             },
-            "encounter_number": "11",
+            "encounter_number": "12",
             "encounter_set": "9ab16e64-12db-4780-a632-56f71abcc53d"
         },
         {
             "name": "Smuggler's Cove",
             "id": "59dd8a7c-383a-4d06-8237-30ceae79e50c",
-            "project_number": "68",
+            "project_number": 59,
             "front": {
                 "clues": "1<per>",
                 "connection": "moon",
@@ -1908,13 +1910,13 @@
                 "traits": "River.",
                 "type": "location_back"
             },
-            "encounter_number": "12",
+            "encounter_number": "15",
             "encounter_set": "9ab16e64-12db-4780-a632-56f71abcc53d"
         },
         {
             "name": "Waterlogged Ruins",
             "id": "526f68c2-f313-4b26-852e-274639511957",
-            "project_number": "69",
+            "project_number": 61,
             "front": {
                 "clues": "1<per>",
                 "flavor_text": "Submerged fragments of collapsed stonework \nobstruct the waterway; the forlorn remnants of \nan archway or bridge from a bygone era.",
@@ -1942,13 +1944,13 @@
                 "traits": "River.",
                 "type": "location_back"
             },
-            "encounter_number": "13",
+            "encounter_number": "17",
             "encounter_set": "9ab16e64-12db-4780-a632-56f71abcc53d"
         },
         {
             "name": "<unique>The Tyrian Galley",
             "id": "b2bb0623-7ab8-44ce-b673-0088001bfbcb",
-            "project_number": "74",
+            "project_number": 65,
             "front": {
                 "classes": [
                     "neutral"
@@ -1969,13 +1971,13 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "18",
+            "encounter_number": "22",
             "encounter_set": "9ab16e64-12db-4780-a632-56f71abcc53d"
         },
         {
             "name": "Cascade Terminus",
             "id": "e2b493ed-e37a-478c-b833-0145f9aeffdb",
-            "project_number": "70",
+            "project_number": 52,
             "front": {
                 "clues": "1<per>",
                 "flavor_text": "Though the scattered refuse on the nearby banks \nsuggest recent activity, passage beyond \nthe waterfall's precipice seems impossible.",
@@ -2003,13 +2005,13 @@
                 "traits": "River.",
                 "type": "location_back"
             },
-            "encounter_number": "14",
+            "encounter_number": "8",
             "encounter_set": "9ab16e64-12db-4780-a632-56f71abcc53d"
         },
         {
             "name": "Mistveil Strait",
             "id": "f63ba9a6-950b-4842-8b2b-a1dc3bd05852",
-            "project_number": "71",
+            "project_number": 57,
             "front": {
                 "clues": "1<per>",
                 "flavor_text": "Flickering fireflies flank the foggy fjord...",
@@ -2037,13 +2039,13 @@
                 "traits": "River.",
                 "type": "location_back"
             },
-            "encounter_number": "15",
+            "encounter_number": "13",
             "encounter_set": "9ab16e64-12db-4780-a632-56f71abcc53d"
         },
         {
             "name": "Sandy Shrine",
             "id": "42dc447e-2e0d-46ec-8d73-f6be92eab423",
-            "project_number": "72",
+            "project_number": 58,
             "front": {
                 "clues": "1<per>",
                 "connection": "circle",
@@ -2073,13 +2075,13 @@
                 "traits": "Sanctum.",
                 "type": "location_back"
             },
-            "encounter_number": "16",
+            "encounter_number": "14",
             "encounter_set": "9ab16e64-12db-4780-a632-56f71abcc53d"
         },
         {
             "name": "Sunken Shrine",
             "id": "c1013f48-0e95-4e96-905f-ed9b184dd86a",
-            "project_number": "73",
+            "project_number": 60,
             "front": {
                 "clues": "1<per>",
                 "connection": "diamond_alt",
@@ -2109,14 +2111,14 @@
                 "traits": "Sanctum.",
                 "type": "location_back"
             },
-            "encounter_number": "17",
+            "encounter_number": "16",
             "encounter_set": "9ab16e64-12db-4780-a632-56f71abcc53d"
         },
         {
             "name": "Sink or Swim",
             "id": "de116b68-4913-404d-96f6-2bcf6e5a6609",
             "amount": 2,
-            "project_number": "75",
+            "project_number": 63,
             "front": {
                 "flavor_text": "An unnatural wave rises out of the roiling surf, threatening to wash you away...",
                 "illustration": "./images/tumblr_5042516fd8eb4310828db813e7e3b762_dc37c110_1280.jpg",
@@ -2134,7 +2136,7 @@
         {
             "name": "In the Shadow of the Bride",
             "id": "f1843a75-2d59-4204-b1dd-f00c39db58d6",
-            "project_number": "77",
+            "project_number": 62,
             "front": {
                 "flavor_text": "She's gone...but she'll never let you go.",
                 "illustration": "./images/cC9cz7p1.jpg",
@@ -2149,13 +2151,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "21",
+            "encounter_number": "18",
             "encounter_set": "9ab16e64-12db-4780-a632-56f71abcc53d"
         },
         {
             "name": "<unique>Camera Obscura",
             "id": "4e69add1-e3fa-4377-89e5-1d36faed4b56",
-            "project_number": "78",
+            "project_number": 64,
             "front": {
                 "classes": [
                     "neutral"
@@ -2178,13 +2180,13 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "22",
+            "encounter_number": "21",
             "encounter_set": "9ab16e64-12db-4780-a632-56f71abcc53d"
         },
         {
             "name": "The War Eternal",
             "id": "f3cf83e4-8a00-4c8f-94b1-ff16c163cbb0",
-            "project_number": "79",
+            "project_number": 66,
             "front": {
                 "chaos_extra": "Rally Deck",
                 "chaos_extra_region": {
@@ -2260,7 +2262,7 @@
         {
             "name": "Before the Storm",
             "id": "6104f378-af60-4f6a-8451-eb6270ed497c",
-            "project_number": "80",
+            "project_number": 67,
             "front": {
                 "doom": "?",
                 "flavor_text": "There's an electric tension in the air; something ancient and forgotten lingers here, and with every step your foot falls a little heavier...",
@@ -2285,7 +2287,7 @@
         {
             "name": "Shadows of the Past",
             "id": "e4da54e2-ed14-45c7-9ee3-ced47dce7832",
-            "project_number": "81",
+            "project_number": 68,
             "front": {
                 "doom": "11",
                 "flavor_text": "Flickering pockets of the ruined city come to life all around you, allowing you to catch glimpses of ghostly defenders being overrun during a great battle that was apparently fought here...",
@@ -2309,7 +2311,7 @@
         {
             "name": "The Last Stand",
             "id": "0167c0b8-6fcc-4850-ae26-5feb31787505",
-            "project_number": "82",
+            "project_number": 69,
             "front": {
                 "doom": "6",
                 "flavor_text": "The sounds of fighting die down as Onigawa's ghostly defenders make one last desperate attempt to repel the invaders...",
@@ -2334,7 +2336,7 @@
         {
             "name": "Storming the Gates",
             "id": "b7556345-e51a-4679-a819-d5fbc3c6e7e5",
-            "project_number": "83",
+            "project_number": 70,
             "front": {
                 "clues": "?",
                 "flavor_text": "The strange fortified city overlooking the gorge is unmistakably conspicuous. The path up the sheer cliff leads to some sort of gatehouse; if Miyu was taken this way, then there must be some way inside... ",
@@ -2342,7 +2344,7 @@
                 "illustration_pan_x": 838.0,
                 "illustration_pan_y": -280.0,
                 "illustration_scale": 1.598,
-                "illustrator": "Illus. Unknown",
+                "illustrator": "Illus. Moshic",
                 "index": "1a",
                 "text": "<obj> Find a way to enter the mysterious city.\n<i>(Do not advance this act until you are instructed.)</i>",
                 "type": "act"
@@ -2358,7 +2360,7 @@
         {
             "name": "Intruder Alert",
             "id": "7ca3ebc1-6082-4388-a02a-10c9a2bd4695",
-            "project_number": "84",
+            "project_number": 71,
             "front": {
                 "clues": "5<per>",
                 "flavor_text": "Navigating through this chaos won't be easy; many parts of the city are completely collapsed or otherwise inaccessible. The caustic sounds of war echo all around you, and Miyu could be anywhere...",
@@ -2383,7 +2385,7 @@
         {
             "name": "A Light in the Darkness",
             "id": "2cb0562b-18d5-4c31-a95c-ebc5cb92a5cb",
-            "project_number": "85",
+            "project_number": 72,
             "front": {
                 "clues": "?",
                 "flavor_text": "The Crimson Butterfly is emitting some kind of energy field that appears to be \"stabilizing\" the time loop the city is caught in; when the apparitions approach it, they stutter and recoil, as if paralyzed. Perhaps it can help you disable the wards sealing away the palace...",
@@ -2407,7 +2409,7 @@
         {
             "name": "Dismal Anchorage",
             "id": "909c09f1-c2c2-4fcc-bf86-fab26761f377",
-            "project_number": "86",
+            "project_number": 75,
             "front": {
                 "clues": "1<per>",
                 "connection": "diamond_alt",
@@ -2438,13 +2440,13 @@
                 "traits": "Port.",
                 "type": "location_back"
             },
-            "encounter_number": "8",
+            "encounter_number": "10",
             "encounter_set": "196125a5-3d26-48ae-9eaf-b57e0b883196"
         },
         {
             "name": "Treacherous Gradient",
             "id": "1efd5189-48a1-4675-889f-7c859ba1e93f",
-            "project_number": "87",
+            "project_number": 84,
             "front": {
                 "clues": "0",
                 "connection": "double_slash",
@@ -2476,13 +2478,13 @@
                 "traits": "Steps.",
                 "type": "location_back"
             },
-            "encounter_number": "9",
+            "encounter_number": "19",
             "encounter_set": "196125a5-3d26-48ae-9eaf-b57e0b883196"
         },
         {
             "name": "Ravaged Gatehouse",
             "id": "f1e78b23-fa92-408b-b0e4-756d622a2182",
-            "project_number": "88",
+            "project_number": 79,
             "front": {
                 "clues": "1<per>",
                 "connection": "slash_alt",
@@ -2495,7 +2497,7 @@
                 "illustration_pan_x": -116.0,
                 "illustration_pan_y": -701.0,
                 "illustration_scale": 2.306,
-                "illustrator": "Illus. Unknown",
+                "illustrator": "Illus. Tecmo",
                 "shroud": "3",
                 "text": "<action><action>: <i>Manual override.</i> Test <combat> (5). Reduce the difficulty of this test by 1 for each clue controlled by an investigator at <name> <i>(to a minimum of 1).</i> If you succeed, advance the act. <i>(Group limit one success per game.)</i>",
                 "traits": "City. Gateway.",
@@ -2514,13 +2516,13 @@
                 "traits": "City. Gateway.",
                 "type": "location_back"
             },
-            "encounter_number": "10",
+            "encounter_number": "14",
             "encounter_set": "196125a5-3d26-48ae-9eaf-b57e0b883196"
         },
         {
             "name": "Paraselene Plaza",
             "id": "ce994fbe-0181-43e1-82a2-4724abf84a9a",
-            "project_number": "89",
+            "project_number": 78,
             "front": {
                 "clues": "0",
                 "connection": "moon",
@@ -2554,13 +2556,13 @@
                 "traits": "City. Central.",
                 "type": "location_back"
             },
-            "encounter_number": "11",
+            "encounter_number": "13",
             "encounter_set": "196125a5-3d26-48ae-9eaf-b57e0b883196"
         },
         {
             "name": "Royal Palace",
             "id": "4f151080-0218-4a67-85da-3a6c115d3428",
-            "project_number": "90",
+            "project_number": 80,
             "front": {
                 "clues": "1<per>",
                 "connection": "circle_alt",
@@ -2589,13 +2591,13 @@
                 "traits": "City. Fort.",
                 "type": "location_back"
             },
-            "encounter_number": "12",
+            "encounter_number": "15",
             "encounter_set": "196125a5-3d26-48ae-9eaf-b57e0b883196"
         },
         {
             "name": "Confounding Switchback",
             "id": "c3f2f2ce-1e2b-475c-889b-3e19dd109051",
-            "project_number": "91",
+            "project_number": 73,
             "front": {
                 "clues": "0",
                 "connection": "hourglass",
@@ -2627,13 +2629,13 @@
                 "traits": "City. Passageway.",
                 "type": "location_back"
             },
-            "encounter_number": "13",
+            "encounter_number": "8",
             "encounter_set": "196125a5-3d26-48ae-9eaf-b57e0b883196"
         },
         {
             "name": "Swallowtail Inn",
             "id": "b37a6f42-a1f8-4d41-b783-757f0b658071",
-            "project_number": "92",
+            "project_number": 83,
             "front": {
                 "clues": "1<per>",
                 "connection": "t",
@@ -2665,13 +2667,13 @@
                 "traits": "City. Hideout.",
                 "type": "location_back"
             },
-            "encounter_number": "14",
+            "encounter_number": "18",
             "encounter_set": "196125a5-3d26-48ae-9eaf-b57e0b883196"
         },
         {
             "name": "Spymaster's Perch",
             "id": "8163573e-2c49-4ded-90cc-a39435ff1816",
-            "project_number": "93",
+            "project_number": 81,
             "front": {
                 "clues": "1<per>",
                 "connection": "square",
@@ -2703,13 +2705,13 @@
                 "traits": "City. Tower.",
                 "type": "location_back"
             },
-            "encounter_number": "15",
+            "encounter_number": "16",
             "encounter_set": "196125a5-3d26-48ae-9eaf-b57e0b883196"
         },
         {
             "name": "Desecrated Temple",
             "id": "b3996129-3a72-4d51-b69e-8eae84a1ea19",
-            "project_number": "94",
+            "project_number": 74,
             "front": {
                 "clues": "1<per>",
                 "connection": "circle",
@@ -2741,13 +2743,13 @@
                 "traits": "City. Temple.",
                 "type": "location_back"
             },
-            "encounter_number": "16",
+            "encounter_number": "9",
             "encounter_set": "196125a5-3d26-48ae-9eaf-b57e0b883196"
         },
         {
             "name": "Standing Stone",
             "id": "ce6df126-2313-450d-8fe7-9f6a691e08db",
-            "project_number": "95",
+            "project_number": 82,
             "front": {
                 "clues": "1<per>",
                 "connection": "quote",
@@ -2786,7 +2788,7 @@
         {
             "name": "Overgrown Sepulcher",
             "id": "fe9a2301-719d-46c8-a738-72414a1ba15c",
-            "project_number": "96",
+            "project_number": 77,
             "front": {
                 "clues": "1<per>",
                 "connection": "clover",
@@ -2818,13 +2820,13 @@
                 "traits": "City. Graveyard.",
                 "type": "location_back"
             },
-            "encounter_number": "18",
+            "encounter_number": "12",
             "encounter_set": "196125a5-3d26-48ae-9eaf-b57e0b883196"
         },
         {
             "name": "Nightingale Antechamber",
             "id": "085b2a4d-3edb-421f-81e9-49b24f67b0f9",
-            "project_number": "97",
+            "project_number": 76,
             "front": {
                 "clues": "2<per>",
                 "connection": "cross",
@@ -2856,13 +2858,13 @@
                 "traits": "City. Forbidden.",
                 "type": "location_back"
             },
-            "encounter_number": "19",
+            "encounter_number": "11",
             "encounter_set": "196125a5-3d26-48ae-9eaf-b57e0b883196"
         },
         {
             "name": "<unique>The Crimson Butterfly",
             "id": "4d33eca4-667f-4583-a6bc-f0602e963b30",
-            "project_number": "98",
+            "project_number": 85,
             "front": {
                 "classes": [
                     "neutral"
@@ -2873,7 +2875,7 @@
                 "illustration_pan_x": -1621.0,
                 "illustration_pan_y": -1661.0,
                 "illustration_scale": 1.776,
-                "illustrator": "Illus. Unknown",
+                "illustrator": "Illus. Tecmo",
                 "level": "None",
                 "subtitle": "Blinding Beacon",
                 "text": "<t>Spectral</t> enemies at <name>'s location gain aloof and lose hunter.\n<action><action>: <b>Parley.</b> <i>Weaken the wards.</i> Test <combat> or <agility> (4). If you succeed, you may reveal a connecting <t>Forbidden</t> location. <i>(Group limit one success per game.)</i>",
@@ -2890,7 +2892,7 @@
         {
             "name": "Half Light",
             "id": "08b4411f-d95f-4f63-befe-1f51ff770ce0",
-            "project_number": "99",
+            "project_number": 86,
             "front": {
                 "entries": [
                     {
@@ -2940,7 +2942,7 @@
         {
             "name": "Night Court",
             "id": "619a3014-e7b8-43e3-bb72-3f66b911d0cd",
-            "project_number": "100",
+            "project_number": 87,
             "front": {
                 "doom": "5",
                 "flavor_text": "Flickering lights play tricks with the shadows as you navigate the palace's narrow corridors. Apart from the ghostly girl you encountered in the entryway, there are few signs of life inside the palace, but blackened hand prints stick to the walls like ash... Did anyone actually manage to ride out the siege from within these walls?",
@@ -2977,7 +2979,7 @@
         {
             "name": "Hands Off",
             "id": "000c23ab-cfc4-4a73-9032-5343898639fc",
-            "project_number": "101",
+            "project_number": 88,
             "front": {
                 "doom": "7",
                 "flavor_text": "A hideous, barrelling monstrosity has begun to stalk you through the halls of the palace, and suddenly the mysterious handprints covering every surface start to make a little more sense...",
@@ -3001,7 +3003,7 @@
         {
             "name": "Reaching the Limit",
             "id": "195e837c-f147-407e-a966-1cac3c3f8f7d",
-            "project_number": "102",
+            "project_number": 89,
             "front": {
                 "doom": "12",
                 "flavor_text": "You can feel the creature is gaining confidence in its movements; where once it awkwardly fumbled for you in the dark, it now hunts you with a sense of purpose, almost like it has a taste for you...",
@@ -3025,7 +3027,7 @@
         {
             "name": "Seeking an Audience",
             "id": "16d6c075-9a96-40f6-8f24-517187f236ef",
-            "project_number": "103",
+            "project_number": 90,
             "front": {
                 "clues": "5<per>",
                 "flavor_text": "A curious patchwork of red vines has apparently infested the foundations of the palace and now threatens to impede your investigation. You're not certain if that really was Miyu---you're not even certain if the girl that startled you in the entryway was real---but you've got to take your chances and explore the palace...",
@@ -3048,7 +3050,7 @@
         {
             "name": "Beneath the Nightingale Floor",
             "id": "bc6b1551-c239-458e-8998-0d59cea697fd",
-            "project_number": "104",
+            "project_number": 91,
             "front": {
                 "clues": "?",
                 "flavor_text": "You begin to take notice of which floorboards creak and moan as you step on them, and when you stoop down to peer between the slats you can make out something moving below... There's definitely a sublevel underneath the palace; you just need to find a way to access it.",
@@ -3073,7 +3075,7 @@
         {
             "name": "Catching Fire",
             "id": "76bfbf12-361e-41da-8969-730b96c66aef",
-            "project_number": "105",
+            "project_number": 92,
             "front": {
                 "clues": "?",
                 "flavor_text": "You hear the cracking of a wooden support beam collapsing in the entryway moments before a thick plume of black, acrid smoke stings your eyes. The palace is collapsing, probably due to the rapidly spreading fire, and now you can't get out the way you came in. You suspect---or maybe just hope---that Miyu was taken deeper into the palace, but every avenue you've explored only seems to lead to a dead end. There must be some other way out of here...",
@@ -3098,7 +3100,7 @@
         {
             "name": "Entry Hall",
             "id": "c823572e-1bc4-4c9b-82ca-64f8cc2da8ae",
-            "project_number": "106",
+            "project_number": 95,
             "front": {
                 "clues": "0",
                 "connection": "triangle",
@@ -3127,13 +3129,13 @@
                 "traits": "Ground Floor. Central.",
                 "type": "location_back"
             },
-            "encounter_number": "8",
+            "encounter_number": "10",
             "encounter_set": "4f485ace-5d62-4c3e-905b-194d814443b1"
         },
         {
             "name": "Dim Memorial",
             "id": "835cc6de-b44d-44cf-b7de-3f962eda5eac",
-            "project_number": "107",
+            "project_number": 94,
             "front": {
                 "clues": "1<per>",
                 "connection": "circle_alt",
@@ -3147,7 +3149,7 @@
                 "illustration_pan_x": 0.0,
                 "illustration_pan_y": 86.0,
                 "illustration_scale": 0.548,
-                "illustrator": "Illus. Unknown",
+                "illustrator": "Illus. Julian Faylona",
                 "shroud": "2",
                 "text": "<hau> Reveal a random token from the chaos bag. If it is a non-<elder_sign> or <blessing> symbol, take 1 horror. <i>(Trigger this location's haunted effect whenever you fail a skill test while investigating <name>.)</i>",
                 "traits": "Ground Floor.",
@@ -3173,7 +3175,7 @@
         {
             "name": "Chashitsu Annex",
             "id": "b3fa255b-09f2-46e2-8fbf-17219027656d",
-            "project_number": "108",
+            "project_number": 93,
             "front": {
                 "clues": "0",
                 "connection": "clover",
@@ -3206,13 +3208,13 @@
                 "traits": "<size 8>Ground Floor.",
                 "type": "location_back"
             },
-            "encounter_number": "10",
+            "encounter_number": "8",
             "encounter_set": "4f485ace-5d62-4c3e-905b-194d814443b1"
         },
         {
             "name": "Notice Board",
             "id": "36587cbf-cb22-4d96-b8d8-83ddb74295e6",
-            "project_number": "109",
+            "project_number": 101,
             "front": {
                 "clues": "2",
                 "connection": "t",
@@ -3248,13 +3250,13 @@
                 "traits": "Ground Floor.",
                 "type": "location_back"
             },
-            "encounter_number": "11",
+            "encounter_number": "16",
             "encounter_set": "4f485ace-5d62-4c3e-905b-194d814443b1"
         },
         {
             "name": "Servant's Scullery",
             "id": "41dadafa-94d9-4604-b826-48ca75650b18",
-            "project_number": "110",
+            "project_number": 104,
             "front": {
                 "clues": "1<per>",
                 "connection": "hourglass",
@@ -3292,13 +3294,13 @@
                 "traits": "Ground Floor.",
                 "type": "location_back"
             },
-            "encounter_number": "12",
+            "encounter_number": "19",
             "encounter_set": "4f485ace-5d62-4c3e-905b-194d814443b1"
         },
         {
             "name": "Mannequin Workshop",
             "id": "f63275a3-27a7-4085-bad9-3053867350f1",
-            "project_number": "111",
+            "project_number": 97,
             "front": {
                 "clues": "1<per>",
                 "connection": "double_slash",
@@ -3331,13 +3333,13 @@
                 "traits": "Ground Floor.",
                 "type": "location_back"
             },
-            "encounter_number": "13",
+            "encounter_number": "12",
             "encounter_set": "4f485ace-5d62-4c3e-905b-194d814443b1"
         },
         {
             "name": "Musty Corridor",
             "id": "6c963d50-d557-4cd7-a833-e9df219893fd",
-            "project_number": "112",
+            "project_number": 100,
             "front": {
                 "clues": "1<per>",
                 "connection": "circle",
@@ -3371,13 +3373,13 @@
                 "traits": "Ground Floor.",
                 "type": "location_back"
             },
-            "encounter_number": "14",
+            "encounter_number": "15",
             "encounter_set": "4f485ace-5d62-4c3e-905b-194d814443b1"
         },
         {
             "name": "Meditation Chamber",
             "id": "516ac804-ddb2-45e7-bb37-fee9f5a856a5",
-            "project_number": "113",
+            "project_number": 98,
             "front": {
                 "clues": "1<per>",
                 "connection": "moon",
@@ -3411,13 +3413,13 @@
                 "traits": "Ground Floor.",
                 "type": "location_back"
             },
-            "encounter_number": "15",
+            "encounter_number": "13",
             "encounter_set": "4f485ace-5d62-4c3e-905b-194d814443b1"
         },
         {
             "name": "Moldering Archive",
             "id": "b90810fd-e027-4d97-9d36-233dce4fd4a9",
-            "project_number": "114",
+            "project_number": 99,
             "front": {
                 "clues": "1<per>",
                 "connection": "quote",
@@ -3453,13 +3455,13 @@
                 "traits": "Ground Floor.",
                 "type": "location_back"
             },
-            "encounter_number": "16",
+            "encounter_number": "14",
             "encounter_set": "4f485ace-5d62-4c3e-905b-194d814443b1"
         },
         {
             "name": "Sanguine Altar",
             "id": "87a8c993-47d1-44bb-bda0-c062c8a96e15",
-            "project_number": "115",
+            "project_number": 103,
             "front": {
                 "clues": "1<per>",
                 "connection": "heart",
@@ -3495,13 +3497,13 @@
                 "traits": "Ground Floor.",
                 "type": "location_back"
             },
-            "encounter_number": "17",
+            "encounter_number": "18",
             "encounter_set": "4f485ace-5d62-4c3e-905b-194d814443b1"
         },
         {
             "name": "Guest Quarters",
             "id": "4fbeace4-ace5-4e4a-9629-8fdf8b804733",
-            "project_number": "116",
+            "project_number": 96,
             "front": {
                 "clues": "1<per>",
                 "connection": "diamond",
@@ -3514,7 +3516,7 @@
                 "illustration_pan_x": -757.0,
                 "illustration_pan_y": -787.0,
                 "illustration_scale": 1.098,
-                "illustrator": "Illus. Unknown",
+                "illustrator": "Illus. Julian Faylona",
                 "shroud": "3",
                 "text": "<hau> Add 1 <curse> token to the chaos bag. <i>(Trigger this location's haunted effect whenever you fail a skill test while investigating <name>.)</i>",
                 "traits": "Ground Floor.",
@@ -3537,13 +3539,13 @@
                 "traits": "Ground Floor.",
                 "type": "location_back"
             },
-            "encounter_number": "18",
+            "encounter_number": "11",
             "encounter_set": "4f485ace-5d62-4c3e-905b-194d814443b1"
         },
         {
             "name": "Orphan's Gaze",
             "id": "52cb680d-2cf0-41fe-9c79-7b6fd3a0afba",
-            "project_number": "117",
+            "project_number": 102,
             "front": {
                 "clues": "0",
                 "connection": "star",
@@ -3575,13 +3577,13 @@
                 "traits": "Ground Floor.",
                 "type": "location_back"
             },
-            "encounter_number": "19",
+            "encounter_number": "17",
             "encounter_set": "4f485ace-5d62-4c3e-905b-194d814443b1"
         },
         {
             "name": "Undercroft Theatre",
             "id": "5f447cf3-c02b-482f-b8b6-a668f6cc8261",
-            "project_number": "118",
+            "project_number": 105,
             "front": {
                 "clues": "1<per>",
                 "connection": "square",
@@ -3623,7 +3625,7 @@
             "name": "Feast or Famine",
             "id": "c23a7507-74b2-49a3-9b68-6f9e174581de",
             "amount": 3,
-            "project_number": "119",
+            "project_number": 106,
             "front": {
                 "flavor_text": "A spectral handmaiden shrieks as the monster lurking in her hair begins to feast on rotten sundries...\nand anything else within reach.",
                 "illustration": "./images/nariyuki-shimamoto-futakuchinew2-666.jpg",
@@ -3645,7 +3647,7 @@
             "name": "Flame Betide",
             "id": "919b02d6-9046-48bc-8bb7-a44a7a15ae9f",
             "amount": 4,
-            "project_number": "122",
+            "project_number": 107,
             "front": {
                 "flavor_text": "Hungry flames begin leaping from torches and lanterns, racing up into the rafters of the palace...",
                 "illustration": "./images/fire.png",
@@ -3666,7 +3668,7 @@
             "name": "Secret Chords",
             "id": "382e95a3-19f1-4377-8c1c-8dc3f1115aba",
             "amount": 4,
-            "project_number": "126",
+            "project_number": 108,
             "front": {
                 "flavor_text": "The shrill chords of a haunting melody grow and diminish in volume as you move from room to room...",
                 "illustration": "./images/melanie-rohmer-illus-shamisen.jpg",
@@ -3688,7 +3690,7 @@
             "name": "Futakuchi Consort",
             "id": "8dd31f62-698c-45f9-85ef-12c2dfdd361c",
             "amount": 3,
-            "project_number": "130",
+            "project_number": 109,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -3716,7 +3718,7 @@
             "name": "Lantern Geist",
             "id": "22349e4c-412a-4159-9f35-b2e5da097699",
             "amount": 3,
-            "project_number": "133",
+            "project_number": 110,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -3744,7 +3746,7 @@
             "name": "Parasol Mimic",
             "id": "d0487fac-52e0-434e-b597-d74200caa5f9",
             "amount": 3,
-            "project_number": "136",
+            "project_number": 111,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -3770,7 +3772,7 @@
         {
             "name": "<unique>Bloodstained Almanac",
             "id": "2fb9d966-6663-4db5-a034-59d89113c505",
-            "project_number": "139",
+            "project_number": 112,
             "front": {
                 "classes": [
                     "neutral"
@@ -3803,7 +3805,7 @@
         {
             "name": "<unique>Camera Obscura",
             "id": "2f53d528-be8d-4e93-ad69-3a5d9ea17c94",
-            "project_number": "140",
+            "project_number": 113,
             "front": {
                 "classes": [
                     "neutral"
@@ -3836,7 +3838,7 @@
         {
             "name": "The End of August",
             "id": "517398bd-4c05-4dbd-a197-3e0c8c9d0dbb",
-            "project_number": "141",
+            "project_number": 114,
             "front": {
                 "chaos_extra": "Hunting Grounds",
                 "chaos_extra_region": {
@@ -3912,7 +3914,7 @@
         {
             "name": "The Sleeping Giant",
             "id": "c9617fd8-6e2c-4149-99e6-6e2be704a702",
-            "project_number": "142",
+            "project_number": 115,
             "front": {
                 "doom": "5",
                 "flavor_text": "The air around you grows cold in the shadow of Mount Kokoro. The ground before you is littered with ivory flecks, and the moisture in your foggy breath sticks to your face. Lacking proper equipment, you suspect you won't last long out here...",
@@ -3937,7 +3939,7 @@
         {
             "name": "The Ophidian Nightmare",
             "id": "a1509feb-8f5d-4dce-a99d-23ec6ef02e22",
-            "project_number": "143",
+            "project_number": 116,
             "front": {
                 "doom": "10",
                 "flavor_text": "Apparently, an impossibly large serpent is  using Mount Kokoro as its nesting grounds. The good news is that it seems to be sleeping, for now; there's no way you can hope to defeat it, but if you're careful, and lucky, you might be able to sneak past it...",
@@ -3960,7 +3962,7 @@
         {
             "name": "Winter Wanderland",
             "id": "e4298a22-955f-4a8e-a027-8cc5ec115eb5",
-            "project_number": "144",
+            "project_number": 117,
             "front": {
                 "clues": "?",
                 "flavor_text": "Ahead of you, a winding path cuts through the snow bank. Numerous foot prints upon the ice suggest recent activity; if Miyu was taken this way... Well, you'd prefer not to think about it, really...",
@@ -3984,7 +3986,7 @@
         {
             "name": "The Dead of Winter",
             "id": "697bf669-907e-4941-9cf4-e8f26e542212",
-            "project_number": "145",
+            "project_number": 118,
             "front": {
                 "clues": "?",
                 "flavor_text": "You find yourself entertaining increasingly paranoid thoughts as you draw nearer to the mountain's summit. There's a prescence out there, hiding in the snowblind, you're certain of it. Where did it come from? What does it want? Why is it so cold...?",
@@ -4009,7 +4011,7 @@
         {
             "name": "The Reason for the Season",
             "id": "8f902c30-85de-4981-a159-1cf27802e8f3",
-            "project_number": "146",
+            "project_number": 119,
             "front": {
                 "clues": "<dash>",
                 "flavor_text": "The air grows thinner, and colder, as you climb higher and higher into the clouds. You're exhausted, but you're close now; you can feel it. Something ancient dwells among the crags of Mount Kokoro...you just need to find it before whatever is out here finds you.",
@@ -4034,7 +4036,7 @@
         {
             "name": "Exodus Pagoda",
             "id": "fd298832-9b3d-4853-bf97-d02fbb175a1a",
-            "project_number": "147",
+            "project_number": 123,
             "front": {
                 "clues": "0",
                 "connection": "moon",
@@ -4063,13 +4065,13 @@
                 "traits": "Surface.",
                 "type": "location_back"
             },
-            "encounter_number": "7",
+            "encounter_number": "10",
             "encounter_set": "1b2b4978-17a9-4920-8a67-409629978ecd"
         },
         {
             "name": "Kokoro Approach",
             "id": "2c49bd76-de4f-4147-829e-a76ebdcf59e4",
-            "project_number": "148",
+            "project_number": 127,
             "front": {
                 "clues": "2",
                 "connection": "square_alt",
@@ -4099,13 +4101,13 @@
                 "traits": "Mountain.",
                 "type": "location_back"
             },
-            "encounter_number": "8",
+            "encounter_number": "14",
             "encounter_set": "1b2b4978-17a9-4920-8a67-409629978ecd"
         },
         {
             "name": "Coward's Reprieve",
             "id": "4798a53b-f4aa-4542-ae09-60dab2ebcfb9",
-            "project_number": "149",
+            "project_number": 121,
             "front": {
                 "clues": "1<per>",
                 "connection": "slash",
@@ -4138,13 +4140,13 @@
                 "traits": "Mountain.",
                 "type": "location_back"
             },
-            "encounter_number": "9",
+            "encounter_number": "8",
             "encounter_set": "1b2b4978-17a9-4920-8a67-409629978ecd"
         },
         {
             "name": "August's End",
             "id": "f54bfa62-e922-4dcc-9632-77ac04a175d3",
-            "project_number": "150",
+            "project_number": 120,
             "front": {
                 "clues": "1<per>",
                 "connection": "circle_alt",
@@ -4177,13 +4179,13 @@
                 "traits": "Mountain.",
                 "type": "location_back"
             },
-            "encounter_number": "10",
+            "encounter_number": "7",
             "encounter_set": "1b2b4978-17a9-4920-8a67-409629978ecd"
         },
         {
             "name": "Scarlet Omen",
             "id": "9f5ca38d-90a0-4e73-bc68-ca7aabbc57ce",
-            "project_number": "151",
+            "project_number": 128,
             "front": {
                 "clues": "2",
                 "connection": "cross_alt",
@@ -4216,13 +4218,13 @@
                 "traits": "Mountain.",
                 "type": "location_back"
             },
-            "encounter_number": "11",
+            "encounter_number": "15",
             "encounter_set": "1b2b4978-17a9-4920-8a67-409629978ecd"
         },
         {
             "name": "Glacial Arcade",
             "id": "e63ca3ff-cd8e-4cca-bb24-df033bd658cb",
-            "project_number": "152",
+            "project_number": 125,
             "front": {
                 "clues": "1<per>",
                 "connection": "triangle",
@@ -4260,7 +4262,7 @@
         {
             "name": "Frozen Altar",
             "id": "fa8ae1b1-9b29-4380-b42c-8c44243dabe8",
-            "project_number": "153",
+            "project_number": 124,
             "front": {
                 "clues": "1<per>",
                 "connection": "hourglass",
@@ -4295,13 +4297,13 @@
                 "traits": "Mountain.",
                 "type": "location_back"
             },
-            "encounter_number": "13",
+            "encounter_number": "11",
             "encounter_set": "1b2b4978-17a9-4920-8a67-409629978ecd"
         },
         {
             "name": "Winterchill Catacombs",
             "id": "c5cb228e-af9f-4ca1-ba44-5b3280a7f528",
-            "project_number": "154",
+            "project_number": 132,
             "front": {
                 "clues": "1<per>",
                 "connection": "cross",
@@ -4335,13 +4337,13 @@
                 "traits": "Mountain.",
                 "type": "location_back"
             },
-            "encounter_number": "14",
+            "encounter_number": "19",
             "encounter_set": "1b2b4978-17a9-4920-8a67-409629978ecd"
         },
         {
             "name": "Empyrean Expanse",
             "id": "9d193aa0-9971-4081-a7f2-6e1396e5ca3b",
-            "project_number": "155",
+            "project_number": 122,
             "front": {
                 "clues": "1<per>",
                 "connection": "diamond",
@@ -4374,13 +4376,13 @@
                 "traits": "Mountain.",
                 "type": "location_back"
             },
-            "encounter_number": "15",
+            "encounter_number": "9",
             "encounter_set": "1b2b4978-17a9-4920-8a67-409629978ecd"
         },
         {
             "name": "Kanon's Reach",
             "id": "62d5408d-3511-4f34-ae7e-43decdf4bb03",
-            "project_number": "156",
+            "project_number": 126,
             "front": {
                 "clues": "1<per>",
                 "connection": "circle",
@@ -4414,13 +4416,13 @@
                 "traits": "Mountain.",
                 "type": "location_back"
             },
-            "encounter_number": "16",
+            "encounter_number": "13",
             "encounter_set": "1b2b4978-17a9-4920-8a67-409629978ecd"
         },
         {
             "name": "Sulfurous Spring",
             "id": "d634cd5d-87f7-46c1-8e8c-ad2be787a3e9",
-            "project_number": "157",
+            "project_number": 130,
             "front": {
                 "clues": "1<per>",
                 "connection": "heart",
@@ -4462,7 +4464,7 @@
         {
             "name": "Terrace of Judgment",
             "id": "a4c15b8d-8e53-48b9-8bbb-7dbf81f3fddd",
-            "project_number": "158",
+            "project_number": 131,
             "front": {
                 "clues": "1<per>",
                 "connection": "double_slash",
@@ -4504,7 +4506,7 @@
         {
             "name": "Snowblind Citadel",
             "id": "8ab50a09-11a0-4769-ad7e-22b4e9458f32",
-            "project_number": "159",
+            "project_number": 129,
             "front": {
                 "clues": "1<per>",
                 "connection": "square",
@@ -4537,21 +4539,21 @@
                 "traits": "Mountain.",
                 "type": "location_back"
             },
-            "encounter_number": "19",
+            "encounter_number": "16",
             "encounter_set": "1b2b4978-17a9-4920-8a67-409629978ecd"
         },
         {
             "name": "Brain Freeze",
             "id": "a541191b-4ab7-4afd-8aa5-0e19df8e9040",
             "amount": 3,
-            "project_number": "160",
+            "project_number": 133,
             "front": {
                 "flavor_text": "You shiver as the air grows \nnoticeably colder around you...",
                 "illustration": "./images/frostbite.png",
                 "illustration_pan_x": 129.0,
                 "illustration_pan_y": -39.0,
                 "illustration_scale": 2.22,
-                "illustrator": "Illus. Unknown",
+                "illustrator": "Illus. usuallyFunny",
                 "text": "<rev>  Reveal a random token from the chaos bag. If it is a <fail> or <fro> token, take 1 horror. Otherwise, you must add 1 <fro> token to the chaos bag. If you cannot, add 1 doom to the current agenda instead.",
                 "traits": "Hazard.",
                 "type": "treachery"
@@ -4566,7 +4568,7 @@
             "name": "Coldsnap",
             "id": "96352c7c-e747-46e7-ae74-843b79e5c2d2",
             "amount": 3,
-            "project_number": "166",
+            "project_number": 135,
             "front": {
                 "flavor_text": "\"Where did everybody go...?\"",
                 "illustration": "./images/ina-wong-mythgard-locked-in-ice-done-ttd.jpg",
@@ -4588,7 +4590,7 @@
             "name": "Thin Ice",
             "id": "cadd9435-8920-4867-a9e2-b36c695e1e0a",
             "amount": 4,
-            "project_number": "169",
+            "project_number": 136,
             "front": {
                 "flavor_text": "\"It'll be fine... Probably.\"",
                 "illustration": "./images/jonathon-frederick-materials-naturematerialsice-screenshot-8.jpg",
@@ -4609,7 +4611,7 @@
         {
             "name": "Jorogumo",
             "id": "b52c4b49-3e0e-4c55-85fa-29b962889e01",
-            "project_number": "173",
+            "project_number": 137,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -4639,7 +4641,7 @@
         {
             "name": "Konohana Sakuya",
             "id": "ddcc2089-e81b-4011-b73d-5192f6c8a280",
-            "project_number": "174",
+            "project_number": 138,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -4669,7 +4671,7 @@
         {
             "name": "Onikuma",
             "id": "a01eb7fc-1b11-4571-963e-4446ba95353b",
-            "project_number": "175",
+            "project_number": 139,
             "front": {
                 "attack": "1",
                 "combat": "1",
@@ -4699,7 +4701,7 @@
         {
             "name": "The Molten Armory",
             "id": "6fb5eb18-18c6-43ea-bf95-70429b539233",
-            "project_number": "176",
+            "project_number": 140,
             "front": {
                 "entries": [
                     {
@@ -4749,7 +4751,7 @@
         {
             "name": "Out of the Frying Pan",
             "id": "a8bd3199-d477-4010-b426-877b9c01546c",
-            "project_number": "177",
+            "project_number": 141,
             "front": {
                 "doom": "4",
                 "flavor_text": "The soot-laden air makes it difficult for you to breathe inside the volcano, and you loosen your collar as the pools of molten rock belch clouds of humid air onto your face. The temperature alone makes it dangerous for you to remain in this environment for very long...",
@@ -4773,7 +4775,7 @@
         {
             "name": "Hazardous Materials",
             "id": "70cf8ba4-64a8-405c-a56a-e2a87142fe41",
-            "project_number": "178",
+            "project_number": 142,
             "front": {
                 "clues": "4<per>",
                 "flavor_text": "The \"primitive\" machinery of the foundry seems to operate autonomously; a complex series of channels manipulates the lava flow towards large smelters and complex webs of gears and chains empty raw ore into carts, which race between smaller furnaces. But to what end? What has been forged here?",
@@ -4797,7 +4799,7 @@
         {
             "name": "Ashen Alcove",
             "id": "966056db-a44e-4566-8998-34539484bcc0",
-            "project_number": "179",
+            "project_number": 143,
             "front": {
                 "clues": "0",
                 "connection": "circle",
@@ -4835,7 +4837,7 @@
         {
             "name": "Mannequin Behemoth",
             "id": "78cedbcd-8106-4ee0-9c80-0999c89d86cf",
-            "project_number": "180",
+            "project_number": 145,
             "front": {
                 "clues": "2<per>",
                 "connection": "slash",
@@ -4869,13 +4871,13 @@
                 "traits": "Volcanic. Depths.",
                 "type": "location_back"
             },
-            "encounter_number": "5",
+            "encounter_number": "6",
             "encounter_set": "07af3e19-1cdc-4299-a081-f5d9c240e5eb"
         },
         {
             "name": "Tsurugi's Roost",
             "id": "18aa49eb-9bd0-47e4-bf5a-64fe7ecd5075",
-            "project_number": "181",
+            "project_number": 147,
             "front": {
                 "clues": "1<per>",
                 "connection": "quote",
@@ -4910,13 +4912,13 @@
                 "traits": "Volcanic. Depths.",
                 "type": "location_back"
             },
-            "encounter_number": "6",
+            "encounter_number": "8",
             "encounter_set": "07af3e19-1cdc-4299-a081-f5d9c240e5eb"
         },
         {
             "name": "Drainage Sluice",
             "id": "02cc5839-845b-4318-b93b-2e1ab249b422",
-            "project_number": "182",
+            "project_number": 144,
             "front": {
                 "clues": "0",
                 "connection": "cross",
@@ -4948,13 +4950,13 @@
                 "traits": "Volcanic. Depths.",
                 "type": "location_back"
             },
-            "encounter_number": "7",
+            "encounter_number": "5",
             "encounter_set": "07af3e19-1cdc-4299-a081-f5d9c240e5eb"
         },
         {
             "name": "Slag Pit",
             "id": "6539d02d-5f5a-4d74-9271-883e3efa9e91",
-            "project_number": "183",
+            "project_number": 146,
             "front": {
                 "clues": "2<per>",
                 "connection": "hourglass",
@@ -4988,14 +4990,14 @@
                 "traits": "Volcanic. Depths.",
                 "type": "location_back"
             },
-            "encounter_number": "8",
+            "encounter_number": "7",
             "encounter_set": "07af3e19-1cdc-4299-a081-f5d9c240e5eb"
         },
         {
             "name": "Pressure Cooker",
             "id": "1a090340-bda4-4f25-bd9f-4be3be53cc9a",
             "amount": 3,
-            "project_number": "184",
+            "project_number": 151,
             "front": {
                 "flavor_text": "The fires of the sacred foundry burned the impurities away from many different \"materials\"...",
                 "illustration": "./images/pedro-sena-new9.jpg",
@@ -5009,14 +5011,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "9-11",
+            "encounter_number": "18-20",
             "encounter_set": "07af3e19-1cdc-4299-a081-f5d9c240e5eb"
         },
         {
             "name": "In the Hall of the Mountain King",
             "id": "235a640f-47f9-4c3c-8260-0193d25ef749",
             "amount": 3,
-            "project_number": "187",
+            "project_number": 150,
             "front": {
                 "flavor_text": "When the foundry smiths' bodies began to fail, their last prescribed duty was to stoke the flame, one final time.",
                 "illustration": "./images/lorenzo-lanfranconi-a-jump-in-the-fire.jpg",
@@ -5030,14 +5032,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "12-14",
+            "encounter_number": "15-17",
             "encounter_set": "07af3e19-1cdc-4299-a081-f5d9c240e5eb"
         },
         {
             "name": "Scorched",
             "id": "249aaa49-23ac-475f-b4f6-cce7b7767e94",
             "amount": 3,
-            "project_number": "190",
+            "project_number": 152,
             "front": {
                 "flavor_text": "A jet of flame erupts from a nearby lava pool, \nsingeing your naked flesh...",
                 "illustration": "./images/carmen.jpg",
@@ -5052,13 +5054,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "15-17",
+            "encounter_number": "21-23",
             "encounter_set": "07af3e19-1cdc-4299-a081-f5d9c240e5eb"
         },
         {
             "name": "Shade of Wukong",
             "id": "e34eb742-d19a-49dd-8ab2-620e6ba0b50d",
-            "project_number": "193",
+            "project_number": 155,
             "front": {
                 "attack": "4",
                 "combat": "4",
@@ -5082,14 +5084,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "18",
+            "encounter_number": "30",
             "encounter_set": "07af3e19-1cdc-4299-a081-f5d9c240e5eb"
         },
         {
             "name": "Containment Breach",
             "id": "c1b59e8a-4390-420e-b7c5-8ea1b2af899d",
             "amount": 3,
-            "project_number": "194",
+            "project_number": 148,
             "front": {
                 "flavor_text": "When most of Onigawa despaired during the siege, the imprisoned Orochimaru saw only opportunity.",
                 "illustration": "./images/evan-liu-facing-yamata-no-orochi.jpg",
@@ -5104,14 +5106,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "19-21",
+            "encounter_number": "9-11",
             "encounter_set": "07af3e19-1cdc-4299-a081-f5d9c240e5eb"
         },
         {
             "name": "Heat Wave",
             "id": "68281a94-d0bb-47f1-9bc3-aa6b1d562717",
             "amount": 3,
-            "project_number": "197",
+            "project_number": 149,
             "front": {
                 "flavor_text": "Dehydrated due to the intense heat of the volcano, \nyou begin to hallucinate sinister shapes emerging \nfrom within the flickering flames...",
                 "illustration": "./images/zsolt-kosa-fire-fx-cover.jpg",
@@ -5126,14 +5128,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "22-24",
+            "encounter_number": "12-14",
             "encounter_set": "07af3e19-1cdc-4299-a081-f5d9c240e5eb"
         },
         {
             "name": "Cinder Manifest",
             "id": "8333f8f9-e860-4915-b6cb-b22c65f5bb05",
             "amount": 3,
-            "project_number": "200",
+            "project_number": 153,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -5154,14 +5156,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "25-27",
+            "encounter_number": "24-26",
             "encounter_set": "07af3e19-1cdc-4299-a081-f5d9c240e5eb"
         },
         {
             "name": "Ignition Gear",
             "id": "44478b2e-998f-4871-ae85-11736e7c0021",
             "amount": 3,
-            "project_number": "203",
+            "project_number": 154,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -5182,13 +5184,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "28-30",
+            "encounter_number": "27-29",
             "encounter_set": "07af3e19-1cdc-4299-a081-f5d9c240e5eb"
         },
         {
             "name": "A Hot Mess",
             "id": "2e806ab3-df2d-493f-9471-07972a6e58aa",
-            "project_number": "206",
+            "project_number": 156,
             "front": {
                 "clues": "?",
                 "flavor_text": "You feel the heat growing more intense as you descend deeper into the bowels of the volcano, and in the distance, the silhouette of a strange orb catches your gaze; perhaps this is the foundry's enchanted power source...?",
@@ -5212,7 +5214,7 @@
         {
             "name": "A Challenger Approaches",
             "id": "1bb9c007-8583-4935-8495-8964fa2ad9e4",
-            "project_number": "207",
+            "project_number": 158,
             "front": {
                 "clues": "?",
                 "flavor_text": "The way is clear, but now you find yourself pursued by a mysterious warrior. His blackened armor superficially resembles some of the designs you saw on Onigawa's defenders during the siege on the palace, and yet...",
@@ -5231,13 +5233,13 @@
                 "text": "The mysterious interloper shrugs off your blows and launches his own attacks without honor or humanity, but you are able to get the better of him through cunning; you feint and bait a counterattack from him that leaves him off balance near the edge of a cliff, and deliver a follow-up strike that manages to dislodge his footing.\nLike a shooting star, he plummets through the air and into a pool of lava below. A massive column of fire ejects from where he impacted...followed by a hollow warcry that echoes off the rim of the volcano as spectral motes of light ascend past you, flying towards the crimson moon. Hopefully, that's the last you'll see of him, whoever he might have been...\n(<res>1)\n\n\n",
                 "type": "act_back"
             },
-            "encounter_number": "2",
+            "encounter_number": "3",
             "encounter_set": "4dbbf3e6-90af-44d2-ae86-54d33b3fe059"
         },
         {
             "name": "Fire Drill",
             "id": "48613f23-9bfc-4eb6-a5f1-13f6139d2890",
-            "project_number": "208",
+            "project_number": 157,
             "front": {
                 "clues": "?",
                 "flavor_text": "Yes, the foundry has fallen into, shall we say, \"disrepair,\" but you can feel the history thrumming through the walls of the volcano; great arms and armor were once forged here, meant for heroes and the champions of gods. Perhaps, with a little help, they might do so again...",
@@ -5256,13 +5258,13 @@
                 "text": "You watch the magma sluice down the crucible's trough, and enter the furnace situated above the blackened anvil below. The molten rock then funnels into a pair of molds above the anvil, which sizzle with the intense heat... While you prepare to let your guard down while the machinery does its work, the lava surrounding the granite platform suddenly begins to boil over, and a massive creature emerges with a bestial bellow, clearly angered by your attempt to \"appropriate\" its tools...\nEach investigator must draw a copy of the set-aside Boiling Point treachery and put it into play in their threat area.\nPut the set-aside \"Sensei\" Kanuti  <i>(Master of the Forge)</i> into play at The Anvil of Creation.\nCheck the Campaign Log and place X doom on \"Sensei\" Kanuti, where X is the number of Champions of Onigawa laid to rest.\nShuffle the encounter discard pile into the encounter deck.\n\n\n",
                 "type": "act_back"
             },
-            "encounter_number": "3",
+            "encounter_number": "2",
             "encounter_set": "4dbbf3e6-90af-44d2-ae86-54d33b3fe059"
         },
         {
             "name": "The Master's Tools",
             "id": "c7fb3282-dd82-4b7d-b7ae-ab3feb84b64b",
-            "project_number": "209",
+            "project_number": 159,
             "front": {
                 "clues": "?",
                 "flavor_text": "Somehow, you get the sense that this massive creature is the master of the forge. Its ceremonial armor resembles an oversized version of some of the mantles you observed on Onigawa's defenders during the siege, and yet...",
@@ -5286,7 +5288,7 @@
         {
             "name": "The Firebreak",
             "id": "63f3dc3a-1fcf-4910-9e16-27d0928dc9a4",
-            "project_number": "210",
+            "project_number": 162,
             "front": {
                 "clues": "1<per>",
                 "connection": "cross_alt",
@@ -5320,13 +5322,13 @@
                 "traits": "Volcanic. Gateway.",
                 "type": "location_back"
             },
-            "encounter_number": "5",
+            "encounter_number": "7",
             "encounter_set": "4dbbf3e6-90af-44d2-ae86-54d33b3fe059"
         },
         {
             "name": "The Anvil of Creation",
             "id": "57747e02-9da4-4a5e-a3e2-d44c873b4499",
-            "project_number": "211",
+            "project_number": 161,
             "front": {
                 "clues": "1<per>",
                 "connection": "square",
@@ -5366,7 +5368,7 @@
         {
             "name": "The Focusing Iris",
             "id": "fc6531d9-eeba-4720-8e4a-c3e6d752ffb4",
-            "project_number": "212",
+            "project_number": 163,
             "front": {
                 "clues": "2<per>",
                 "connection": "slash_alt",
@@ -5400,13 +5402,13 @@
                 "traits": "Volcanic. Forgotten.",
                 "type": "location_back"
             },
-            "encounter_number": "7",
+            "encounter_number": "8",
             "encounter_set": "4dbbf3e6-90af-44d2-ae86-54d33b3fe059"
         },
         {
             "name": "Molten Crucible",
             "id": "3a8ceebf-7bef-49d9-9060-f24943ba45d1",
-            "project_number": "213",
+            "project_number": 160,
             "front": {
                 "clues": "2<per>",
                 "connection": "circle_alt",
@@ -5439,13 +5441,13 @@
                 "traits": "Volcanic. Island.",
                 "type": "location_back"
             },
-            "encounter_number": "8",
+            "encounter_number": "5",
             "encounter_set": "4dbbf3e6-90af-44d2-ae86-54d33b3fe059"
         },
         {
             "name": "The Tallow Chorus",
             "id": "c9ba3ee9-f3fd-4211-8553-a1b919d08ecf",
-            "project_number": "214",
+            "project_number": 166,
             "front": {
                 "attack": "4",
                 "combat": "4",
@@ -5469,13 +5471,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "9",
+            "encounter_number": "14",
             "encounter_set": "4dbbf3e6-90af-44d2-ae86-54d33b3fe059"
         },
         {
             "name": "Kurama Tengu",
             "id": "444adcea-4caa-41f2-899d-7e011533ba17",
-            "project_number": "215",
+            "project_number": 165,
             "front": {
                 "attack": "4",
                 "combat": "4",
@@ -5499,13 +5501,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "10",
+            "encounter_number": "13",
             "encounter_set": "4dbbf3e6-90af-44d2-ae86-54d33b3fe059"
         },
         {
             "name": "“Sensei\" Kanuti",
             "id": "bf57416d-05e1-4002-97f8-4efd49d3bf01",
-            "project_number": "216",
+            "project_number": 167,
             "front": {
                 "combat": "4",
                 "damage": 2,
@@ -5529,14 +5531,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "11",
+            "encounter_number": "15",
             "encounter_set": "4dbbf3e6-90af-44d2-ae86-54d33b3fe059"
         },
         {
             "name": "Boiling Point",
             "id": "31b7ecb6-ed98-4a29-aa25-5f4053cb77dc",
             "amount": 4,
-            "project_number": "217",
+            "project_number": 164,
             "front": {
                 "flavor_text": "Do not wait to strike until the iron is hot; \nyou must make it hot by striking.",
                 "illustration": "./images/pedro-sena-human.jpg",
@@ -5551,13 +5553,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "12-15",
+            "encounter_number": "9-12",
             "encounter_set": "4dbbf3e6-90af-44d2-ae86-54d33b3fe059"
         },
         {
             "name": "The Black Harvest",
             "id": "d66bdd3a-5636-40da-98e2-c5babb855082",
-            "project_number": "221",
+            "project_number": 168,
             "front": {
                 "chaos_extra": "Sacrifice Deck",
                 "chaos_extra_region": {
@@ -5641,7 +5643,7 @@
         {
             "name": "Don't Fear the Reaper",
             "id": "3205d061-7372-4ee6-aa2b-87e0b149c503",
-            "project_number": "222",
+            "project_number": 169,
             "front": {
                 "doom": "7",
                 "flavor_text": "The strange priest who has abducted Miyu is performing a profane ritual to drain the girl of her essence and summon his dark master to this world. To fuel the ritual and strengthen the magical barrier protecting them, wayward souls are being called to the gallows from all corners of Onigawa, across all time and space...",
@@ -5666,7 +5668,7 @@
         {
             "name": "A Machine for Pigs",
             "id": "377c6ba4-fe18-4746-bf93-b52811c7da54",
-            "project_number": "223",
+            "project_number": 170,
             "front": {
                 "doom": "8",
                 "flavor_text": "With every sacrifice that fuels his resurrection, Moloch's intangible essence grows closer to gaining a physical foothold into this world...",
@@ -5690,7 +5692,7 @@
         {
             "name": "All Hope Shall Perish",
             "id": "dda9e452-281d-4184-a4ad-9cc1f88157ed",
-            "project_number": "224",
+            "project_number": 173,
             "front": {
                 "clues": "19",
                 "doom": "19<per>",
@@ -5710,13 +5712,13 @@
                 "text": "It's no use. Like the Stewards of August before you, the Lunar Queen, and even the Guardians themselves, you have only succeeded in delaying Moloch's inevitable coming. He is fear made flesh and nothing can stop him now...\nWoe to the conquered.\n(<res>4</res>)\n\n\n",
                 "type": "agenda_back"
             },
-            "encounter_number": "4",
+            "encounter_number": "6",
             "encounter_set": "caac83c5-2469-4f8d-8806-3090b1c263e8"
         },
         {
             "name": "Higher Ground",
             "id": "e0d5f1e6-93da-45df-9b82-e15ad37b7c82",
-            "project_number": "225",
+            "project_number": 171,
             "front": {
                 "clues": "3<per>",
                 "flavor_text": "The cataclysm has separated you from both your companions and from Miyu. You need to find some way to regroup...",
@@ -5733,13 +5735,13 @@
                 "text": "You've managed to achieve passage to several of the other floating islands with help from the Torii Gate, but none seem to get you any closer to the cathedral. You turn around and prepare to return to the shelf and come up with a new plan, when you realize that the torii gates on each island have all been perfectly aligned with the rune-marked moon...\nYou pull out the Camera Obscura and attempt to photograph the moon through the torii gate nearest to you. When the shutter clicks, the image in the portal instantly changes to a lifeless, rocky expanse...\nPut the set-aside Harvest Moon into play unrevealed.\n\n\n",
                 "type": "act_back"
             },
-            "encounter_number": "5",
+            "encounter_number": "4",
             "encounter_set": "caac83c5-2469-4f8d-8806-3090b1c263e8"
         },
         {
             "name": "One Small Step",
             "id": "b95e4e29-64fa-4c04-bd3f-405d9f10d7f6",
-            "project_number": "226",
+            "project_number": 172,
             "front": {
                 "clues": "?",
                 "flavor_text": "It's been there, all along, watching you, and it's helped---or hampered---your investigation every step of the way. Maybe the answers you seek are written in the stars...or maybe you've just finally lost your mind?",
@@ -5758,13 +5760,13 @@
                 "text": "Well, you did it: you went to the moon. And, surprisingly, nothing abjectly terrible happened to you as a result. It's surprisingly hot up here, though, and the moon is still high enough in the sky that the thin oxygen levels are starting to give you a migraine. Not for nothing, but, why are you even here...?\nYou manage to bounce around the moon's rocky surface until at last you reach the center of the rune carved into its surface. Inside an enormous crater, a strange object smolders like charcoal...\nPut the set-aside Smoldering Spawn <i>(What Was Lost in the Fire)</i> into play at the Harvest Moon location.\n\n\n",
                 "type": "act_back"
             },
-            "encounter_number": "6",
+            "encounter_number": "5",
             "encounter_set": "caac83c5-2469-4f8d-8806-3090b1c263e8"
         },
         {
             "name": "Deep Impact",
             "id": "13752132-4a00-4068-8d52-f00312c47985",
-            "project_number": "227",
+            "project_number": 174,
             "front": {
                 "clues": "?",
                 "flavor_text": "The bloody crescent on the moon's surface appears to be some kind of oval container nestled in the center of a large crater. It's warm to the touch... Perhaps there's some way to open it...?",
@@ -5789,7 +5791,7 @@
         {
             "name": "Evening the Odds",
             "id": "798ab361-d037-4076-bb29-93eb2b637161",
-            "project_number": "228",
+            "project_number": 175,
             "front": {
                 "clues": "?",
                 "flavor_text": "You would not believe it had you not seen it with your own two eyes. The relic upon the moon's surface was no mere anomaly; it was the sacred vessel for a Guardian's rebirth...",
@@ -5814,7 +5816,7 @@
         {
             "name": "The Broken Shelf",
             "id": "20ed54bf-6b29-481b-ba1d-04da160c19cb",
-            "project_number": "229",
+            "project_number": 179,
             "front": {
                 "clues": "1<per>",
                 "flavor_text": "Pieces of the cathedral are now scattered across \nan archipelago of tiny floating islands \nthat revolve around Mount Kokoro's summit.",
@@ -5841,13 +5843,13 @@
                 "traits": "Mountain. Shattered.",
                 "type": "location_back"
             },
-            "encounter_number": "9",
+            "encounter_number": "12",
             "encounter_set": "caac83c5-2469-4f8d-8806-3090b1c263e8"
         },
         {
             "name": "Torii Nexus",
             "id": "ede58bb6-2fed-435b-a464-eee447dd5fbb",
-            "project_number": "230",
+            "project_number": 181,
             "front": {
                 "clues": "0",
                 "flavor_text": "Once upon a time, it brought you to this place.... \nMaybe, when it's all over, it can send you home.",
@@ -5875,13 +5877,13 @@
                 "traits": "Gateway.",
                 "type": "location_back"
             },
-            "encounter_number": "10",
+            "encounter_number": "14",
             "encounter_set": "caac83c5-2469-4f8d-8806-3090b1c263e8"
         },
         {
             "name": "Terramorphic Rainforest",
             "id": "13dca30b-2999-4194-abe3-8f4a3b615a15",
-            "project_number": "231",
+            "project_number": 178,
             "front": {
                 "clues": "1<per>",
                 "flavor_text": "Streaming waterfalls pour off the edges \nof these islands, leading to high humidity...",
@@ -5889,7 +5891,7 @@
                 "illustration_pan_x": -697.0,
                 "illustration_pan_y": 155.0,
                 "illustration_scale": 1.356,
-                "illustrator": "Illus. Unknown",
+                "illustrator": "Illus. jbrown67",
                 "shroud": "4",
                 "text": "<reaction> After you successfully investigate <name>: Instead of discovering clues, you may add up to X <blessing> tokens to the chaos bag, where X is the amount you succeeded by.",
                 "traits": "Jungle. Shattered.",
@@ -5914,7 +5916,7 @@
         {
             "name": "Worldskein Aperture",
             "id": "b1019be5-1e72-41fc-a2f3-0c57ea728b7e",
-            "project_number": "232",
+            "project_number": 182,
             "front": {
                 "clues": "1<per>",
                 "flavor_text": "\"There was, in their city, a bronze image of Cronus... \nsuch that each of the children, when placed thereon, \nrolled down and fell into a gaping pit filled with fire...\"\n---Bibliotheca Historica ",
@@ -5942,13 +5944,13 @@
                 "traits": "Ruins. Shattered.",
                 "type": "location_back"
             },
-            "encounter_number": "12",
+            "encounter_number": "15",
             "encounter_set": "caac83c5-2469-4f8d-8806-3090b1c263e8"
         },
         {
             "name": "The Drowning Pool",
             "id": "63db5e5d-0d2c-4989-af13-64d47d8d4358",
-            "project_number": "233",
+            "project_number": 180,
             "front": {
                 "clues": "1<per>",
                 "flavor_text": "The warmth of the foundry below ensures \nthe spring's pure waters never freeze over.",
@@ -5981,7 +5983,7 @@
         {
             "name": "Sundered Cathedral",
             "id": "bdb85d45-a28c-46a5-b839-205f03b96b77",
-            "project_number": "234",
+            "project_number": 177,
             "front": {
                 "clues": "1<per>",
                 "connection": "slash_alt",
@@ -6010,13 +6012,13 @@
                 "traits": "Sanctum. Ruins.",
                 "type": "location_back"
             },
-            "encounter_number": "14",
+            "encounter_number": "10",
             "encounter_set": "caac83c5-2469-4f8d-8806-3090b1c263e8"
         },
         {
             "name": "Profane Altar",
             "id": "1b35afc2-3676-4dea-af8d-978b5917493d",
-            "project_number": "235",
+            "project_number": 176,
             "front": {
                 "clues": "1<per>",
                 "connection": "square",
@@ -6049,13 +6051,13 @@
                 "traits": "Ritual Site.",
                 "type": "location_back"
             },
-            "encounter_number": "15",
+            "encounter_number": "9",
             "encounter_set": "caac83c5-2469-4f8d-8806-3090b1c263e8"
         },
         {
             "name": "Shepherd of the Black Harvest",
             "id": "850f8590-1373-4809-bddd-c54a488ed8ee",
-            "project_number": "236",
+            "project_number": 190,
             "front": {
                 "attack": "?",
                 "combat": "<dash>",
@@ -6078,13 +6080,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "16",
+            "encounter_number": "36",
             "encounter_set": "caac83c5-2469-4f8d-8806-3090b1c263e8"
         },
         {
             "name": "Miyu Tachibana",
             "id": "851fefac-73a4-4a04-a3db-416c1f1deeca",
-            "project_number": "237",
+            "project_number": 188,
             "front": {
                 "attack": "<dash>",
                 "combat": "<dash>",
@@ -6104,13 +6106,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "17",
+            "encounter_number": "32",
             "encounter_set": "caac83c5-2469-4f8d-8806-3090b1c263e8"
         },
         {
             "name": "Mayu Tachibana",
             "id": "817dbe6c-d8ea-487c-adaf-76a41b62421c",
-            "project_number": "238",
+            "project_number": 192,
             "front": {
                 "classes": [
                     "neutral"
@@ -6129,14 +6131,14 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "18",
+            "encounter_number": "38",
             "encounter_set": "caac83c5-2469-4f8d-8806-3090b1c263e8"
         },
         {
             "name": "Cruel Obeisance",
             "id": "43d47e3a-f71e-4426-9434-1335ee4e5ba5",
             "amount": 4,
-            "project_number": "239",
+            "project_number": 183,
             "front": {
                 "flavor_text": "Before the fortress at Onigawa was built and the Covenant with the Guardians was formed, the infant daughters and second sons of peasants were frequently offered up to appease malevolent spirits...",
                 "illustration": "./images/connor-sheehan-mythical-horror-01-beauty-rz.jpg",
@@ -6151,14 +6153,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "19-22",
+            "encounter_number": "16-19",
             "encounter_set": "caac83c5-2469-4f8d-8806-3090b1c263e8"
         },
         {
             "name": "Molochean Arbiter",
             "id": "4ebf9847-cbcd-446c-a1a1-6560fc56c8e4",
             "amount": 3,
-            "project_number": "243",
+            "project_number": 189,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -6176,13 +6178,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "23-25",
+            "encounter_number": "33-35",
             "encounter_set": "caac83c5-2469-4f8d-8806-3090b1c263e8"
         },
         {
             "name": "Yatagarasu",
             "id": "ffb91090-a661-473b-927b-22b761ee65e5",
-            "project_number": "246",
+            "project_number": 191,
             "front": {
                 "name": "<unique><name>",
                 "attack": "3",
@@ -6206,14 +6208,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "26",
+            "encounter_number": "37",
             "encounter_set": "caac83c5-2469-4f8d-8806-3090b1c263e8"
         },
         {
             "name": "The Call of Carthage",
             "id": "4ab08c2e-668c-4ccd-ba0a-29d41f30b1fb",
             "amount": 3,
-            "project_number": "247",
+            "project_number": 187,
             "front": {
                 "flavor_text": "<size 7.6>The ancient Carthaginians were so devoted to---or fearful of---Moloch that it is believed they constructed the Topheth (\"roasting place\") specifically to honor him.",
                 "illustration": "./images/robert-vajda-close2.jpg",
@@ -6227,14 +6229,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "27-29",
+            "encounter_number": "29-31",
             "encounter_set": "caac83c5-2469-4f8d-8806-3090b1c263e8"
         },
         {
             "name": "Nobunaga's Ambition",
             "id": "ffe2ea5f-f63c-428c-95bc-482186f6547b",
             "amount": 3,
-            "project_number": "250",
+            "project_number": 185,
             "front": {
                 "flavor_text": "Oda Nobunaga was a powerful daimyo whose military prowess was so feared that his contemporaries came to believe he was aided by some sort of malign supernatural force...",
                 "illustration": "./images/riccardo-massironi-vlx-japan.jpg",
@@ -6249,14 +6251,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "30-32",
+            "encounter_number": "23-25",
             "encounter_set": "caac83c5-2469-4f8d-8806-3090b1c263e8"
         },
         {
             "name": "Macabre Lottery",
             "id": "fe5c7f03-07d4-42f8-94f3-207552cecd8d",
             "amount": 3,
-            "project_number": "253",
+            "project_number": 184,
             "front": {
                 "flavor_text": "Many of the innocent souls selected to become \ntributes for Moloch were chosen \nrandomly and dispassionately...",
                 "illustration": "./images/johanan-ade-bridge.jpg",
@@ -6271,14 +6273,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "33-35",
+            "encounter_number": "20-22",
             "encounter_set": "caac83c5-2469-4f8d-8806-3090b1c263e8"
         },
         {
             "name": "Tears For Tialoc",
             "id": "d0a5a407-b8c2-48ec-897f-ff0850a530ca",
             "amount": 3,
-            "project_number": "256",
+            "project_number": 186,
             "front": {
                 "flavor_text": "Moloch was known to the Aztecs as \"Tialoc\" \nand they believed his favor could only earned \nby the cries of children.",
                 "illustration": "./images/ryan-phair-temple-view3-rp.jpg",
@@ -6293,14 +6295,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "36-38",
+            "encounter_number": "26-28",
             "encounter_set": "caac83c5-2469-4f8d-8806-3090b1c263e8"
         },
         {
             "name": "Murder of Crows",
             "id": "d4760f6e-528e-4e24-8938-f5ca857487ae",
             "amount": 4,
-            "project_number": "259",
+            "project_number": 193,
             "front": {
                 "attack": "2",
                 "combat": "2",
@@ -6327,7 +6329,7 @@
             "name": "Bramble Embargo",
             "id": "6b60829b-adf8-404b-8b3d-4c775f1fbf8d",
             "amount": 3,
-            "project_number": "263",
+            "project_number": 219,
             "front": {
                 "flavor_text": "Nothing good can grow here.",
                 "illustration": "./images/hongqi-zhang-the-forest.jpg",
@@ -6349,7 +6351,7 @@
             "name": "Fallen Pantheon",
             "id": "7a22d1dc-5e06-4e84-92d8-8c5e914eae40",
             "amount": 3,
-            "project_number": "266",
+            "project_number": 220,
             "front": {
                 "flavor_text": "Their shrines aren't the only things that have fallen.",
                 "illustration": "./images/jonas-ellermann-1.jpg",
@@ -6371,7 +6373,7 @@
             "name": "Fungal Growth",
             "id": "43839519-455a-4cc8-8a53-cb494eb9c5ab",
             "amount": 4,
-            "project_number": "269",
+            "project_number": 221,
             "front": {
                 "flavor_text": "The nauseating stench of rot nourishing the ground \nbeneath your feet hangs heavily in the air.",
                 "illustration": "./images/kumaran-handy-dioeye-toxic-forest-from-nausicaa-and-the-valley-of-the-wind-mo-0e531570-c355-43dd-8dc2-d0537e3811e6.jpg",
@@ -6393,7 +6395,7 @@
             "name": "Mortal Shell",
             "id": "41f09508-dc5f-46df-90a8-baa6300e1220",
             "amount": 3,
-            "project_number": "273",
+            "project_number": 222,
             "front": {
                 "flavor_text": "Suspended from a tree branch, the cold body of a young child sways gently in the breeze. She is fourteen forever.",
                 "illustration": "./images/michael-macrae-3-so-you-have-come-to-visit-me-by-themichaelmacrae-d84j16p.jpg",
@@ -6415,7 +6417,7 @@
             "name": "The Woods Have Eyes",
             "id": "331484c6-0a0c-456e-866e-76617b95439a",
             "amount": 3,
-            "project_number": "276",
+            "project_number": 223,
             "front": {
                 "flavor_text": "Large, glowing eyes leer at you through the thicket... and you're not sticking around to find out \nto whom they belong.",
                 "illustration": "./images/chuy-de-leon-witch-07-b-artstation.jpg",
@@ -6437,7 +6439,7 @@
             "name": "Acoustic Dampening",
             "id": "a6c6b499-c521-4b09-bb1b-55eebe3345b2",
             "amount": 3,
-            "project_number": "279",
+            "project_number": 216,
             "front": {
                 "flavor_text": "Something doesn't sound right...",
                 "illustration": "./images/ivana-besevic-img-20200417-122609-670.jpg",
@@ -6459,7 +6461,7 @@
             "name": "The Woman in the Fog",
             "id": "45d367df-146f-4e6f-bbaf-b6f0971887b3",
             "amount": 3,
-            "project_number": "282",
+            "project_number": 217,
             "front": {
                 "flavor_text": "For a moment, you thought you heard wedding bells...",
                 "illustration": "./images/unknown.png",
@@ -6478,7 +6480,7 @@
             "name": "Lingering Essence",
             "id": "e619d96b-6d5c-4f1c-8c21-c68875b51a63",
             "amount": 4,
-            "project_number": "285",
+            "project_number": 218,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -6506,7 +6508,7 @@
             "name": "No Such Luck",
             "id": "868c8a91-06ee-4a36-b6a0-220c9c26d108",
             "amount": 2,
-            "project_number": "289",
+            "project_number": 214,
             "front": {
                 "flavor_text": "You pull up a bucket...and find nothing inside \nbut foul, brackish water.",
                 "illustration": "./images/pickman1864587212533565320.png",
@@ -6521,13 +6523,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "1-2",
+            "encounter_number": "2-3",
             "encounter_set": "7ca3acea-fdaf-464e-8f37-694b3b94fc90"
         },
         {
             "name": "A Discarded Mask",
             "id": "9eccd594-925e-4fc7-9182-21d6b9b93787",
-            "project_number": "291",
+            "project_number": 213,
             "front": {
                 "flavor_text": "You pull up a bucket...and find a soggy piece of traditional headdress submerged within.",
                 "illustration": "./images/mask-extend.png",
@@ -6542,13 +6544,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "3",
+            "encounter_number": "1",
             "encounter_set": "7ca3acea-fdaf-464e-8f37-694b3b94fc90"
         },
         {
             "name": "The Girl in the Well",
             "id": "7bdd0116-e6da-4216-86d8-9acb9d9cef06",
-            "project_number": "292",
+            "project_number": 215,
             "front": {
                 "flavor_text": "Swolen, soggy fingers reach out from \nbeneath the surface of the water...",
                 "illustration": "./images/pickman1306008115062090846.png",
@@ -6567,7 +6569,7 @@
         {
             "name": "Silent Foyer",
             "id": "b529d163-7b62-4f4a-aa0d-a5cf54bd2b15",
-            "project_number": "293",
+            "project_number": 198,
             "front": {
                 "clues": "1<per>",
                 "connection": "square_alt",
@@ -6598,13 +6600,13 @@
                 "traits": "Central. Ground Floor.",
                 "type": "location_back"
             },
-            "encounter_number": "1",
+            "encounter_number": "3",
             "encounter_set": "c46862ed-ba89-4557-adfb-c9d7e4596582"
         },
         {
             "name": "Moonlit Courtyard",
             "id": "b14bdc79-b59c-4b97-b45d-70336e8a0fb3",
-            "project_number": "294",
+            "project_number": 197,
             "front": {
                 "clues": "1<per>",
                 "connection": "moon",
@@ -6642,7 +6644,7 @@
         {
             "name": "Tatami Room",
             "id": "16fe0d49-8664-4637-982a-d60759f071af",
-            "project_number": "295",
+            "project_number": 199,
             "front": {
                 "clues": "1<per>",
                 "connection": "circle_alt",
@@ -6674,13 +6676,13 @@
                 "traits": "Ground Floor.",
                 "type": "location_back"
             },
-            "encounter_number": "3",
+            "encounter_number": "4",
             "encounter_set": "c46862ed-ba89-4557-adfb-c9d7e4596582"
         },
         {
             "name": "Defiled Dojo",
             "id": "6feef1df-736e-4981-ac70-4d71ff9023b5",
-            "project_number": "296",
+            "project_number": 196,
             "front": {
                 "clues": "2<per>",
                 "connection": "cross_alt",
@@ -6712,13 +6714,13 @@
                 "traits": "Ground Floor.",
                 "type": "location_back"
             },
-            "encounter_number": "4",
+            "encounter_number": "1",
             "encounter_set": "c46862ed-ba89-4557-adfb-c9d7e4596582"
         },
         {
             "name": "<unique> Mayu Tachibana",
             "id": "fcc0a495-98e9-43c9-819f-57c6eb45a236",
-            "project_number": "297",
+            "project_number": 202,
             "front": {
                 "classes": [
                     "neutral"
@@ -6738,13 +6740,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "5",
+            "encounter_number": "9",
             "encounter_set": "c46862ed-ba89-4557-adfb-c9d7e4596582"
         },
         {
             "name": "The Pale Bride",
             "id": "bb43efbd-f04f-475f-827b-6a16df47b6f6",
-            "project_number": "298",
+            "project_number": 201,
             "front": {
                 "name": "<unique><name>",
                 "attack": "4",
@@ -6769,14 +6771,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "6",
+            "encounter_number": "8",
             "encounter_set": "c46862ed-ba89-4557-adfb-c9d7e4596582"
         },
         {
             "name": "Ivory Handmaiden",
             "id": "636d7c16-9da3-4619-bc50-0a37e611b5b8",
             "amount": 3,
-            "project_number": "299",
+            "project_number": 200,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -6797,14 +6799,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "7-9",
+            "encounter_number": "5-7",
             "encounter_set": "c46862ed-ba89-4557-adfb-c9d7e4596582"
         },
         {
             "name": "Celestial Cascade",
             "id": "62be111c-e0ea-446d-a5b6-029aa59c8324",
             "amount": 3,
-            "project_number": "302",
+            "project_number": 241,
             "front": {
                 "flavor_text": "The moon's intensity hampers your aspect's abilities...\nand empowers the restless spirits.",
                 "illustration": "./images/ismail-inceoglu-fullmoon.jpg",
@@ -6826,7 +6828,7 @@
             "name": "Lunar Cry",
             "id": "bf630a6b-fe0b-426b-85bf-123bb457eaf7",
             "amount": 4,
-            "project_number": "305",
+            "project_number": 242,
             "front": {
                 "flavor_text": "You must be imagining things, but \nevery time you turn your back, the moon seems \nto hang lower and larger in the sky...",
                 "illustration": "./images/broken-sigil-4th-try.jpg",
@@ -6847,7 +6849,7 @@
             "name": "Drowning Sphere",
             "id": "74f16bb5-c984-4668-a82f-8f7b6fb5e651",
             "amount": 3,
-            "project_number": "309",
+            "project_number": 263,
             "front": {
                 "flavor_text": "You watch a bubble float up from beneath the water's surface and are suddenly overcome with the sensation of drowning...",
                 "illustration": "./images/c6cbb7d8f3dacba76a83f8b83e1d1f2e.jpg",
@@ -6869,7 +6871,7 @@
             "name": "Eternal Blue",
             "id": "a97d3635-b835-4c17-8ccb-79d7bc4dbcc8",
             "amount": 3,
-            "project_number": "312",
+            "project_number": 264,
             "front": {
                 "flavor_text": "The porcelain skin of the ghostly children gliding through the murky waters all around you shimmers under the pale moonlight...",
                 "illustration": "./images/d4rot50-7e337be1-3e75-416e-9c28-84e05188f943.jpg",
@@ -6889,7 +6891,7 @@
         {
             "name": "<unique>Kappa",
             "id": "f20d07fe-b56b-4c37-9788-5282e9feaf9f",
-            "project_number": "315",
+            "project_number": 265,
             "front": {
                 "attack": "2",
                 "combat": "2",
@@ -6920,7 +6922,7 @@
             "name": "Shallow Skimmer",
             "id": "8f1d784e-98ec-44df-9bec-80041d89eff0",
             "amount": 3,
-            "project_number": "316",
+            "project_number": 266,
             "front": {
                 "attack": "2",
                 "combat": "2",
@@ -6947,7 +6949,7 @@
         {
             "name": "<unique>Buwaya",
             "id": "7d8d5a0f-5f15-4921-ba85-62e88c447ea1",
-            "project_number": "319",
+            "project_number": 194,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -6978,7 +6980,7 @@
             "name": "Primeval Conductor",
             "id": "26035667-34a4-4e85-8262-fcc7a89687b2",
             "amount": 3,
-            "project_number": "320",
+            "project_number": 195,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -7006,7 +7008,7 @@
             "name": "Hypnotic Whirlpool",
             "id": "7164cffa-5b98-4593-8646-aee2dd9c95ae",
             "amount": 4,
-            "project_number": "323",
+            "project_number": 267,
             "front": {
                 "flavor_text": "\"There's something down there...\"",
                 "illustration": "./images/3c262e1c05ca0122a086f93c68933a95.jpg",
@@ -7028,7 +7030,7 @@
             "name": "Phantom Wake",
             "id": "76f340ac-a34b-4781-9f78-582e1cb33354",
             "amount": 2,
-            "project_number": "327",
+            "project_number": 268,
             "front": {
                 "flavor_text": "The hairs on your neck stand on end as the nearby water churns as if displaced by an illusory vessel, and the galley is caught in the undertow...",
                 "illustration": "./images/alex-rommel-ghost-ship-2016-08-28-hdr-1000.jpg",
@@ -7049,7 +7051,7 @@
         {
             "name": "The Princess's Retinue",
             "id": "f31bdae6-cb5a-4891-ab9b-36374c6b189d",
-            "project_number": "329",
+            "project_number": 269,
             "front": {
                 "flavor_text": "A young girl floats to the surface of the water, surrounded by a vanguard of beautifully painted fish...",
                 "illustration": "./images/tiphaine-jego-carpeskoi-3noncensured.jpg",
@@ -7071,7 +7073,7 @@
             "name": "Koi Temptress",
             "id": "0d8e26e8-43ae-4f84-8497-208c3581cef4",
             "amount": 3,
-            "project_number": "330",
+            "project_number": 270,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -7097,7 +7099,7 @@
         {
             "name": "No Weapon Shall Prosper",
             "id": "625530a6-be90-409d-82e9-a00a8e0f8da4",
-            "project_number": "333",
+            "project_number": 209,
             "front": {
                 "flavor_text": "Ghostly reenactments of a pitched battle \nflicker all around you; even in death, \nOnigawa's defenders remain true.",
                 "illustration": "./images/jakub-rozalski-evil-shogun-small.jpg",
@@ -7111,13 +7113,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "1",
+            "encounter_number": "7",
             "encounter_set": "4451252e-ee64-4f85-b084-8b805d894660"
         },
         {
             "name": "All Death Is Certain",
             "id": "cc9884c1-4df4-4603-bd0d-9ed9bada3083",
-            "project_number": "334",
+            "project_number": 204,
             "front": {
                 "flavor_text": "Before it was scuttled, the crew of Onigawa's \nflagship, the Shingetsu, ensured that \nthe battleship took as many enemy vessels with \nit as possible during its maiden voyage.",
                 "illustration": "./images/ysabel-li-render02.jpg",
@@ -7138,7 +7140,7 @@
         {
             "name": "Death Before Dishonor",
             "id": "013b4f19-c271-4c5f-a07c-5ffc13f4e87d",
-            "project_number": "335",
+            "project_number": 205,
             "front": {
                 "flavor_text": "Driven mad by the influence of a dark power, the once honorable Azure Knight of Onigawa employed brutal methods to \"bolster\" morale and root out suspected traitors during the siege.",
                 "illustration": "./images/f54c1592a290754a1b8ca017b3d5ee4d.jpg",
@@ -7159,7 +7161,7 @@
         {
             "name": "Serve the Pantheon",
             "id": "bcc82d44-4061-4988-bafc-c7a06fe93ce1",
-            "project_number": "336",
+            "project_number": 211,
             "front": {
                 "flavor_text": "The wards protecting Onigawa were weakened when the impetuous prince of the divine pantheon was imprisoned upon Mount Kokoro.",
                 "illustration": "./images/davey-baker-d39e983c-8a27-47ea-be51-6cd2b22a8673.jpg",
@@ -7174,13 +7176,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "4",
+            "encounter_number": "9",
             "encounter_set": "4451252e-ee64-4f85-b084-8b805d894660"
         },
         {
             "name": "Keep the Covenant",
             "id": "4d0e6a2f-63c8-42ac-9d2d-b860fa5570d4",
-            "project_number": "337",
+            "project_number": 208,
             "front": {
                 "flavor_text": "The shattering of Onigawa's covenant with the Guardians was felt by all those who previously \nenjoyed their divine protection.",
                 "illustration": "./images/tumblr_llgi3qFWVQ1qf7osdo1_1280.jpg",
@@ -7194,13 +7196,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "5",
+            "encounter_number": "6",
             "encounter_set": "4451252e-ee64-4f85-b084-8b805d894660"
         },
         {
             "name": "Take Only What Is Needed",
             "id": "5cd3b961-345a-472f-aef6-90d2bbc48562",
-            "project_number": "338",
+            "project_number": 212,
             "front": {
                 "flavor_text": "When the great cherry blossom tree at the \ncenter of the city suddenly wilted, this ill omen \nresulted in a critical morale failure among even \nthe most loyal of Onigawa's defenders.",
                 "illustration": "./images/leo-pold-1.jpg",
@@ -7215,13 +7217,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "6",
+            "encounter_number": "10",
             "encounter_set": "4451252e-ee64-4f85-b084-8b805d894660"
         },
         {
             "name": "Honor the Dead",
             "id": "9871174d-f0ea-45df-9187-83b4be1035f3",
-            "project_number": "339",
+            "project_number": 207,
             "front": {
                 "flavor_text": "During the chaos of the siege, rogue elements within \nthe city employed increasingly desperate and \ndangerous means to bolster Onigawa's defenses and return their wounded to the frontlines.",
                 "illustration": "./images/arthur-yuan-rl-splashart.jpg",
@@ -7235,13 +7237,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "7",
+            "encounter_number": "5",
             "encounter_set": "4451252e-ee64-4f85-b084-8b805d894660"
         },
         {
             "name": "Preserve What Is Priceless",
             "id": "b99bd15d-b53e-4d78-82f4-d9cdc53a7836",
-            "project_number": "340",
+            "project_number": 210,
             "front": {
                 "flavor_text": "Fearing imminent defeat, the royal guard barricaded the surviving members of the court within the palace during the siege...and fought to the death to ensure no one else would be able to follow them inside.",
                 "illustration": "./images/mert-genccinar-samuraiverse-final.jpg",
@@ -7262,7 +7264,7 @@
         {
             "name": "Death Is Not the End",
             "id": "544dd8d2-6386-4f20-bd1a-83e13ab73d1f",
-            "project_number": "341",
+            "project_number": 206,
             "front": {
                 "flavor_text": "When Onigawa's accord with the divine pantheon \nwas severed, its Queen made certain sacrifices \nto ensure her people would endure.",
                 "illustration": "./images/z-wu-fp2.jpg",
@@ -7277,13 +7279,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "9",
+            "encounter_number": "4",
             "encounter_set": "4451252e-ee64-4f85-b084-8b805d894660"
         },
         {
             "name": "Absolve the Crestfallen",
             "id": "01f70831-95d9-4567-be02-85a5070322f4",
-            "project_number": "342",
+            "project_number": 203,
             "front": {
                 "flavor_text": "In the final days of the siege, a fallen \nchampion of Onigawa was redeemed \nby the selfless sacrifice of its queen consort.",
                 "illustration": "./images/muhammx-fajri-untitled-1-copy.jpg",
@@ -7297,13 +7299,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "10",
+            "encounter_number": "1",
             "encounter_set": "4451252e-ee64-4f85-b084-8b805d894660"
         },
         {
             "name": "<unique>Kayako",
             "id": "0ffb27ce-a439-4f20-82b9-cc946ff048d8",
-            "project_number": "343",
+            "project_number": 233,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -7325,14 +7327,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "1",
+            "encounter_number": "3",
             "encounter_set": "82e7a0d3-b552-450a-954b-0ca2d6c505e4"
         },
         {
             "name": "Unforgiven",
             "id": "9d6c6700-0e3c-4877-9b85-16774381c9c3",
             "amount": 2,
-            "project_number": "344",
+            "project_number": 232,
             "front": {
                 "flavor_text": "She hasn't forgotten...and she hasn't forgiven.",
                 "illustration": "./images/rafael-paulo-lino-kayako-saeki-uban-legend-a4.jpg",
@@ -7347,14 +7349,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "2-3",
+            "encounter_number": "1-2",
             "encounter_set": "82e7a0d3-b552-450a-954b-0ca2d6c505e4"
         },
         {
             "name": "Ashen Purgatory",
             "id": "b3cb1fee-1899-4328-80e1-7503851ffa4d",
             "amount": 3,
-            "project_number": "346",
+            "project_number": 248,
             "front": {
                 "flavor_text": " The fires of war made quick work of the cramped city.",
                 "illustration": "./images/dao-trong-le-4.jpg",
@@ -7376,7 +7378,7 @@
             "name": "Hollow Legion",
             "id": "4381f6d1-1bf2-4765-a1cc-75d0e9e01d39",
             "amount": 3,
-            "project_number": "349",
+            "project_number": 251,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -7397,14 +7399,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "4-6",
+            "encounter_number": "7-9",
             "encounter_set": "9f69068d-7bb0-4721-bbf4-987e49e00189"
         },
         {
             "name": "Relentless Reaver",
             "id": "6859abcd-3f68-4305-972f-915617f38ee4",
             "amount": 3,
-            "project_number": "352",
+            "project_number": 252,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -7425,14 +7427,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "7-9",
+            "encounter_number": "10-12",
             "encounter_set": "9f69068d-7bb0-4721-bbf4-987e49e00189"
         },
         {
             "name": "Tengu Tactics",
             "id": "be4a1e72-02eb-405c-af77-55de943459c5",
             "amount": 2,
-            "project_number": "355",
+            "project_number": 249,
             "front": {
                 "flavor_text": "Before the pantheon fell, the Tengu were the sworn \ndefenders of the Stewards of August. During the siege, \nthey were recalled to the protect the city, \nleaving Mount Kokoro defenseless.",
                 "illustration": "./images/de12vn9-a5bf6df4-b596-4b12-98bd-4ba631bda42a.jpg",
@@ -7447,13 +7449,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "10-11",
+            "encounter_number": "4-5",
             "encounter_set": "9f69068d-7bb0-4721-bbf4-987e49e00189"
         },
         {
             "name": "The Azure Zealot",
             "id": "1102ba26-9b14-477a-b938-39913ab10137",
-            "project_number": "357",
+            "project_number": 253,
             "front": {
                 "attack": "4",
                 "combat": "4",
@@ -7477,13 +7479,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "12",
+            "encounter_number": "13",
             "encounter_set": "9f69068d-7bb0-4721-bbf4-987e49e00189"
         },
         {
             "name": "The Jade Cavalier",
             "id": "ffa146e1-582c-4f06-b11f-f607084def7e",
-            "project_number": "358",
+            "project_number": 254,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -7507,13 +7509,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "13",
+            "encounter_number": "14",
             "encounter_set": "9f69068d-7bb0-4721-bbf4-987e49e00189"
         },
         {
             "name": "The New Colossus ",
             "id": "7fc998ce-607f-4b63-a8b2-dc26f5e2d943",
-            "project_number": "359",
+            "project_number": 250,
             "front": {
                 "flavor_text": "The heavens and the earth trembled in equal measure when the guardian Tsurugi forsook his own divinity in order to join the fray.",
                 "illustration": "./images/aboy-ningthouja-demon-samurai-concept.jpg",
@@ -7528,13 +7530,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "14",
+            "encounter_number": "6",
             "encounter_set": "9f69068d-7bb0-4721-bbf4-987e49e00189"
         },
         {
             "name": "The Scarlet Partisan",
             "id": "b62ed98f-c2b0-48ba-83a8-15dc2b152eb4",
-            "project_number": "360",
+            "project_number": 255,
             "front": {
                 "attack": "4",
                 "combat": "4",
@@ -7565,7 +7567,7 @@
             "name": "Armed and Dangerous",
             "id": "dcea82e6-5dd2-439a-b0de-a79c05de45a3",
             "amount": 3,
-            "project_number": "361",
+            "project_number": 234,
             "front": {
                 "flavor_text": "No matter where you run, they always catch you...",
                 "illustration": "./images/a18ec1eb9aed2205c6437c06c72ad0cc.jpg",
@@ -7586,7 +7588,7 @@
         {
             "name": "<unique>Bondage Mannequin",
             "id": "d9bbc939-b717-4d97-a77c-265355fc14bf",
-            "project_number": "364",
+            "project_number": 237,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -7610,13 +7612,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "4",
+            "encounter_number": "6",
             "encounter_set": "8eea5ad2-971a-4cf9-bba5-04717966b447"
         },
         {
             "name": "<unique>Hinnagami",
             "id": "d247ddb7-1b33-49f8-bb9a-0a5ec9f11fc0",
-            "project_number": "365",
+            "project_number": 238,
             "front": {
                 "attack": "4",
                 "combat": "4",
@@ -7639,13 +7641,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "5",
+            "encounter_number": "7",
             "encounter_set": "8eea5ad2-971a-4cf9-bba5-04717966b447"
         },
         {
             "name": "<unique>\"Madame\" Bai",
             "id": "03f02070-0a08-4c03-858a-ca106fb8b687",
-            "project_number": "366",
+            "project_number": 236,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -7668,13 +7670,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "6",
+            "encounter_number": "5",
             "encounter_set": "8eea5ad2-971a-4cf9-bba5-04717966b447"
         },
         {
             "name": "<unique>Yatsukahaki",
             "id": "62623cb1-a72c-4ccf-a611-6965592de90d",
-            "project_number": "367",
+            "project_number": 239,
             "front": {
                 "attack": "4",
                 "combat": "4",
@@ -7699,13 +7701,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "7",
+            "encounter_number": "8",
             "encounter_set": "8eea5ad2-971a-4cf9-bba5-04717966b447"
         },
         {
             "name": "Meticulous Handiwork",
             "id": "5b767cb6-3aa6-44c2-a02f-125f580ea665",
-            "project_number": "368",
+            "project_number": 235,
             "front": {
                 "flavor_text": "The intricate construction of the mannequins you've seen in the palace suggest a practiced hand...",
                 "illustration": "./images/voices_in_my_head_by_xiaofanchuanart_dez35ko-fullview.jpg",
@@ -7721,14 +7723,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "8",
+            "encounter_number": "4",
             "encounter_set": "8eea5ad2-971a-4cf9-bba5-04717966b447"
         },
         {
             "name": "Avalanche!",
             "id": "6887b82b-3762-4e8b-88b2-2043d2510473",
             "amount": 4,
-            "project_number": "369",
+            "project_number": 256,
             "front": {
                 "flavor_text": "The serpent's shifting has loosened the earth; you hear the sound of rushing wind mere moments before you \nfeel the ground quaking beneath your feet...",
                 "illustration": "./images/avalanche.png",
@@ -7746,7 +7748,7 @@
         {
             "name": "Orochimaru",
             "id": "8905e0ba-49ba-4b8a-aaf5-ab9db0ba97e3",
-            "project_number": "373",
+            "project_number": 258,
             "front": {
                 "attack": "4",
                 "combat": "4",
@@ -7785,14 +7787,14 @@
                 "traits": "Ancient One. Elite. Serpent.",
                 "type": "enemy"
             },
-            "encounter_number": "5",
+            "encounter_number": "9",
             "encounter_set": "9a753fcd-4dfa-48f4-9933-0d3e686ad2dd"
         },
         {
             "name": "Waking the Sleeper",
             "id": "2660a523-6f3d-497f-9502-7c2e0419e972",
             "amount": 4,
-            "project_number": "374",
+            "project_number": 257,
             "front": {
                 "flavor_text": "You feel Mount Kokoro tremble in fear as the alabaster serpent rejoins the hunt. There is nowhere to hide...",
                 "illustration": "./images/z-w-gu-sg3.jpg",
@@ -7806,14 +7808,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "6-9",
+            "encounter_number": "5-8",
             "encounter_set": "9a753fcd-4dfa-48f4-9933-0d3e686ad2dd"
         },
         {
             "name": "Remorseless Winter",
             "id": "e66eb2a0-e7ff-4698-9e13-8bf061feb04c",
             "amount": 4,
-            "project_number": "378",
+            "project_number": 271,
             "front": {
                 "flavor_text": "It's been so long since she had a warm meal...",
                 "illustration": "./images/helena-nikulina-yuki-onna-ii.jpg",
@@ -7834,7 +7836,7 @@
         {
             "name": "Yuki-onna",
             "id": "114a0775-118e-487d-9e1f-d2fd7580cc4e",
-            "project_number": "382",
+            "project_number": 272,
             "front": {
                 "attack": "3",
                 "combat": "3",
@@ -7861,7 +7863,7 @@
         {
             "name": "Queen Kaoru ",
             "id": "9d33ade4-0c51-4287-ae3f-117c81b8d691",
-            "project_number": "383",
+            "project_number": 280,
             "front": {
                 "classes": [
                     "neutral"
@@ -7884,13 +7886,13 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "1",
+            "encounter_number": "2",
             "encounter_set": "4d9b7d52-8bdc-4ce6-a6ee-96608f93c306"
         },
         {
             "name": "Icebound Fetish",
             "id": "d1687df2-4198-475a-9ba6-e4f46aba3988",
-            "project_number": "384",
+            "project_number": 279,
             "front": {
                 "classes": [
                     "neutral"
@@ -7911,14 +7913,14 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "2",
+            "encounter_number": "1",
             "encounter_set": "4d9b7d52-8bdc-4ce6-a6ee-96608f93c306"
         },
         {
             "name": "Lunar Rend",
             "id": "f944d082-bdf9-4b0e-b7b8-5d462d41e419",
             "amount": 4,
-            "project_number": "385",
+            "project_number": 240,
             "front": {
                 "flavor_text": "The strange light reflected from the \nbloodstained moon disorients you...",
                 "illustration": "./images/broken-sigil-bloodmoon.jpg",
@@ -7938,7 +7940,7 @@
         {
             "name": "Tsurugi's Might",
             "id": "c7e01081-7106-4fcf-9871-45dccf95a6b1",
-            "project_number": "389",
+            "project_number": 278,
             "front": {
                 "classes": [
                     "neutral"
@@ -7965,13 +7967,13 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "1",
+            "encounter_number": "3",
             "encounter_set": "d486f6db-3b30-4ab8-b57c-4351482025c9"
         },
         {
             "name": "Midori's Cunning",
             "id": "5e67f290-7b28-47c2-ace9-c50c0d33fc29",
-            "project_number": "390",
+            "project_number": 276,
             "front": {
                 "classes": [
                     "neutral"
@@ -7998,13 +8000,13 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "2",
+            "encounter_number": "1",
             "encounter_set": "d486f6db-3b30-4ab8-b57c-4351482025c9"
         },
         {
             "name": "The Pantheon's Contingency",
             "id": "bd961a45-e015-4eca-9941-67cac72a1de7",
-            "project_number": "391",
+            "project_number": 277,
             "front": {
                 "classes": [
                     "neutral"
@@ -8044,13 +8046,13 @@
                 "traits": "Item. Relic. Weapon. Melee.",
                 "type": "asset"
             },
-            "encounter_number": "3",
+            "encounter_number": "2",
             "encounter_set": "d486f6db-3b30-4ab8-b57c-4351482025c9"
         },
         {
             "name": "Harvest Moon",
             "id": "8365150f-625c-4007-81a0-c4e487913780",
-            "project_number": "392",
+            "project_number": 224,
             "front": {
                 "clues": "1<per>",
                 "flavor_text": "The view is indescribable, but the thin atmosphere \nmakes it somewhat difficult to breathe...",
@@ -8085,7 +8087,7 @@
         {
             "name": "Smoldering Spawn",
             "id": "69e35f9e-ddaf-42f2-9faa-000b507eea47",
-            "project_number": "393",
+            "project_number": 231,
             "front": {
                 "classes": [
                     "neutral"
@@ -8106,13 +8108,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "2",
+            "encounter_number": "8",
             "encounter_set": "8e627222-336f-4147-be8d-26467016ab45"
         },
         {
             "name": "Neo Kanon",
             "id": "37b39ee3-1754-4ec2-a3df-fbe322be42d7",
-            "project_number": "394",
+            "project_number": 228,
             "front": {
                 "classes": [
                     "neutral"
@@ -8132,13 +8134,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "3",
+            "encounter_number": "5",
             "encounter_set": "8e627222-336f-4147-be8d-26467016ab45"
         },
         {
             "name": "Magatsu Tsurugi",
             "id": "f2d80349-65e8-4632-82eb-40a349184ba1",
-            "project_number": "395",
+            "project_number": 225,
             "front": {
                 "classes": [
                     "neutral"
@@ -8158,13 +8160,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "4",
+            "encounter_number": "2",
             "encounter_set": "8e627222-336f-4147-be8d-26467016ab45"
         },
         {
             "name": "Shin Komainu",
             "id": "1105bf27-bdf2-4be9-bc49-c491b48ddfd8",
-            "project_number": "396",
+            "project_number": 230,
             "front": {
                 "classes": [
                     "neutral"
@@ -8185,13 +8187,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "5",
+            "encounter_number": "7",
             "encounter_set": "8e627222-336f-4147-be8d-26467016ab45"
         },
         {
             "name": "Midori Mirai",
             "id": "236ac331-43b0-4b17-826c-5b4190436437",
-            "project_number": "397",
+            "project_number": 227,
             "front": {
                 "classes": [
                     "neutral"
@@ -8212,13 +8214,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "6",
+            "encounter_number": "4",
             "encounter_set": "8e627222-336f-4147-be8d-26467016ab45"
         },
         {
             "name": "Onikuma Kanzen",
             "id": "14b7f4ff-ee3f-4573-bad1-9ba73b6e0ef3",
-            "project_number": "398",
+            "project_number": 229,
             "front": {
                 "classes": [
                     "neutral"
@@ -8239,13 +8241,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "7",
+            "encounter_number": "6",
             "encounter_set": "8e627222-336f-4147-be8d-26467016ab45"
         },
         {
             "name": "Majin Wukong",
             "id": "be2bfd2b-5960-4c4e-82e2-722edba25492",
-            "project_number": "399",
+            "project_number": 226,
             "front": {
                 "classes": [
                     "neutral"
@@ -8266,13 +8268,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "8",
+            "encounter_number": "3",
             "encounter_set": "8e627222-336f-4147-be8d-26467016ab45"
         },
         {
             "name": "The Koi Emperor",
             "id": "530be601-7bb4-4a53-acfd-fb215bf3429b",
-            "project_number": "400",
+            "project_number": 260,
             "front": {
                 "attack": "4",
                 "combat": "4",
@@ -8292,13 +8294,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "1",
+            "encounter_number": "2",
             "encounter_set": "d2d065e4-80a5-4c26-93c1-6d4d507e9e2a"
         },
         {
             "name": "The Koi Princess",
             "id": "f6b14249-623c-4169-ab81-2f881206495b",
-            "project_number": "401",
+            "project_number": 261,
             "front": {
                 "combat": "<dash>",
                 "damage": 0,
@@ -8319,13 +8321,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "2",
+            "encounter_number": "3",
             "encounter_set": "d2d065e4-80a5-4c26-93c1-6d4d507e9e2a"
         },
         {
             "name": "The Koi Princess",
             "id": "ded0e4fd-9a83-450c-8310-c32c9ded6a35",
-            "project_number": "402",
+            "project_number": 262,
             "front": {
                 "classes": [
                     "neutral"
@@ -8346,13 +8348,13 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "3",
+            "encounter_number": "4",
             "encounter_set": "d2d065e4-80a5-4c26-93c1-6d4d507e9e2a"
         },
         {
             "name": "Moloch",
             "id": "4a55d152-5865-404b-b4c7-d2a1354a3d8d",
-            "project_number": "403",
+            "project_number": 259,
             "front": {
                 "attack": "?",
                 "combat": "<dash>",
@@ -8394,14 +8396,14 @@
                 "type": "enemy",
                 "victory": "Victory 2."
             },
-            "encounter_number": "4",
+            "encounter_number": "1",
             "encounter_set": "d2d065e4-80a5-4c26-93c1-6d4d507e9e2a"
         },
         {
             "name": "Betrayers of August",
             "id": "145f925c-982c-4028-aa81-0de6fbab5f92",
             "amount": 4,
-            "project_number": "404",
+            "project_number": 243,
             "front": {
                 "attack": "<dash>",
                 "combat": "<dash>",
@@ -8429,7 +8431,7 @@
             "name": "Forsworn Ronin",
             "id": "faed2629-6256-4068-8150-2176b854091a",
             "amount": 4,
-            "project_number": "408",
+            "project_number": 246,
             "front": {
                 "attack": "4",
                 "combat": "4",
@@ -8450,14 +8452,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "5-8",
+            "encounter_number": "13-16",
             "encounter_set": "1446ab7b-f63b-4df9-8ea2-5495496365e9"
         },
         {
             "name": "Defiant Damsel",
             "id": "47ea8df8-023a-4f2f-acbb-459e8826ad7e",
             "amount": 4,
-            "project_number": "412",
+            "project_number": 244,
             "front": {
                 "attack": "<dash>",
                 "combat": "<dash>",
@@ -8478,14 +8480,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "9-12",
+            "encounter_number": "5-8",
             "encounter_set": "1446ab7b-f63b-4df9-8ea2-5495496365e9"
         },
         {
             "name": "Defiled Concubine",
             "id": "5b2030d8-56a4-47f4-8a55-b18e2a5a7e1b",
             "amount": 4,
-            "project_number": "416",
+            "project_number": 245,
             "front": {
                 "attack": "<dash>",
                 "combat": "<dash>",
@@ -8506,14 +8508,14 @@
             "back": {
                 "type": "encounter"
             },
-            "encounter_number": "13-16",
+            "encounter_number": "9-12",
             "encounter_set": "1446ab7b-f63b-4df9-8ea2-5495496365e9"
         },
         {
             "name": "Witch of the Wilds",
             "id": "8d3d8299-7b64-4154-bb13-8f66377fcdbd",
             "amount": 4,
-            "project_number": "420",
+            "project_number": 247,
             "front": {
                 "attack": "<dash>",
                 "combat": "<dash>",
@@ -8540,7 +8542,7 @@
         {
             "name": "The Blind Warden",
             "id": "3bf9a26b-0074-48ce-bf6b-d63fde0a78a2",
-            "project_number": "424",
+            "project_number": 281,
             "front": {
                 "classes": [
                     "neutral"
@@ -8567,7 +8569,7 @@
         {
             "name": "The Divine Messenger",
             "id": "370425d7-c3f1-4748-a229-165a673fc3c9",
-            "project_number": "425",
+            "project_number": 282,
             "front": {
                 "classes": [
                     "neutral"
@@ -8594,7 +8596,7 @@
         {
             "name": "The Penitent Sentinel",
             "id": "9d334631-42fb-4421-b415-a7c4a9aed21b",
-            "project_number": "426",
+            "project_number": 283,
             "front": {
                 "classes": [
                     "neutral"
@@ -8623,7 +8625,7 @@
         {
             "name": "The Sly Bandit",
             "id": "0a435cff-7e49-407c-bef9-6caaaf634078",
-            "project_number": "427",
+            "project_number": 284,
             "front": {
                 "classes": [
                     "neutral"
@@ -8633,7 +8635,7 @@
                 "illustration_pan_x": 55.0,
                 "illustration_pan_y": 33.0,
                 "illustration_scale": 0.821,
-                "illustrator": "Illus. Unknown",
+                "illustrator": "Illus. vantid",
                 "level": "None",
                 "subtitle": "Blessing of the Tanuki",
                 "text": "Permanent.\n<reaction> After you evade an enemy, exhaust <name>: Gain X resources, where X is the evaded enemy's evade value. \n<for> At the start of your turn: You must either pay 1 resource or exhaust <name>.",
@@ -8650,7 +8652,7 @@
         {
             "name": "<unique>Mayu Tachibana",
             "id": "bd93b6b1-eda0-4d71-b754-b2df7c55431a",
-            "project_number": "432",
+            "project_number": 274,
             "front": {
                 "classes": [
                     "neutral"
@@ -8673,14 +8675,14 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "1",
+            "encounter_number": "5",
             "encounter_set": "32772015-9d7a-4ce4-affe-3e8c1151b62d"
         },
         {
             "name": "Memories of Mayu",
             "id": "f81561b4-a73c-407f-a29a-f9e02d0043d8",
             "amount": 4,
-            "project_number": "433",
+            "project_number": 273,
             "front": {
                 "classes": [
                     "weakness"
@@ -8697,14 +8699,14 @@
             "back": {
                 "type": "player"
             },
-            "encounter_number": "2-5",
+            "encounter_number": "1-4",
             "encounter_set": "32772015-9d7a-4ce4-affe-3e8c1151b62d"
         },
         {
             "name": "Memories of Miyu",
             "id": "43c9bb22-ebab-4e61-aedb-ae1baec486a1",
             "amount": 4,
-            "project_number": "437",
+            "project_number": 275,
             "front": {
                 "classes": [
                     "weakness"
@@ -8729,7 +8731,7 @@
             "name": "Chilblains",
             "id": "f30820ad-4852-417a-957f-30b0a245aabe",
             "amount": 3,
-            "project_number": "163",
+            "project_number": 134,
             "front": {
                 "flavor_text": "Your hands begin to go numb as \na thin layer of frost coats your fingers...",
                 "illustration": "./images/nepenthesgrasp2.png",
@@ -8749,22 +8751,44 @@
     ],
     "encounter_sets": [
         {
-            "name": "Astral Armaments.png",
-            "id": "d486f6db-3b30-4ab8-b57c-4351482025c9",
-            "icon": "./images/Astral Armaments.png",
+            "name": "scenarioset-1-b.png",
+            "id": "9ef16d54-081f-4d28-8caf-e31da585efb1",
+            "icon": "./images/scenarioset-1-b.png",
             "meta": {
                 "tts": {}
             },
-            "card_amount": 3
+            "card_amount": 22,
+            "order": 1
         },
         {
-            "name": "Rückkehr zu Wächter von Minakami",
-            "id": "dd37f56c-7d12-4858-99bd-5e02f893b001",
-            "icon": "C:/Users/cdpog/Documents/GitHub/Die-Geister-von-Onigawa/images/Return to Guardians of Minakami.png",
+            "name": "encounter-house-b.png",
+            "id": "d8a0a331-ba19-4137-a79d-7aa938c77a3d",
+            "icon": "./images/encounter-house-b.png",
             "meta": {
                 "tts": {}
             },
-            "cards": []
+            "card_amount": 34,
+            "order": 2
+        },
+        {
+            "name": "scenarioset-3-b.png",
+            "id": "9ab16e64-12db-4780-a632-56f71abcc53d",
+            "icon": "./images/scenarioset-3-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 22,
+            "order": 3
+        },
+        {
+            "name": "encounter-sword-b.png",
+            "id": "196125a5-3d26-48ae-9eaf-b57e0b883196",
+            "icon": "./images/encounter-sword-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 20,
+            "order": 4
         },
         {
             "name": "encounter-candle-b.png",
@@ -8773,103 +8797,8 @@
             "meta": {
                 "tts": {}
             },
-            "card_amount": 28
-        },
-        {
-            "name": "encounter-conductor-b.png",
-            "id": "292f9460-0ecc-45bc-8b2f-a1800d633769",
-            "icon": "./images/encounter-conductor-b.png",
-            "card_amount": 2
-        },
-        {
-            "name": "encounter-doctrine-b.png",
-            "id": "4451252e-ee64-4f85-b084-8b805d894660",
-            "icon": "./images/encounter-doctrine-b.png",
-            "card_amount": 10
-        },
-        {
-            "name": "encounter-fire-b.png",
-            "id": "4dbbf3e6-90af-44d2-ae86-54d33b3fe059",
-            "icon": "./images/encounter-fire-b.png",
-            "card_amount": 12
-        },
-        {
-            "name": "encounter-fire2-b.png",
-            "id": "8e627222-336f-4147-be8d-26467016ab45",
-            "icon": "./images/encounter-fire2-b.png",
-            "card_amount": 8
-        },
-        {
-            "name": "encounter-fogfatales-b.png",
-            "id": "c0cb9906-a8fb-46ab-8831-2f69e4c13291",
-            "icon": "./images/encounter-fogfatales-b.png",
-            "card_amount": 3
-        },
-        {
-            "name": "encounter-forestfrights-b.png",
-            "id": "b9245037-28ef-4862-8c63-db91684ab522",
-            "icon": "./images/encounter-forestfrights-b.png",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 5
-        },
-        {
-            "name": "encounter-gemini-b.png",
-            "id": "ab1646e6-575e-430a-b26a-1a66ac40e727",
-            "icon": "./images/encounter-gemini-b.png",
-            "card_amount": 1
-        },
-        {
-            "name": "encounter-grudge-b.png",
-            "id": "82e7a0d3-b552-450a-954b-0ca2d6c505e4",
-            "icon": "./images/encounter-grudge-b.png",
-            "card_amount": 2
-        },
-        {
-            "name": "encounter-guardiansofminakami-b.png",
-            "id": "addb2692-6e09-407b-bbd7-0f707cfed118",
-            "icon": "./images/encounter-guardiansofminakami-b.png",
-            "card_amount": 4
-        },
-        {
-            "name": "encounter-hands-b.png",
-            "id": "8eea5ad2-971a-4cf9-bba5-04717966b447",
-            "icon": "./images/encounter-hands-b.png",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 6
-        },
-        {
-            "name": "encounter-hauntedwoods-b.png",
-            "id": "4d9b7d52-8bdc-4ce6-a6ee-96608f93c306",
-            "icon": "./images/encounter-hauntedwoods-b.png",
-            "card_amount": 2
-        },
-        {
-            "name": "encounter-house-b.png",
-            "id": "d8a0a331-ba19-4137-a79d-7aa938c77a3d",
-            "icon": "./images/encounter-house-b.png",
-            "card_amount": 22
-        },
-        {
-            "name": "encounter-koi-b.png",
-            "id": "d2d065e4-80a5-4c26-93c1-6d4d507e9e2a",
-            "icon": "./images/encounter-koi-b.png",
-            "card_amount": 4
-        },
-        {
-            "name": "encounter-moon2-b.png",
-            "id": "2124ecd8-99d7-49ee-afce-9e303bf1f3a2",
-            "icon": "./images/encounter-moon2-b.png",
-            "card_amount": 1
-        },
-        {
-            "name": "encounter-moonlightmadness-b.png",
-            "id": "5db3d9c8-9382-44c6-a132-31a64709f1dd",
-            "icon": "./images/encounter-moonlightmadness-b.png",
-            "card_amount": 2
+            "card_amount": 42,
+            "order": 5
         },
         {
             "name": "encounter-mountain-b.png",
@@ -8928,106 +8857,8 @@
                 },
                 "tts": {}
             },
-            "card_amount": 26
-        },
-        {
-            "name": "encounter-murderofcrows-b.png",
-            "id": "d3417fd3-e4fe-4e38-ab55-302b7ab38ee9",
-            "icon": "./images/encounter-murderofcrows-b.png",
-            "card_amount": 1
-        },
-        {
-            "name": "encounter-shield-b.png",
-            "id": "9f69068d-7bb0-4721-bbf4-987e49e00189",
-            "icon": "./images/encounter-shield-b.png",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 8
-        },
-        {
-            "name": "encounter-snake2-b.png",
-            "id": "9a753fcd-4dfa-48f4-9933-0d3e686ad2dd",
-            "icon": "./images/encounter-snake2-b.png",
-            "card_amount": 3
-        },
-        {
-            "name": "encounter-snow-b.png",
-            "id": "67140c14-dbf6-4ba0-819c-c259a8816c49",
-            "icon": "./images/encounter-snow-b.png",
-            "card_amount": 2
-        },
-        {
-            "name": "encounter-sword-b.png",
-            "id": "196125a5-3d26-48ae-9eaf-b57e0b883196",
-            "icon": "./images/encounter-sword-b.png",
-            "card_amount": 20
-        },
-        {
-            "name": "encounter-throne-b.png",
-            "id": "caac83c5-2469-4f8d-8806-3090b1c263e8",
-            "icon": "./images/encounter-throne-b.png",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 25
-        },
-        {
-            "name": "encounter-tidalterrors-b.png",
-            "id": "b148ed1e-7af7-43b9-a6af-6eb2132fccbd",
-            "icon": "./images/encounter-tidalterror-b.png",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 4
-        },
-        {
-            "name": "encounter-twins-b.png",
-            "id": "32772015-9d7a-4ce4-affe-3e8c1151b62d",
-            "icon": "./images/encounter-twins-b.png",
-            "card_amount": 2
-        },
-        {
-            "name": "encounter-waterywoes-b.png",
-            "id": "0cd539bd-6331-411e-966c-e0457e69abcd",
-            "icon": "./images/encounter-watery woes-b.png",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 4
-        },
-        {
-            "name": "encounter-well-b.png",
-            "id": "7ca3acea-fdaf-464e-8f37-694b3b94fc90",
-            "icon": "./images/encounter-well-b.png",
-            "card_amount": 3
-        },
-        {
-            "name": "s8-icon-b.png",
-            "id": "1446ab7b-f63b-4df9-8ea2-5495496365e9",
-            "icon": "./images/s8-icon-b.png",
-            "card_amount": 5
-        },
-        {
-            "name": "scenarioset-1-b.png",
-            "id": "9ef16d54-081f-4d28-8caf-e31da585efb1",
-            "icon": "./images/scenarioset-1-b.png",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 22
-        },
-        {
-            "name": "scenarioset-2-b.png",
-            "id": "c46862ed-ba89-4557-adfb-c9d7e4596582",
-            "icon": "./images/scenarioset-2-b.png",
-            "card_amount": 7
-        },
-        {
-            "name": "scenarioset-3-b.png",
-            "id": "9ab16e64-12db-4780-a632-56f71abcc53d",
-            "icon": "./images/scenarioset-3-b.png",
-            "card_amount": 21
+            "card_amount": 35,
+            "order": 6
         },
         {
             "name": "scenarioset-7-b.png",
@@ -9070,9 +8901,281 @@
                         "show_arrows": true,
                         "snap_enabled": false
                     }
-                ]
+                ],
+                "tts": {}
             },
-            "card_amount": 16
+            "card_amount": 30,
+            "order": 7
+        },
+        {
+            "name": "encounter-fire-b.png",
+            "id": "4dbbf3e6-90af-44d2-ae86-54d33b3fe059",
+            "icon": "./images/encounter-fire-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 15,
+            "order": 8
+        },
+        {
+            "name": "encounter-throne-b.png",
+            "id": "caac83c5-2469-4f8d-8806-3090b1c263e8",
+            "icon": "./images/encounter-throne-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 38,
+            "order": 9
+        },
+        {
+            "name": "encounter-murderofcrows-b.png",
+            "id": "d3417fd3-e4fe-4e38-ab55-302b7ab38ee9",
+            "icon": "./images/encounter-murderofcrows-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 4,
+            "order": 10
+        },
+        {
+            "name": "encounter-conductor-b.png",
+            "id": "292f9460-0ecc-45bc-8b2f-a1800d633769",
+            "icon": "./images/encounter-conductor-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 4,
+            "order": 11
+        },
+        {
+            "name": "scenarioset-2-b.png",
+            "id": "c46862ed-ba89-4557-adfb-c9d7e4596582",
+            "icon": "./images/scenarioset-2-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 9,
+            "order": 12
+        },
+        {
+            "name": "encounter-doctrine-b.png",
+            "id": "4451252e-ee64-4f85-b084-8b805d894660",
+            "icon": "./images/encounter-doctrine-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 10,
+            "order": 13
+        },
+        {
+            "name": "encounter-well-b.png",
+            "id": "7ca3acea-fdaf-464e-8f37-694b3b94fc90",
+            "icon": "./images/encounter-well-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 4,
+            "order": 14
+        },
+        {
+            "name": "encounter-fogfatales-b.png",
+            "id": "c0cb9906-a8fb-46ab-8831-2f69e4c13291",
+            "icon": "./images/encounter-fogfatales-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 10,
+            "order": 15
+        },
+        {
+            "name": "encounter-forestfrights-b.png",
+            "id": "b9245037-28ef-4862-8c63-db91684ab522",
+            "icon": "./images/encounter-forestfrights-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 16,
+            "order": 16
+        },
+        {
+            "name": "encounter-fire2-b.png",
+            "id": "8e627222-336f-4147-be8d-26467016ab45",
+            "icon": "./images/encounter-fire2-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 8,
+            "order": 17
+        },
+        {
+            "name": "encounter-grudge-b.png",
+            "id": "82e7a0d3-b552-450a-954b-0ca2d6c505e4",
+            "icon": "./images/encounter-grudge-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 3,
+            "order": 18
+        },
+        {
+            "name": "encounter-hands-b.png",
+            "id": "8eea5ad2-971a-4cf9-bba5-04717966b447",
+            "icon": "./images/encounter-hands-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 8,
+            "order": 19
+        },
+        {
+            "name": "encounter-moon2-b.png",
+            "id": "2124ecd8-99d7-49ee-afce-9e303bf1f3a2",
+            "icon": "./images/encounter-moon2-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 4,
+            "order": 20
+        },
+        {
+            "name": "encounter-moonlightmadness-b.png",
+            "id": "5db3d9c8-9382-44c6-a132-31a64709f1dd",
+            "icon": "./images/encounter-moonlightmadness-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 7,
+            "order": 21
+        },
+        {
+            "name": "s8-icon-b.png",
+            "id": "1446ab7b-f63b-4df9-8ea2-5495496365e9",
+            "icon": "./images/s8-icon-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 20,
+            "order": 22
+        },
+        {
+            "name": "encounter-shield-b.png",
+            "id": "9f69068d-7bb0-4721-bbf4-987e49e00189",
+            "icon": "./images/encounter-shield-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 15,
+            "order": 23
+        },
+        {
+            "name": "encounter-snake2-b.png",
+            "id": "9a753fcd-4dfa-48f4-9933-0d3e686ad2dd",
+            "icon": "./images/encounter-snake2-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 9,
+            "order": 24
+        },
+        {
+            "name": "encounter-koi-b.png",
+            "id": "d2d065e4-80a5-4c26-93c1-6d4d507e9e2a",
+            "icon": "./images/encounter-koi-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 4,
+            "order": 25
+        },
+        {
+            "name": "encounter-tidalterrors-b.png",
+            "id": "b148ed1e-7af7-43b9-a6af-6eb2132fccbd",
+            "icon": "./images/encounter-tidalterror-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 10,
+            "order": 26
+        },
+        {
+            "name": "encounter-waterywoes-b.png",
+            "id": "0cd539bd-6331-411e-966c-e0457e69abcd",
+            "icon": "./images/encounter-watery woes-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 10,
+            "order": 27
+        },
+        {
+            "name": "encounter-snow-b.png",
+            "id": "67140c14-dbf6-4ba0-819c-c259a8816c49",
+            "icon": "./images/encounter-snow-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 5,
+            "order": 28
+        },
+        {
+            "name": "encounter-twins-b.png",
+            "id": "32772015-9d7a-4ce4-affe-3e8c1151b62d",
+            "icon": "./images/encounter-twins-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 5,
+            "order": 29
+        },
+        {
+            "name": "encounter-gemini-b.png",
+            "id": "ab1646e6-575e-430a-b26a-1a66ac40e727",
+            "icon": "./images/encounter-gemini-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 4,
+            "order": 30
+        },
+        {
+            "name": "Astral Armaments.png",
+            "id": "d486f6db-3b30-4ab8-b57c-4351482025c9",
+            "icon": "./images/Astral Armaments.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 3,
+            "order": 31
+        },
+        {
+            "name": "encounter-hauntedwoods-b.png",
+            "id": "4d9b7d52-8bdc-4ce6-a6ee-96608f93c306",
+            "icon": "./images/encounter-hauntedwoods-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 2,
+            "order": 32
+        },
+        {
+            "name": "encounter-guardiansofminakami-b.png",
+            "id": "addb2692-6e09-407b-bbd7-0f707cfed118",
+            "icon": "./images/encounter-guardiansofminakami-b.png",
+            "meta": {
+                "tts": {}
+            },
+            "card_amount": 4,
+            "order": 33
+        },
+        {
+            "name": "Rückkehr zu Wächter von Minakami",
+            "id": "dd37f56c-7d12-4858-99bd-5e02f893b001",
+            "icon": "C:/Users/cdpog/Documents/GitHub/Die-Geister-von-Onigawa/images/Return to Guardians of Minakami.png",
+            "meta": {
+                "tts": {}
+            },
+            "cards": [],
+            "card_amount": 0
         }
     ],
     "guides": [

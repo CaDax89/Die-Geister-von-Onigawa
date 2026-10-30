@@ -3,7 +3,6 @@
     "cards": {
         "000c23ab-cfc4-4a73-9032-5343898639fc": {
             "name": "Hände weg!",
-            "project_number": 88,
             "front": {
                 "flavor_text": "Ein abscheuliches, rasendes Ungeheuer verfolgt dich nun durch die Hallen des Palastes, und plötzlich ergeben die mysteriösen Handabdrücke, die jede Oberfläche bedecken, ein wenig mehr Sinn …",
                 "text": "<for> Zu Beginn der Gegnerphase: Platziere 1 Verderben auf Innereien und Extremitäten."
@@ -16,7 +15,7 @@
         },
         "013b4f19-c271-4c5f-a07c-5ffc13f4e87d": {
             "name": "Lieber der Tod als die Schande",
-            "project_number": 212,
+            "project_number": 211,
             "front": {
                 "flavor_text": "Durch den Einfluss einer dunklen Macht in den Wahnsinn getrieben, griff der einst ehrenhafte Azurritter von Onigawa während der Belagerung zu brutalen Methoden, um die Moral zu stärken und mutmaßliche Verräter auszumerzen.",
                 "text": "<rev> Jeder Ermittler, an dessen Ort sich keine weiteren Ermittler befinden, zieht 1 Karte. Jeder andere Ermittler muss 1 Horror nehmen.",
@@ -26,7 +25,6 @@
         },
         "0167c0b8-6fcc-4850-ae26-5feb31787505": {
             "name": "Der letzte Widerstand",
-            "project_number": 69,
             "front": {
                 "flavor_text": "Die Kampfgeräusche verstummen, während Onigawas geisterhafte Verteidiger einen letzten verzweifelten Versuch unternehmen, die Eindringlinge zurückzuschlagen...",
                 "text": "<t>Elite</t>-Gegner im Spiel erhalten Jäger 1.\n<for> Zu Beginn der Ermittlerphase: Mische alle <t>Doktrin</t>-<br>Karten im Spiel in das Rally-Deck, bringe dann die oberste Karte des Rally-Decks ins Spiel und führe ihren <b>Enthüllungs</b>-Effekt aus. <i>(Lege diese Karte nach ihrer Abhandlung nicht ab; sie bleibt bis zu Beginn der nächsten Ermittlerphase im Spiel.)</i>"
@@ -39,7 +37,7 @@
         },
         "01f70831-95d9-4567-be02-85a5070322f4": {
             "name": "Die Niedergeschlagenen freisprechen",
-            "project_number": 209,
+            "project_number": 208,
             "front": {
                 "flavor_text": "In den letzten Tagen der Belagerung wurde ein gefallener Held von Onigawa durch das selbstlose Opfer seiner Königin gerettet.",
                 "text": "<rev> Entferne 1 Verderben von der aktuellen Agenda. Der Ermittlungsleiter muss einen Ermittler auswählen, der in diesem Zug alle seine verbleibenden Aktionen verliert.",
@@ -63,7 +61,7 @@
         },
         "03f02070-0a08-4c03-858a-ca106fb8b687": {
             "name": "<unique>„Madame“ Bai",
-            "project_number": 226,
+            "project_number": 239,
             "front": {
                 "flavor_text": "Lady Bai war einst die Hofapothekerin und kannte sich bestens mit der Anwendung exotischer Gifte aus. Als sie während der Belagerung von einem verräterischen Untergebenen hintergangen wurde, bot ihr der königliche Puppenmacher einen Weg an, ihr „Leben“ auf unbestimmte Zeit zu verlängern...<br>",
                 "subtitle": "Schlangen-Mannequin",
@@ -71,7 +69,7 @@
                 "traits": "Automata. Elite. Verflucht.",
                 "victory": "Sieg 1."
             },
-            "encounter_number": "5"
+            "encounter_number": "8"
         },
         "05c55223-2a7c-4fe2-ab79-34bca7fab018": {
             "name": "Seichter Gleiter",
@@ -100,7 +98,6 @@
         },
         "08b4411f-d95f-4f63-befe-1f51ff770ce0": {
             "name": "Halbdunkel",
-            "project_number": 86,
             "front": {
                 "difficulty": "EINFACH/NORMAL",
                 "entries": [
@@ -162,9 +159,8 @@
         },
         "0a435cff-7e49-407c-bef9-6caaaf634078": {
             "name": "<unique>Der listige Bandit",
-            "project_number": 273,
+            "project_number": 283,
             "front": {
-                "illustrator": "Illus. Unbekannt",
                 "subtitle": "Segen der Tanuki",
                 "text": "Dauerhaft.\n<reaction> Nachdem du einem Gegner entkommen bist, erschöpfe Der listige Bandit: Erhalte X Ressourcen, wobei X dem Entkommenswert des entkommenen Gegners entspricht. \n<for> Zu Beginn deines Zuges: Du musst entweder 1 Ressource bezahlen oder Der listige Bandit erschöpfen.",
                 "traits": "Aspekt."
@@ -173,7 +169,6 @@
         },
         "0cf9a1ed-bb94-4b09-933b-bfcb46c89456": {
             "name": "Rachsüchtiges Echo",
-            "project_number": 22,
             "front": {
                 "flavor_text": "Der wankende Leichnam dieses gefallenen Kriegers zuckt und windet sich bei jedem qualvollen Schritt.<br>\n",
                 "text": "Patrouille (Torii-Tor). <name> erhält +3 <per_large> Ausdauer.\n<spawn> Kapitulation eines Helden, falls möglich. Ansonsten: Der einsame Grabstein.\n<reaction> Nachdem du Schaden zugefügt hast: Erschöpfe <name>.",
@@ -183,7 +178,6 @@
         },
         "0d8e26e8-43ae-4f84-8497-208c3581cef4": {
             "name": "Koi-Verführerin",
-            "project_number": 203,
             "front": {
                 "flavor_text": "Es heißt, die Nure-Onna würden verzweifelte Mütter nachahmen, die nach ihren Säuglingen rufen, um „Hilfe“ von ahnungslosen Seeleuten und Fischern zu erbitten.",
                 "text": "Jäger 1.\n<prey> Geringster <agility>-Wert.\n<b>Vorteil --</b> Erschöpfe Tyrische Galeere, falls sie sich an deinem Ort befindet. ",
@@ -218,18 +212,16 @@
             "encounter_number": "24-26"
         },
         "0ffb27ce-a439-4f20-82b9-cc946ff048d8": {
-            "project_number": 215,
             "front": {
                 "flavor_text": "Jahrhunderte sind vergangen, doch die Jungfrau des Schwarzwassers hegt immer noch ihren Groll…",
                 "subtitle": "Jungfrau des Schwarzwassers",
                 "text": "Jäger 2.\n<spawn> Trostloser Ankerplatz.\n<b>Rache --</b> Anstatt Kayako abzulegen, entferne allen Schaden und Verderben von ihr, dann erschöpfe Kayako und bewege sie zu Trostloser Ankerplatz.",
                 "traits": "Yokai. Elite. Verflucht."
-            },
-            "encounter_number": "3"
+            }
         },
         "1102ba26-9b14-477a-b938-39913ab10137": {
             "name": "Azurblauer Eiferer",
-            "project_number": 219,
+            "project_number": 251,
             "front": {
                 "flavor_text": "Der Azurblaue Eiferer war der Erste von Onigawas Meistern, der von einem uralten Übel verführt wurde, doch er sollte nicht der Letzte sein.<br><br>",
                 "subtitle": "Verräter von Onigawa",
@@ -241,7 +233,7 @@
         },
         "1105bf27-bdf2-4be9-bc49-c491b48ddfd8": {
             "name": "<unique>Shin Komainu",
-            "project_number": 260,
+            "project_number": 231,
             "front": {
                 "flavor_text": "Lang lebe der König.",
                 "subtitle": "<size 50>Das Feuer wird niemals erlöschen",
@@ -252,7 +244,6 @@
         },
         "114a0775-118e-487d-9e1f-d2fd7580cc4e": {
             "name": "<unique>Yuki-onna",
-            "project_number": 236,
             "front": {
                 "flavor_text": "Reisende, die sich in Minakami den Schneestürmen stellen, werden oft vor Yuki-onna gewarnt, die angeblich willensschwache Männer heimsucht, um ihnen ihre Lebenskraft zu rauben und sie als erfrorene Leichen zurückzulassen.",
                 "subtitle": "Die Mondkönigin",
@@ -263,7 +254,6 @@
         },
         "13752132-4a00-4068-8d52-f00312c47985": {
             "name": "Tiefer Einschlag",
-            "project_number": 162,
             "front": {
                 "flavor_text": "Der blutrote Halbmond auf der Mondoberfläche scheint eine Art ovaler Behälter zu sein, der in der Mitte eines großen Kraters liegt. Er fühlt sich warm an … Vielleicht gibt es eine Möglichkeit, ihn zu öffnen …?",
                 "text": "<obj> Falls 4 oder mehr <blessing>-Marker auf Brodelnder Brut versiegelt sind, rücke vor."
@@ -276,10 +266,8 @@
         },
         "13dca30b-2999-4194-abe3-8f4a3b615a15": {
             "name": "Terramorpher Regenwald",
-            "project_number": 166,
             "front": {
                 "flavor_text": "Von den Rändern dieser Inseln stürzen rauschende Wasserfälle hinab, was zu hoher Luftfeuchtigkeit führt...",
-                "illustrator": "Illus. Unbekannt",
                 "text": "<reaction> Nachdem du erfolgreich an diesem Ort ermittelt hast: Anstatt Hinweise zu entdecken, kannst du stattdessen dem Chaosbeutel bis zu X<blessing>-Marker hinzufügen, wobei X die Differenz ist, um die du erfolgreich warst.",
                 "traits": "Dschungel. Zerstört."
             },
@@ -290,7 +278,7 @@
         },
         "145f925c-982c-4028-aa81-0de6fbab5f92": {
             "name": "Verräter des Augusts",
-            "project_number": 266,
+            "project_number": 247,
             "front": {
                 "flavor_text": "Die Schriftgelehrten des Augusts vertieften sich in die alten Apokryphen, um das Wesen der Bedrohung, der sie ausgesetzt waren, besser zu verstehen. Viele waren nicht stark genug, um mit der Wahrheit fertig zu werden.",
                 "text": "<b>Opfer --</b> Platziere 1 Verderben auf jedem <t>Elite</t>-Gegner im Spiel <i>(inklusive derer im Opferbereich)</i>.",
@@ -300,13 +288,14 @@
         },
         "14b7f4ff-ee3f-4573-bad1-9ba73b6e0ef3": {
             "name": "<unique>Onikuma Kanzen",
-            "project_number": 259,
+            "project_number": 230,
             "front": {
                 "flavor_text": "Unter dem wachsamen Blick seiner Mutter hat der Berg Kokoro Äonen voller Unruhen überstanden… und er wird auch heute nicht fallen.",
                 "subtitle": "<size 50>Die Hölle kennt keine größere Wut",
                 "text": "Ermittler dürfen den ersten Gelegenheitsangriff in ihrem Zug ignorieren.\n<action>: Durchsuche den Chaosbeutel nach 1<blessing>- und 1<curse>-Marker und lege diese in den Markervorrat zurück: Füge dem Chaosbeutel 1<font \".\\fonts\\AHLCGHarmony.otf\">Y</font>-Marker hinzu. Ermittler können diese Fähigkeit von allen Orten aus auslösen.",
                 "traits": "Verbündeter. Avatar."
-            }
+            },
+            "encounter_number": "7"
         },
         "15ede677-c8a6-49f9-9438-d0a81ab79d47": {
             "name": "Fischerkai",
@@ -342,7 +331,6 @@
         },
         "16d6c075-9a96-40f6-8f24-517187f236ef": {
             "name": "Auf der Suche nach Publikum",
-            "project_number": 90,
             "front": {
                 "flavor_text": "Ein seltsames Gewirr aus roten Ranken hat offenbar das Fundament des Palastes überwuchert und droht nun, deine Ermittlungen zu behindern. Du bist dir nicht sicher, ob das wirklich Miyu war – du bist dir nicht einmal sicher, ob das Mädchen, das dich im Eingangsbereich aufgeschreckt hat, wirklich existiert hat –, aber du musst das Risiko eingehen und den Palast erkunden...",
                 "text": "<obj> Sucht nach Hinweisen auf Miyu. Die Ermittler können als Gruppe die erforderliche Anzahl an Hinweisen ausgeben, um vorzurücken."
@@ -355,7 +343,6 @@
         },
         "16fe0d49-8664-4637-982a-d60759f071af": {
             "name": "Tatami-Raum",
-            "project_number": "291",
             "front": {
                 "flavor_text": "Die dünnen, schmutzigen Matten auf dem Boden sehen nicht besonders bequem aus...",
                 "text": "<for> Nachdem <name> enthüllt wurde: Lege die oberste Karte des Begegnungsdecks ab, bis der Gegner Elfenbeindienerin enthüllt wird und lasse diesen im <name> erscheinen.",
@@ -365,12 +352,10 @@
                 "flavor_text": "Eine feine Staubschicht überzieht alles, was sich in den Schlafgemächern des Herrenhauses befindet.",
                 "text": "Ermittler können sich nicht von einem Ort mit Hinweisen darauf zum <name> bewegen.",
                 "traits": "Erdgeschoss."
-            },
-            "enumerated": "manual"
+            }
         },
         "18aa49eb-9bd0-47e4-bf5a-64fe7ecd5075": {
             "name": "Tsurugis Rastplatz",
-            "project_number": 147,
             "front": {
                 "flavor_text": "Der Drachenwächter Tsurugi war dafür bekannt, Knochen als Opfergaben anzunehmen … vorzugsweise solche, die den Leichen seiner Feinde entrissen worden waren.",
                 "subtitle": "Schrein der Ryu",
@@ -380,12 +365,10 @@
             "back": {
                 "flavor_text": "Ein seltsamer Sarkophag, in Ketten gelegt und von Knochen umgeben, beobachtet unheilvoll von einer nahegelegenen Klippe aus das Geschehen in der Gießerei.",
                 "traits": "Vulkan. Tiefen."
-            },
-            "encounter_number": "8"
+            }
         },
         "195e837c-f147-407e-a966-1cac3c3f8f7d": {
             "name": "An die Grenzen stoßen",
-            "project_number": 89,
             "front": {
                 "flavor_text": "Man spürt, wie das Wesen immer sicherer in seinen Bewegungen wird; wo es dich früher noch unbeholfen im Dunkeln suchte, jagt es dich nun zielstrebig, fast so, als hätte es Gefallen an dir gefunden...",
                 "text": "Innereien und Extremitäten erhält Jäger 2. (Mehrere Instanzen des Schlüsselworts Jäger addieren sich nicht; verwende den höchsten Wert für X.)\n<for> Zu Beginn der Gegnerphase: Lege 1 Verderben auf Innereien und Extremitäten."
@@ -408,7 +391,7 @@
         },
         "1b35afc2-3676-4dea-af8d-978b5917493d": {
             "name": "Profaner Altar",
-            "project_number": 165,
+            "project_number": 177,
             "front": {
                 "flavor_text": "War dieses riesige Wesen einst ein Wächter...?",
                 "subtitle": "Schrein des Moloch",
@@ -435,7 +418,6 @@
         },
         "1bb9c007-8583-4935-8495-8964fa2ad9e4": {
             "name": "Ein Herausforderer naht",
-            "project_number": 242,
             "front": {
                 "flavor_text": "Der Weg ist frei, doch nun wirst du von einem geheimnisvollen Krieger verfolgt. Seine geschwärzte Rüstung ähnelt oberflächlich betrachtet einigen der Modelle, die du während der Belagerung des Palasts bei Onigawas Verteidigern gesehen hast, und doch …",
                 "text": "<for> Zu Beginn der Gegnerphase: Befindet sich kein Ermittler am Ort von Kurama Tengu, rücke die aktuelle Agenda vor.\n<obj> Falls sich alle überlebenden Ermittler an der Brandschneise befinden und Kurama Tengu sich im Siegpunktstapel befindet, rücke vor."
@@ -444,8 +426,7 @@
                 "name": "Herausforderung angenommen",
                 "flavor_text": "Der geheimnisvolle Eindringling wehrt deine Schläge ab und startet seine eigenen Angriffe ohne Ehre und Menschlichkeit, doch durch List gelingt es dir, die Oberhand zu gewinnen; du täuschst an und lockst ihn zu einem Gegenangriff, der ihn am Rand einer Klippe aus dem Gleichgewicht bringt, und landest einen Folgeangriff.\nWie eine Sternschnuppe stürzt er durch die Luft hinab in einen Lavasee unter ihm. Eine gewaltige Feuersäule schießt an der Stelle empor, an der er aufgeschlagen ist … gefolgt von einem hohlen Kriegsschrei, der vom Rand des Vulkans widerhallt, während gespenstische Lichtpartikel an dir vorbeisteigen und auf den purpurroten Mond zufliegen. Hoffentlich ist das das letzte Mal, dass du ihn siehst, wer auch immer er gewesen sein mag …",
                 "text": "(<resolution><b>A1</b>)\n\n\n"
-            },
-            "encounter_number": "3"
+            }
         },
         "1efd5189-48a1-4675-889f-7c859ba1e93f": {
             "name": "Tückischer Anstieg",
@@ -478,7 +459,7 @@
         },
         "20ed54bf-6b29-481b-ba1d-04da160c19cb": {
             "name": "Zerbrochenes Felsenriff",
-            "project_number": 168,
+            "project_number": 180,
             "front": {
                 "flavor_text": "Teile der Kathedrale sind nun über einen Archipel aus winzigen schwimmenden Inseln verstreut, die um den Gipfel des Berges Kokoro kreisen.",
                 "text": "<for> Sobald die Ermittlerphase beginnt: Falls weniger als 1<per_large> Hinweis auf <name> liegen, platziere einen Hinweis darauf <i>(aus dem Markervorrat).</i>",
@@ -492,7 +473,6 @@
         },
         "221becb4-0723-47df-b931-23905a498161": {
             "name": "Steigende Flut",
-            "project_number": 47,
             "front": {
                 "flavor_text": "Deine Aktivitäten im Delta sind nicht unbemerkt geblieben. Wilde Strömungen brechen unter der ruhigen Wasseroberfläche hervor und offenbaren das Aufwühlen ruheloser Geister, die unter der Brandung gefangen sind...",
                 "text": "Alle Orte sind mit jedem benachbarten Ort verbunden.\n<for> Wenn sich ein Ermittler zwischen <t>Fluss</t>-Orten bewegt, während er nicht auf Tyrische Galeere ist: Dieser Ermittler verliert alle verbleibenden Aktionen."
@@ -506,7 +486,6 @@
         },
         "22349e4c-412a-4159-9f35-b2e5da097699": {
             "name": "Laternengeist",
-            "project_number": 110,
             "front": {
                 "flavor_text": "Im Königspalast war es verboten, Geistergeschichten zu erzählen, aus Angst, man könnte damit die Ao-Andō herbeirufen – schelmische Geister, die Lichtquellen auslöschten und ahnungslose Opfer in der Dunkelheit überfielen.",
                 "text": "Zurückhaltend. Jäger 2.\n<prey> Höchster <intellect>-Wert.\n<name> verliert Zurückhaltend, wenn keine Hinweise an dem Ort vorhanden sind.",
@@ -520,11 +499,12 @@
                 "flavor_text": "Als die Kräfte der Gießereischmiede nachließen, bestand ihre letzte vorgeschriebene Aufgabe darin, das Feuer noch ein letztes Mal anzufachen.",
                 "text": "<rev> Bringe entweder <name> angehängt an die aktuelle Agenda ins Spiel oder füge jedem Ermittler und jeder <t>Verbündeter</t>-Vorteilskarte im Spiel 1 Horror zu.\nJeder <t>Vulkan</t>-Ort erhält +1 Schleierwert.\n<for> Am Ende der Runde: Lege <name> ab.",
                 "traits": "Macht."
-            }
+            },
+            "encounter_number": "12-14"
         },
         "236ac331-43b0-4b17-826c-5b4190436437": {
             "name": "<unique>Midori Mirai",
-            "project_number": 257,
+            "project_number": 228,
             "front": {
                 "flavor_text": "Dein Streitwagen aus Feuer erwartet dich.",
                 "subtitle": "Da wo Rauch ist",
@@ -535,17 +515,14 @@
         },
         "249aaa49-23ac-475f-b4f6-cce7b7767e94": {
             "name": "Versengt",
-            "project_number": 152,
             "front": {
                 "flavor_text": "Eine Flammenfontäne schießt aus einem nahegelegenen Lavasee empor und versengt deine nackte Haut...",
                 "text": "<rev> Führe eine <agility>-Probe (3) durch. Falls die Probe misslingt, musst du entweder eine Nicht-Schwäche-<t>Gegenstand</t>-Karte aus deiner Hand oder deinem Spielbereich ablegen, die mindestens 1 Handslot benötigt, oder für jeden Punkt, um den die Probe misslungen ist, 1 Schaden nehmen.",
                 "traits": "Verletzung."
-            },
-            "encounter_number": "21-23"
+            }
         },
         "26035667-34a4-4e85-8262-fcc7a89687b2": {
             "name": "Urzeitlicher Dirigent",
-            "project_number": 195,
             "front": {
                 "flavor_text": "Von der Göttin mit biologischer Unsterblichkeit gesegnet, wachen die uralten Dirigenten seit unzähligen Äonen über diese Gewässer. ",
                 "text": "Hinterhalt.\n<spawn> Nächstgelegener <t>Fluss</t>-Ort.\n<name> kann keine Nicht-<t>Fluss</t>-<br>Orte betreten.",
@@ -554,7 +531,7 @@
         },
         "2660a523-6f3d-497f-9502-7c2e0419e972": {
             "name": "Den Schläfer erwecken",
-            "project_number": 232,
+            "project_number": 256,
             "front": {
                 "flavor_text": "Du spürst, wie der Berg Kokoro vor Angst erbebt, als sich die alabasterfarbene Schlange wieder der Jagd anschließt. Es gibt kein Versteck mehr …",
                 "text": "Wagnis.\n<rev> Falls Orochimaru <i>(Ewiger Schlummer)</i> im Spiel ist, drehe ihn um. Führe eine <agility>-Probe (3) durch. Falls die Probe misslingt, mische <name> zurück in das Begegnungsdeck, und Orochimaru <i>(Fluch des Augusts)</i> greift dich sofort an.",
@@ -595,7 +572,6 @@
         },
         "2cb0562b-18d5-4c31-a95c-ebc5cb92a5cb": {
             "name": "Ein Licht in der Dunkelheit",
-            "project_number": 72,
             "front": {
                 "flavor_text": "Der Purpurrote Schmetterling strahlt eine Art Energiefeld aus, das die Zeitschleife, in der die Stadt gefangen ist, offenbar „stabilisiert“; wenn sich die Erscheinungen ihm nähern, stocken sie und weichen zurück, als wären sie gelähmt. Vielleicht kann er dir helfen, die Schutzzauber zu deaktivieren, die den Palast versiegeln...",
                 "text": "<obj> Finde einen Weg in die Nachtigallen-Vorhalle.\n<i>(Rücke diese Agenda nicht vor, bis du dazu angewiesen wirst.)</i>"
@@ -608,19 +584,16 @@
         },
         "2d76dea6-2674-45cc-835c-53c57f624ab8": {
             "name": "<unique>Shishios Tücke",
-            "project_number": 44,
             "front": {
                 "name": "<name>",
                 "flavor_text": "Diese verzierte Maske wurde einst von einem königlichen Gefolgsmann getragen, um seine heimlichen Treffen mit einer Dienstmagd aus einfachen Verhältnissen zu verbergen.",
                 "subtitle": "Maske des unheilvollen Dieners",
                 "text": "Du erhältst +1 <agility>.\n<action> Entferne Shishios Tücke aus dem Spiel: <b>Verhandlung.</b> Entferne einen Nicht-<t>Elite</t>-Gegner aus deiner Bedrohungszone.",
                 "traits": "Gegenstand. Maske. Relikt. Verflucht. "
-            },
-            "encounter_number": "34"
+            }
         },
         "2e806ab3-df2d-493f-9471-07972a6e58aa": {
             "name": "Ein totales Chaos",
-            "project_number": 240,
             "front": {
                 "flavor_text": "Je weiter du in die Tiefen des Vulkans hinabsteigst, desto stärker spürst du, wie die Hitze zunimmt, und in der Ferne fällt dein Blick auf die Silhouette einer seltsamen Kugel; vielleicht ist das die verzauberte Energiequelle der Gießerei...?",
                 "text": "<obj> Finde die Energiequelle der Gießerei. \n<i>(Rücke nicht vor, bis du dazu angewiesen wirst.)</i>"
@@ -643,7 +616,6 @@
         },
         "2eb73518-9fe7-4e00-8bed-f9d5047fd63e": {
             "name": "Das Haus auf dem Hügel",
-            "project_number": 23,
             "front": {
                 "chaos_extra": "Erkundungsdeck",
                 "difficulty": "LEICHT/NORMAL",
@@ -707,7 +679,6 @@
         },
         "2ecb2ccb-a456-4712-92df-4aa26f1c5b19": {
             "name": "Stille Nacht",
-            "project_number": 4,
             "front": {
                 "text": "Ermittler dürfen keine Karten zu Proben anderer Ermittler beisteuern. "
             },
@@ -719,7 +690,6 @@
         },
         "2f53d528-be8d-4e93-ad69-3a5d9ea17c94": {
             "name": "Camera Obscura",
-            "project_number": 113,
             "front": {
                 "flavor_text": "Das seltsame Gerät scheint seinen eigenen Phantomfilm zu erzeugen, der speziell dafür entwickelt wurde, Bilder von Geistern aufzunehmen...",
                 "subtitle": "Gespenstisches Filament",
@@ -729,7 +699,6 @@
         },
         "2fb9d966-6663-4db5-a034-59d89113c505": {
             "name": "Blutbefleckter Almanach",
-            "project_number": 112,
             "front": {
                 "flavor_text": "Eine blutgetränkte Schriftrolle, die im Königspalast gefunden wurde, scheint viele Geheimnisse der Region zu enthüllen … wenn man den Text nur entziffern könnte.",
                 "subtitle": "Atlas von Onigawa",
@@ -739,17 +708,14 @@
         },
         "31b7ecb6-ed98-4a29-aa25-5f4053cb77dc": {
             "name": "Siedepunkt",
-            "project_number": 248,
             "front": {
                 "flavor_text": "Warte nicht, bis das Eisen heiß ist, um zuzuschlagen; du musst es durch das Zuschlagen selbst heiß machen.",
                 "text": "<for> Wenn du in deinem Zug eine Fertigkeitsprobe initiierst: Erhöhe den Schwierigkeitsgrad dieser Probe um 1 für jede Probe, die du in diesem Zug bestanden hast.\n<for> Nachdem dir in deinem Zug eine Fertigkeitsprobe nicht gelungen ist: Mache den nächstgelegenen <t>Elite</t>-Gegner spielbereit.",
                 "traits": "Macht."
-            },
-            "encounter_number": "9-12"
+            }
         },
         "3205d061-7372-4ee6-aa2b-87e0b149c503": {
             "name": "Fürchte dich nicht vor dem Sensenmann",
-            "project_number": 157,
             "front": {
                 "flavor_text": "Der seltsame Priester, der Miyu entführt hat, führt ein lästerliches Ritual durch, um dem Mädchen ihre Lebenskraft zu entziehen und seinen dunklen Meister in diese Welt zu beschwören. Um das Ritual zu nähren und die magische Barriere zu stärken, die sie schützt, werden verlorene Seelen aus allen Ecken von Onigawa, über alle Zeiten und Räume hinweg, zum Galgen gerufen …",
                 "text": "<for> Sobald die Mythosphase endet: Bringe ein <b>Opfer</b> dar."
@@ -762,7 +728,7 @@
         },
         "331484c6-0a0c-456e-866e-76617b95439a": {
             "name": "Die Wälder haben Augen",
-            "project_number": 182,
+            "project_number": 219,
             "front": {
                 "flavor_text": "Große, leuchtende Augen starren dich aus dem Dickicht an … und du willst nicht bleiben, um herauszufinden, wem sie gehören.",
                 "text": "<rev> Führe eine <agility>-Probe (X) durch. X ist der Schleierwert deines aktuellen Ortes. Falls die Probe misslingt, nimm 1 Horror und bewege dich zu einem enthüllten, benachbarten Ort. ",
@@ -787,7 +753,6 @@
         },
         "370425d7-c3f1-4748-a229-165a673fc3c9": {
             "name": "<unique>Der göttliche Bote",
-            "project_number": 272,
             "front": {
                 "subtitle": "Segen der Shika",
                 "text": "Dauerhaft.\n<free> Bevor Chaosmarker während einer Ermitteln-Aktion enthüllt werden, erschöpfe Der göttliche Bote: Falls die Probe gelingt, entdecke einen zusätzlichen Hinweis an deinem Ort.\n<for> Am Ende der Runde: Falls du diese Runde erfolgreich ermittelt hast, erschöpfe Der göttliche Bote. ",
@@ -796,7 +761,6 @@
         },
         "377c6ba4-fe18-4746-bf93-b52811c7da54": {
             "name": "Eine Maschine für Schweine",
-            "project_number": 158,
             "front": {
                 "flavor_text": "Mit jedem Opfer, das seine Auferstehung befeuert, rückt Molochs immaterielle Essenz dem Ziel näher, in dieser Welt einen physischen Halt zu finden...",
                 "text": "<for> Sobald die Mythosphase endet: Bringe ein <b>Opfer</b> dar.\n<for> Entferne kein Verderben von anderen Karten außer dieser Agenda, wenn diese vorrückt."
@@ -809,7 +773,7 @@
         },
         "37b39ee3-1754-4ec2-a3df-fbe322be42d7": {
             "name": "<unique>Neo-Kanon",
-            "project_number": 258,
+            "project_number": 229,
             "front": {
                 "flavor_text": "Asche zu Asche.",
                 "subtitle": "Adel verpflichtet",
@@ -845,7 +809,7 @@
         },
         "3a8ceebf-7bef-49d9-9060-f24943ba45d1": {
             "name": "Schmelztiegel",
-            "project_number": 247,
+            "project_number": 163,
             "front": {
                 "flavor_text": "Eine Reihe von Mechanismen scheint es dir zu ermöglichen, den Lavastrom umzuleiten; vielleicht kannst du ihn nutzen, um die Schmiede zu befeuern?",
                 "text": "<action> Falls Szene 2c aktiv ist und sich keine Hinweise auf <name> befinden, lege 3 Karten von deiner Hand ab: <i>Manueller Noteingriff.</i>  Rücke vor.",
@@ -855,11 +819,11 @@
             "back": {
                 "flavor_text": "Eine schwebende Plattform nahe der hinteren Wand scheint die abfließende Lava eines der oberen Becken aufzufangen und in eine Reihe von Kanälen umzuleiten...",
                 "traits": "Vulkan. Insel."
-            }
+            },
+            "encounter_number": "8"
         },
         "3ac58838-4ba5-4c9d-88c9-674d6215b9e9": {
             "name": "Der Empfang",
-            "project_number": 28,
             "front": {
                 "flavor_text": "Das junge Mädchen, das die geisterhafte Jungfrau in ihrer Gewalt hat, muss eine der vermissten Zwillinge aus Minakami sein. Wenn du schnell handelst, kannst du sie vielleicht noch retten...",
                 "text": "<obj> Falls sich Die Blasse Braut im Siegpunktestapel befindet, rücke vor."
@@ -872,7 +836,6 @@
         },
         "3bf9a26b-0074-48ce-bf6b-d63fde0a78a2": {
             "name": "<unique>Der blinde Wächter",
-            "project_number": 271,
             "front": {
                 "subtitle": "Segen der Karasu",
                 "text": "Dauerhaft.\n<free> Bevor Chaosmarker während einer Kampf-Aktion enthüllt werden, erschöpfe Der blinde Wächter: Falls die Probe gelingt, füge +1 Schaden zu. \n<for> Am Ende der Runde: Falls du einem Gegner in dieser Runde Schaden zugefügt hast, erschöpfe Der blinde Wächter.",
@@ -896,7 +859,7 @@
         },
         "41f09508-dc5f-46df-90a8-baa6300e1220": {
             "name": "Sterbliche Hülle",
-            "project_number": 186,
+            "project_number": 223,
             "front": {
                 "flavor_text": "An einem Ast hängend schwingt der kalte Körper eines kleinen Mädchens sanft im Wind hin und her. Sie wird für immer vierzehn bleiben.",
                 "text": "<rev> Lege eine zufällige Nicht-Schwäche-Vorteils- oder Ereigniskarte von deiner Hand ab. Führe dann eine <willpower>-Probe (X) durch. X entspricht den Ressourcenkosten der abgelegten Karte. Falls die Probe misslingt oder keine Karte auf diese Weise abgelegt wird, kannst du bis zum Ende der Runde keine Bewegen-Aktion ausführen. ",
@@ -921,7 +884,7 @@
         },
         "4381f6d1-1bf2-4765-a1cc-75d0e9e01d39": {
             "name": "Hüllenlegion",
-            "project_number": 220,
+            "project_number": 252,
             "front": {
                 "flavor_text": "Für viele Soldaten endete die Belagerung von Onigawa nie.",
                 "text": "Gewaltig.\n<for> Nachdem <name> ins Spiel kommt: Platziere 1 Verderben darauf.",
@@ -931,7 +894,7 @@
         },
         "43839519-455a-4cc8-8a53-cb494eb9c5ab": {
             "name": "Pilzbefall",
-            "project_number": 185,
+            "project_number": 222,
             "front": {
                 "flavor_text": "Der widerliche Gestank von Verwesung, der den Boden unter deinen Füßen nährt, hängt schwer in der Luft.",
                 "text": "<rev> Hänge <name> an den nächstgelegenen Ort an, an dem noch kein Exemplar von <name> angehängt ist. Max. 1 pro Ort.\n<for> Am Ende der Ermittlerphase: Jeder Ermittler an diesem Ort nimmt 1 Schaden.",
@@ -941,7 +904,6 @@
         },
         "43c9bb22-ebab-4e61-aedb-ae1baec486a1": {
             "name": "Erinnerungen an Miyu",
-            "project_number": 261,
             "front": {
                 "flavor_text": "Du konntest sie nicht retten. Vielleicht kannst du niemanden retten.",
                 "text": "<rev> Führe eine <willpower>-Probe (3) durch. Falls die Probe misslingt, musst du entweder 1 Verderben auf der aktuellen Agenda platzieren oder 1 direkten Horror nehmen.",
@@ -950,13 +912,11 @@
         },
         "43d47e3a-f71e-4426-9434-1335ee4e5ba5": {
             "name": "Grausame Huldigung",
-            "project_number": 171,
             "front": {
                 "flavor_text": "Bevor die Festung in Onigawa errichtet und der Bund mit den Wächtern geschlossen wurde, wurden die kleinen Töchter und die zweitgeborenen Söhne der Bauern häufig geopfert, um bösartige Geister zu besänftigen...",
                 "text": "<rev> Führe eine <willpower>-Probe (3) durch. Falls die Probe misslingt, musst du einen Gegner im Opferbereich wählen und ihn aus dem Spiel entfernen <i>(hierbei wird der <b>Opfer</b>-Effekt ausgelöst, falls möglich.)</i>",
                 "traits": "Wahnsinn."
-            },
-            "encounter_number": "16-19"
+            }
         },
         "44478b2e-998f-4871-ae85-11736e7c0021": {
             "name": "Zündvorrichtung",
@@ -964,11 +924,11 @@
             "front": {
                 "flavor_text": "Die Wanyūdō waren einst die Diener des Wächters Tsurugi und mit der Instandhaltung der heiligen Gießerei betraut.",
                 "text": "Jäger 2. \n<b>Rache --</b> Verliere alle verbliebenen Aktionen und beende deinen Zug."
-            }
+            },
+            "encounter_number": "28-30"
         },
         "444adcea-4caa-41f2-899d-7e011533ba17": {
             "name": "<unique>Kurama Tengu",
-            "project_number": 249,
             "front": {
                 "flavor_text": "Aus der Asche des Konflikts, der Onigawa verwüstet hatte, erhob sich ein neuer Champion. Seine Rücksichtslosigkeit im Kampf wurde nur noch von seiner Treue gegenüber seinem dunklen Schutzherrn übertroffen.<br><margin 15>\n",
                 "illustration_pan_x": -595.0,
@@ -978,8 +938,7 @@
                 "text": "Jäger 2. Zurückschlagen.\n<spawn> Brandschneise.\n<for> Sobald die Gegnerphase beginnt: Füge dem Chaosbeutel 1<per_large> <curse>-Marker hinzu.",
                 "traits": "Humanoid. Elite. Yokai. Verflucht.",
                 "victory": "Sieg 1."
-            },
-            "encounter_number": "13"
+            }
         },
         "44ed80f6-c735-49b0-8050-eadc3aeb6904": {
             "name": "Verschlungener Pfad",
@@ -992,14 +951,13 @@
             "back": {
                 "name": "Grünes Wäldchen",
                 "flavor_text": "Eine ehrwürdige Landschaft aus hohen Bäumen, Sträuchern und Steinmauern lockt dich tiefer in den Wald hinein.",
-                "illustrator": "Illus. Unbekannt",
                 "traits": "Wälder."
             },
             "encounter_number": "19"
         },
         "45d367df-146f-4e6f-bbaf-b6f0971887b3": {
             "name": "Die Frau im Nebel",
-            "project_number": 187,
+            "project_number": 216,
             "front": {
                 "flavor_text": "Für einen Moment dachtest du, du hättest Hochzeitsglocken läuten hören...",
                 "text": "Wagnis. Verborgen.\n<rev> Füge diese Karte deiner Hand hinzu und merke dir, dass du <i>einen flüchtigen Blick auf Die Blasse Braut erhascht hast.</i> Du darfst Die Blasse Braut für den Rest dieses Szenarios nicht erwähnen. Jedes Mal, wenn du dies tust, nimmst du 1 direkten Horror.\n ",
@@ -1019,7 +977,6 @@
         },
         "47850c36-6532-419f-a153-5c4279cdbc51": {
             "name": "Schritt halten",
-            "project_number": 26,
             "front": {
                 "flavor_text": "Anhand der Informationen auf den Zetteln, die du gefunden hast, solltest du es nun bis zum Haus auf dem Hügel schaffen, wenn du erst einmal zu dieser Treppe gelangst...",
                 "text": "<obj> Betrete das Herrenhaus.\nSobald keine Hinweise mehr auf Finsteres Herrenhaus liegen, rücke vor."
@@ -1048,7 +1005,7 @@
         },
         "47ea8df8-023a-4f2f-acbb-459e8826ad7e": {
             "name": "Rebellische Maid",
-            "project_number": 265,
+            "project_number": 246,
             "front": {
                 "flavor_text": "Anstatt sich der Gnade der Vögte des Augusts auszuliefern, zogen es viele angehende Schreinmaiden vor, ihr Schicksal selbst in die Hand zu nehmen.",
                 "text": "<b>Opfer --</b> Platziere einen Hinweis auf jeden Ort mit einem Ermittler <i>(aus dem Markervorrat)</i>. Der Ermittlungsleiter darf eine andere Karte im Opferbereich wählen und diese zurück in das Opferdeck mischen <i>(und dann die oberste Karte des Opferdecks ziehen und sie am Ende des Opferbereichs anlegen)</i>.",
@@ -1068,7 +1025,6 @@
         },
         "48613f23-9bfc-4eb6-a5f1-13f6139d2890": {
             "name": "Brandschutzübung",
-            "project_number": 241,
             "front": {
                 "flavor_text": "Ja, die Schmiede ist, sagen wir mal, „verfallen“, aber man spürt, wie die Geschichte durch die Wände des Vulkans pulsiert; einst wurden hier großartige Waffen und Rüstungen geschmiedet, bestimmt für Helden und Krieger der Götter. Vielleicht könnten sie das mit ein wenig Hilfe wieder tun …",
                 "text": "<obj> Finde einen Weg, die Schmiede wieder zu aktivieren. \n<i>(Rücke nicht vor, bis du dazu angewiesen wirst.)</i>"
@@ -1078,12 +1034,11 @@
                 "flavor_text": "Du beobachtest, wie das Magma die Rinne des Schmelztiegels hinunterfließt und in den Ofen gelangt, der sich über dem geschwärzten Amboss darunter befindet. Das geschmolzene Gestein fließt dann in zwei Formen über dem Amboss, die vor Hitze zischen… Gerade als du dich darauf vorbereitest, deine Wachsamkeit zu verringern, während die Maschinen ihre Arbeit verrichten, beginnt die Lava, die die Granitplattform umgibt, plötzlich überzukochen, und eine riesige Kreatur taucht mit einem tierischen Brüllen auf – sichtlich verärgert über deinen Versuch, sich ihre Werkzeuge „anzueignen“...",
                 "index": "2d",
                 "text": "Jeder Ermittler muss eine Kopie der beiseitegelegten Verratskarte Siedepunkt ziehen und sie in seiner Bedrohungszone ins Spiel bringen.\nBringe den beiseitegelegten Gegner „Sensei“ Kanuti <i>(Meister der Schmiede)</i> am Amboss der Entstehung ins Spiel.\nÜberprüfe das Kampagnenlogbuch und platziere X Verderben auf „Sensei“ Kanuti, wobei X der Anzahl der <i>Anzahl der zur Ruhe gebetteten Krieger von Onigawa </i>entspricht.\nMische den  Begegnungs-Ablagestapel in das Begegnungsdeck.\n\n"
-            },
-            "encounter_number": "2"
+            }
         },
         "4a55d152-5865-404b-b4c7-d2a1354a3d8d": {
             "name": "<unique>Moloch",
-            "project_number": 269,
+            "project_number": 261,
             "front": {
                 "flavor_text": "Unzählige Jahrtausende voller Opfer treiben den Motor seiner Auferstehung an.",
                 "subtitle": "Die Höllenmaschine",
@@ -1118,7 +1073,7 @@
         },
         "4ab08c2e-668c-4ccd-ba0a-29d41f30b1fb": {
             "name": "Ruf von Karthago",
-            "project_number": 174,
+            "project_number": 186,
             "front": {
                 "flavor_text": "Die alten Karthager waren Moloch so ergeben – oder fürchteten ihn so sehr –, dass man annimmt, sie hätten den Topheth („Röstplatz“) eigens zu seinen Ehren errichtet.",
                 "text": "<rev> Du musst entweder eine <t>Verbündeter</t>-Vorteilskarte von deiner Hand oder aus deiner Spielzone ablegen oder 1 Verderben auf die aktuelle Agenda platzieren.",
@@ -1128,7 +1083,7 @@
         },
         "4d0e6a2f-63c8-42ac-9d2d-b860fa5570d4": {
             "name": "Den Bund einhalten",
-            "project_number": 206,
+            "project_number": 205,
             "front": {
                 "flavor_text": "Das Zerbrechen von Onigawas Bund mit den Wächtern war für alle spürbar, die zuvor ihren göttlichen Schutz genossen hatten.",
                 "illustrator": "Illus. Unbekannt",
@@ -1139,10 +1094,8 @@
         },
         "4d33eca4-667f-4583-a6bc-f0602e963b30": {
             "name": "Der Purpurrote Schmetterling",
-            "project_number": 85,
             "front": {
                 "flavor_text": "Eine halbtransparente, rubinrote Sphäre umgibt das Wesen, erhellt die Umgebung und hält Feinde fern.",
-                "illustrator": "Illus. Unbekannt",
                 "subtitle": "Blendender Wegweiser",
                 "text": "<t>Geist</t>-Gegner am Ort von <name> erhalten Zurückhaltend und verlieren Jäger.\n<action><action>: <b>Verhandlung.</b> <i>Die Siegel schwächen.</i> Führe eine <combat>- oder <agility>-Probe (4) durch. Falls die Probe gelingt, darfst du einen verbundenen <t>Verboten</t>-Ort enthüllen. <i>(Max. ein Mal pro Spiel.)</i>",
                 "traits": "Kreatur. Geist."
@@ -1150,7 +1103,6 @@
         },
         "4d48285e-dc64-4e06-9ceb-f1c9cf65e613": {
             "name": "Angelschnur und Bleigewicht",
-            "project_number": 50,
             "front": {
                 "flavor_text": "Es scheint, als sei Miyu auf dem Weg zu einem Ort namens „Onigawa“. Hier in der Gegend muss es einen Hinweis auf dessen Lage geben; hoffentlich kannst du ihn finden, bevor es zu spät ist.",
                 "text": "<obj> Ermittler an Nebelschleier-Meeresenge oder an Kaskaden-Endstation können als Gruppe die erforderliche Anzahl an Hinweisen ausgeben, um vorzurücken.\n"
@@ -1163,24 +1115,22 @@
         },
         "4e69add1-e3fa-4377-89e5-1d36faed4b56": {
             "name": "Camera Obscura",
-            "project_number": 64,
             "front": {
                 "flavor_text": "Das Artefakt strahlt eine sanfte Wärme aus, die einem Trost spendet, aber ohne eine Art Film scheint es nicht besonders nützlich zu sein...",
                 "subtitle": "Kurioses Andenken",
                 "text": "Du bekommst +1 geistige Gesundheit.\n<Action>: <i>An der Blende herumspielen.</i> <Int>-Probe (3). Falls die Probe gelingt, darf jeder Ermittler an deinem Ort 1 Horror heilen. <i>(Max. ein Erfolg pro Spiel.)</i>",
                 "traits": "Gegenstand. Relikt."
-            },
-            "encounter_number": "21"
+            }
         },
         "4ebf9847-cbcd-446c-a1a1-6560fc56c8e4": {
             "name": "Molocheanischer Vollstrecker",
-            "project_number": 179,
+            "project_number": 190,
             "front": {
                 "flavor_text": "Die Förster bildeten die erste Verteidigungslinie der Vögte von Augusts. Die meisten von ihnen fanden während der Belagerung von Onigawa den Tod, doch es kursierten Gerüchte, dass es einigen gelungen sei, zu überleben...",
                 "text": "Alarmiert.\n<spawn> Torii-Nexus.\n<for> Sobald die Gegnerphase beginnt: Falls <name> spielbereit und nicht in einen Kampf verwickelt ist, nimmt jeder Ermittler an seinem Ort und jedem verbundenen Ort 1 Schaden.",
                 "traits": "Humanoid. Kultist."
             },
-            "encounter_number": "35-37"
+            "encounter_number": "34-36"
         },
         "4f151080-0218-4a67-85da-3a6c115d3428": {
             "name": "Königspalast",
@@ -1201,7 +1151,6 @@
             "project_number": 98,
             "front": {
                 "flavor_text": "Das flackernde Kerzenlicht wirft lange Schatten quer durch das beengte Schlafzimmer.",
-                "illustrator": "Illus. Unbekannt",
                 "text": "<b>Heimgesucht --</b> Füge dem Chaosbeutel 1<curse>-Marker hinzu. ",
                 "traits": "Erdgeschoss."
             },
@@ -1228,7 +1177,6 @@
         },
         "50b08639-7409-4e03-ad34-f0ead81a51c6": {
             "name": "Die schwerste Heimkehr",
-            "project_number": 27,
             "front": {
                 "flavor_text": "Das schwache Licht streut durch die engen Flure des muffigen Herrenhauses und löst in dir mehr als nur ein leichtes Gefühl von Klaustrophobie aus. Die Quelle der Schreie, die du vorhin gehört hast, muss weiter im Inneren liegen... aber ist überhaupt jemand zu Hause?",
                 "text": "<obj> Durchsucht das Herrenhaus nach Hinweisen auf die vermissten Mädchen."
@@ -1258,7 +1206,6 @@
         },
         "517398bd-4c05-4dbd-a197-3e0c8c9d0dbb": {
             "name": "Das Ende des Augusts",
-            "project_number": 114,
             "front": {
                 "chaos_extra": "Jagdgründe",
                 "difficulty": "LEICHT/NORMAL",
@@ -1352,17 +1299,18 @@
         },
         "530be601-7bb4-4a53-acfd-fb215bf3429b": {
             "name": "<unique>Koi-Kaiser",
-            "project_number": 267,
+            "project_number": 259,
             "front": {
                 "flavor_text": "Der machthungrige Herrscher über die Gezeiten hoffte, die Kontrolle über das Pantheon an sich zu reißen, indem er seinem dunklen Schutzherrn ein Opfer darbrachte, das aus seinem eigenen Fleisch und Blut stammte.",
                 "subtitle": "Wiedererstarkter Souverän",
                 "text": "Jäger 1. Zurückschlagen. \n<b>Opfer</b> -- Füge dem Chaosbeutel 1<per_large> <curse>-Marker hinzu.\n<b>Rache --</b> Mische Koi-Kaiser in das Opferdeck.",
                 "traits": "Humanoid. Elite. Tiefes Wesen. Verflucht."
-            }
+            },
+            "encounter_number": "1"
         },
         "544dd8d2-6386-4f20-bd1a-83e13ab73d1f": {
             "name": "Der Tod ist nicht das Ende",
-            "project_number": 208,
+            "project_number": 207,
             "front": {
                 "flavor_text": "Als Onigawas Bündnis mit dem göttlichen Pantheon zerbrach, brachte dessen Königin spezielle Opfer dar, um das Überleben ihres Volkes zu sichern.",
                 "text": "<rev> Entferne alle Gegner, die keine <t>Elite</t>-Gegner sind, aus dem Spiel. Falls mindestens ein Gegner auf diese Weise entfernt wurde, lege 1 Verderben auf die aktuelle Agenda.",
@@ -1381,7 +1329,7 @@
         },
         "57747e02-9da4-4a5e-a3e2-d44c873b4499": {
             "name": "Amboss der Entstehung",
-            "project_number": 244,
+            "project_number": 160,
             "front": {
                 "flavor_text": "Der Legende nach wurden die Seelen der Wächter auf genau diesem Amboss geschmiedet.",
                 "subtitle": "Die Aspekt-Schmiede",
@@ -1445,7 +1393,7 @@
         },
         "5b2030d8-56a4-47f4-8a55-b18e2a5a7e1b": {
             "name": "Geschändete Konkubine",
-            "project_number": 263,
+            "project_number": 244,
             "front": {
                 "flavor_text": "Es war nicht ungewöhnlich, dass Mitglieder des Hofes ihre aus einfachen Verhältnissen stammenden Geliebten den Vögten des Augusts „spendeten“, nachdem sie fertig mit ihnen waren.",
                 "text": "<b>Opfer --</b> Jeder Ermittler muss 1 direkten Horror nehmen.",
@@ -1455,7 +1403,7 @@
         },
         "5b767cb6-3aa6-44c2-a02f-125f580ea665": {
             "name": "Akribische Handarbeit",
-            "project_number": 224,
+            "project_number": 234,
             "front": {
                 "flavor_text": "Die aufwendige Konstruktion der Mannequins, die du im Palast gesehen hast, lässt auf eine geübte Hand schließen...",
                 "text": "Wagnis.\n<rev> Lies <b>Szenario-Zwischenspiel: Das Handwerk des Meisters</b> im Kampagnenleitfaden.",
@@ -1466,24 +1414,20 @@
         },
         "5cd3b961-345a-472f-aef6-90d2bbc48562": {
             "name": "Nimm nur das, was du brauchst",
-            "project_number": 213,
             "front": {
                 "flavor_text": "Als der große Kirschbaum im Zentrum der Stadt plötzlich verwelkte, führte dieses unheilvolle Zeichen selbst bei den treuesten Verteidigern Onigawas zu einem schweren Einbruch der Kampfmoral.",
                 "text": "<rev> Jeder Ort erhält +1 Schleierwert bis zum Ende der Runde.",
                 "traits": "Doktrin. Erinnerung."
-            },
-            "encounter_number": "10"
+            }
         },
         "5e67f290-7b28-47c2-ace9-c50c0d33fc29": {
             "name": "<unique>Midoris List",
-            "project_number": 237,
             "front": {
                 "flavor_text": "Midori war die weiseste aller Wächterinnen; ihre diplomatischen Fähigkeiten waren entscheidend für den Abschluss des Paktes mit Onigawa.",
                 "subtitle": "Degen der Morgendämmerung",
                 "text": "<action> Wenn Midoris List spielbereit ist: <b>Kampf. </b> Füge deinen <agility>-Wert zu deinem Fertigkeitswert für diesen Angriff hinzu. Falls die Probe um 2 oder mehr gelingt, verursacht dieser Angriff +1 Schaden. Falls die Probe nicht gelingt, erschöpfe Midoris List: Die Probe gelingt automatisch.",
                 "traits": "Gegenstand. Relikt. Waffe. Nahkampf."
-            },
-            "encounter_number": "1"
+            }
         },
         "5f447cf3-c02b-482f-b8b6-a668f6cc8261": {
             "name": "Theater im Kellergewöbe",
@@ -1503,7 +1447,6 @@
         },
         "60e362fd-8ac7-4fff-94ae-6a9f9f487dcf": {
             "name": "Das verborgene Dorf",
-            "project_number": 1,
             "front": {
                 "chaos_extra": "Ungepflegte Gräber",
                 "difficulty": "EINFACH/NORMAL",
@@ -1567,7 +1510,6 @@
         },
         "6104f378-af60-4f6a-8451-eb6270ed497c": {
             "name": "Vor dem Sturm",
-            "project_number": 67,
             "front": {
                 "flavor_text": "In der Luft liegt eine elektrisierende Spannung; etwas Uraltes und Vergessenes schwebt hier noch immer, und mit jedem Schritt fällt dein Fuß ein wenig schwerer...",
                 "text": "<for> Sobald diese Agenda vorrückt: Entferne kein Verderben von dieser Agenda.\n<i>(Rücke diese Agenda nicht vor, bis du dazu angewiesen wirst.)</i>"
@@ -1580,7 +1522,6 @@
         },
         "619a3014-e7b8-43e3-bb72-3f66b911d0cd": {
             "name": "Hof halten in der Nacht",
-            "project_number": 87,
             "front": {
                 "flavor_text": "Flackernde Lichter spielen mit den Schatten, während du durch die engen Gänge des Palastes schreitest. Abgesehen von dem geisterhaften Mädchen, dem du im Eingangsbereich begegnet bist, gibt es im Inneren des Palastes kaum Anzeichen von Leben, doch geschwärzte Handabdrücke haften wie Asche an den Wänden... Hat es tatsächlich jemand geschafft, die Belagerung hinter diesen Mauern zu überstehen?"
             },
@@ -1593,7 +1534,7 @@
         },
         "625530a6-be90-409d-82e9-a00a8e0f8da4": {
             "name": "Keine Waffe soll Erfolg haben",
-            "project_number": 211,
+            "project_number": 210,
             "front": {
                 "flavor_text": "Überall um dich herum flimmern gespenstische Nachstellungen einer erbitterten Schlacht; selbst im Tod bleiben Onigawas Verteidiger standhaft.",
                 "text": "<rev> Der Ermittlungsleiter muss Karten vom Begegnungsstapel ablegen, bis ein Gegner aufgedeckt wird, und diesen Gegner dann ziehen.",
@@ -1602,7 +1543,7 @@
             "encounter_number": "8"
         },
         "62623cb1-a72c-4ccf-a611-6965592de90d": {
-            "project_number": 229,
+            "project_number": 238,
             "front": {
                 "flavor_text": "Die Oberkörper von drei Konkubinen scheinen ungeschickt miteinander „vernäht“ worden zu sein, wodurch das monströse Wesen die Ähnlichkeit eines Tausendfüßlers erhält...<br><margin 15>",
                 "subtitle": "Das Meisterwerk des Puppenmachers",
@@ -1610,11 +1551,10 @@
                 "traits": "Monster. Elite. Yokai. Verflucht.",
                 "victory": "Sieg 1."
             },
-            "encounter_number": "8"
+            "encounter_number": "7"
         },
         "62be111c-e0ea-446d-a5b6-029aa59c8324": {
             "name": "Himmlische Kaskade",
-            "project_number": 190,
             "front": {
                 "flavor_text": "Die Kraft des Mondes beeinträchtigt die Fähigkeiten deines Aspekts … und stärkt die ruhelosen Geister.",
                 "text": "<rev> Lege diese Karte in deine Bedrohungszone. Befinden sich anschließend 3 oder mehr Exemplare von <name> in deiner Bedrohungszone, bist du besiegt und erleidest 1 seelisches Trauma. Gegner in deiner Bedrohungszone erhalten +1 Kampf und +1 Entkommen.\n<action>: Erschöpfe eine <t>Aspekt</t>-Vorteilskarte, die du kontrollierst: Lege alle Kopien von <name> aus deiner Bedrohungszone ab.",
@@ -1640,16 +1580,16 @@
         },
         "636d7c16-9da3-4619-bc50-0a37e611b5b8": {
             "name": "Elfenbeindienerin",
-            "project_number": "295",
+            "project_number": 201,
             "front": {
                 "flavor_text": "Während sich das Wesen bewegt, blättert elfenbeinfarbene Asche von den Gliedmaßen ab und gibt den Blick auf verkohlte Haut frei, die unter der alabasterfarbenen Schicht verborgen war.",
                 "text": "<prey> Geringster <combat>-Wert.\nFalls <name> nicht erschöpft ist, erhält der Ort von <name> +1 Schleierwert."
             },
-            "enumerated": "manual"
+            "encounter_number": "6-8"
         },
         "63db5e5d-0d2c-4989-af13-64d47d8d4358": {
             "name": "Überlaufendes Becken",
-            "project_number": 170,
+            "project_number": 182,
             "front": {
                 "flavor_text": "Die Wärme der darunter liegenden Gießerei sorgt dafür, dass das reine Quellwasser niemals zufriert.",
                 "text": " Gegner an <name> erhalten:<br> <b>Rache --</b> Entferne 1 Verderben von einem beliebigen Gegner im Spiel. <i>(Gegner im Opferbereich befinden sich im Spiel.)</i>\n<action>: Nimm 1 Schaden: Füge dem Chaosbeutel 1<blessing>-Marker hinzu.",
@@ -1663,7 +1603,7 @@
         },
         "63f3dc3a-1fcf-4910-9e16-27d0928dc9a4": {
             "name": "Brandschneise",
-            "project_number": 245,
+            "project_number": 161,
             "front": {
                 "flavor_text": "Obsidian-Treppen führen zu einem lodernden Portal an der Spitze einer gewaltigen Steinklinge...",
                 "subtitle": "Die letzte Stellung",
@@ -1689,7 +1629,6 @@
         },
         "6539d02d-5f5a-4d74-9271-883e3efa9e91": {
             "name": "Schlackegrube",
-            "project_number": 146,
             "front": {
                 "flavor_text": "Du weißt nicht genug über Lava, um zu wissen, ob sie fest genug ist, um darauf zu laufen, wenn sie abgekühlt ist … und du hast ganz sicher nicht vor, das herauszufinden.",
                 "text": "Als zusätzliche Kosten, um sich von <name> wegzubewegen, müssen Ermittler eine zusätzliche Aktion ausgeben.",
@@ -1698,12 +1637,10 @@
             "back": {
                 "flavor_text": "Ein Feld aus abkühlender Lava bildet ein unstetes Archipel aus verkohltem Material und Asche.",
                 "traits": "Vulkan. Tiefen."
-            },
-            "encounter_number": "7"
+            }
         },
         "663eebb4-f39c-467d-932e-0d23daa1bd8b": {
             "name": "Alle an Bord",
-            "project_number": 48,
             "front": {
                 "flavor_text": "Der Klang eines dröhnenden Horns hallt über das Wasser. Es kommt dir irgendwie bekannt vor, als würde es eine Erinnerung wecken. Etwas nähert sich … Es ruft dich nach Hause …",
                 "text": "Jeder Ort ist mit jedem benachbarten Ort verbunden.\n<for> Wenn sich ein Ermittler zwischen <t>Fluss</t>-Orten bewegt, während er nicht auf Tyrische Galeere ist: Dieser Ermittler verliert alle verbleibenden Aktionen.                                           "
@@ -1726,7 +1663,7 @@
         },
         "6859abcd-3f68-4305-972f-915617f38ee4": {
             "name": "Unbarmherziger Plünderer",
-            "project_number": 223,
+            "project_number": 255,
             "front": {
                 "flavor_text": "Die Befehle der Invasoren waren eindeutig: Niemand durfte nach Hause zurückkehren, bevor sie den Palast eingenommen hatten.",
                 "text": "<b>Vorteil --</b> Lege eine Nicht-Schwäche-Karte von deiner Hand ab. \n<b>Rache --</b> Heile 1 Schaden von einem Ermittler an deinem Ort. ",
@@ -1736,7 +1673,7 @@
         },
         "6887b82b-3762-4e8b-88b2-2043d2510473": {
             "name": "Lawine!",
-            "project_number": 233,
+            "project_number": 257,
             "front": {
                 "flavor_text": "Das Winden der Schlange hat den Boden aufgelockert; man hört das Rauschen des Windes, nur wenige Augenblicke bevor man spürt, wie der Boden unter den Füßen bebt...",
                 "text": "<rev> Führe eine <agility>-Probe (3) durch. Falls die Probe misslingt, nimm 1 Schaden und bewege dich für jeden Punkt, um den die Probe misslungen ist, in Richtung des nächstgelegenen <t>Ebene</t>-Ortes.",
@@ -1746,7 +1683,6 @@
         },
         "697bf669-907e-4941-9cf4-e8f26e542212": {
             "name": "Der tiefste Winter",
-            "project_number": 118,
             "front": {
                 "flavor_text": "Je näher du dem Gipfel des Berges kommst, desto mehr werden deine Gedanken von Paranoia beherrscht. Da draußen ist etwas, das sich im Schneegestöber versteckt – dessen bist du dir sicher. Woher kommt es? Was will es? Warum ist es so kalt …?",
                 "text": "<obj> Erkunde den Gebirgspass.\n<i>(Rücke nicht vor, bis du dazu angewiesen wirst.)</i>"
@@ -1759,17 +1695,18 @@
         },
         "69e35f9e-ddaf-42f2-9faa-000b507eea47": {
             "name": "<unique>Brodelnde Brut",
-            "project_number": 254,
+            "project_number": 225,
             "front": {
                 "flavor_text": "Im Zentrum der Runen-Konfluenz zischt eine überhitzte Kapsel in einem tiefen Krater…",
                 "subtitle": "Was im Feuer verloren ging",
                 "text": "<reaction> Sobald dem Chaosbeutel ein <blessing>-Marker hinzugefügt werden würde: Versiegle den Marker stattdessen hier. Ermittler können diese Reaktion von allen Orten auslösen.",
                 "traits": "Relikt. Okkult."
-            }
+            },
+            "encounter_number": "2"
         },
         "6b60829b-adf8-404b-8b3d-4c775f1fbf8d": {
             "name": "Dorngestrüpp-Embargo",
-            "project_number": 183,
+            "project_number": 220,
             "front": {
                 "flavor_text": "Hier kann nichts Gutes wachsen.",
                 "text": "<rev> Lege <name> in deine Bedrohungszone.\nDu kannst keine Vorteilskarten spielen oder Bewegen-Aktionen durchführen.\n<action>: Führe eine <combat>-Probe (3) durch. Du erhältst +1<combat> für jede vorherige Aktivierung dieser Aktion in dieser Runde. Falls die Probe gelingt, lege <name> ab.\n",
@@ -1779,7 +1716,6 @@
         },
         "6c963d50-d557-4cd7-a833-e9df219893fd": {
             "name": "Modriger Flur",
-            "project_number": 100,
             "front": {
                 "flavor_text": "Eine Deckenlaterne schwankt in einer kaum spürbaren Brise, während Schatten an den Rändern der Kreuzung tanzen...",
                 "text": "Falls es an diesem Ort keine Hinweise gibt: <action>: Merke dir, dass du die ausrangierte Puppe geborgen hast. <i>(Max. ein Mal pro Spiel.)</i>",
@@ -1789,12 +1725,10 @@
                 "name": "Palastflügel",
                 "flavor_text": "Seltsame Spaliere aus roten Ranken scheinen das Innere des Palastes überwuchert zu haben...",
                 "traits": "Erdgeschoss."
-            },
-            "encounter_number": "15"
+            }
         },
         "6e7cae13-c681-4a88-a777-ad38800a4245": {
             "name": "Wunschbrunnen",
-            "project_number": 36,
             "front": {
                 "illustrator": "Illus. Unbekannt",
                 "text": "<for> Nachdem <name> aufgedeckt wurde: Mische das beiseitegelegte Begegnungsset Brunnabwärts und lege es verdeckt als separates Brunnen-Deck an diesen Ort.\n<free>: <i>Wünsch dir etwas.</i> Ziehe eine zufällige Karte aus dem beiseitegelegten Brunnen-Deck. <i>(Max. ein Mal pro Spiel.)</i>",
@@ -1807,7 +1741,6 @@
             }
         },
         "6eaaddb8-8842-4e69-bdab-9302f0ecbb9a": {
-            "project_number": 6,
             "front": {
                 "flavor_text": "Du bist wie gebannt von dem geheimnisvollen Wesen, das aus Takeshis Grab aufgetaucht ist. Seine sanft flatternden Flügel strahlen ein warmes Leuchten aus, während es hypnotisch um dich herumtanzt, doch als du nach ihm greifst, schreckt es vor deiner Berührung zurück. Hat es Angst vor dir? Oder führt es dich irgendwohin...?",
                 "text": "<obj> <i>Jage dem Schmetterling hinterher.</i>\nFalls die Ermittler sowohl den <i>Segen der Sonne</i> als auch <i>den Segen des Mondes erhalten haben</i>, rücke vor."
@@ -1830,14 +1763,12 @@
             "back": {
                 "name": "Grünes Wäldchen",
                 "flavor_text": "Eine ehrwürdige Landschaft aus hohen Bäumen, Sträuchern und Steinmauern lockt dich tiefer in den Wald hinein.",
-                "illustrator": "Illus. Unbekannt",
                 "traits": "Wälder."
             },
             "encounter_number": "11"
         },
         "6fb5eb18-18c6-43ea-bf95-70429b539233": {
             "name": "Die geschmolzene Waffenkammer",
-            "project_number": 140,
             "front": {
                 "difficulty": "LEICHT/NORMAL",
                 "entries": [
@@ -1899,7 +1830,6 @@
         },
         "6feef1df-736e-4981-ac70-4d71ff9023b5": {
             "name": "Entweihtes Dojo",
-            "project_number": "292",
             "front": {
                 "flavor_text": "Der Geruch von Kupfer und Schweiß hängt schwer in der Luft...",
                 "text": "<for> Nachdem <name> enthüllt wurde: Rücke vor. <i>(Max. ein Mal pro Spiel.)</i>\n<action><action>: Gib 2 Hinweise aus, um 1 Schaden von einem Verbündeten an diesem Ort zu heilen. Diese Aktion löst keine Gelegenheitsangriffe aus.",
@@ -1910,12 +1840,10 @@
                 "flavor_text": "Die frischen Spritzer von arteriellem Blut an der Tür lassen vermuten, dass der Trainingsraum erst kürzlich genutzt wurde...",
                 "text": "Ermittler können sich nicht von einem Ort mit Hinweisen darauf zum Ort <name> bewegen.",
                 "traits": "Erdgeschoss."
-            },
-            "enumerated": "manual"
+            }
         },
         "70cf8ba4-64a8-405c-a56a-e2a87142fe41": {
             "name": "Gefährliche Stoffe",
-            "project_number": 142,
             "front": {
                 "flavor_text": "Die „primitiven“ Maschinen der Gießerei scheinen autonom zu arbeiten; ein komplexes System von Kanälen leitet den Lavastrom zu großen Schmelzöfen, und ein kompliziertes Geflecht aus Zahnrädern und Ketten schüttet das Roherz in Wagen, die zwischen kleineren Öfen hin und her rasen. Doch zu welchem Zweck? Was wurde hier geschmiedet?",
                 "text": "<obj> <i>Die feindliche Umgebung überstehen.</i> Die Ermittler können als Gruppe die erforderliche Anzahl an Hinweisen ausgeben, um vorzurücken."
@@ -1928,7 +1856,7 @@
         },
         "7164cffa-5b98-4593-8646-aee2dd9c95ae": {
             "name": "Hypnotischer Strudel",
-            "project_number": 201,
+            "project_number": 268,
             "front": {
                 "flavor_text": "Da unten ist irgendetwas...",
                 "illustrator": "Illus. Unbekannt",
@@ -1939,7 +1867,6 @@
         },
         "74f16bb5-c984-4668-a82f-8f7b6fb5e651": {
             "name": "Ertränkende Sphäre",
-            "project_number": 196,
             "front": {
                 "flavor_text": "Du beobachtest, wie eine Blase unter der Wasseroberfläche heraufsteigt, und wirst plötzlich von dem Gefühl überwältigt, zu ertrinken...",
                 "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel. \n<for> Am Ende deines Zuges: Nimm 1 Schaden.\n<action>: Führe eine <combat>- oder <agility>-Probe (3) durch. Falls die Probe gelingt, lege <name> ab. Die Schwierigkeit dieser Probe wird jedes Mal um 1 reduziert für jede Aktivierung dieser Aktion in dieser Runde.",
@@ -1958,7 +1885,6 @@
         },
         "76bfbf12-361e-41da-8969-730b96c66aef": {
             "name": "Feuer fangen",
-            "project_number": 92,
             "front": {
                 "flavor_text": "Du hörst das Knacken eines hölzernen Stützbalkens, der im Eingangsbereich zusammenbricht, kurz bevor dir eine dichte Wolke aus schwarzem, beißendem Rauch in die Augen sticht. Der Palast stürzt ein, wahrscheinlich aufgrund des sich rasch ausbreitenden Feuers, und nun kannst du nicht mehr auf demselben Weg hinaus, auf dem du hereingekommen bist. Du vermutest – oder hoffst vielleicht nur –, dass Miyu tiefer in den Palast hineingebracht wurde, aber jeder Weg, den du erkundet hast, scheint nur in eine Sackgasse zu führen. Es muss doch noch einen anderen Weg hier raus geben...",
                 "text": "<obj> Flüchte aus dem Palast!\nWenn sich alle überlebenden Ermittler an Blick des Waisenkindes befinden, rücke vor."
@@ -1970,7 +1896,7 @@
         },
         "76f340ac-a34b-4781-9f78-582e1cb33354": {
             "name": "Phantomwirbel",
-            "project_number": 202,
+            "project_number": 269,
             "front": {
                 "flavor_text": "Die Haare im Nacken stehen dir zu Berge, während das Wasser in der Nähe brodelt, als würde es von einem unsichtbaren Schiff aufgewühlt, und die Galeere gerät in den Sog...",
                 "text": "<rev> Falls Tyrische Galeere erschöpft ist, erhält <name> Nachrüsten. Ansonsten führe eine <willpower>-Probe (3) durch. Falls die Probe misslingt, nimm 1 Horror und erschöpfe Tyrische Galeere.",
@@ -1995,7 +1921,6 @@
         },
         "78cedbcd-8106-4ee0-9c80-0999c89d86cf": {
             "name": "Mannequin-Gigant",
-            "project_number": 145,
             "front": {
                 "flavor_text": "Die Vorstellung, wozu eine Rüstung dieser Größe dienen könnte, lässt die Fantasie ins Unermessliche schweifen, doch es scheint klar zu sein, dass sie nicht dafür bestimmt war, von einem sterblichen Wesen getragen zu werden...",
                 "subtitle": "Mantel von Tsurugi",
@@ -2005,12 +1930,10 @@
             "back": {
                 "flavor_text": "Umgeben von provisorischen Gerüsten ruht eine riesige zeremonielle Rüstung an der Wand des Vulkans...",
                 "traits": "Vulkan. Tiefen."
-            },
-            "encounter_number": "6"
+            }
         },
         "798ab361-d037-4076-bb29-93eb2b637161": {
             "name": "Ausgleich schaffen",
-            "project_number": 163,
             "front": {
                 "flavor_text": "Man würde es nicht glauben, wenn man es nicht mit eigenen Augen gesehen hätte. Das Relikt auf der Mondoberfläche war keine bloße Anomalie; es war das heilige Gefäß für die Wiedergeburt eines Wächters...",
                 "illustrator": "Illus. Unbekannt",
@@ -2023,7 +1946,7 @@
         },
         "7a22d1dc-5e06-4e84-92d8-8c5e914eae40": {
             "name": "Gefallenes Pantheon",
-            "project_number": 184,
+            "project_number": 221,
             "front": {
                 "flavor_text": "Nicht nur ihre Schreine sind zerstört worden.",
                 "text": "<rev> Verliere entweder 2 Ressourcen oder nimm 1 Schaden. Falls du eine erschöpfte <b>Aspekt</b>-Vorteilskarte kontrollierst, erhält diese Karte Nachrüsten."
@@ -2042,7 +1965,6 @@
             "back": {
                 "name": "Grünes Wäldchen",
                 "flavor_text": "Eine ehrwürdige Landschaft aus hohen Bäumen, Sträuchern und Steinmauern lockt dich tiefer in den Wald hinein.",
-                "illustrator": "Illus. Unbekannt",
                 "traits": "Wälder."
             },
             "encounter_number": "15"
@@ -2058,18 +1980,17 @@
         },
         "7bdd0116-e6da-4216-86d8-9acb9d9cef06": {
             "name": "Das Mädchen im Brunnen",
-            "project_number": "301",
+            "project_number": 213,
             "front": {
                 "flavor_text": "Geschwollene, durchweichte Finger kommen unter der Wasseroberfläche hervor...",
                 "text": "Wagnis.\n<rev> Lies das <b>Szenario-Zwischenspiel:<br> Das Mädchen im Brunnen</b> im Kampagnenleit-<br>faden.   ",
                 "traits": "Mysterium.",
                 "victory": "Sieg 1."
             },
-            "enumerated": "manual"
+            "encounter_number": "1"
         },
         "7ca3ebc1-6082-4388-a02a-10c9a2bd4695": {
             "name": "Einbruchswarnung",
-            "project_number": 71,
             "front": {
                 "flavor_text": "Sich in diesem Chaos zurechtzufinden, wird nicht einfach sein; viele Teile der Stadt sind völlig zerstört oder anderweitig unzugänglich. Die ohrenbetäubenden Geräusche des Krieges hallen überall um dich herum wider, und Miyu könnte überall sein...",
                 "text": "<obj> Die Ermittler können am Ende der Runde die benötigten Hinweise ausgeben, um vorzurücken."
@@ -2081,7 +2002,6 @@
             }
         },
         "7d8d5a0f-5f15-4921-ba85-62e88c447ea1": {
-            "project_number": 194,
             "front": {
                 "flavor_text": "Man sagt, dass der Buwaya auf seinem Rücken eine truhen- oder sargähnliche Last trägt, in der er die ahnungslosen Opfer, die er fängt, begräbt.",
                 "subtitle": "Der Lauernde in der Tiefe",
@@ -2092,7 +2012,7 @@
         },
         "7fc998ce-607f-4b63-a8b2-dc26f5e2d943": {
             "name": "Neuer Koloss",
-            "project_number": 217,
+            "project_number": 249,
             "front": {
                 "flavor_text": "Himmel und Erde erbebten gleichermaßen, als der Wächter Tsurugi seine eigene Göttlichkeit aufgab, um sich in den Kampf zu stürzen.",
                 "text": "Wagnis.\n<rev> Für jeden Ort, an dem mindestens 1 Ermittler ist, musst du eines der Folgenden wählen, füge <name> danach dem Siegpunktestapel hinzu:\n <bullet> Füge jedem Ermittler und Gegner an diesem Ort 1 Schaden zu.\n <bullet> Drehe einen Hinweis an diesem Ort auf seine Verderben-<br>      Seite um.",
@@ -2118,30 +2038,25 @@
         },
         "817dbe6c-d8ea-487c-adaf-76a41b62421c": {
             "name": "<unique>Mayu Tachibana",
-            "project_number": 180,
             "front": {
                 "flavor_text": "„Wir kommen, Miyu! Halte durch!“",
                 "subtitle": "Ermittler in Ausbildung",
                 "text": "<free> Erschöpfe Mayu Tachibana: Füge dem Chaosbeutel 1<blessing>- oder <curse>-Marker hinzu.\n<action><action>: Erschöpfe Mayu Tachibana: Wähle eine Karte im Opferbereich und mische sie zurück in das Opferdeck, ziehe dann die oberste Karte des Opferdecks und füge sie am Ende des Opferbereichs hinzu.",
                 "traits": "Verbündeter. Assistent."
-            },
-            "encounter_number": "38"
+            }
         },
         "8333f8f9-e860-4915-b6cb-b22c65f5bb05": {
             "name": "Aschene Manifestation",
-            "project_number": 153,
             "front": {
                 "flavor_text": "Man kann nur vermuten, dass es sich bei diesem verkohlten Golem um die Überreste eines der Gießereiarbeiter handeln muss...",
                 "text": "Hinterhalt.\n<b>Rache --</b> Platziere 1 Verderben auf die aktuelle Agenda."
-            },
-            "encounter_number": "24-26"
+            }
         },
         "835cc6de-b44d-44cf-b7de-3f962eda5eac": {
             "name": "Schlichtes Denkmal",
             "project_number": 103,
             "front": {
                 "flavor_text": "Eine Gedenkfeier bei Kerzenschein ehrt das Andenken an ehemalige Helden von Onigawa.",
-                "illustrator": "Illus. Unbekannt",
                 "text": "<b>Heimgesucht --</b> Enthülle einen Chaosmarker aus dem Chaosbeutel. Falls es ein Nicht-<elder_sign>- oder Nicht-<blessing>-Symbol ist, nimm 1 Horror. ",
                 "traits": "Erdgeschoss."
             },
@@ -2154,7 +2069,6 @@
         },
         "8365150f-625c-4007-81a0-c4e487913780": {
             "name": "Erntemond",
-            "project_number": 253,
             "front": {
                 "flavor_text": "Die Aussicht ist unbeschreiblich, aber die dünne Luft macht das Atmen etwas schwer...",
                 "subtitle": "Die dunkle Seite des Mondes",
@@ -2186,7 +2100,7 @@
         },
         "850f8590-1373-4809-bddd-c54a488ed8ee": {
             "name": "<unique>Hirte der schwarzen Ernte",
-            "project_number": 176,
+            "project_number": 188,
             "front": {
                 "flavor_text": "Die vermummte Gestalt flüstert eine uralte Hymne und lockt ihre Gemeinde zum Altar...",
                 "subtitle": "Der letzte Vogt",
@@ -2197,7 +2111,7 @@
         },
         "851fefac-73a4-4a04-a3db-416c1f1deeca": {
             "name": "<unique>Miyu Tachibana",
-            "project_number": 177,
+            "project_number": 189,
             "front": {
                 "flavor_text": "Du wirst sie zurückholen … Was auch immer dafür nötig ist.",
                 "subtitle": "Verloren und Gefunden",
@@ -2218,13 +2132,13 @@
         },
         "868c8a91-06ee-4a36-b6a0-220c9c26d108": {
             "name": "Kein Glück",
-            "project_number": "298",
+            "project_number": 215,
             "front": {
                 "flavor_text": "Du ziehst einen Eimer hoch … und findest darin nichts als fauliges, brackiges Wasser.",
                 "text": "<rev> Die Ermittler erleiden keine negativen Effekte.  Entferne <name> aus dem Spiel.",
                 "traits": "Patzer."
             },
-            "enumerated": "manual"
+            "encounter_number": "3-4"
         },
         "8724fa20-68a3-4e00-8bce-4935b77fd6ce": {
             "name": "<unique>Der wunderliche Lehrling",
@@ -2253,7 +2167,6 @@
         },
         "8905e0ba-49ba-4b8a-aaf5-ab9db0ba97e3": {
             "name": "<unique>Orochimaru",
-            "project_number": 234,
             "front": {
                 "flavor_text": "Der gefürchtete Orochimaru, der ewige Erzfeind des Wächters Jiraiya, versank in stillen Schlaf, nachdem ihm seine Beute nach dem Untergang des Pantheons „entkommen“ war.",
                 "subtitle": "Ewiger Schlummer",
@@ -2266,8 +2179,7 @@
                 "subtitle": "Fluch des Augusts",
                 "text": "<margin 10>Gewaltig. Alarmiert.\n<b>Rache --</b> Anstatt Orochimaru abzulegen, lege allen Schaden und Verderben von Orochimaru ab und drehe ihn um.\nOrochimaru erhält +1<per_large> Ausdauer und gilt als an jedem Ort der Ermittler befindlich.",
                 "traits": "Großer Alter. Elite. Schlange."
-            },
-            "encounter_number": "9"
+            }
         },
         "8ab50a09-11a0-4769-ad7e-22b4e9458f32": {
             "name": "Schneebedeckte Festung",
@@ -2297,14 +2209,13 @@
             "back": {
                 "name": "Grünes Wäldchen",
                 "flavor_text": "Eine ehrwürdige Landschaft aus hohen Bäumen, Sträuchern und Steinmauern lockt dich tiefer in den Wald hinein.",
-                "illustrator": "Illus. Unbekannt",
                 "traits": "Wälder."
             },
             "encounter_number": "9"
         },
         "8d3d8299-7b64-4154-bb13-8f66377fcdbd": {
             "name": "Hexe der Wildnis",
-            "project_number": 264,
+            "project_number": 245,
             "front": {
                 "flavor_text": "Die Förster des Augusts wurden oft damit beauftragt, abtrünnige Schreinmaiden zu bergen, die sich in der Wildnis „verirrt“ hatten.",
                 "text": "<b>Opfer --</b> Jeder Ermittler muss den Chaosbeutel nach 1<blessing>-Marker durchsuchen und diesen in den Markervorrat zurücklegen. Falls dies nicht möglich ist, muss er stattdessen 1<curse>-Marker hinzufügen.",
@@ -2314,7 +2225,6 @@
         },
         "8dd31f62-698c-45f9-85ef-12c2dfdd361c": {
             "name": "Futakuchi-Begleitung",
-            "project_number": 109,
             "front": {
                 "flavor_text": "Die königlichen Begleiterinnen verzichteten oft auf Mahlzeiten, um ihre Figur zu bewahren, doch der grauenhafte Schlund, der sich nun unter ihrem rabenschwarzen Haar verbirgt, hält sich nicht an ihre „Ernährungsvorschriften“.",
                 "illustrator": "Illus. Unbekannt",
@@ -2324,7 +2234,6 @@
         },
         "8f0e6e41-31a5-4b22-9518-9fff0baa2245": {
             "name": "Fremdartige Gefahr",
-            "project_number": 24,
             "front": {
                 "flavor_text": "Das blasse Mondlicht wirft lange Schatten in die engen Gassen des Dorfes, und die Einrichtung und Architektur strahlen eine rustikale, zeitlose Atmosphäre aus, die einem Unbehagen bereitet; auf den ersten Blick wirkt das Dorf verlassen, doch wenn die Mädchen hierher verschleppt wurden, solltest du besser auf alles gefasst sein... ",
                 "illustrator": "Illus. Unbekannt"
@@ -2337,7 +2246,6 @@
         },
         "8f1d784e-98ec-44df-9bec-80041d89eff0": {
             "name": "Seichtgleiter",
-            "project_number": 199,
             "front": {
                 "flavor_text": "Viele der im Wasser gefundenen, aufgeblähten Leichen waren einst Fischer, die sich über Bord gestürzt hatten, in der Hoffnung, die gedämpfte Serenade der Sirene deutlicher hören zu können.",
                 "text": "Jäger 1.\n<spawn> Nächstgelegener <t>Fluss</t>-Ort."
@@ -2345,7 +2253,6 @@
         },
         "8f902c30-85de-4981-a159-1cf27802e8f3": {
             "name": "Der Grund für diese Jahreszeit",
-            "project_number": 119,
             "front": {
                 "flavor_text": "Je höher du in die Wolken aufsteigst, desto dünner und kälter wird die Luft. Du bist erschöpft, aber du bist jetzt ganz nah dran; du spürst es. Etwas Uraltes lauert zwischen den Felsspitzen des Berges Kokoro... du musst es nur finden, bevor das, was da draußen lauert, dich findet.",
                 "text": "<obj> Falls alle überlebenden Ermittler aufgegeben haben, rücke vor.\n<i>(Hinweis: Befindet sich Yuki-onna zu diesem Zeitpunkt nicht im Siegpunktestapel, kann sie dich weiterhin verfolgen...)</i>"
@@ -2397,7 +2304,6 @@
         },
         "91a0ea77-d3ad-4a9d-b4ac-9a81f9f42211": {
             "name": "Nebelige Stimmung",
-            "project_number": 3,
             "front": {
                 "flavor_text": "Ehrlich gesagt wirkt der neblige Wald oft alles andere als freundlich. Unter den Füßen schüren die übelriechenden Dämpfe der brachliegenden, gärenden Vegetation einen rasenden „Kampf-oder-Flucht“-Rausch, und weiter abwärts davon sorgt das Schwirren der widerlichen Fliegen, die die zerbrechlichen, vereisten Blumenfelder bevölkern, für einen flackernden Anflug unbeständiger Angst. Vorwärts zu gehen erscheint tollkühn, doch heimlich in die Freiheit zu fliehen, scheint sinnlos…"
             },
@@ -2409,7 +2315,6 @@
         },
         "93a17bdf-8c2b-4dd3-84ef-d78c7d8ef190": {
             "name": "Endloser Aufstieg",
-            "project_number": 31,
             "front": {
                 "flavor_text": "So sehr du dich auch bemühst, die Stufen hinaufzusteigen, es scheint dir einfach nie zu gelingen, den Gipfel zu erreichen...",
                 "text": "<b>Heimgesucht --</b> Verliere 1 Ressource.",
@@ -2419,8 +2324,7 @@
             "back": {
                 "flavor_text": "Die gewundene Steintreppe ist so gewaltig, dass man nicht einmal erkennen kann, was einen oben erwartet.",
                 "traits": "Dorf. Stufen."
-            },
-            "encounter_number": "9"
+            }
         },
         "96352c7c-e747-46e7-ae74-843b79e5c2d2": {
             "name": "Kälteeinbruch",
@@ -2448,16 +2352,16 @@
         },
         "9871174d-f0ea-45df-9187-83b4be1035f3": {
             "name": "Die Toten ehren",
-            "project_number": 210,
+            "project_number": 209,
             "front": {
                 "flavor_text": "Inmitten des Chaos der Belagerung griffen abtrünnige Elemente innerhalb der Stadt zu immer verzweifelteren und gefährlicheren Mitteln, um Onigawas Verteidigung zu stärken und ihre Verwundeten an die Front zurückzubringen.",
                 "text": "<rev> Bis zum Ende der Runde kannst du, wann immer ein Nicht-<t>Elite</t>-Gegner abgelegt werden soll, ihn stattdessen wieder in den Begegnungsstapel mischen. Wenn du dies tust, erhältst du einen Hinweis von seinem Ort.",
                 "traits": "Doktrin. Erinnerung."
-            }
+            },
+            "encounter_number": "7"
         },
         "9c2b2e77-302c-4aff-8e02-48f91284e5f3": {
             "name": "Dauerhafte Ausgangssperre",
-            "project_number": 25,
             "front": {
                 "flavor_text": "Das Herrenhaus auf dem Hügel schien die Quelle der Schreie zu sein, die du gehört hast, aber du musst herausfinden, wie du dir einen Weg durch das eng bebaute Dorf bahnen kannst, um dorthin zu gelangen – hoffentlich, bevor es zu spät ist.",
                 "text": "<obj> Finde den Weg zum Herrenhaus.\nDie Ermittler können als Gruppe die erforderliche Anzahl an Hinweisen<br> ausgeben, um vorzurücken."
@@ -2470,7 +2374,6 @@
         },
         "9c5e6b98-735e-4b3f-a879-2653708c825a": {
             "name": "Auf zum Angeln",
-            "project_number": 49,
             "front": {
                 "flavor_text": "Die Dokumente, die du am Hafen gefunden hast, deuten darauf hin, dass Mayus Schwester möglicherweise über den Fluss transportiert wurde. Miyu ist da draußen, irgendwo, und du hast ein seetüchtiges Schiff … Zeit, sich an die Arbeit zu machen.",
                 "text": "<obj> Die Ermittler können gemeinsam die erforderliche Anzahl an Hinweisen ausgeben, um vorzurücken."
@@ -2499,7 +2402,7 @@
         },
         "9d334631-42fb-4421-b415-a7c4a9aed21b": {
             "name": "<unique>Der reumütige Beobachter",
-            "project_number": 274,
+            "project_number": 284,
             "front": {
                 "subtitle": "Segen der Okami",
                 "text": "Dauerhaft.\nNur, wenn Der reumütige Beobachter spielbereit ist, kann ihm Schaden oder Horror zugewiesen werden. \n<for> Nachdem du einen Nicht-<elder_sign>- oder <blessing>-Marker während einer Fertigkeitsprobe abgehandelt hast, erschöpfe Der reumütige Beobachter.<br>",
@@ -2509,33 +2412,29 @@
         },
         "9d33ade4-0c51-4287-ae3f-117c81b8d691": {
             "name": "<unique>Königin Kaoru ",
-            "project_number": 231,
             "front": {
                 "flavor_text": "Einst vom Wahnsinn der Verderbnis Molochs verführt, sucht der edle Geist von Onigawas „Vampir-Königin“ Sühne für ihre vergangenen Verfehlungen.",
                 "subtitle": "Erste der Nachtgefallenen",
                 "text": "Du hast 1 zusätzlichen arkanen Slot. \n<reaction> Sobald ein Gegner an deinem Ort besiegt wird, erschöpfe Königin Kaoru: Heile 1 Schaden von einer Karte, die du kontrollierst.",
                 "traits": "Verbündeter. Vampir. Hexe. Geist."
-            },
-            "encounter_number": "2"
+            }
         },
         "9d6c6700-0e3c-4877-9b85-16774381c9c3": {
             "name": "Unverziehen",
-            "project_number": 214,
             "front": {
                 "flavor_text": "Sie hat es nicht vergessen … und vergeben hat sie es auch nicht.",
                 "text": "Wagnis.\n<rev> Wenn Kayako im Spiel ist, lege 1 Verderben auf sie und heile den gesamten Schaden von ihr. Ansonsten suche Kayako <i>(Jungfrau des Schwarzwassers)</i> im Begegnungsdeck und ziehe sie. Mische den Begegnungsstapel."
-            },
-            "encounter_number": "1-2"
+            }
         },
         "9eccd594-925e-4fc7-9182-21d6b9b93787": {
             "name": "Eine weggeworfene Maske",
-            "project_number": "300",
+            "project_number": 214,
             "front": {
                 "flavor_text": "Du ziehst einen Eimer hoch … und findest darin ein durchnässtes Stück eines traditionellen Kopfschmucks.",
                 "text": "<rev> Jeder Ermittler darf die beiseitegelegte Vorteilskarte Shishios Tücke seinem Deck hinzufügen und sie sofort ins Spiel bringen (ohne die Ressourcenkosten zu bezahlen). Sie zählt nicht gegen die Deckgröße.\nEntferne <name> aus dem Spiel.",
                 "traits": "Mysterium."
             },
-            "enumerated": "manual"
+            "encounter_number": "2"
         },
         "9f5ca38d-90a0-4e73-bc68-ca7aabbc57ce": {
             "name": "Blutrotes Omen",
@@ -2555,7 +2454,6 @@
         },
         "a01eb7fc-1b11-4571-963e-4446ba95353b": {
             "name": "<unique>Onikuma",
-            "project_number": 139,
             "front": {
                 "flavor_text": "Seitdem der edle Beschützer des Berges Kokoro dem Gift des Orochimaru erlag, berichten die Förster des Augusts von Sichtungen einer bärenartigen Gestalt, die durch die Wälder wandert...\n<margin 5><br>",
                 "subtitle": "Der letzte Wächter",
@@ -2566,7 +2464,6 @@
         },
         "a1509feb-8f5d-4dce-a99d-23ec6ef02e22": {
             "name": "Ein ophidischer Albtraum",
-            "project_number": 116,
             "front": {
                 "flavor_text": "Anscheinend nutzt eine unvorstellbar große Schlange den Berg Kokoro als Nistplatz. Die gute Nachricht ist, dass sie vorerst zu schlafen scheint; du hast zwar keine Chance, sie zu besiegen, aber wenn du vorsichtig bist und Glück hast, kannst du dich vielleicht an ihr vorbeischleichen...",
                 "text": "<i>(Hinweis: Das Szenario endet nicht, wenn diese Agenda vorrückt.)</i>"
@@ -2598,7 +2495,6 @@
             "project_number": 135,
             "front": {
                 "flavor_text": "Du zitterst, als die Luft um dich herum spürbar kälter wird...",
-                "illustrator": "Illus. Unbekannt",
                 "text": "<rev> Enthülle einen zufälligen Marker aus dem Chaosbeutel. Falls es ein <auto_fail>- oder <frost>- Marker ist, nimm 1 Horror. Ansonsten füge dem Chaosbeutel 1 <frost>-Marker hinzu. Falls dies nicht möglich ist, füge der Agenda 1 Verderben hinzu.",
                 "traits": "Gefahr."
             },
@@ -2606,7 +2502,7 @@
         },
         "a6c6b499-c521-4b09-bb1b-55eebe3345b2": {
             "name": "Schalldämpfung",
-            "project_number": 188,
+            "project_number": 217,
             "front": {
                 "flavor_text": "Da klingt etwas nicht ganz richtig...",
                 "text": "<rev> Lege <name> in deine Bedrohungszone.\nBehandle Vorteile in deinem Spielbereich, die einen Verbündetenslot belegen, so, als wären ihre Textfelder leer (mit Ausnahme der Merkmale).\n<reaction> Am Ende der Runde: Lege <name> ab.",
@@ -2616,7 +2512,6 @@
         },
         "a8bd3199-d477-4010-b426-877b9c01546c": {
             "name": "Raus aus dem Tiegel",
-            "project_number": 141,
             "front": {
                 "flavor_text": "Die rußbeladene Luft erschwert dir das Atmen im Inneren des Vulkans, und du lockerst deinen Kragen, während die Lachen aus geschmolzenem Gestein dir Wolken feuchter Luft ins Gesicht speien. Allein schon die Temperatur macht es gefährlich, sich zu lange in dieser Umgebung aufzuhalten..."
             },
@@ -2642,7 +2537,6 @@
         },
         "a97d3635-b835-4c17-8ccb-79d7bc4dbcc8": {
             "name": "Ewiges Blau",
-            "project_number": 197,
             "front": {
                 "flavor_text": "Die porzellanartige Haut der geisterhaften Kinder, die um dich herum durch das trübe Wasser gleiten, schimmert im fahlen Mondlicht...",
                 "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Nachdem dir eine Fertigkeitsprobe misslingt: Drehe einen Hinweis an deinem Ort auf seine Verderbensseite. Falls keine Hinweise an diesem Ort sind, platziere stattdessen einen Hinweis aus dem Markervorrat auf dem Ort.\n<reaction> Am Ende deines Zuges: Lege <name> ab.",
@@ -2677,7 +2571,7 @@
         },
         "b1019be5-1e72-41fc-a2f3-0c57ea728b7e": {
             "name": "Offenes Weltenknäuel",
-            "project_number": 164,
+            "project_number": 176,
             "front": {
                 "flavor_text": "„In ihrer Stadt stand eine Bronzestatue des Kronos …, sodass jedes der Kinder, sobald es darauf gesetzt wurde, hinunterrollte und in eine klaffende, mit Feuer gefüllte Grube stürzte …“\n---Bibliotheca Historica",
                 "subtitle": "Die Zukunft weigerte sich, sich zu ändern",
@@ -2692,7 +2586,6 @@
         },
         "b14bdc79-b59c-4b97-b45d-70336e8a0fb3": {
             "name": "Mondbeschienener Innenhof",
-            "project_number": "290",
             "front": {
                 "flavor_text": "Ein Kirschbaum wacht über das kleine Meditationsbecken.",
                 "text": "Ermittler an diesem Ort können keine Ressourcen erhalten.",
@@ -2702,8 +2595,7 @@
                 "flavor_text": "Das Herrenhaus umgibt einen Garten unter freiem Himmel, der mit einem künstlichen Wasserspiel ausgestattet ist...",
                 "text": "Ermittler können sich nicht von einem Ort mit Hinweisen darauf zum Ort Mondbeschiener Innenhof bewegen.",
                 "traits": "Erdgeschoss."
-            },
-            "enumerated": "manual"
+            }
         },
         "b18af11b-3636-425b-84ef-e1c20cb5f234": {
             "name": "Das Versagen des Schicksals",
@@ -2715,14 +2607,12 @@
         },
         "b2bb0623-7ab8-44ce-b673-0088001bfbcb": {
             "name": "Tyrische Galeere",
-            "project_number": 65,
             "front": {
                 "flavor_text": "„Der Westwind weht sanft über das dunkle Ägäische Meer …“",
                 "subtitle": "Sie wartet nur auf dich",
                 "text": "<free> Falls es dein Zug ist: <b>An Bord gehen.</b> Hänge deinen Ermittler an <name> an oder löse ihn. <i>(Max. ein Mal pro Zug.)</i>\n<action> Falls <name> spielbereit ist: Bewege <name> an einen benachbarten <t>Fluss</t>-Ort. Diese Aktion kann nur von einem Ermittler ausgelöst werden, der an <name> angehängt ist.",
                 "traits": "Fahrzeug. Schiff. "
-            },
-            "encounter_number": "22"
+            }
         },
         "b37a6f42-a1f8-4d41-b783-757f0b658071": {
             "name": "Schwalbenschwanz-Gasthaus",
@@ -2735,7 +2625,8 @@
             "back": {
                 "flavor_text": "Ein uriges Gasthaus am Rande der Stadt wird nach wie vor von geisterhaften Gästen bevölkert.",
                 "traits": "Stadt. Versteck."
-            }
+            },
+            "encounter_number": "14"
         },
         "b3996129-3a72-4d51-b69e-8eae84a1ea19": {
             "name": "Entweihter Tempel",
@@ -2753,7 +2644,6 @@
         },
         "b3cb1fee-1899-4328-80e1-7503851ffa4d": {
             "name": "Aschenes Fegefeuer",
-            "project_number": 216,
             "front": {
                 "flavor_text": "Die Feuer des Krieges machten der überfüllten Stadt schnell ein Ende.",
                 "text": "<rev> Hänge <name> an den nächstgelegenen Ort ohne Kopie von <name> an. Max. 1 pro Ort. Gegner an diesem Ort erhalten Zurückschlagen.\n<reaction> Nachdem ein Gegner an diesem Ort besiegt wird: Lege <name> ab.",
@@ -2777,7 +2667,6 @@
         },
         "b529d163-7b62-4f4a-aa0d-a5cf54bd2b15": {
             "name": "Stilles Foyer",
-            "project_number": "289",
             "front": {
                 "flavor_text": "Der Berg in der Ferne – von dem du glaubst, dass die Dorfbewohner ihn Berg Kokoro nennen – reflektiert das Licht des Mondes wie ein Warnlicht...",
                 "text": "Ermittler an diesem Ort dürfen keine Vorteilskarten ins Spiel bringen.",
@@ -2786,12 +2675,10 @@
             "back": {
                 "flavor_text": "Eine unheimliche Stille dämpft deine Schritte, als du das Herrenhaus betrittst...",
                 "traits": "Erdgeschoss. Zentral."
-            },
-            "enumerated": "manual"
+            }
         },
         "b52c4b49-3e0e-4c55-85fa-29b962889e01": {
             "name": "<unique>Jorogumo",
-            "project_number": 137,
             "front": {
                 "flavor_text": "Die Jorogumo ist dafür bekannt, als Ehevermittlerin zu fungieren und stets auf der Suche nach geeigneten Partnern für ihre unzähligen „Töchter“ zu sein...<br>",
                 "subtitle": "Weber des verworrenen Netzes",
@@ -2801,7 +2688,7 @@
         },
         "b62ed98f-c2b0-48ba-83a8-15dc2b152eb4": {
             "name": "Scharlachroter Partisan",
-            "project_number": 222,
+            "project_number": 254,
             "front": {
                 "flavor_text": "In den Wirren des Krieges schloss Onigawas feigster General einen Pakt mit einer dunklen Macht, um die Kraft zu erlangen, die nötig war, eine ganze Armee zu besiegen.",
                 "subtitle": "Rächer von Onigawa",
@@ -2813,10 +2700,8 @@
         },
         "b7556345-e51a-4679-a819-d5fbc3c6e7e5": {
             "name": "Die Tore stürmen",
-            "project_number": 70,
             "front": {
                 "flavor_text": "Die seltsame Festungsstadt, die die Schlucht überragt, sticht unverkennbar ins Auge. Der Weg die steile Klippe hinauf führt zu einer Art Wachhaus; wenn Miyu auf diesem Weg verschleppt wurde, muss es doch einen Weg ins Innere geben...",
-                "illustrator": "Illus. Unbekannt",
                 "text": "<obj> Finde einen Weg in die mysteriöse Stadt.\n<i>(Rücke diese Agenda nicht vor, bis du dazu angewiesen wirst.)</i>"
             },
             "back": {
@@ -2851,13 +2736,13 @@
             },
             "back": {
                 "flavor_text": "Ein schlichter Steinbogen heißt dich in dieser Oase der Ruhe willkommen.",
+                "illustrator": "Illus. Deniz Erkli",
                 "traits": "Wälder."
             },
             "encounter_number": "20"
         },
         "b95e4e29-64fa-4c04-bd3f-405d9f10d7f6": {
             "name": "Ein kleiner Schritt",
-            "project_number": 160,
             "front": {
                 "flavor_text": "Es war die ganze Zeit da, hat dich beobachtet und deine Ermittlungen bei jedem Schritt unterstützt – oder behindert. Vielleicht stehen die Antworten, nach denen du suchst, in den Sternen geschrieben … oder vielleicht hast du einfach nur endgültig den Verstand verloren?",
                 "text": "<obj> Falls sich keine Hinweise auf Erntemond befinden, rücke vor."
@@ -2866,12 +2751,11 @@
                 "name": "Ein gewaltiger Sprung",
                 "flavor_text": "Na, du hast es geschafft: Du bist zum Mond geflogen. Und überraschenderweise ist dir dabei nichts wirklich Schreckliches passiert. Allerdings ist es hier oben überraschend heiß, und der Mond steht noch so hoch am Himmel, dass dir die dünne Luft langsam Migräne bereitet. Nicht umsonst, aber warum bist du überhaupt hier...?\nDu schaffst es, über die felsige Oberfläche des Mondes herumzuspringen, bis du schließlich das Zentrum der in die Oberfläche eingravierten Rune erreichst. In einem riesigen Krater glimmt ein seltsames Objekt wie Holzkohle...",
                 "text": "Bringe den beiseitegelegten Gegner „Brodelnde Brut“ <i>(Was im Feuer verloren ging)</i> am Erntemond ins Spiel.\n\n\n"
-            },
-            "encounter_number": "5"
+            }
         },
         "b99bd15d-b53e-4d78-82f4-d9cdc53a7836": {
             "name": "Bewahre das, was unbezahlbar ist",
-            "project_number": 204,
+            "project_number": 203,
             "front": {
                 "flavor_text": "Aus Angst vor einer drohenden Niederlage verbarrikadierte die königliche Garde die überlebenden Mitglieder des Hofes während der Belagerung im Palast … und kämpfte bis zum Tod, um sicherzustellen, dass niemand sonst ihnen ins Innere folgen konnte.",
                 "text": "<rev> Bewege jeden Ermittler einmal in Richtung Königspalast.",
@@ -2881,7 +2765,7 @@
         },
         "bb43efbd-f04f-475f-827b-6a16df47b6f6": {
             "name": "Die Blasse Braut",
-            "project_number": "294",
+            "project_number": 200,
             "front": {
                 "flavor_text": "Sie wird dich bis in den Tod lieben.",
                 "subtitle": "Sehr geliebt",
@@ -2889,11 +2773,10 @@
                 "traits": "Humanoid. Elite. Geist.",
                 "victory": "Sieg 1."
             },
-            "enumerated": "manual"
+            "encounter_number": "5"
         },
         "bc6b1551-c239-458e-8998-0d59cea697fd": {
             "name": "Unter dem Nachtigallenboden",
-            "project_number": 91,
             "front": {
                 "flavor_text": "Du beginnst zu bemerken, welche Dielen knarren und ächzen, wenn du darauf trittst, und wenn du dich bückst, um zwischen den Latten hindurchzuspähen, kannst du etwas erkennen, das sich darunter bewegt... Unter dem Palast befindet sich definitiv eine weitere Ebene; du musst nur einen Weg finden, dorthin zu gelangen.",
                 "text": "<obj> Erkunde den Gang unter dem Palast.\n(Rücke erst mit der Agenda vor, wenn du dazu aufgefordert wirst.)"
@@ -2906,7 +2789,7 @@
         },
         "bcc82d44-4061-4988-bafc-c7a06fe93ce1": {
             "name": "Dem Pantheon dienen",
-            "project_number": 205,
+            "project_number": 204,
             "front": {
                 "flavor_text": "Die Schutzbarrieren, die Onigawa umgaben, wurden geschwächt, als der ungestüme Prinz des göttlichen Pantheons auf dem Berg Kokoro gefangen gehalten wurde.",
                 "text": "<rev> Erschöpfe jede <t>Aspekt</t>-Storyvorteils-<br>karte, die von einem Ermittler kontrolliert wird. <t>Aspekt</t>-Vorteilskarten, die von Ermittlern kontrolliert werden, werden in der Unterhaltsphase nicht spielbereit gemacht.",
@@ -2916,7 +2799,6 @@
         },
         "bccc45f5-a0bf-4ffa-b2a3-ada2a6d9e78d": {
             "name": "Offenes Gewässer",
-            "project_number": 46,
             "front": {
                 "flavor_text": "Es ist eine stille Nacht über dem Flussdelta, und das ruhige Wasser spiegelt das Licht des Vollmonds wider, der hell am Himmel leuchtet. Du kannst dir nicht im Geringsten vorstellen, welche Gefahren vor dir liegen könnten...",
                 "text": "Jeder Ort ist mit jedem benachbarten Ort verbunden.\n<for> Wenn sich ein Ermittler zwischen <t>Fluss</t>-Orten bewegt, während er nicht auf Tyrische Galeere ist: Dieser Ermittler verliert alle verbleibenden Aktionen."
@@ -2928,18 +2810,15 @@
             }
         },
         "bd93b6b1-eda0-4d71-b754-b2df7c55431a": {
-            "project_number": 193,
             "front": {
                 "flavor_text": "„Ich habe es meiner Schwester versprochen…“",
                 "subtitle": "Die Zwillingsschwester",
                 "text": "Du hast 1 zusätzlichen Handslot.\n<free> Erschöpfe Mayu Tachibana und füge dem Chaosbeutel 1<blessing>-Marker hinzu: Du erhältst +1 für diese Fertigkeitsprobe.",
                 "traits": "Miskatonic. Student."
-            },
-            "encounter_number": "5"
+            }
         },
         "bd961a45-e015-4eca-9941-67cac72a1de7": {
             "name": "<unique>Notfallplan des Pantheons",
-            "project_number": 238,
             "front": {
                 "flavor_text": "Alleine waren die Wächter Moloch nicht gewachsen...",
                 "subtitle": "Ein Funke ist noch übrig",
@@ -2952,12 +2831,11 @@
                 "subtitle": "Rächer des Pantheons",
                 "text": "Feder des Kanon kann das Spiel nicht verlassen.\n<action> Wenn Feder des Kanon spielbereit ist: <b>Kampf.</b> Füge deinen höchsten Nicht-<combat>-Wert zu deinem Fertigkeitswert für diese Probe hinzu. Dieser Angriff fügt +1<per_large> Schaden zu. Wenn die Probe misslingt, musst du entweder ein Opfer bringen oder Feder des Kanon erschöpfen.",
                 "traits": "Gegenstand. Relikt. Waffe. Nahkampf."
-            },
-            "encounter_number": "2"
+            }
         },
         "bdb85d45-a28c-46a5-b839-205f03b96b77": {
             "name": "Zerstörte Kathedrale",
-            "project_number": 169,
+            "project_number": 181,
             "front": {
                 "flavor_text": "Ganz am anderen Ende der zerklüfteten Ruinen ruht der große Schädel eines uralten Wesens...",
                 "text": "<action>: Lege eine Nicht-Schwäche-Karte von deiner Hand ab: Füge dem Chaosbeutel 1<blessing> oder 1<curse>-Marker hinzu.",
@@ -2967,11 +2845,12 @@
                 "flavor_text": "Schwebende Säulen und umgestürzte Türme sind alles, was von dem verborgenen Tempel übrig geblieben ist...",
                 "text": "Der Weg ist versperrt. Ermittler können <name> nicht betreten.",
                 "traits": "Heiligtum. Ruinen."
-            }
+            },
+            "encounter_number": "14"
         },
         "be2bfd2b-5960-4c4e-82e2-722edba25492": {
             "name": "<unique>Majin Wukong",
-            "project_number": 256,
+            "project_number": 227,
             "front": {
                 "flavor_text": "Schluss mit dem Affentanz.",
                 "illustrator": "Illus. Unbekannt",
@@ -2983,7 +2862,7 @@
         },
         "be4a1e72-02eb-405c-af77-55de943459c5": {
             "name": "Taktiken der Tengu",
-            "project_number": 218,
+            "project_number": 250,
             "front": {
                 "flavor_text": "Bevor das Pantheon fiel, waren die Tengu die geschworenen Beschützer der Vögte des Augusts. Während der Belagerung wurden sie zurückgerufen, um die Stadt zu verteidigen, wodurch der Berg Kokoro schutzlos blieb.",
                 "text": "<rev> Führe eine <willpower>-Probe (X) durch, wobei X der Schleierwert deines Ortes ist. Falls die Probe misslingt, bringe 1 zusätzliche Karte oben vom Rally-Deck zu Beginn der nächsten Ermittlerphase ins Spiel <i>(und handle ihren Enthüllungseffekt ab).</i>",
@@ -2993,18 +2872,15 @@
         },
         "bf57416d-05e1-4002-97f8-4efd49d3bf01": {
             "name": "<unique>„Sensei“ Kanuti",
-            "project_number": 250,
             "front": {
                 "flavor_text": "Kanuti war ein freundlicher Riese, der diese Länder bewohnte, als die Wächter noch jung waren. Nachdem diese an die Macht gekommen waren, würdigte Tsurugi Kanutis Stärke, indem er ihn mit einer lebenslangen Ernennung zu seinem persönlichen Schmiedemeister „ehrte“.<br>",
                 "subtitle": "Meister der Schmiede",
                 "text": "Gewaltig. Alarmiert. Patrouille (Amboss der Entstehung).\n<spawn> Amboss der Entstehung.",
                 "victory": "Sieg 1."
-            },
-            "encounter_number": "14"
+            }
         },
         "bf630a6b-fe0b-426b-85bf-123bb457eaf7": {
             "name": "Mondschrei",
-            "project_number": 191,
             "front": {
                 "flavor_text": "Du bildest dir das bestimmt nur ein, aber jedes Mal, wenn du dich umdrehst, scheint der Mond tiefer und größer am Himmel zu stehen...",
                 "text": "<rev> Lege die obersten 3 Karten deines Decks ab. Wenn dabei Schwächen abgelegt werden, ziehe diese.",
@@ -3013,7 +2889,6 @@
         },
         "c1013f48-0e95-4e96-905f-ed9b184dd86a": {
             "name": "Versunkener Schrein",
-            "project_number": 60,
             "front": {
                 "flavor_text": "Frische Opfergaben lassen vermuten, dass jemand oder etwas den Schrein pflegt, selbst nach seinem Einsturz...",
                 "subtitle": "Sitz des Koi-Kaisers",
@@ -3024,8 +2899,7 @@
             "back": {
                 "flavor_text": "Ein zerfallener Altar einer uralten Gottheit vegetiert in den dunklen Untiefen unter der Oberfläche des Sumpfes dahin.",
                 "traits": "Heiligtum."
-            },
-            "encounter_number": "16"
+            }
         },
         "c1b59e8a-4390-420e-b7c5-8ea1b2af899d": {
             "name": "Sicherheitslücke",
@@ -3059,7 +2933,6 @@
             "back": {
                 "name": "Grünes Wäldchen",
                 "flavor_text": "Eine ehrwürdige Landschaft aus hohen Bäumen, Sträuchern und Steinmauern lockt dich tiefer in den Wald hinein.",
-                "illustrator": "Illus. Unbekannt",
                 "traits": "Wälder."
             },
             "encounter_number": "13"
@@ -3080,7 +2953,6 @@
         },
         "c53361f3-af93-4aed-967e-a5984046e4f6": {
             "name": "Beerdigung eines Freundes",
-            "project_number": 5,
             "front": {
                 "flavor_text": "Die Dorfbewohner erwähnten, dass Takeshi irgendwo in diesem Wald begraben sei, gingen aber nicht näher darauf ein. Irgendwie hast du das Gefühl, dass du seine letzte Ruhestätte erkennen wirst, sobald du sie siehst...",
                 "text": "<obj> <i>Finde Takeshis Grabstätte.</i>\nNachdem jeder überlebende Ermittler <i>Takeshi die letzte Ehre erwiesen hat</i>, rücke vor."
@@ -3093,7 +2965,6 @@
         },
         "c5cb228e-af9f-4ca1-ba44-5b3280a7f528": {
             "name": "Winterkalte Katakomben",
-            "project_number": 132,
             "front": {
                 "flavor_text": "Die geehrten Helden wurden in dieser eisigen Gruft beigesetzt, damit ihre sterblichen Überreste gut erhalten blieben, falls die Wächter ihre treuen Diener jemals wieder benötigen sollten.",
                 "text": "<b>Heimgesucht --</b> Ziehe die oberste Karte des Begegnungsdecks.",
@@ -3105,8 +2976,7 @@
                 "flavor_text": "Ein tückischer Pfad schlängelt sich durch den blendenden Schnee und führt dich langsam zum Gipfel...",
                 "text": "Als zusätzliche Kosten für das Betreten von Gebirgspass müssen Ermittler für jeden Hinweis an ihrem aktuellen Ort eine zusätzliche Aktion aufwenden.",
                 "traits": "Berg."
-            },
-            "encounter_number": "19"
+            }
         },
         "c7b19421-9ab6-4ef9-9059-6fd41f287690": {
             "name": "Atempause der Witwe",
@@ -3127,18 +2997,15 @@
         },
         "c7e01081-7106-4fcf-9871-45dccf95a6b1": {
             "name": "<unique>Tsurugis Macht",
-            "project_number": 239,
             "front": {
                 "flavor_text": "Tsurugi galt als der mächtigste aller Wächter; sein Atem war der Treibstoff, der das Feuer unter dem Berg Kokoro entfachte.",
                 "subtitle": "Klinge der Abenddämmerung",
                 "text": "<action> Wenn Tsurugis Macht spielbereit ist: <b>Kampf. </b>Füge deinen <willpower>-Wert zu deinem Fertigkeitswert für diesen Angriff hinzu. Falls die Probe um 2 oder mehr gelingt, verursacht dieser Angriff +1 Schaden. Falls die Probe nicht gelingt, erschöpfe Tsurugis Macht: Die Probe gelingt automatisch.",
                 "traits": "Gegenstand. Relikt. Waffe. Nahkampf."
-            },
-            "encounter_number": "3"
+            }
         },
         "c7fb3282-dd82-4b7d-b7ae-ab3feb84b64b": {
             "name": "Werkzeuge des Meisters",
-            "project_number": 243,
             "front": {
                 "flavor_text": "Irgendwie hat man das Gefühl, dass dieses riesige Wesen der Herr der Schmiede ist. Seine zeremonielle Rüstung ähnelt einer überdimensionalen Version einiger der Umhänge, die man während der Belagerung bei Onigawas Verteidigern gesehen hat, und doch …",
                 "text": "<for> Zu Beginn der Gegnerphase: Befindet sich kein Ermittler am Ort von Sensei Kanuti, rücke die aktuelle Agenda vor.\n<obj> Falls sich alle überlebenden Ermittler am Amboss der Entstehung befinden und Sensei Kanuti sich im Siegpunktstapel befindet, rücke vor."
@@ -3166,7 +3033,6 @@
         },
         "c9617fd8-6e2c-4149-99e6-6e2be704a702": {
             "name": "Der Schlafende Riese",
-            "project_number": 115,
             "front": {
                 "flavor_text": "Im Schatten des Berges Kokoro wird die Luft um dich herum kalt. Der Boden vor dir ist mit elfenbeinfarbenen Flecken übersät, und die Feuchtigkeit deines nebligen Atems haftet an deinem Gesicht. Da dir die richtige Ausrüstung fehlt, vermutest du, dass du hier draußen nicht lange durchhalten wirst...",
                 "text": null
@@ -3179,14 +3045,12 @@
         },
         "c9ba3ee9-f3fd-4211-8553-a1b919d08ecf": {
             "name": "<unique>Wachschor",
-            "project_number": 251,
             "front": {
                 "flavor_text": "Eines der Gesichter in der sich windenden Masse aus geschmolzenem Wachs hat etwas beunruhigend Vertrautes an sich...",
                 "subtitle": "Zuwachs und Schwund",
                 "text": "Gewaltig. Jäger 1.\n<spawn> Abfallschleuse.\nWachschor kann keine Gelegenheitsangriffe ausführen.",
                 "victory": "Sieg 1."
-            },
-            "encounter_number": "15"
+            }
         },
         "cadd9435-8920-4867-a9e2-b36c695e1e0a": {
             "name": "Dünnes Eis",
@@ -3200,7 +3064,7 @@
         },
         "cc9884c1-4df4-4603-bd0d-9ed9bada3083": {
             "name": "Der Tod ist für jeden unvermeidlich",
-            "project_number": 207,
+            "project_number": 206,
             "front": {
                 "flavor_text": "Bevor es versenkt wurde, sorgte die Besatzung von Onigawas Flaggschiff, der Shingetsu, dafür, dass das Schlachtschiff auf seiner Jungfernfahrt so viele feindliche Schiffe wie möglich mit sich in den Untergang riss.",
                 "text": "<rev> Gegner erhalten +1 Entkommen bis zum Ende der Runde.",
@@ -3210,7 +3074,6 @@
         },
         "ccb8ec79-4589-41be-b8ac-c772546ce07d": {
             "name": "Torii-Tor",
-            "project_number": 18,
             "front": {
                 "flavor_text": "Diese traditionellen Torbögen wurden errichtet, um den Übergang vom Weltlichen zum Heiligen zu markieren.",
                 "subtitle": "Verlassen, Vergessen",
@@ -3223,8 +3086,7 @@
                 "subtitle": "Ein Ausweg?",
                 "text": "<action>: Gebt als Gruppe 1<per_large> Hinweise aus: Bewege Der Purpurrote Schmetterling 1 Ort näher zu diesem Ort.",
                 "traits": "Wälder."
-            },
-            "encounter_number": "18"
+            }
         },
         "ce6df126-2313-450d-8fe7-9f6a691e08db": {
             "name": "Stehender Stein",
@@ -3243,7 +3105,6 @@
         },
         "ce994fbe-0181-43e1-82a2-4724abf84a9a": {
             "name": "Paraselen Plaza",
-            "project_number": 78,
             "front": {
                 "flavor_text": "Ein Wirbel aus Kirschblüten umkreist einen verwelkten jungen Baum am anderen Ende des Hofes. Vielleicht ein längst vergessener Vorfahr des Baumes, den du im Wald gesehen hast?",
                 "text": "<t>Aspekt</t>-Storyvorteilskarten, die von Ermittlern an <name> kontrolliert werden, werden in der Unterhaltsphase nicht spielbereit gemacht.",
@@ -3252,12 +3113,10 @@
             "back": {
                 "flavor_text": "Der Vollmond fügt sich perfekt in den gewaltigen Torbogen ein, der über dem Innenhof thront, als wäre er eigens zu diesem Zweck errichtet worden.",
                 "traits": "Stadt. Zentral."
-            },
-            "encounter_number": "13"
+            }
         },
         "d0487fac-52e0-434e-b597-d74200caa5f9": {
             "name": "Sonnenschirm-Imitat",
-            "project_number": 111,
             "front": {
                 "flavor_text": "Berichte darüber, dass verschiedene Werkzeuge und andere Alltagsgegenstände zum Leben erwacht seien und das einfache Volk angegriffen hätten, wurden von den Hofmystikern oft mit Skepsis betrachtet...",
                 "text": "Jäger 1.\n<prey> Geringste verbliebene Ausdauer.\n<b>Rache --</b> Füge dem Chaosbeutel 1<curse>-Marker hinzu."
@@ -3265,7 +3124,7 @@
         },
         "d0a5a407-b8c2-48ec-897f-ff0850a530ca": {
             "name": "Tränen für Tialoc",
-            "project_number": 175,
+            "project_number": 187,
             "front": {
                 "flavor_text": "Moloch war den Azteken als „Tialoc“ bekannt, und sie glaubten, dass man sich seine Gunst nur durch die Schreie von Kindern verdienen könne.",
                 "text": "<rev> Führe eine <intellect>-Probe (4) durch. Falls die Probe misslingt, platziere 1 Verderben auf <t>Elite</t>-Gegnern für jeden Punkt, um den die Probe misslungen ist, verteile dabei so gleichmäßig wie möglich auf alle <t>Elite</t>-Gegner im Spiel <i>(inklusive aller im Opferbereich).</i>",
@@ -3275,17 +3134,15 @@
         },
         "d1687df2-4198-475a-9ba6-e4f46aba3988": {
             "name": "<unique>Eisgebundener Fetisch",
-            "project_number": 230,
             "front": {
                 "flavor_text": "Dein Herz schlägt schneller, als die durchscheinende Kugel einen sanften, vertrauten Puls aussendet...",
                 "subtitle": "Segen der Mondkönigin",
                 "text": "Dauerhaft. \nNur für das Deck von Yuki Yagami. \nDu erhältst +1 <willpower> und das Merkmal <t>Vampir</t>.\n<reaction> Nachdem du einen Gegner besiegt hast, erschöpfe Eisgebundener Fetisch: Heile 1 Schaden von deinem Ermittler.",
                 "traits": "Gegenstand. Relikt. Okkult."
-            },
-            "encounter_number": "1"
+            }
         },
         "d247ddb7-1b33-49f8-bb9a-0a5ec9f11fc0": {
-            "project_number": 228,
+            "project_number": 237,
             "front": {
                 "flavor_text": "Nachdem sich Gerüchte verbreitet hatten, dass die vom königlichen Puppenmacher gefertigten Puppen ihren Besitzern Glück brächten, wurden seine Dienste immer gefragter...<br><br>",
                 "subtitle": "Meisterin der Puppen",
@@ -3293,11 +3150,10 @@
                 "traits": "Humanoid. Elite. Geist. Verflucht.",
                 "victory": "Sieg 1."
             },
-            "encounter_number": "7"
+            "encounter_number": "6"
         },
         "d4760f6e-528e-4e24-8938-f5ca857487ae": {
             "name": "Krähenschwarm",
-            "project_number": 181,
             "front": {
                 "flavor_text": "Man sagt, dass Krähen die Seelen der Verstorbenen ins Reich der Toten tragen. Manche glauben auch, dass eine Krähe, wenn diese Seele von schrecklichem Kummer erfüllt ist, sie zurückbringen kann, um Unrecht wiedergutzumachen.",
                 "text": "Jäger 2.\n<spawn> Beliebiger leerer Ort.\n<for> Nachdem <name> dich angegriffen hat: Lege eine Nicht-Schwäche-Karte von deiner Hand ab.",
@@ -3322,7 +3178,6 @@
         },
         "d66bdd3a-5636-40da-98e2-c5babb855082": {
             "name": "Die schwarze Ernte",
-            "project_number": 156,
             "front": {
                 "chaos_extra": "Opferdeck",
                 "difficulty": "LEICHT/NORMAL",
@@ -3389,7 +3244,6 @@
         },
         "d8d279d2-df52-4f10-86fb-a22c134cc039": {
             "name": "Das Flussdelta",
-            "project_number": 45,
             "front": {
                 "difficulty": "LEICHT/NORMAL",
                 "entries": [
@@ -3451,7 +3305,7 @@
         },
         "d9bbc939-b717-4d97-a77c-265355fc14bf": {
             "name": "<unique>Bondage-Mannequin",
-            "project_number": 227,
+            "project_number": 236,
             "front": {
                 "flavor_text": "Je verdorbener die Gelüste am Hof wurden, desto verdorbener wurden auch die Kreationen, mit deren Anfertigung der königliche Puppenmacher beauftragt war...<br>",
                 "subtitle": "Das Vergnügen liegt ganz bei ihr",
@@ -3459,11 +3313,11 @@
                 "traits": "Automata. Elite. Verflucht.",
                 "victory": "Sieg 1."
             },
-            "encounter_number": "6"
+            "encounter_number": "5"
         },
         "dcea82e6-5dd2-439a-b0de-a79c05de45a3": {
             "name": "Greifende Gefahr",
-            "project_number": 225,
+            "project_number": 235,
             "front": {
                 "flavor_text": "Egal, wohin du rennst, sie fangen dich immer ein...",
                 "illustrator": "Illus. Unbekannt",
@@ -3474,7 +3328,6 @@
         },
         "dda9e452-281d-4184-a4ad-9cc1f88157ed": {
             "name": "Alle Hoffnung schwindet",
-            "project_number": 161,
             "front": {
                 "flavor_text": "Trotz eurer amateurhaften Eingriffe – oder vielleicht gerade deswegen – wandelt Moloch erneut auf der Welt, und sein einziges Ziel ist es, sich an Onigawas Leid zu laben. Die Schöpfung selbst zittert; gibt es noch Hoffnung, da die Wächter nicht mehr die Kraft haben, sich ihm entgegenzustellen...?",
                 "text": "<for> Sobald die Mythosphase endet: Bringe zwei <b>Opfer</b> dar."
@@ -3483,12 +3336,10 @@
                 "name": "Am Ende",
                 "flavor_text": "Es hat keinen Sinn. Wie die Vögte des Augusts vor dir, die Mondkönigin und sogar die Wächter selbst hast auch du es lediglich geschafft, Molochs unvermeidliches Kommen hinauszuzögern. Er ist die Verkörperung der Angst, und nichts kann ihn nun noch aufhalten …\nWehe den Besiegten.",
                 "text": "(<resolution><b>A4</b>)\n\n\n"
-            },
-            "encounter_number": "6"
+            }
         },
         "ddcc2089-e81b-4011-b73d-5192f6c8a280": {
             "name": "<unique>Konohana Sakuya",
-            "project_number": 138,
             "front": {
                 "flavor_text": "Konohana Sakuya gilt als freundlicher Baumgeist, dessen beruhigende Präsenz die Feuer im Inneren des Berges Kokoro zähmt.<br><margin 15>",
                 "subtitle": "Die Trauerweide",
@@ -3498,7 +3349,6 @@
         },
         "de116b68-4913-404d-96f6-2bcf6e5a6609": {
             "name": "Untergehen oder schwimmen",
-            "project_number": 63,
             "front": {
                 "flavor_text": "Eine unnatürliche Welle erhebt sich aus der tosenden Brandung und droht, dich mitzureißen...",
                 "text": "<rev> Befindet sich Tyrische Galeere nicht an deinem Ort, erhält <name> Nachrüsten. Andernfalls führe eine <agility>-Probe (3) durch. Falls die Probe misslingt, erleidest du 1 Schaden. Erschöpfe dann Tyrische Galeere und entferne alle Ermittler von ihr.",
@@ -3507,18 +3357,15 @@
         },
         "ded0e4fd-9a83-450c-8310-c32c9ded6a35": {
             "name": "<unique>Koi-Prinzessin",
-            "project_number": 270,
             "front": {
                 "flavor_text": "„Die Wächter haben uns nicht aufgegeben. Wir dürfen sie nicht aufgeben.“",
                 "subtitle": "Witwe der verlorenen Hoffnung",
                 "text": "<reaction> Nachdem du einen Gegner besiegt hast: Füge dem Chaosbeutel 1<blessing>-Marker hinzu oder durchsuche den Chaosbeutel nach 1<curse>-Marker und lege ihn in den Markervorrat zurück. Ermittler können diese Fähigkeit von allen Orten auslösen.\n<action><action>: Erschöpfe Koi-Prinzessin: Füge dem Chaosbeutel X<blessing>-Marker hinzu, wobei X die Anzahl der enthüllten Orte ohne Hinweise ist.",
                 "traits": "Verbündeter. Humanoid. Tiefes Wesen. Gesegnet."
-            },
-            "encounter_number": "4"
+            }
         },
         "e0d5f1e6-93da-45df-9b82-e15ad37b7c82": {
             "name": "Höheres Terrain",
-            "project_number": 159,
             "front": {
                 "flavor_text": "Die Katastrophe hat dich sowohl von deinen Begleitern als auch von Miyu getrennt. Du musst einen Weg zu ihr finden...",
                 "text": "<action>: Falls sich keine Hinweise an deinem Ort befinden: Drehe den Ort Torii-Nexus auf seine enthüllte Seite. <i>(Max. ein Mal pro Spiel.)</i>\n<obj> Ermittler am Torii-Nexus können als Gruppe die erforderliche Anzahl an Hinweisen ausgeben, um vorzurücken."
@@ -3527,8 +3374,7 @@
                 "name": "Die Sterne über uns",
                 "flavor_text": "Mit Hilfe des Torii-Tors ist es dir gelungen, zu mehreren der anderen schwebenden Inseln zu gelangen, doch keine davon scheint dich der Kathedrale näher zu bringen. Du drehst dich um und machst dich bereit, zum Felsvorsprung zurückzukehren und einen neuen Plan auszuarbeiten, als dir auffällt, dass die Torii-Tore auf jeder Insel perfekt auf den mit Runen markierten Mond ausgerichtet sind...\nDu holst die Camera Obscura hervor und versuchst, den Mond durch das dir am nächsten gelegene Torii-Tor zu fotografieren. Als der Auslöser klickt, verwandelt sich das Bild im Portal augenblicklich in eine leblose, felsige Weite...",
                 "text": "Bringe den beiseitegelegten Ort Erntemond verhüllt ins Spiel.\n\n\n"
-            },
-            "encounter_number": "4"
+            }
         },
         "e2b493ed-e37a-478c-b833-0145f9aeffdb": {
             "name": "Kaskaden-Endstation",
@@ -3547,7 +3393,6 @@
         },
         "e2f5d4db-bb23-43a3-90d1-8dda38bfa574": {
             "name": "In die Wildnis",
-            "project_number": 2,
             "front": {
                 "flavor_text": "Obwohl die leichte Kühle, die dir in den Gliedern kribbelt, dich dazu drängt, vorsichtig vorzugehen, bist du dir sicher, dass du hier ganz allein bist; das einzige Geräusch, das den Schleier der unheimlichen Stille durchbricht, der diesen Wald umhüllt, ist dein eigener Herzschlag."
             },
@@ -3569,7 +3414,6 @@
             "encounter_number": "27"
         },
         "e4298a22-955f-4a8e-a027-8cc5ec115eb5": {
-            "project_number": 117,
             "front": {
                 "flavor_text": "Vor dir schlängelt sich ein Pfad durch die Schneewehe. Zahlreiche Fußspuren auf dem Eis deuten darauf hin, dass hier vor kurzem jemand unterwegs war; falls Miyu diesen Weg genommen hat...  Nun, darüber möchtest du eigentlich lieber nicht nachdenken...",
                 "text": "<obj> Erkunde den Gebirgspass.\n<i>(Rücke nicht vor, bis du dazu angewiesen wirst.)</i>"
@@ -3582,7 +3426,6 @@
         },
         "e4da54e2-ed14-45c7-9ee3-ced47dce7832": {
             "name": "Schatten der Vergangenheit",
-            "project_number": 68,
             "front": {
                 "flavor_text": "Überall um dich herum erwachen flackernde Bereiche der zerstörten Stadt zum Leben, sodass du einen flüchtigen Blick auf geisterhafte Verteidiger erhaschen kannst, die während einer großen Schlacht, die offenbar hier ausgetragen wurde, überwältigt werden...",
                 "text": "<for> Zu Beginn der Ermittlerphase: Mische alle <t>Doktrin</t>-Karten im Spiel in das Rally-Deck, bringe dann die oberste Karte des Rally-Decks ins Spiel und führe ihren Enthüllungseffekt aus. <i>(Lege diese Karte nach ihrer Abhandlung nicht ab; sie bleibt bis zu Beginn der nächsten Ermittlerphase im Spiel.)</i>"
@@ -3595,7 +3438,6 @@
         },
         "e619d96b-6d5c-4f1c-8c21-c68875b51a63": {
             "name": "Verweilende Essenz",
-            "project_number": 189,
             "front": {
                 "flavor_text": "Zwischen Leben und Tod liegt nur ein Hauch.",
                 "text": "Zurückhaltend. Jäger 1.\n<name> kann nur durch Fähigkeiten Schaden nehmen, die die Merkmale <t>Gesegnet</t> oder <t>Zauber</t> enthalten.\nSolange <name> spielbereit und nicht in einen Kampf verwickelt ist, erhält der Ort von <name> +1 Schleierwert.",
@@ -3620,7 +3462,6 @@
         },
         "e66eb2a0-e7ff-4698-9e13-8bf061feb04c": {
             "name": "Gnadenloser Winter",
-            "project_number": 235,
             "front": {
                 "flavor_text": "Es ist schon so lange her, dass sie eine warme Mahlzeit gegessen hat...",
                 "text": "Wagnis.\n<rev> Befindet sich Yuki-onna im Siegpunktestapel, bringe sie am Ort Blutrotes Omen ins Spiel, lege <name> auf den Siegpunktestapel und lege für jedes Exemplar von <name> im Siegpunktestapel 1 Hinweis <i>(aus dem Markervorrat)</i> auf Yuki-onna. Ansonsten lege <name> auf den Siegpunktestapel und nimm 1 Horror.",
@@ -3629,7 +3470,6 @@
         },
         "e79997e7-ce58-45ac-b3ac-4f240ced249a": {
             "name": "<unique>Der Purpurrote Schmetterling",
-            "project_number": 21,
             "front": {
                 "subtitle": "Den Weg erhellend",
                 "text": "Zurückhaltend. Geschützt.\nSenke den Schleierwert am Ort von Der Purpurrote Schmetterling um 1.\n<action>: <b>Verhandlung.</b> Jage dem Schmetterling nach. Führe eine <combat>- oder <agility>-Probe (X) durch. Falls die Probe gelingt, bewege Der Purpurrote Schmetterling an einen benachbarten <t>Wälder</t>-Ort und enthülle ihn, falls er noch verdeckt ist. X ist der Schleierwert deines aktuellen Ortes. Als zusätzliche Kosten für die Aktivierung dieser Fähigkeit kannst du einen Hinweis ausgeben, um den Schwierigkeitsgrad dieser Probe für jeden Ermittler am Ort von Der Purpurrote Schmetterling um 1 zu verringern.",
@@ -3638,7 +3478,6 @@
         },
         "eaf09e57-f187-4dff-a478-813b46a5d3f6": {
             "name": "Zwischen Engeln und Insekten",
-            "project_number": 7,
             "front": {
                 "flavor_text": "Im Wald ist etwas zum Leben erwacht, und Der Purpurrote Schmetterling ist davon sichtlich beunruhigt. Leider scheint sich der Wald, während du dich darin befandest, „neu geordnet“ zu haben, sodass der Ausgang nun irgendwie verborgen ist. Du hast das starke Gefühl, dass du den Weg zurück zum Tor finden musst – bevor das, was da draußen lauert, dich findet.",
                 "text": "<obj> Wenn sich Der Purpurrote Schmetterling am Torii-Tor befindet, rücke vor."
@@ -3651,7 +3490,7 @@
         },
         "ede58bb6-2fed-435b-a464-eee447dd5fbb": {
             "name": "Torii-Nexus",
-            "project_number": 167,
+            "project_number": 179,
             "front": {
                 "flavor_text": "Es war einmal, da hat es dich an diesen Ort gebracht … Vielleicht kann es dich, wenn alles vorbei ist, wieder nach Hause bringen.",
                 "subtitle": "Überall, auf einmal",
@@ -3666,20 +3505,17 @@
         },
         "f1843a75-2d59-4204-b1dd-f00c39db58d6": {
             "name": "Im Schatten der Braut",
-            "project_number": 62,
             "front": {
                 "flavor_text": "Sie ist fort … aber sie wird dich niemals loslassen.",
                 "text": "<rev> Überprüfe das Kampagnenlogbuch. Falls <i>die Ermittler Mayu aus den Fängen der blassen Braut gerettet haben</i>, bringe <name> in deiner Bedrohungszone ins Spiel. Andernfalls erhält <name> Nachrüsten.\n<for> Falls dir eine Fertigkeitsprobe gelingt: Stattdessen misslingt die Probe automatisch. Lege <name> ab.",
                 "traits": "Fluch."
-            },
-            "encounter_number": "18"
+            }
         },
         "f1e78b23-fa92-408b-b0e4-756d622a2182": {
             "name": "Zerstörtes Wachhaus",
             "project_number": 83,
             "front": {
                 "flavor_text": "Die alten Tore werden durch einen ausgeklügelten Mechanismus verschlossen gehalten, wodurch die Stadt effektiv von der Außenwelt abgeschottet ist.",
-                "illustrator": "Illus. Unbekannt",
                 "text": "<action><action>: <i>Manueller Noteingriff.</i> Führe eine <combat>-Probe (5) durch. Verringere die Schwierigkeit dieser Probe um 1 für jeden Hinweis, der von Ermittlern an <name> kontrolliert wird <i>(bis zu einem Minimum von 1)</i>. Falls die Probe gelingt, rücke vor. <i>(Max. ein Mal pro Spiel.)</i>",
                 "traits": "Stadt. Zugang."
             },
@@ -3691,7 +3527,6 @@
             "encounter_number": "18"
         },
         "f20d07fe-b56b-4c37-9788-5282e9feaf9f": {
-            "project_number": 198,
             "front": {
                 "flavor_text": "Im Wasser gibt es für niemanden, der einem Kappa begegnet, ein Entkommen. An Land hingegen ist es möglich, ihn zu überlisten; der ehrenwerte Yokai wird sich verpflichtet fühlen, die Verbeugung zu erwidern, und lässt sich so dazu verleiten, das kostbare Wasser aus der Schale, die er trägt, zu verschütten.<br>",
                 "subtitle": "Bewohner der Tiefen",
@@ -3701,7 +3536,7 @@
         },
         "f2d80349-65e8-4632-82eb-40a349184ba1": {
             "name": "<unique>Magatsu Tsurugi",
-            "project_number": 255,
+            "project_number": 226,
             "front": {
                 "flavor_text": "Der Kriegsgott des Pantheons folgt stets dem Ruf der Schlacht.",
                 "subtitle": "Die Seele brennt noch immer",
@@ -3712,7 +3547,6 @@
         },
         "f30820ad-4852-417a-957f-30b0a245aabe": {
             "name": "Frostbeulen",
-            "project_number": 134,
             "front": {
                 "flavor_text": "Deine Hände fangen an, taub zu werden, während sich eine dünne Frostschicht auf deinen Fingern bildet...",
                 "text": "<rev> Führe eine <willpower>-Probe (4) durch. Falls die Probe misslingt, bringe <name> in deiner Bedrohungszone ins Spiel.\nDu kannst keine <action>-, <free>- oder <reaction>-Fähigkeiten auf Vorteilskarten auslösen, die mindestens 1 Handslot benötigen.\n<reaction> Sobald dein Zug endet: Lege <name> ab.",
@@ -3722,7 +3556,7 @@
         },
         "f31bdae6-cb5a-4891-ab9b-36374c6b189d": {
             "name": "Das Gefolge der Prinzessin",
-            "project_number": 200,
+            "project_number": 267,
             "front": {
                 "flavor_text": "Ein junges Mädchen treibt an der Wasseroberfläche, umgeben von einer Schar wunderschön bunter Fische...",
                 "text": "Wagnis.\n<rev> Lies das <b>Szenario-Zwischenspiel:<br> Die Maid aus der Tiefe</b> im Kampagnenleit-<br>faden.",
@@ -3733,7 +3567,6 @@
         },
         "f3cf83e4-8a00-4c8f-94b1-ff16c163cbb0": {
             "name": "Der ewige Krieg",
-            "project_number": 66,
             "front": {
                 "chaos_extra": "Rally-Deck",
                 "difficulty": "LEICHT/NORMAL",
@@ -3859,27 +3692,25 @@
         },
         "f6b14249-623c-4169-ab81-2f881206495b": {
             "name": "<unique>Koi-Prinzessin",
-            "project_number": 268,
+            "project_number": 260,
             "front": {
                 "flavor_text": "Die schillernden Schuppen auf dem leblosen Körper der Meerjungfrau schimmern im fahlen Mondlicht...",
                 "subtitle": "Wässriges Grab",
                 "text": "<b>Opfer</b> -- Jeder Ermittler muss 1 direkten Horror nehmen.",
                 "traits": "Humanoid. Elite. Tiefes Wesen."
-            }
+            },
+            "encounter_number": "2"
         },
         "f81561b4-a73c-407f-a29a-f9e02d0043d8": {
             "name": "Erinnerungen an Mayu",
-            "project_number": 192,
             "front": {
                 "flavor_text": "Sie war jung, unschuldig und schön...<br>und jetzt ist sie nicht mehr da.",
                 "text": "<rev> Führe eine <willpower>-Probe (3) durch. Falls die Probe misslingt, musst du entweder 1 Verderben auf die aktuelle Agenda platzieren oder 1 direkten Schaden nehmen.",
                 "traits": "Wahnsinn."
-            },
-            "encounter_number": "1-4"
+            }
         },
         "f944d082-bdf9-4b0e-b7b8-5d462d41e419": {
             "name": "Mondriss",
-            "project_number": 252,
             "front": {
                 "flavor_text": "Das seltsame Licht, das vom blutbefleckten Mond reflektiert wird, raubt dir die Orientierung...",
                 "text": "<rev> Lege die obersten 5 Karten deines Decks ab. Falls dadurch Schwächen abgelegt werden, ziehe diese. Dann, falls durch diesen Effekt keine Schwäche gezogen wurde, führe eine <willpower>-Probe (3) durch. Falls die Probe misslingt, musst du entweder 1 direkten Horror nehmen oder eine <t>Aspekt</t>-Vorteilskarte, die du kontrollierst, erschöpfen."
@@ -3905,7 +3736,7 @@
         },
         "faed2629-6256-4068-8150-2176b854091a": {
             "name": "Abtrünniger Ronin",
-            "project_number": 262,
+            "project_number": 243,
             "front": {
                 "flavor_text": "Viele Schwertkämpfer, die ihre Lehnsherren während der Belagerung von Onigawa nicht beschützen konnten, hofften, im Dienst eines neuen Herrn Wiedergutmachung zu finden.",
                 "text": "Zurückschlagen.\n<b>Opfer --</b> Bringe <name> an dem Ort des Ermittlers mit der geringsten verbliebenen Ausdauer ins Spiel.",
@@ -3915,7 +3746,7 @@
         },
         "fc6531d9-eeba-4720-8e4a-c3e6d752ffb4": {
             "name": "Fokussierende Blende",
-            "project_number": 246,
+            "project_number": 162,
             "front": {
                 "flavor_text": "Der Halbgott Izanagi opferte seine Augen, um Sonne und Mond zu erschaffen, als seine Gemahlin Izanami in die Unterwelt verschwand. Nur wenige wissen, dass sie ihm diese Tat mit gleicher Münze heimzahlte...",
                 "subtitle": "Auge von Izanami",
@@ -3926,18 +3757,17 @@
             "back": {
                 "flavor_text": "Man nimmt an, dass das Feuer erstmals in dieses Land gelangte, als der Wächter Tsurugi, der eine Flamme zum Härten seiner Klinge benötigte, sein Großschwert in den unberührten Boden stieß und damit den Berg Kokoro aus der Landschaft schnitt...",
                 "traits": "Vulkan. Vergessen."
-            }
+            },
+            "encounter_number": "7"
         },
         "fcc0a495-98e9-43c9-819f-57c6eb45a236": {
             "name": "<unique>Mayu Tachibana",
-            "project_number": "293",
             "front": {
                 "flavor_text": "Das junge Mädchen windet sich vor Schmerzen auf dem Boden und zittert am ganzen Körper, während sie sich den Hals festhält...",
                 "subtitle": "<size 50> Eine vermisste Zwillingsschwester?",
                 "text": "<for> Falls Mayu Tachibana besiegt wird: (<resolution><b>A1</b>)",
                 "traits": "Miskatonic. Student."
-            },
-            "enumerated": "manual"
+            }
         },
         "fd298832-9b3d-4853-bf97-d02fbb175a1a": {
             "name": "Exodus-Pagode",
@@ -3955,13 +3785,11 @@
         },
         "fe5c7f03-07d4-42f8-94f3-207552cecd8d": {
             "name": "Makabre Lotterie",
-            "project_number": 172,
             "front": {
                 "flavor_text": "Viele der unschuldigen Seelen, die als Tribut für Moloch ausgewählt wurden, wurden zufällig und ohne Mitgefühl ausgewählt...",
                 "text": "<rev> Enthülle nacheinander zufällig Marker aus dem Chaosbeutel, bis ein Nicht-<elder_sign>- oder Nicht-<auto_fail>-Marker enthüllt wird. Füge dem Chaosbeutel dann X<curse>-Marker hinzu, wobei X der Modifikator des enthüllten Markers ist <i>(+/– wird hierbei ignoriert)</i>.",
                 "traits": "Bündnis."
-            },
-            "encounter_number": "20-22"
+            }
         },
         "fe9a2301-719d-46c8-a738-72414a1ba15c": {
             "name": "Überwuchertes Grab",
@@ -3980,7 +3808,7 @@
         },
         "ffa146e1-582c-4f06-b11f-f607084def7e": {
             "name": "Jadegrüner Kavalier",
-            "project_number": 221,
+            "project_number": 253,
             "front": {
                 "flavor_text": "Die schnelle Hinrichtung des Jadegrünen Kavaliers während der Belagerung veranlasste viele Soldaten, die Vorgehensweise ihrer Befehlshaber in Frage zu stellen.<br>",
                 "subtitle": "Märtyrer von Onigawa",
@@ -3991,47 +3819,31 @@
             "encounter_number": "11"
         },
         "ffb91090-a661-473b-927b-22b761ee65e5": {
-            "project_number": 178,
             "front": {
                 "flavor_text": "Er hat dich die ganze Zeit beobachtet, aber...",
                 "subtitle": "Der Spionagechef – entlarvt",
                 "text": "<spawn> Zerbrochenes Felsenriff.\nJede Kopie von Krähenschwarm erhält +1 Kampf, +1 Entkommen und +1 Ausdauer. <i>(Dieser Effekt ist auch aktiv, wenn sich Yatagarasu im Opferbereich befindet.)</i>\n<b>Opfer --</b> Durchsuche das Begegnungsdeck und den Begegnungs-<br>Ablagestapel nach einer Kopie von Krähenschwarm pro <per_large> und bringe sie ins Spiel.\n<b>Rache --</b> Mische Yatagarasu in das Opferdeck zurück anstatt ihn abzulegen.",
                 "traits": "Avatar. Elite. Aspekt."
-            },
-            "encounter_number": "34"
+            }
         },
         "ffe2ea5f-f63c-428c-95bc-482186f6547b": {
             "name": "Nobunagas Ehrgeiz",
-            "project_number": 173,
             "front": {
                 "flavor_text": "Oda Nobunaga war ein mächtiger Daimyō, dessen militärisches Können so gefürchtet war, dass seine Zeitgenossen schließlich glaubten, er werde von einer Art bösartiger übernatürlicher Kraft unterstützt...",
                 "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel, falls noch keine Kopie in dieser Zone liegt. (Falls bereits eine Karte dort liegt, lege <name> ab und sie erhält stattdessen Nachrüsten.)\n<for> Nachdem dir eine Probe misslingt: Nimm insgesamt X Schaden und/oder Horror, wobei X die Anzahl an <curse>-Markern ist, die während der Probe abgehandelt wurden.",
                 "traits": "Macht."
-            },
-            "encounter_number": "23-25"
+            }
         }
     },
     "encounter_sets": {
         "07af3e19-1cdc-4299-a081-f5d9c240e5eb": {
-            "name": "Szenario VII: Die geschmolzene Waffenkammer",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 30,
-            "order": 7
+            "name": "Szenario VII: Die geschmolzene Waffenkammer"
         },
         "0cd539bd-6331-411e-966c-e0457e69abcd": {
-            "name": "Klammer Kummer",
-            "card_amount": 10,
-            "order": 27
+            "name": "Klammer Kummer"
         },
         "1446ab7b-f63b-4df9-8ea2-5495496365e9": {
-            "name": "Herde des Hirten",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 20,
-            "order": 22
+            "name": "Herde des Hirten"
         },
         "196125a5-3d26-48ae-9eaf-b57e0b883196": {
             "name": "Szenario IV: Der ewige Krieg",
@@ -4114,61 +3926,29 @@
                         "show_arrows": true,
                         "snap_enabled": false
                     }
-                ],
-                "tts": {}
-            },
-            "order": 4
+                ]
+            }
         },
         "1b2b4978-17a9-4920-8a67-409629978ecd": {
-            "name": "Szenario VI: Das Ende des Augusts",
-            "card_amount": 35,
-            "order": 6
+            "name": "Szenario VI: Das Ende des Augusts"
         },
         "2124ecd8-99d7-49ee-afce-9e303bf1f3a2": {
-            "name": "Besessener Blutmond",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 4,
-            "order": 20
+            "name": "Besessener Blutmond"
         },
         "292f9460-0ecc-45bc-8b2f-a1800d633769": {
-            "name": "Abstoßende Abscheulichkeiten",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 12,
-            "order": 11
+            "name": "Abstoßende Abscheulichkeiten"
         },
         "32772015-9d7a-4ce4-affe-3e8c1151b62d": {
-            "name": "Erinnerungen an Mayu",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 5,
-            "order": 29
+            "name": "Erinnerungen an Mayu"
         },
         "4451252e-ee64-4f85-b084-8b805d894660": {
-            "name": "Düstere Doktrinen",
-            "meta": {
-                "tts": {}
-            },
-            "order": 13
+            "name": "Düstere Doktrinen"
         },
         "4d9b7d52-8bdc-4ce6-a6ee-96608f93c306": {
-            "name": "Ungeschenkte Geschenke",
-            "meta": {
-                "tts": {}
-            },
-            "order": 32
+            "name": "Ungeschenkte Geschenke"
         },
         "4dbbf3e6-90af-44d2-ae86-54d33b3fe059": {
-            "name": "Feurige Fügung",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 15,
-            "order": 8
+            "name": "Feurige Fügung"
         },
         "4f485ace-5d62-4c3e-905b-194d814443b1": {
             "name": "Szenario V: Halbdunkel",
@@ -4258,69 +4038,31 @@
                         "snap_enabled": false
                     }
                 ]
-            },
-            "card_amount": 42,
-            "order": 5
+            }
         },
         "5db3d9c8-9382-44c6-a132-31a64709f1dd": {
-            "name": "Mondschein-Manie",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 7,
-            "order": 21
+            "name": "Mondschein-Manie"
         },
         "67140c14-dbf6-4ba0-819c-c259a8816c49": {
-            "name": "Winde des Winters",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 5,
-            "order": 28
+            "name": "Winde des Winters"
         },
         "7ca3acea-fdaf-464e-8f37-694b3b94fc90": {
-            "name": "Brunnabwärts",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 4,
-            "order": 14
+            "name": "Brunnabwärts"
         },
         "82e7a0d3-b552-450a-954b-0ca2d6c505e4": {
-            "name": "Geisterhafter Groll",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 3,
-            "order": 18
+            "name": "Geisterhafter Groll"
         },
         "8e627222-336f-4147-be8d-26467016ab45": {
-            "name": "In Flammen geschmiedet",
-            "meta": {
-                "tts": {}
-            },
-            "order": 17
+            "name": "In Flammen geschmiedet"
         },
         "8eea5ad2-971a-4cf9-bba5-04717966b447": {
-            "name": "Behändes Böses",
-            "card_amount": 8,
-            "order": 19
+            "name": "Behändes Böses"
         },
         "9a753fcd-4dfa-48f4-9933-0d3e686ad2dd": {
-            "name": "Schlummernde Schlangen",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 9,
-            "order": 24
+            "name": "Schlummernde Schlangen"
         },
         "9ab16e64-12db-4780-a632-56f71abcc53d": {
-            "name": "Szenario III: Das Flussdelta",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 22,
-            "order": 3
+            "name": "Szenario III: Das Flussdelta"
         },
         "9ef16d54-081f-4d28-8caf-e31da585efb1": {
             "name": "Szenario I: Das verborgene Dorf",
@@ -4410,21 +4152,13 @@
                         "snap_enabled": false
                     }
                 ]
-            },
-            "order": 1
+            }
         },
         "9f69068d-7bb0-4721-bbf4-987e49e00189": {
-            "name": "Belagerung von Onigawa",
-            "card_amount": 15,
-            "order": 23
+            "name": "Belagerung von Onigawa"
         },
         "ab1646e6-575e-430a-b26a-1a66ac40e727": {
-            "name": "Erinnerungen an Miyu",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 4,
-            "order": 30
+            "name": "Erinnerungen an Miyu"
         },
         "addb2692-6e09-407b-bbd7-0f707cfed118": {
             "name": "Wächter von Minakami",
@@ -4440,36 +4174,20 @@
                         "show_arrows": true,
                         "snap_enabled": false
                     }
-                ],
-                "tts": {}
-            },
-            "order": 33
+                ]
+            }
         },
         "b148ed1e-7af7-43b9-a6af-6eb2132fccbd": {
-            "name": "Grausame Gezeiten",
-            "card_amount": 10,
-            "order": 26
+            "name": "Grausame Gezeiten"
         },
         "b9245037-28ef-4862-8c63-db91684ab522": {
-            "name": "Fürchterlicher Forst",
-            "card_amount": 16,
-            "order": 16
+            "name": "Fürchterlicher Forst"
         },
         "c0cb9906-a8fb-46ab-8831-2f69e4c13291": {
-            "name": "Schaurige Schwaden",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 10,
-            "order": 15
+            "name": "Schaurige Schwaden"
         },
         "c46862ed-ba89-4557-adfb-c9d7e4596582": {
-            "name": "Finsteres Herrenhaus",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 9,
-            "order": 12
+            "name": "Finsteres Herrenhaus"
         },
         "c9caaee7-3f91-461f-89e5-4996afe9e42a": {
             "name": "Rückkehr zu Wächter von Minakami",
@@ -4478,9 +4196,7 @@
             }
         },
         "caac83c5-2469-4f8d-8806-3090b1c263e8": {
-            "name": "Szenario VIII: Die schwarze Ernte",
-            "card_amount": 38,
-            "order": 9
+            "name": "Szenario VIII: Die schwarze Ernte"
         },
         "d2d065e4-80a5-4c26-93c1-6d4d507e9e2a": {
             "name": "Versunkenes Königreich",
@@ -4496,22 +4212,14 @@
                         "show_arrows": true,
                         "snap_enabled": false
                     }
-                ],
-                "tts": {}
-            },
-            "order": 25
+                ]
+            }
         },
         "d3417fd3-e4fe-4e38-ab55-302b7ab38ee9": {
-            "name": "Kaltherzige Krähen",
-            "meta": {
-                "tts": {}
-            },
-            "card_amount": 4,
-            "order": 10
+            "name": "Kaltherzige Krähen"
         },
         "d486f6db-3b30-4ab8-b57c-4351482025c9": {
-            "name": "Astrale Ausrüstung",
-            "order": 31
+            "name": "Astrale Ausrüstung"
         },
         "d8a0a331-ba19-4137-a79d-7aa938c77a3d": {
             "name": "Szenario II: Das Haus auf dem Hügel",
@@ -4570,11 +4278,8 @@
                         "show_arrows": true,
                         "snap_enabled": false
                     }
-                ],
-                "tts": {}
-            },
-            "card_amount": 34,
-            "order": 2
+                ]
+            }
         }
     },
     "guides": {
