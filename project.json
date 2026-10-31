@@ -26,19 +26,19 @@
                 },
                 "entries": [
                     {
-                        "text": "\u2013X. X is the number of the current act.",
+                        "text": "–X. X is the number of the current act.",
                         "token": "skull"
                     },
                     {
-                        "text": "\u20131. Reveal another token.",
+                        "text": "–1. Reveal another token.",
                         "token": "cultist"
                     },
                     {
-                        "text": "\u20132. If you fail, add a <curse> token to the chaos bag.",
+                        "text": "–2. If you fail, add a <curse> token to the chaos bag.",
                         "token": "tablet"
                     },
                     {
-                        "text": "\u20133. If you fail, place one of your clues on your current location.",
+                        "text": "–3. If you fail, place one of your clues on your current location.",
                         "token": "elder_thing"
                     }
                 ],
@@ -61,19 +61,19 @@
                 "difficulty": "Hard/Expert",
                 "entries": [
                     {
-                        "text": "\u2013X. X is the number of the current agenda.",
+                        "text": "–X. X is the number of the current agenda.",
                         "token": "skull"
                     },
                     {
-                        "text": "\u20132. Reveal another token.",
+                        "text": "–2. Reveal another token.",
                         "token": "cultist"
                     },
                     {
-                        "text": "\u20133. Add a <curse> token to the chaos bag.",
+                        "text": "–3. Add a <curse> token to the chaos bag.",
                         "token": "tablet"
                     },
                     {
-                        "text": "\u20134. If you fail, place one of your clues on your current location.",
+                        "text": "–4. If you fail, place one of your clues on your current location.",
                         "token": "elder_thing"
                     }
                 ],
@@ -384,10 +384,10 @@
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "flavor_text": "A solemn expanse of tall trees, shrubbery, \nand stonework beckons you deeper into the woods.",
-                "illustration": "./images/creepy-forest-painting-24.jpg",
-                "illustration_pan_x": -359.0,
-                "illustration_pan_y": 217.0,
-                "illustration_scale": 0.711,
+                "illustration": "./images/creepy-forest-painting-24_2.jpg",
+                "illustration_pan_x": -46.0,
+                "illustration_pan_y": 211.0,
+                "illustration_scale": 1.934,
                 "illustrator": "Illus. Claudia Prommegger",
                 "text": "",
                 "traits": "Woods.",
@@ -424,10 +424,10 @@
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "flavor_text": "A solemn expanse of tall trees, shrubbery, \nand stonework beckons you deeper into the woods.",
-                "illustration": "./images/creepy-forest-painting-24.jpg",
-                "illustration_pan_x": -359.0,
-                "illustration_pan_y": 217.0,
-                "illustration_scale": 0.711,
+                "illustration": "./images/creepy-forest-painting-24_2.jpg",
+                "illustration_pan_x": -46.0,
+                "illustration_pan_y": 211.0,
+                "illustration_scale": 1.934,
                 "illustrator": "Illus. Claudia Prommegger",
                 "text": "",
                 "traits": "Woods.",
@@ -469,10 +469,10 @@
                     "star"
                 ],
                 "flavor_text": "A solemn expanse of tall trees, shrubbery, \nand stonework beckons you deeper into the woods.",
-                "illustration": "./images/creepy-forest-painting-24.jpg",
-                "illustration_pan_x": -359.0,
-                "illustration_pan_y": 217.0,
-                "illustration_scale": 0.711,
+                "illustration": "./images/creepy-forest-painting-24_2.jpg",
+                "illustration_pan_x": -46.0,
+                "illustration_pan_y": 211.0,
+                "illustration_scale": 1.934,
                 "illustrator": "Illus. Claudia Prommegger",
                 "text": "",
                 "traits": "Woods.",
@@ -514,10 +514,10 @@
                     "moon"
                 ],
                 "flavor_text": "A solemn expanse of tall trees, shrubbery, \nand stonework beckons you deeper into the woods.",
-                "illustration": "./images/creepy-forest-painting-24.jpg",
-                "illustration_pan_x": -359.0,
-                "illustration_pan_y": 217.0,
-                "illustration_scale": 0.711,
+                "illustration": "./images/creepy-forest-painting-24_2.jpg",
+                "illustration_pan_x": -46.0,
+                "illustration_pan_y": 211.0,
+                "illustration_scale": 1.934,
                 "illustrator": "Illus. Claudia Prommegger",
                 "text": "",
                 "traits": "Woods.",
@@ -554,10 +554,10 @@
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "flavor_text": "A solemn expanse of tall trees, shrubbery, \nand stonework beckons you deeper into the woods.",
-                "illustration": "./images/creepy-forest-painting-24.jpg",
-                "illustration_pan_x": -359.0,
-                "illustration_pan_y": 217.0,
-                "illustration_scale": 0.711,
+                "illustration": "./images/creepy-forest-painting-24_2.jpg",
+                "illustration_pan_x": -46.0,
+                "illustration_pan_y": 211.0,
+                "illustration_scale": 1.934,
                 "illustrator": "Illus. Claudia Prommegger",
                 "text": "",
                 "traits": "Woods.",
@@ -768,7 +768,7 @@
                 "illustration_scale": 1.326,
                 "illustrator": "Illus. Tecmo",
                 "subtitle": "Lighting the Way",
-                "text": "Aloof. Protected. \n<name>'s location gets \u20131 shroud.\n<action>: <b>Parley.</b> <i>Chase the butterfly.</i> Test <combat> or <agility> (X), where X is your current location's shroud value. As an additional cost to activate this ability, you may spend a clue to reduce this test's difficulty by 1 for each investigator at <name>'s location.\nIf you succeed, move <name> to a connecting <t>Woods</t> location. Then, if that location is unrevealed, reveal it.",
+                "text": "Aloof. Protected. \n<name>'s location gets –1 shroud.\n<action>: <b>Parley.</b> <i>Chase the butterfly.</i> Test <combat> or <agility> (X), where X is your current location's shroud value. As an additional cost to activate this ability, you may spend a clue to reduce this test's difficulty by 1 for each investigator at <name>'s location.\nIf you succeed, move <name> to a connecting <t>Woods</t> location. Then, if that location is unrevealed, reveal it.",
                 "title": "<unique><name>",
                 "traits": "Creature. Elite. Spectral.",
                 "type": "enemy"
@@ -827,19 +827,19 @@
                 },
                 "entries": [
                     {
-                        "text": "\u20131. If you fail, take 1 horror. ",
+                        "text": "–1. If you fail, take 1 horror. ",
                         "token": "skull"
                     },
                     {
-                        "text": "\u20132. If you fail, add a <curse> token to the chaos bag. ",
+                        "text": "–2. If you fail, add a <curse> token to the chaos bag. ",
                         "token": "cultist"
                     },
                     {
-                        "text": "\u20132. If you fail, place a clue on your location <i>(from the token pool).</i>",
+                        "text": "–2. If you fail, place a clue on your location <i>(from the token pool).</i>",
                         "token": "tablet"
                     },
                     {
-                        "text": "\u20133. If you fail, discard a non-weakness card from your hand.",
+                        "text": "–3. If you fail, discard a non-weakness card from your hand.",
                         "token": "elder_thing"
                     }
                 ],
@@ -862,19 +862,19 @@
                 "difficulty": "Hard/Expert",
                 "entries": [
                     {
-                        "text": "\u2013X. X is number of the current act. If you fail, take 1 horror.",
+                        "text": "–X. X is number of the current act. If you fail, take 1 horror.",
                         "token": "skull"
                     },
                     {
-                        "text": "\u20132. After this test ends, add a <curse> token to the chaos bag.",
+                        "text": "–2. After this test ends, add a <curse> token to the chaos bag.",
                         "token": "cultist"
                     },
                     {
-                        "text": "\u20133. If you fail, place a clue on your location <i>(from the token pool).</i>",
+                        "text": "–3. If you fail, place a clue on your location <i>(from the token pool).</i>",
                         "token": "tablet"
                     },
                     {
-                        "text": "\u20134. After this test ends, discard a random non-weakness card from your hand.",
+                        "text": "–4. After this test ends, discard a random non-weakness card from your hand.",
                         "token": "elder_thing"
                     }
                 ],
@@ -1239,7 +1239,7 @@
                     "t"
                 ],
                 "flavor_text": "The blight seeping into the soil \nhas spoiled many a harvest here.",
-                "illustration": "./images/HD-wallpaper-anime-scenery-art-japanese-sunset-sky-rice-japan-fantasy-fields-orginal-scenery.jpg",
+                "illustration": "./images/HD-wallpaper-anime-scenery-art-japanese-sunset-sky-rice-japan-fantasy-fields-orginal-scenery_2.jpg",
                 "illustration_pan_x": -426.0,
                 "illustration_pan_y": -6.0,
                 "illustration_scale": 1.334,
@@ -1253,7 +1253,7 @@
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "flavor_text": "At the edge of the village, fields of rice paddies \nbask in the scattered remnants of the dying light.",
-                "illustration": "./images/HD-wallpaper-anime-scenery-art-japanese-sunset-sky-rice-japan-fantasy-fields-orginal-scenery.jpg",
+                "illustration": "./images/HD-wallpaper-anime-scenery-art-japanese-sunset-sky-rice-japan-fantasy-fields-orginal-scenery_2.jpg",
                 "illustration_pan_x": -426.0,
                 "illustration_pan_y": -6.0,
                 "illustration_scale": 1.334,
@@ -1276,10 +1276,10 @@
                     "t"
                 ],
                 "flavor_text": "",
-                "illustration": "./images/wishing-well-moon-silhouette-concept-image-showing-old-grassy-hill-night-front-full-starry-background-d-165646594.jpg",
-                "illustration_pan_x": 6.0,
-                "illustration_pan_y": -749.0,
-                "illustration_scale": 0.946,
+                "illustration": "./images/wishing-well-moon-silhouette-concept-image-showing-old-grassy-hill-night-front-full-starry-background-d-165646594_2.jpg",
+                "illustration_pan_x": 2.0,
+                "illustration_pan_y": -773.0,
+                "illustration_scale": 2.382,
                 "illustrator": "Illus. Unknown",
                 "shroud": "2",
                 "text": "<for> When Wishing Well is revealed: Shuffle the set-aside <i>Downwell</i> encounter set and put it into play face down, attached to <name>, as a separate well deck. \n<free>: <i>Make a wish.</i> Draw a random card from the attached well deck. <i>(Limit once per game.)</i>",
@@ -1313,10 +1313,10 @@
                 "cost": "3",
                 "flavor_text": "This ornamental mask was once worn by a royal retainer to conceal his trysts with a low-born attendant.",
                 "icons": "WA",
-                "illustration": "./images/mask-extend.png",
+                "illustration": "./images/mask-extend_2.png",
                 "illustration_pan_x": 115.0,
-                "illustration_pan_y": 140.0,
-                "illustration_scale": 3.719,
+                "illustration_pan_y": -149.0,
+                "illustration_scale": 1.86,
                 "illustrator": "Illus. Disse86",
                 "level": "None",
                 "slots": [
@@ -1412,10 +1412,10 @@
                 "flavor_text": "\"There is no calamity greater than lavish desires.\" \n---Lao Tzu",
                 "health": "2",
                 "horror": 0,
-                "illustration": "./images/mimeto_by_manzanedo_dcfvv9z-fullview.jpg",
-                "illustration_pan_x": -11.0,
-                "illustration_pan_y": 1036.0,
-                "illustration_scale": 0.726,
+                "illustration": "./images/mimeto_by_manzanedo_dcfvv9z-fullview_2.jpg",
+                "illustration_pan_x": -57.0,
+                "illustration_pan_y": 988.0,
+                "illustration_scale": 1.693,
                 "illustrator": "Illus. Manzanedo",
                 "text": "Ambush. \n<b>Revenge</b> -- Draw a card. <i>(After you defeat this enemy, you must immediately resolve its revenge effect, if able.)</i>",
                 "traits": "Monster. Yokai.",
@@ -1467,10 +1467,10 @@
                 "flavor_text": "For some reason, your thoughts turn to \nthe shambling corpse of the fallen warrior \nwho chased you through the woods...",
                 "health": "3<per>",
                 "horror": 1,
-                "illustration": "./images/onisamurai.png",
-                "illustration_pan_x": -125.0,
-                "illustration_pan_y": 763.0,
-                "illustration_scale": 4.948,
+                "illustration": "./images/onisamurai_2.png",
+                "illustration_pan_x": -283.0,
+                "illustration_pan_y": 817.0,
+                "illustration_scale": 1.685,
                 "illustrator": "Illus. Mist XG",
                 "subtitle": "Arachnid Mannequin",
                 "text": "Retaliate. \n<b>Advantage</b> -- Discard the top card of your deck. If it is a weakness, draw it. <i>(Resolve this enemy's advantage effect whenever it becomes engaged with you.) </i>",
@@ -1514,19 +1514,19 @@
             "front": {
                 "entries": [
                     {
-                        "text": "\u2013X. X is the number of the current agenda.",
+                        "text": "–X. X is the number of the current agenda.",
                         "token": "skull"
                     },
                     {
-                        "text": "\u20131. If you fail, add 1 <curse> token to the chaos bag.",
+                        "text": "–1. If you fail, add 1 <curse> token to the chaos bag.",
                         "token": "cultist"
                     },
                     {
-                        "text": "\u20133. (\u20132 instead if you control a ready <t>Aspect</t> story asset.)",
+                        "text": "–3. (–2 instead if you control a ready <t>Aspect</t> story asset.)",
                         "token": "tablet"
                     },
                     {
-                        "text": "\u20133. If you fail, exhaust The Tyrian Galley.",
+                        "text": "–3. If you fail, exhaust The Tyrian Galley.",
                         "token": "elder_thing"
                     }
                 ],
@@ -1536,19 +1536,19 @@
                 "difficulty": "Hard/Expert",
                 "entries": [
                     {
-                        "text": "\u2013X. X is the number of the current agenda.",
+                        "text": "–X. X is the number of the current agenda.",
                         "token": "skull"
                     },
                     {
-                        "text": "\u20132. If you fail, add 1 <curse> token to the chaos bag.",
+                        "text": "–2. If you fail, add 1 <curse> token to the chaos bag.",
                         "token": "cultist"
                     },
                     {
-                        "text": "\u20134. (\u20133 instead if you control a ready <t>Aspect</t> story asset.)",
+                        "text": "–4. (–3 instead if you control a ready <t>Aspect</t> story asset.)",
                         "token": "tablet"
                     },
                     {
-                        "text": "\u20134. If you fail, exhaust The Tyrian Galley.",
+                        "text": "–4. If you fail, exhaust The Tyrian Galley.",
                         "token": "elder_thing"
                     }
                 ],
@@ -2203,19 +2203,19 @@
                 },
                 "entries": [
                     {
-                        "text": "\u20131. If you fail, take 1 damage.",
+                        "text": "–1. If you fail, take 1 damage.",
                         "token": "skull"
                     },
                     {
-                        "text": "\u20132. If you fail, you must either add 1 <curse> token to the chaos bag or lose an action.",
+                        "text": "–2. If you fail, you must either add 1 <curse> token to the chaos bag or lose an action.",
                         "token": "cultist"
                     },
                     {
-                        "text": "\u20133. If you fail, you must either exhaust an <t>Aspect</t> story asset you control or take 1 horror.",
+                        "text": "–3. If you fail, you must either exhaust an <t>Aspect</t> story asset you control or take 1 horror.",
                         "token": "tablet"
                     },
                     {
-                        "text": "\u20134. If you fail, put the top card of the rally deck into play and resolve its revelation effect.",
+                        "text": "–4. If you fail, put the top card of the rally deck into play and resolve its revelation effect.",
                         "token": "elder_thing"
                     }
                 ],
@@ -2242,15 +2242,15 @@
                         "token": "skull"
                     },
                     {
-                        "text": "\u20133. After this test ends, you must either add 1 <curse> token to the chaos bag or lose an action.",
+                        "text": "–3. After this test ends, you must either add 1 <curse> token to the chaos bag or lose an action.",
                         "token": "cultist"
                     },
                     {
-                        "text": "\u20134. If you control an exhausted <t>Aspect</t> story asset, this test automatically fails.",
+                        "text": "–4. If you control an exhausted <t>Aspect</t> story asset, this test automatically fails.",
                         "token": "tablet"
                     },
                     {
-                        "text": "\u20134. After this test ends, put the top card of the rally deck into play and resolve its revelation effect.",
+                        "text": "–4. After this test ends, put the top card of the rally deck into play and resolve its revelation effect.",
                         "token": "elder_thing"
                     }
                 ],
@@ -2493,10 +2493,10 @@
                     "moon"
                 ],
                 "flavor_text": "The old gates are held shut by an elaborate mechanism, effectively sealing the city away from the world.",
-                "illustration": "./images/10041659643_699b59aed1_b.jpg",
-                "illustration_pan_x": -116.0,
-                "illustration_pan_y": -701.0,
-                "illustration_scale": 2.306,
+                "illustration": "./images/10041659643_699b59aed1_b_2.jpg",
+                "illustration_pan_x": -44.0,
+                "illustration_pan_y": -545.0,
+                "illustration_scale": 1.977,
                 "illustrator": "Illus. Tecmo",
                 "shroud": "3",
                 "text": "<action><action>: <i>Manual override.</i> Test <combat> (5). Reduce the difficulty of this test by 1 for each clue controlled by an investigator at <name> <i>(to a minimum of 1).</i> If you succeed, advance the act. <i>(Group limit one success per game.)</i>",
@@ -2870,11 +2870,11 @@
                     "neutral"
                 ],
                 "flavor_text": "A translucent, ruby dome surrounds the creature, \nalighting the environment and repelling enemies.",
-                "illustration": "./images/2425da98c57c73dcea6e0bb3e1e951f9.jpg",
+                "illustration": "./images/2425da98c57c73dcea6e0bb3e1e951f9_2.jpg",
                 "illustration_mirror": true,
-                "illustration_pan_x": -1621.0,
-                "illustration_pan_y": -1661.0,
-                "illustration_scale": 1.776,
+                "illustration_pan_x": -1675.0,
+                "illustration_pan_y": -1630.0,
+                "illustration_scale": 4.472,
                 "illustrator": "Illus. Tecmo",
                 "level": "None",
                 "subtitle": "Blinding Beacon",
@@ -2896,19 +2896,19 @@
             "front": {
                 "entries": [
                     {
-                        "text": "\u2013X. X is the number of the current agenda.",
+                        "text": "–X. X is the number of the current agenda.",
                         "token": "skull"
                     },
                     {
-                        "text": "\u20132. If you fail, add 1 <curse> token to the chaos bag.",
+                        "text": "–2. If you fail, add 1 <curse> token to the chaos bag.",
                         "token": "cultist"
                     },
                     {
-                        "text": "\u20133. If you fail, place 1 doom on the nearest <t>Elite</t> enemy.",
+                        "text": "–3. If you fail, place 1 doom on the nearest <t>Elite</t> enemy.",
                         "token": "tablet"
                     },
                     {
-                        "text": "\u20134. If you fail, exhaust an <t>Aspect</t> asset you control.",
+                        "text": "–4. If you fail, exhaust an <t>Aspect</t> asset you control.",
                         "token": "elder_thing"
                     }
                 ],
@@ -2918,19 +2918,19 @@
                 "difficulty": "Hard/Expert",
                 "entries": [
                     {
-                        "text": "\u2013X. X is the number of the current act.",
+                        "text": "–X. X is the number of the current act.",
                         "token": "skull"
                     },
                     {
-                        "text": "\u20133. After this test ends, you must add 1 <curse> token to the chaos bag or take 1 horror.",
+                        "text": "–3. After this test ends, you must add 1 <curse> token to the chaos bag or take 1 horror.",
                         "token": "cultist"
                     },
                     {
-                        "text": "\u20134. After this test ends, place 1 doom on the nearest <t>Elite</t> enemy.",
+                        "text": "–4. After this test ends, place 1 doom on the nearest <t>Elite</t> enemy.",
                         "token": "tablet"
                     },
                     {
-                        "text": "\u20135. If you control an exhausted <t>Aspect</t> asset, this test automatically fails.",
+                        "text": "–5. If you control an exhausted <t>Aspect</t> asset, this test automatically fails.",
                         "token": "elder_thing"
                     }
                 ],
@@ -2983,10 +2983,10 @@
             "front": {
                 "doom": "7",
                 "flavor_text": "A hideous, barrelling monstrosity has begun to stalk you through the halls of the palace, and suddenly the mysterious handprints covering every surface start to make a little more sense...",
-                "illustration": "./images/countinghouse.jpg",
-                "illustration_pan_x": -114.0,
-                "illustration_pan_y": -168.0,
-                "illustration_scale": 1.142,
+                "illustration": "./images/countinghouse_2.jpg",
+                "illustration_pan_x": -230.0,
+                "illustration_pan_y": -343.0,
+                "illustration_scale": 2.465,
                 "illustrator": "Illus. Patschwork",
                 "index": "2a",
                 "text": "<for> When the enemy phase begins: Place 1 doom on The Offal Extremities.",
@@ -3650,9 +3650,10 @@
             "project_number": 107,
             "front": {
                 "flavor_text": "Hungry flames begin leaping from torches and lanterns, racing up into the rafters of the palace...",
-                "illustration": "./images/fire.png",
-                "illustration_pan_x": -22.0,
-                "illustration_pan_y": 6.0,
+                "illustration": "./images/fire_2.png",
+                "illustration_pan_x": -37.0,
+                "illustration_pan_y": 17.0,
+                "illustration_scale": 0.907,
                 "illustrator": "Illus. Mario Wibisono",
                 "text": "<rev> Test <agility> (3). If you fail, attach <name> to the nearest location without a copy of <name> attached. Limit 1 per location.\n<for> When the investigation phase begins: Each enemy and each investigator at the attached location takes 1 damage.",
                 "traits": "Hazard.",
@@ -3855,19 +3856,19 @@
                 },
                 "entries": [
                     {
-                        "text": "\u20131. Reveal another token.",
+                        "text": "–1. Reveal another token.",
                         "token": "skull"
                     },
                     {
-                        "text": "\u20132. If you fail, place 1 clue on the nearest <t>Witch</t> enemy <i>(from the token pool).</i>",
+                        "text": "–2. If you fail, place 1 clue on the nearest <t>Witch</t> enemy <i>(from the token pool).</i>",
                         "token": "cultist"
                     },
                     {
-                        "text": "\u20133. If you fail, add 1 <fro> token to the chaos bag.",
+                        "text": "–3. If you fail, add 1 <fro> token to the chaos bag.",
                         "token": "tablet"
                     },
                     {
-                        "text": "\u20134. If you fail, place 1 doom on the nearest <t>Serpent</t> enemy.",
+                        "text": "–4. If you fail, place 1 doom on the nearest <t>Serpent</t> enemy.",
                         "token": "elder_thing"
                     }
                 ],
@@ -3890,19 +3891,19 @@
                 "difficulty": "Hard/Expert",
                 "entries": [
                     {
-                        "text": "\u20131. Reveal another token.",
+                        "text": "–1. Reveal another token.",
                         "token": "skull"
                     },
                     {
-                        "text": "\u20133. If you fail, place 1 clue on the nearest <t>Witch</t> enemy <i>(from the token\u00a0pool)</i>.",
+                        "text": "–3. If you fail, place 1 clue on the nearest <t>Witch</t> enemy <i>(from the token pool)</i>.",
                         "token": "cultist"
                     },
                     {
-                        "text": "\u20134. If you fail, add 1 <fro> token to the chaos bag.",
+                        "text": "–4. If you fail, add 1 <fro> token to the chaos bag.",
                         "token": "tablet"
                     },
                     {
-                        "text": "\u20135. If you fail, place 1 doom on the nearest <t>Serpent</t> enemy.",
+                        "text": "–5. If you fail, place 1 doom on the nearest <t>Serpent</t> enemy.",
                         "token": "elder_thing"
                     }
                 ],
@@ -3924,7 +3925,7 @@
                 "illustration_scale": 1.849,
                 "illustrator": "Illus. Richard K.",
                 "index": "1a",
-                "text": "<i>(Reminder: <fro> tokens have the modifier </i>\"\u20131, reveal another token.<i>\" If two <fro> tokens are resolved during a single skill test, the test automatically fails and you do not reveal any more tokens for that test.)</i>",
+                "text": "<i>(Reminder: <fro> tokens have the modifier </i>\"–1, reveal another token.<i>\" If two <fro> tokens are resolved during a single skill test, the test automatically fails and you do not reveal any more tokens for that test.)</i>",
                 "type": "agenda"
             },
             "back": {
@@ -3948,7 +3949,7 @@
                 "illustration_pan_y": 0.0,
                 "illustrator": "Illus. Darenrin",
                 "index": "2a",
-                "text": "<i>(Reminder: <fro> tokens have the modifier </i>\"\u20131, reveal another token.<i>\" If two <fro> tokens are resolved during a single skill test, the test automatically fails and you do not reveal any more tokens for that test.)</i>",
+                "text": "<i>(Reminder: <fro> tokens have the modifier </i>\"–1, reveal another token.<i>\" If two <fro> tokens are resolved during a single skill test, the test automatically fails and you do not reveal any more tokens for that test.)</i>",
                 "type": "agenda"
             },
             "back": {
@@ -4088,16 +4089,12 @@
                 "type": "location"
             },
             "back": {
-                "name": "Mountain Pass",
+                "name": "Kokoro Approach",
                 "connection": "<copy>",
                 "connections": "<copy>",
                 "flavor_text": "A treacherous path cuts through the blinding snow, \nslowly guiding you towards the summit...",
-                "illustration": "./images/5d73a5e9ge151813b7735_690.jpg",
-                "illustration_pan_x": -420.0,
-                "illustration_pan_y": 180.0,
-                "illustration_scale": 1.596,
-                "illustrator": "Illus. G Liulian",
-                "text": "As an additional cost to enter Mountain Pass, investigators must spend 1 additional action for each clue on their current location.",
+                "illustration": "./images/surendra-rajawat-torriigate-web.jpg",
+                "illustrator": "Illus. Surendra Rajawat",
                 "traits": "Mountain.",
                 "type": "location_back"
             },
@@ -4549,10 +4546,10 @@
             "project_number": 133,
             "front": {
                 "flavor_text": "You shiver as the air grows \nnoticeably colder around you...",
-                "illustration": "./images/frostbite.png",
-                "illustration_pan_x": 129.0,
-                "illustration_pan_y": -39.0,
-                "illustration_scale": 2.22,
+                "illustration": "./images/frostbite_2.png",
+                "illustration_pan_x": 138.0,
+                "illustration_pan_y": -9.0,
+                "illustration_scale": 1.295,
                 "illustrator": "Illus. usuallyFunny",
                 "text": "<rev>  Reveal a random token from the chaos bag. If it is a <fail> or <fro> token, take 1 horror. Otherwise, you must add 1 <fro> token to the chaos bag. If you cannot, add 1 doom to the current agenda instead.",
                 "traits": "Hazard.",
@@ -4705,19 +4702,19 @@
             "front": {
                 "entries": [
                     {
-                        "text": "\u20131. If you fail, discard the top card of the encounter deck until an enemy is revealed and draw it.",
+                        "text": "–1. If you fail, discard the top card of the encounter deck until an enemy is revealed and draw it.",
                         "token": "skull"
                     },
                     {
-                        "text": "\u20132. If you fail, add 2 <curse> tokens to the chaos bag.",
+                        "text": "–2. If you fail, add 2 <curse> tokens to the chaos bag.",
                         "token": "cultist"
                     },
                     {
-                        "text": "\u20133 if you control an ready <t>Aspect</t> asset. Otherwise, \u20134.",
+                        "text": "–3 if you control an ready <t>Aspect</t> asset. Otherwise, –4.",
                         "token": "tablet"
                     },
                     {
-                        "text": "\u20134. If you fail, place 1 doom on the current agenda.",
+                        "text": "–4. If you fail, place 1 doom on the current agenda.",
                         "token": "elder_thing"
                     }
                 ],
@@ -4727,19 +4724,19 @@
                 "difficulty": "Hard/Expert",
                 "entries": [
                     {
-                        "text": "\u20132. If you fail, discard the top card of the encounter deck until an enemy is revealed and draw it.",
+                        "text": "–2. If you fail, discard the top card of the encounter deck until an enemy is revealed and draw it.",
                         "token": "skull"
                     },
                     {
-                        "text": "\u20133. After this test ends, add 2 <curse> tokens to the chaos bag.",
+                        "text": "–3. After this test ends, add 2 <curse> tokens to the chaos bag.",
                         "token": "cultist"
                     },
                     {
-                        "text": "\u20134. If you control an exhausted <t>Aspect</t> asset, this test automatically fails.",
+                        "text": "–4. If you control an exhausted <t>Aspect</t> asset, this test automatically fails.",
                         "token": "tablet"
                     },
                     {
-                        "text": "\u20134. After this test ends, place 1 doom on the current agenda.",
+                        "text": "–4. After this test ends, place 1 doom on the current agenda.",
                         "token": "elder_thing"
                     }
                 ],
@@ -5047,7 +5044,7 @@
                 "illustration_pan_y": -142.0,
                 "illustration_scale": 0.705,
                 "illustrator": "Illus. Mona Finden",
-                "text": "<rev> Test <agility> (3). If you fail, you must either discard a non-weakness asset from your hand or play area that takes up at least 1 hand slot or take 1 damage for every point you failed\u00a0by.",
+                "text": "<rev> Test <agility> (3). If you fail, you must either discard a non-weakness asset from your hand or play area that takes up at least 1 hand slot or take 1 damage for every point you failed by.",
                 "traits": "Injury.",
                 "type": "treachery"
             },
@@ -5205,7 +5202,7 @@
             "back": {
                 "name": "Out of Focus",
                 "index": "2b",
-                "text": "The flaming sphere tracks you as you circumnavigate the bowels of the cavern, its blistering gaze eternally unblinking. The heat intensifies as you draw nearer to it and for a moment you feel kinship with the river of tormented souls caught in its gravity well. It stares through you, silently judging you, and then...something inside your chest decompresses, like a rush of air escaping through a pinhole. The lens of the eye cracks, and then shatters like glass, sending its smoldering shards tumbling into the abyss below. The cavern rumbles, nearly throwing you from your precarious perch, and you barely manage to leap back to solid ground before the lava field cools and hardens into a charred glacier of bone and ash...\nFrom your vantage, you can barely catch a glimpse of the flaming portal at the apex of the volcano in time to watch its fiery barrier recede...and a dark figure emerge from the shadows beyond. A torrent of spirits seems to circle the grim weapon it carries, and you feel the ground sizzling beneath your\u00a0feet...\nEach investigator must draw a copy of the set-aside Boiling Point treachery and put it into play in their threat area.\nPut the set-aside Kurama Tengu <i>(The Molochean Hand)</i> into play at The Firebreak.\nCheck the Campaign Log and place X doom on Kurama Tengu, where X is the number of Champions of Onigawa laid to rest.\nShuffle the encounter discard pile into the encounter deck.\n\n\n",
+                "text": "The flaming sphere tracks you as you circumnavigate the bowels of the cavern, its blistering gaze eternally unblinking. The heat intensifies as you draw nearer to it and for a moment you feel kinship with the river of tormented souls caught in its gravity well. It stares through you, silently judging you, and then...something inside your chest decompresses, like a rush of air escaping through a pinhole. The lens of the eye cracks, and then shatters like glass, sending its smoldering shards tumbling into the abyss below. The cavern rumbles, nearly throwing you from your precarious perch, and you barely manage to leap back to solid ground before the lava field cools and hardens into a charred glacier of bone and ash...\nFrom your vantage, you can barely catch a glimpse of the flaming portal at the apex of the volcano in time to watch its fiery barrier recede...and a dark figure emerge from the shadows beyond. A torrent of spirits seems to circle the grim weapon it carries, and you feel the ground sizzling beneath your feet...\nEach investigator must draw a copy of the set-aside Boiling Point treachery and put it into play in their threat area.\nPut the set-aside Kurama Tengu <i>(The Molochean Hand)</i> into play at The Firebreak.\nCheck the Campaign Log and place X doom on Kurama Tengu, where X is the number of Champions of Onigawa laid to rest.\nShuffle the encounter discard pile into the encounter deck.\n\n\n",
                 "type": "act_back"
             },
             "encounter_number": "1",
@@ -5505,7 +5502,7 @@
             "encounter_set": "4dbbf3e6-90af-44d2-ae86-54d33b3fe059"
         },
         {
-            "name": "\u201cSensei\" Kanuti",
+            "name": "“Sensei\" Kanuti",
             "id": "bf57416d-05e1-4002-97f8-4efd49d3bf01",
             "project_number": 167,
             "front": {
@@ -5576,19 +5573,19 @@
                 },
                 "entries": [
                     {
-                        "text": "\u2013X. X is the number of the current agenda.",
+                        "text": "–X. X is the number of the current agenda.",
                         "token": "skull"
                     },
                     {
-                        "text": "\u20132. If you fail, add 1 <curse> token to the chaos bag.",
+                        "text": "–2. If you fail, add 1 <curse> token to the chaos bag.",
                         "token": "cultist"
                     },
                     {
-                        "text": "\u20133. If you fail, search the chaos bag for 1 <blessing> token and return it to the token pool. If you cannot, take 1 horror, instead.",
+                        "text": "–3. If you fail, search the chaos bag for 1 <blessing> token and return it to the token pool. If you cannot, take 1 horror, instead.",
                         "token": "tablet"
                     },
                     {
-                        "text": "\u20134. If you fail, perform a <b>Sacrifice</b>. ",
+                        "text": "–4. If you fail, perform a <b>Sacrifice</b>. ",
                         "token": "elder_thing"
                     }
                 ],
@@ -5611,25 +5608,25 @@
                 "difficulty": "Hard/Expert",
                 "entries": [
                     {
-                        "text": "\u2013X. X is the number of the current act.",
+                        "text": "–X. X is the number of the current act.",
                         "token": [
                             "skull"
                         ]
                     },
                     {
-                        "text": "\u20133. If you fail, add 1 <curse> token to the chaos bag.",
+                        "text": "–3. If you fail, add 1 <curse> token to the chaos bag.",
                         "token": [
                             "cultist"
                         ]
                     },
                     {
-                        "text": "\u20134. After this test ends, search the chaos bag for 1 <blessing> token and return it to the token pool. If you cannot, take 1 horror, instead.",
+                        "text": "–4. After this test ends, search the chaos bag for 1 <blessing> token and return it to the token pool. If you cannot, take 1 horror, instead.",
                         "token": [
                             "tablet"
                         ]
                     },
                     {
-                        "text": "\u20134. After this test ends, perform a <b>Sacrifice</b>.",
+                        "text": "–4. After this test ends, perform a <b>Sacrifice</b>.",
                         "token": [
                             "elder_thing"
                         ]
@@ -5887,10 +5884,10 @@
             "front": {
                 "clues": "1<per>",
                 "flavor_text": "Streaming waterfalls pour off the edges \nof these islands, leading to high humidity...",
-                "illustration": "./images/float-island-man-human-wallpaper-preview.jpg",
-                "illustration_pan_x": -697.0,
-                "illustration_pan_y": 155.0,
-                "illustration_scale": 1.356,
+                "illustration": "./images/float-island-man-human-wallpaper-preview_2.jpg",
+                "illustration_pan_x": -816.0,
+                "illustration_pan_y": -94.0,
+                "illustration_scale": 0.855,
                 "illustrator": "Illus. jbrown67",
                 "shroud": "4",
                 "text": "<reaction> After you successfully investigate <name>: Instead of discovering clues, you may add up to X <blessing> tokens to the chaos bag, where X is the amount you succeeded by.",
@@ -5927,7 +5924,7 @@
                 "illustrator": "Illus. Project Eluune",
                 "shroud": "3",
                 "subtitle": "The Future Refused to Change",
-                "text": "<reaction> After you successfully investigate <name>: Instead of discovering clues, you may add up to X <curse> tokens to the chaos bag, where X is amount you succeeded\u00a0by.",
+                "text": "<reaction> After you successfully investigate <name>: Instead of discovering clues, you may add up to X <curse> tokens to the chaos bag, where X is amount you succeeded by.",
                 "traits": "Ruins. Shattered.",
                 "type": "location"
             },
@@ -5954,10 +5951,10 @@
             "front": {
                 "clues": "1<per>",
                 "flavor_text": "The warmth of the foundry below ensures \nthe spring's pure waters never freeze over.",
-                "illustration": "./images/412918-blackangel.jpg",
-                "illustration_pan_x": -923.0,
-                "illustration_pan_y": -353.0,
-                "illustration_scale": 1.135,
+                "illustration": "./images/412918-blackangel_2.jpg",
+                "illustration_pan_x": -432.0,
+                "illustration_pan_y": -152.0,
+                "illustration_scale": 1.324,
                 "illustrator": "Illus. Sahir Khan",
                 "shroud": "2",
                 "text": " Enemies at <name> gain \"<b>Revenge</b> -- Remove 1 doom from any enemy in play. <i>(Enemies in the sacrifice display are in play.)</i>\"\n<action> Take 1 damage: Add 1 <blessing> token to the chaos bag.",
@@ -6266,7 +6263,7 @@
                 "illustration_pan_y": -419.0,
                 "illustration_scale": 1.022,
                 "illustrator": "Illus. Johanan Ade",
-                "text": "<rev> One at a time, reveal random tokens from the chaos bag until you reveal a non-<elder_sign> or <fail> token. Then add X <curse> tokens to the chaos bag, where X is the modifier of the revealed token <i>(ignoring +/\u2013)</i>.",
+                "text": "<rev> One at a time, reveal random tokens from the chaos bag until you reveal a non-<elder_sign> or <fail> token. Then add X <curse> tokens to the chaos bag, where X is the modifier of the revealed token <i>(ignoring +/–)</i>.",
                 "traits": "Pact.",
                 "type": "treachery"
             },
@@ -6442,10 +6439,10 @@
             "project_number": 216,
             "front": {
                 "flavor_text": "Something doesn't sound right...",
-                "illustration": "./images/ivana-besevic-img-20200417-122609-670.jpg",
-                "illustration_pan_x": -50.0,
-                "illustration_pan_y": -355.0,
-                "illustration_scale": 1.045,
+                "illustration": "./images/ivana-besevic-img-20200417-122609-670_2.jpg",
+                "illustration_pan_x": 52.0,
+                "illustration_pan_y": -337.0,
+                "illustration_scale": 1.316,
                 "illustrator": "Illus. Ivana Besevic",
                 "text": "<rev> Put <name> into play in your threat area.\nTreat assets in your play area that take up an ally slot as though their text boxes were blank (except for traits). \n<reaction> At the end of the round: Discard <name>.",
                 "traits": "Hex.",
@@ -6553,7 +6550,10 @@
             "project_number": 215,
             "front": {
                 "flavor_text": "Swolen, soggy fingers reach out from \nbeneath the surface of the water...",
-                "illustration": "./images/pickman1306008115062090846.png",
+                "illustration": "./images/pickman1306008115062090846_2.png",
+                "illustration_pan_x": -132.0,
+                "illustration_pan_y": 10.0,
+                "illustration_scale": 2.189,
                 "illustrator": "Illus. MaliciaRoseNoire",
                 "text": "Peril.\n<rev> Read <b>Scenario Interlude: The Maiden of the Black Water</b> in the Campaign Guide.",
                 "traits": "Mystery.",
@@ -6852,10 +6852,10 @@
             "project_number": 263,
             "front": {
                 "flavor_text": "You watch a bubble float up from beneath the water's surface and are suddenly overcome with the sensation of drowning...",
-                "illustration": "./images/c6cbb7d8f3dacba76a83f8b83e1d1f2e.jpg",
-                "illustration_pan_x": -1.0,
-                "illustration_pan_y": -100.0,
-                "illustration_scale": 0.73,
+                "illustration": "./images/c6cbb7d8f3dacba76a83f8b83e1d1f2e_2.jpg",
+                "illustration_pan_x": 110.0,
+                "illustration_pan_y": -6.0,
+                "illustration_scale": 0.788,
                 "illustrator": "Illus. ookidraws",
                 "text": "<rev> Put <name> into play in your threat area. \n<for> When your turn ends: Take 1 damage.\n<action>: Test <combat> or <agility> (3). If you succeed, discard <name>. This test's difficulty is reduced by 1 for each time this ability has been activated this round.",
                 "traits": "Trap.",
@@ -7016,7 +7016,7 @@
                 "illustration_pan_y": -428.0,
                 "illustration_scale": 1.207,
                 "illustrator": "Illus. Unknown",
-                "text": "<rev> Attach <name> to the nearest <t>River</t> location without a copy of Hypnotic Whirlpool attached. Limit 1 per location.\n<for> When the investigation phase ends: Each investigator at the attached location must test <willpower> (4). Each investigator who fails must test <agility> (3). Each investigator who fails this second test must take 1\u00a0damage.",
+                "text": "<rev> Attach <name> to the nearest <t>River</t> location without a copy of Hypnotic Whirlpool attached. Limit 1 per location.\n<for> When the investigation phase ends: Each investigator at the attached location must test <willpower> (4). Each investigator who fails must test <agility> (3). Each investigator who fails this second test must take 1 damage.",
                 "traits": "Hazard. ",
                 "type": "treachery"
             },
@@ -7494,10 +7494,10 @@
                 "flavor_text": "<name>'s summary execution during the siege led many soldiers to question their commanders' methods.",
                 "health": "3<per>",
                 "horror": 2,
-                "illustration": "./images/image-asset.jpeg",
-                "illustration_pan_x": -55.0,
-                "illustration_pan_y": 1079.0,
-                "illustration_scale": 2.131,
+                "illustration": "./images/image-asset_2.jpeg",
+                "illustration_pan_x": -166.0,
+                "illustration_pan_y": 1059.0,
+                "illustration_scale": 1.066,
                 "illustrator": "Illus. Laurel D. Austin",
                 "subtitle": "Martyr of Onigawa",
                 "text": "Alert.\n<spawn> Overgrown Sepulcher.\n<for> When the enemy phase begins: Add 1 <curse> to the chaos bag.",
@@ -7733,7 +7733,10 @@
             "project_number": 256,
             "front": {
                 "flavor_text": "The serpent's shifting has loosened the earth; you hear the sound of rushing wind mere moments before you \nfeel the ground quaking beneath your feet...",
-                "illustration": "./images/avalanche.png",
+                "illustration": "./images/avalanche_2.png",
+                "illustration_pan_x": -338.0,
+                "illustration_pan_y": -153.0,
+                "illustration_scale": 1.598,
                 "illustrator": "Illus. Andrew Mar",
                 "text": "<rev> Test <agility> (3). If you fail, take 1 damage and, for each point you failed by, move once towards the nearest <t>Surface</t> location.",
                 "traits": "Hazard.",
@@ -7872,7 +7875,9 @@
                 "flavor_text": "Once twisted by the madness of Moloch's corruption, \nthe noble spirit of Onigawa's \"vampyr queen\" \nseeks atonement for her past transgressions.",
                 "health": "2",
                 "icons": "WIQ",
-                "illustration": "./images/yukionna.jpg",
+                "illustration": "./images/yukionna_2.jpg",
+                "illustration_pan_x": -111.0,
+                "illustration_pan_y": 258.0,
                 "illustrator": "Illus. valeofox",
                 "level": "None",
                 "sanity": "2",
@@ -8120,9 +8125,9 @@
                     "neutral"
                 ],
                 "flavor_text": "Ashes to ashes.",
-                "illustration": "./images/phoenix_by_genzoman_d3cqnzj-pre.jpg",
-                "illustration_pan_x": -35.0,
-                "illustration_pan_y": 225.0,
+                "illustration": "./images/phoenix_by_genzoman_d3cqnzj-pre_2.jpg",
+                "illustration_pan_x": -91.0,
+                "illustration_pan_y": 218.0,
                 "illustrator": "Illus. Genzoman",
                 "level": "None",
                 "subtitle": "Noblesse Oblige",
@@ -8283,7 +8288,10 @@
                 "flavor_text": "The power hungry lord of the tides hoped to seize control of the pantheon by offering his dark patron a \nsacrifice borne of his own flesh and blood.",
                 "health": "2<per>",
                 "horror": 1,
-                "illustration": "./images/FauXb1pVEAEGBqw.jpg",
+                "illustration": "./images/FauXb1pVEAEGBqw_2.jpg",
+                "illustration_pan_x": -13.0,
+                "illustration_pan_y": 292.0,
+                "illustration_scale": 1.644,
                 "illustrator": "Illus. Amethyst021294",
                 "subtitle": "Resurgent Sovereign",
                 "text": "Hunter 1. Retaliate. \n<b>Sacrifice</b> -- Add 1<per> <curse> tokens to the chaos bag.\n<b>Revenge</b> -- Shuffle <name> into the sacrifice deck.",
@@ -9168,7 +9176,7 @@
             "order": 33
         },
         {
-            "name": "R\u00fcckkehr zu W\u00e4chter von Minakami",
+            "name": "Rückkehr zu Wächter von Minakami",
             "id": "dd37f56c-7d12-4858-99bd-5e02f893b001",
             "icon": "C:/Users/cdpog/Documents/GitHub/Die-Geister-von-Onigawa/images/Return to Guardians of Minakami.png",
             "meta": {
