@@ -4,7 +4,6 @@
         "005db21e-1b34-4146-99d5-501ea9fb7ed5": {
             "name": "Salz in die Wunde streuen",
             "amount": 2,
-            "project_number": 50,
             "front": {
                 "flavor_text": "Manchmal geht es einfach nur darum, eine gewisse Botschaft zu vermitteln.",
                 "text": "Max. 1 <t>Haltung</t> pro Ermittler. \n<reaction> Nachdem du einem Nicht-<t>Elite</t>-Gegner während einer Kampf-Aktion Schaden zugefügt hast, erschöpfe <name>: Entkomme diesem Gegner automatisch.",
@@ -14,7 +13,6 @@
         "03b8a342-ceaa-425e-b011-497bc98fa8e3": {
             "name": "Flammen anfachen",
             "amount": 2,
-            "project_number": 61,
             "front": {
                 "flavor_text": "„Du hast mir bereits alles gegeben, was ich brauche.“",
                 "text": "Max. 1 <t>Haltung</t> pro Ermittler. \n<reaction> Nachdem ein Gegner dich in einen Kampf verwickelt hat, erschöpfe <name>: Wähle eine <mystic>-Vorteilskarte, die du kontrollierst, mit Anwendungen (Ladungen) und führe eine <willpower>-Probe (X) durch, wobei X die Anzahl der Ladungen auf der gewählten Vorteilskarte ist. Falls die Probe gelingt, platziere 1 Ladung auf der gewählten Vorteilskarte.  ",
@@ -24,7 +22,6 @@
         "03c2040d-e209-4b29-a1a5-a5d2fec310b2": {
             "name": "Vorreiter",
             "amount": 2,
-            "project_number": 37,
             "front": {
                 "flavor_text": "„Was kann schon Schlimmes passieren?“",
                 "text": "Max. 1 <t>Haltung</t> pro Ermittler. \n<reaction> Sobald ein Gegner dich angreifen würde, platziere 1 deiner Hinweise auf deinem Ort und erschöpfe <name>: Hebe den Angriff auf.",
@@ -43,7 +40,6 @@
         "08fbd68c-16de-4653-922c-25f6c50443e9": {
             "name": "Gunst der Ahnen",
             "amount": 2,
-            "project_number": 23,
             "front": {
                 "flavor_text": "„Wir alle müssen für die Taten unserer Vorfahren büßen.\"",
                 "text": "Nachdem du <name> zu einer Probe beigetragen hast, darfst du dem Chaosbeutel 1<blessing>-Marker hinzufügen.\nDer Ermittler, der die Probe durchführt, darf alle <blessing>-Marker, die während dieser Probe enthüllt wurden dem Chaosbeutel hinzufügen, anstatt diese in den Markervorrat zurückzulegen.",
@@ -53,7 +49,6 @@
         "0973d633-0bd7-4222-a024-95de00f9397c": {
             "name": "Jemand von deiner eigenen Größe",
             "amount": 2,
-            "project_number": 25,
             "front": {
                 "flavor_text": "„Du musst zuerst an mir vorbei.“",
                 "text": "Max. 1 <t>Haltung</t> pro Ermittler. \n<reaction> Sobald ein Gegner einen anderen Ermittler an deinem Ort angreifen würde <i>(bevor der Angriff ausgeführt wird)</i>, erschöpfe <name>: <b>Kampf.</b> Diese Aktion zielt auf den angreifenden Gegner ab. Ignoriere für diesen Angriff das Schlüsselwort Zurückschlagen.",
@@ -61,7 +56,6 @@
             }
         },
         "0ce278f1-7321-4d98-9580-1bb2b4d82770": {
-            "project_number": 18,
             "front": {
                 "flavor_text": "„Niemand sollte das Nirwana erreichen, ohne den Geschmack von gutem Sake auf den Lippen zu haben.“",
                 "subtitle": "Der Mönch",
@@ -96,9 +90,7 @@
             }
         },
         "0dee601f-4223-4fb0-8101-5d872bcbf92f": {
-            "name": "<unique>Akane Amada",
             "amount": 2,
-            "project_number": 55,
             "front": {
                 "flavor_text": "Akanes Begeisterung für Live-Musik begann bereits in ihrer Kindheit, als sie beobachtete, wie eine wunderschöne junge Bardin einen rachsüchtigen Geist aus ihrem Dorf vertrieb.",
                 "subtitle": "Mutter der Melodien",
@@ -107,8 +99,6 @@
             }
         },
         "15245605-8dc0-4595-89fb-6f242ea9a351": {
-            "investigator": "Akira Arisato",
-            "project_number": 10,
             "front": {
                 "flavor_text": "„Tausend Generationen leben in mir weiter.“",
                 "subtitle": "Das Medium",
@@ -148,16 +138,14 @@
         "168df8cc-4d34-4ea0-96eb-ab3f3fa6816e": {
             "name": "Sicherer Hafen",
             "amount": 2,
-            "project_number": 22,
             "front": {
                 "text": "Hänge <name> an deinen Ort an. Max. 1 pro Ort.\n<reaction> Sobald dein Zug beginnt, falls keine Gegner an dem Ort sind: Füge dem Chaosbeutel 1<blessing>-Marker hinzu.\n<reaction> Falls <name> spielbereit ist, wenn ein Gegner den Ort betritt: Enthülle einen zufälligen Marker aus dem Chaosbeutel. Falls du einen <blessing>-Marker enthüllst, erschöpfe <name> und füge dem Gegner 1 Schaden zu.",
                 "traits": "Segen. Gesegnet."
             }
         },
         "17c966d6-21b4-4484-9adf-311798bc36d0": {
-            "name": "<unique>Last des Gläubigen",
+            "name": "Last des Gläubigen",
             "amount": 2,
-            "project_number": 82,
             "front": {
                 "flavor_text": "„Anfangs war es viel kleiner, doch dann fiel mir auf, dass das Netzwerk aus Runen jedes Mal, wenn ich anfing zu zweifeln, immer verwirrender wurde...“",
                 "text": "Als zusätzliche Kosten, um Last des Gläubigen zu spielen, nimm 1 direkten Schaden. \n<for> Nachdem dir eine Fertigkeitsprobe misslungen ist: Falls Last des Gläubigen spielbereit ist, füge dem Chaosbeutel 1<curse>-Marker hinzu oder erschöpfe Last des Gläubigen.\nFalls Last des Gläubigen spielbereit ist, bekommst du +1 <willpower>.",
@@ -167,7 +155,6 @@
         "183289ca-36e7-453a-9dac-ee0f1cb4650c": {
             "name": "Zum Tode verurteilt",
             "amount": 2,
-            "project_number": 60,
             "front": {
                 "flavor_text": "Einen ahnungslosen Gegner anzugreifen ist nur dann unehrenhaft, wenn man dafür nicht bezahlt wird.",
                 "text": "Schnell. Spiele diese Karte in einem beliebigen <free>-Fenster. Hänge <name> an einen Nicht-<t>Elite</t>-Gegner an, der nicht in einen Kampf verwickelt ist. Dieser Gegner erhält -1 Kampf und -1 Entkommen. \n<reaction> Nachdem dieser Gegner abgelegt wurde: Erhalte 2 Ressourcen.",
@@ -177,7 +164,6 @@
         "19b2b8f5-2f00-412d-b74a-3413c6353979": {
             "name": "Geschliffene Shuriken",
             "amount": 2,
-            "project_number": 46,
             "front": {
                 "flavor_text": "Bevor ihr Einsatz verboten wurde und diese Kunst weitgehend in Vergessenheit geriet, wurden über fünfzig verschiedene Schulen des Shurikenjutsu praktiziert.",
                 "text": "Anwendungen (5 Munition). Falls keine Munition auf <name> liegt: Lege diese Karte ab.\n<action>: Falls du nicht mit einem Gegner in einen Kampf verwickelt bist, gib 1 Munition aus: <b>Kampf.</b> Füge deinen <agility>-Wert zu deinem Fertigkeitswert für diesen Angriff hinzu. Falls die Probe um 2 oder mehr erfolgreich ist, fügt dieser Angriff +1 Schaden zu.",
@@ -186,7 +172,6 @@
         },
         "24b39fee-dc99-4ce5-a3e3-0322c4f2c33d": {
             "amount": 2,
-            "project_number": 23,
             "front": {
                 "flavor_text": "Wer Frieden will, muss sich auf den Krieg vorbereiten.",
                 "text": "<reaction> Nachdem eine Fertigkeitsprobe in einer Kampf-Aktion während deines Zuges misslungen ist, erschöpfe Parabellum: Du darfst eine zusätzliche Aktion in diesem Zug nehmen, die nur dazu genutzt werden kann zu kämpfen oder einen Gegner in einen Kampf zu verwickeln. ",
@@ -195,8 +180,6 @@
         },
         "2b081341-00d7-4f17-8263-9196a81e8afc": {
             "name": "Porzellan-Trugbild",
-            "investigator": "Makoto Miyazaki",
-            "project_number": 6,
             "front": {
                 "flavor_text": "Was auch immer an Wahrheit in der Schönheit stecken mag, sie bleibt doch nur oberflächlich.",
                 "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nDein Ort erhält +1 Schleierwert.\n<action>: Gib 4 Ressourcen aus, dann lege Porzellan-<br>Trugbild ab.",
@@ -205,7 +188,6 @@
         },
         "2b899ef5-f0fa-4bab-9147-d585fe402609": {
             "name": "Kalter Entzug",
-            "project_number": 4,
             "front": {
                 "flavor_text": "Am Boden eines Glases wirst du keine Antworten finden.",
                 "text": "<rev> Entferne alle Vorräte von Hundehaar und bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Sobald du einen Vorrat auf Hundehaar platzieren würdest: Platziere es stattdessen auf <name>.\n<action> Falls mindestens 3 Vorräte auf dieser Karte liegen: Lege Kalter Entzug ab.",
@@ -213,9 +195,8 @@
             }
         },
         "2c58fd16-3eeb-4423-9b0a-3e29fa49bba3": {
-            "name": "<unique>Künstliche Hand",
+            "name": "Künstliche Hand",
             "amount": 2,
-            "project_number": 43,
             "front": {
                 "flavor_text": "Die „Hand-Erweiterung“ enthält mehrere versteckte Fächer.",
                 "subtitle": "Entwaffnet und gefährlich",
@@ -226,7 +207,6 @@
         "2edf73d2-88e1-4d29-8e39-695d1dbc991f": {
             "name": "Mein Glück selbst gestalten",
             "amount": 2,
-            "project_number": 48,
             "front": {
                 "flavor_text": "„Lest das und heult euch die Augen aus!“",
                 "text": "Bevor die Chaosmarker für diese Probe abgehandelt werden, kann der ausführende Ermittler einen enthüllten Chaosmarker in den Chaosbeutel zurücklegen und zwei weitere Chaosmarker enthüllen. Ist diese Probe erfolgreich, erhält der ausführende Ermittler 2 Ressourcen.",
@@ -236,7 +216,6 @@
         "3132710c-f541-4999-8ace-b68dd97ce3a7": {
             "name": "Visuelle Berechnung",
             "amount": 2,
-            "project_number": 35,
             "front": {
                 "flavor_text": "Alles, was du brauchst, ist eine andere Perspektive.",
                 "text": "<b>Ermitteln.</b> Wähle den verbundenen Ort mit den meisten Hinweisen und füge den Schleierwert des gewählten Ortes zum Schleierwert deines Ortes für diese Probe hinzu. Falls die Probe gelingt, entdecke einen zusätzlichen Hinweis von einem verbundenen Ort.",
@@ -246,7 +225,6 @@
         "3407777e-4d5b-473c-bc24-3289354c7c56": {
             "name": "Holzkohleschmiermittel",
             "amount": 2,
-            "project_number": 49,
             "front": {
                 "flavor_text": "„Ein mit Schießpulver gefüllter Handschuh kann ein mächtiges Werkzeug sein...in den richtigen Händen.“",
                 "text": "<reaction> Als zusätzliche Kosten, um eine Kampf-Aktion mit einer <t>Nahkampf</t>-Vorteilskarte, die du kontrollierst auszuführen, erschöpfe <name>: Dieser Angriff fügt +1 Schaden zu. ",
@@ -254,8 +232,6 @@
             }
         },
         "39d3f679-414a-4a65-acce-3c3c8aebca2d": {
-            "investigator": "Mayu Tachibana",
-            "project_number": 101,
             "front": {
                 "subtitle": "Ätherischer Bildsucher",
                 "text": "Nur für das Deck von Mayu Tachibana.\nDu bekommst +1 <willpower>. Anwendungen (4 Ladungen.)\n<action>: <b>Entkommen.</b> Füge deinen <willpower>-Wert deinem Fertigkeitswert für diese Probe hinzu. Falls die Probe um 2 oder mehr gelingt, darfst du 1 Ladung ausgeben, um dem entkommenen Gegner 1 Schaden zuzufügen.",
@@ -265,7 +241,6 @@
         "3a29ffc9-10ae-4722-89aa-4ccd89fc46bc": {
             "name": "Nichts anderes zählt",
             "amount": 2,
-            "project_number": 24,
             "front": {
                 "flavor_text": "„Wir sind am Leben...und wir sind zusammen.“",
                 "text": "Falls die Probe erfolgreich ist, kannst du <name> der Hand eines anderen Ermittlers an deinem Ort hinzufügen, anstatt es abzulegen.",
@@ -275,7 +250,6 @@
         "3a692339-69a3-4842-a2d6-2ae758c5fe4f": {
             "name": "Gnade der Götter",
             "amount": 2,
-            "project_number": 94,
             "front": {
                 "flavor_text": "„Wenn sie deine Gebete nicht erhören...warum betest du sie dann an?“",
                 "text": "Nachdem die Fertigkeitsprobe endet, füge dem Chaosbeutel 2<blessing>-Marker hinzu. Falls die Probe misslingt, füge dem Chaosbeutel auch 2<curse>-Marker hinzu.",
@@ -285,7 +259,6 @@
         "3e369ca8-26f6-47fc-adf8-7fdcb92fd0b4": {
             "name": "Exorzismus",
             "amount": 2,
-            "project_number": 78,
             "front": {
                 "flavor_text": "„Du gehörst nicht in diese Welt!“",
                 "text": "<action>: <b>Kampf.</b> Dieser Angriff verwendet <willpower> statt <combat>. Du bekommst +3 <willpower>. Falls du während einer Fertigkeitsprobe einen <blessing>- oder <elder_sign>-Marker abhandelst oder falls dieser Angriff einen <t>Geist</t> oder <t>Yokai</t>-Gegner als Ziel hat, fügt er +2 Schaden zu. ",
@@ -295,7 +268,6 @@
         "3f1f2fd8-4c94-4707-bea9-ca76cb2b79b5": {
             "name": "Das Licht begraben",
             "amount": 2,
-            "project_number": 69,
             "front": {
                 "flavor_text": "Wer nie liebt, überlässt sich nicht dem Zufall.",
                 "text": "Schnell. Spiele diese Karte nur in deinem Zug.\nAls zusätzliche Kosten, um <name> zu spielen, lege eine Nicht-Schwäche-Vorteilskarte, die mindestens 1 Verbündeter-Slot benötigt, von deiner Hand oder aus deiner Spielzone, ab.\nErhalte X Ressourcen, wobei X die Kosten der abgelegten Vorteilskarte sind.",
@@ -303,9 +275,8 @@
             }
         },
         "3f507114-4842-46a3-abe2-7500b94a2513": {
-            "name": "<unique>Ketzerei des Eremiten",
+            "name": "Ketzerei des Eremiten",
             "amount": 2,
-            "project_number": 79,
             "front": {
                 "flavor_text": "„Wir alle werfen unseren Schatten.“",
                 "text": "Als zusätzliche Kosten, um Ketzerei des Eremiten zu spielen, nimm 1 direkten Schaden.\n<for> Nachdem dir eine Fertigkeitsprobe gelingt: Füge dem Chaosbeutel 1<blessing>- und 1<curse>-Marker hinzu.\nFalls sich mindestens 4<blessing>- oder 4<curse>-Marker im Chaosbeutel befinden, bekommst du +1<intellect>, solange du ermittelst.",
@@ -313,13 +284,11 @@
             }
         },
         "40657e44-efbc-4cf0-a1a8-df46a91ce2ce": {
-            "project_number": 47,
             "enumerated": "ignored"
         },
         "4172b6a8-367d-49d2-82fd-b6b8117953c0": {
             "name": "Grund zum Glauben",
             "amount": 2,
-            "project_number": 39,
             "front": {
                 "flavor_text": "Manche Dinge lassen sich nicht rational erklären.",
                 "text": "<reaction> Nachdem du mindestens 1 <blessing>- oder <elder_sign>-Marker während einer erfolgreichen Ermittlung abgehandelt hast, erschöpfe <name>: Entdecke einen zusätzlichen Hinweis an deinem Ort.",
@@ -328,7 +297,6 @@
         },
         "449fc1c7-54c2-4239-ac62-2f3e26a3acac": {
             "amount": 2,
-            "project_number": 21,
             "front": {
                 "flavor_text": "Wer Frieden will, muss sich auf den Krieg vorbereiten.",
                 "text": "Parabellum wird in der Unterhaltsphase nicht spielbereit gemacht.\n<reaction> Nachdem eine Fertigkeitsprobe in einer Kampf-Aktion während deines Zuges misslungen ist, erschöpfe Parabellum: Du darfst eine zusätzliche Aktion in diesem Zug nehmen, die nur dazu genutzt werden kann zu kämpfen oder einen Gegner in einen Kampf zu verwickeln. \n<action>: Mache Parabellum spielbereit.",
@@ -336,7 +304,6 @@
             }
         },
         "451be2ae-900a-440d-890b-d409847f4d0a": {
-            "project_number": 45,
             "enumerated": "ignored"
         },
         "482b2786-0d07-45e2-9cde-f6643b36cd82": {
@@ -350,8 +317,6 @@
             "back": {}
         },
         "4b161ec2-9d28-4e63-a825-6a5c2de80f91": {
-            "investigator": "Yuki Yagami",
-            "project_number": 1,
             "front": {
                 "flavor_text": "„Ich muss meine heilige Pflicht erfüllen...koste es, was es wolle.“",
                 "subtitle": "Die Priesterin",
@@ -390,9 +355,8 @@
             }
         },
         "4c39dcd1-ccb4-4a78-ac7d-bcec18cf0e7f": {
-            "name": "<unique>Opfer der Schlange",
+            "name": "Opfer der Schlange",
             "amount": 2,
-            "project_number": 87,
             "front": {
                 "flavor_text": "„Es gibt niemanden wie mich. Nicht mehr.“",
                 "text": "Als zusätzliche Kosten, um Opfer der Schlange zu spielen, nimm 1 direkten Schaden.\n<for> Falls Opfer der Schlange spielbereit ist, wenn du einen Gegner besiegst: Nimm 1 Schaden oder erschöpfe Opfer der Schlange.\nFalls Opfer der Schlange spielbereit ist, musst du deinen <agility>-Wert, anstatt deines <combat>-Wert zum Kämpfen verwenden.",
@@ -402,7 +366,6 @@
         "4d44f2f6-9abc-4c1a-8006-bbe5c3ba695f": {
             "name": "Vorausschauender Fokus",
             "amount": 2,
-            "project_number": 93,
             "front": {
                 "flavor_text": "Es ist keine Paranoia,<br> wenn sie es wirklich auf dich abgesehen haben.",
                 "text": "Schnell. Spiele diese Karte nur in deinem Zug.\nSieh dir die obersten 1<per_large> Karten vom Begegnungsdeck an. Falls unter den Karten Gegner sind, erhältst du eine zusätzliche Aktion.",
@@ -412,7 +375,6 @@
         "508c4fa5-ba0c-4062-8782-c8eb4c73c232": {
             "name": "Rücksichtsloses Handeln",
             "amount": 2,
-            "project_number": 73,
             "front": {
                 "flavor_text": "„Der größte Krieger muss den zweitgrößten Krieger niemals fürchten; er muss lediglich den Anfänger fürchten, der noch nie zuvor eine Waffe in der Hand gehalten hat.“",
                 "text": "Max. 1 <t>Haltung</t> pro Ermittler. \n<free> Bevor du während einer Kampf-Aktion Chaosmarker enthüllst, nimm 1 Schaden und erschöpfe <name>: Dieser Angriff fügt +1 Schaden zu.",
@@ -420,9 +382,8 @@
             }
         },
         "5140d76b-e248-4141-abb9-a4fe50f430c2": {
-            "name": "<unique>„Banzai“ Stiletto",
+            "name": "„Banzai“ Stiletto",
             "amount": 2,
-            "project_number": 44,
             "front": {
                 "flavor_text": "„Was sagen wir den Steuereintreibern, Jungs? Heute nicht!“",
                 "subtitle": "Gewiefte Schmugglerin",
@@ -431,9 +392,8 @@
             }
         },
         "580377bd-7222-4c67-8f6b-3f7473ea8de8": {
-            "name": "<unique>Die Obsidian-Mannigfaltigkeit",
+            "name": "Die Obsidian-Mannigfaltigkeit",
             "amount": 2,
-            "project_number": 28,
             "front": {
                 "flavor_text": "Die Oberfläche des Würfels windet sich, während er darum ringt, die unendlichen Möglichkeiten in sich zu halten.",
                 "subtitle": "Nicht-Euklidische Verbindung",
@@ -442,9 +402,7 @@
             }
         },
         "582d8abc-3cac-469e-ac97-abd88a61ae7c": {
-            "name": "<unique>Grenzbruch",
-            "investigator": "Akira Arisato",
-            "project_number": 12,
+            "name": "Grenzbruch",
             "front": {
                 "flavor_text": "Viele Seelen, die unsere Welt verlassen haben, würden alles dafür tun, um dorthin zurückzukehren.",
                 "subtitle": "Der zerrissene Schleier",
@@ -453,9 +411,7 @@
             }
         },
         "5858396b-6d8a-4f49-a101-b8771761b11c": {
-            "name": "<unique>Die Nachfolge",
-            "investigator": "Yuki Yagami",
-            "project_number": 3,
+            "name": "Die Nachfolge",
             "front": {
                 "flavor_text": "Viele, die die „Ausbildung“ zur Schreinmaid durchlaufen, können nicht darüber sprechen.",
                 "subtitle": "Jene Augustnacht",
@@ -466,7 +422,6 @@
         "5ae62cde-5ce8-458f-b0c2-e72e36464df5": {
             "name": "Ganz oder gar nicht",
             "amount": 2,
-            "project_number": 90,
             "front": {
                 "flavor_text": "Es stehen viele Entscheidungen bevor. Keine davon wird einfach sein.",
                 "subtitle": "<size 50>Verdammt, wenn du es nicht machst",
@@ -475,9 +430,8 @@
             }
         },
         "5e2f2b4c-ab89-477b-81cb-f444e86f0a16": {
-            "name": "<unique>Schicksal des Phönix",
+            "name": "Schicksal des Phönix",
             "amount": 2,
-            "project_number": 85,
             "front": {
                 "flavor_text": "Ob du Asche bleibst oder zum Phönix wirst, liegt ganz bei dir.",
                 "text": "Als zusätzliche Kosten, um Schicksal des Phönix zu spielen, nimm 1 direkten Schaden.\n<for> Nachdem ein Gegner an deinem Ort Schaden nimmt: Erschöpfe Schicksal des Phönix.\nFalls Schicksal des Phönix spielbereit ist und ein Gegner an deinem oder einem verbundenen Ort ist, erhälst du +1 <intellect>, solange du ermittelst.",
@@ -487,7 +441,6 @@
         "6146e8b3-7f4d-4fc6-85a4-91c948d4bbd9": {
             "name": "Flackern",
             "amount": 2,
-            "project_number": 75,
             "front": {
                 "flavor_text": "„Wenn du mir in die Augen schaust...was siehst du dann?“<br> „Das sind nicht deine Augen.“",
                 "text": "Schnell. Spiele diese Karte in einem beliebigen <free>-Fenster.\nWähle eine Nicht-Schwäche-Karte in der Spielzone eines Ermittlers an deinem Ort und füge sie wieder der Hand ihres Besitzers zu.",
@@ -497,7 +450,6 @@
         "616768bf-0449-426e-9ca8-bce05838c9f4": {
             "name": "Zügiges Zücken",
             "amount": 2,
-            "project_number": 96,
             "front": {
                 "flavor_text": "Wenn du blinzelst, verpasst du es.",
                 "text": "Schnell. Spiele diese Karte in einem beliebigen <free>-Fenster.\nMache eine Nicht-Schwäche-Vorteilskarte von einem Ermittler an deinem Ort spielbereit. Schicke <name> ins Exil.",
@@ -507,7 +459,6 @@
         "61dde81d-a4eb-48b3-b071-0aad0e696c7d": {
             "name": "Koordinierte Infiltration",
             "amount": 2,
-            "project_number": 26,
             "front": {
                 "flavor_text": "„Sie werden uns niemals kommen sehen.“",
                 "text": "Echo 1 <i>(bis zum Ende der Runde kann jeder Ermittler <name> aus dem Ablagestapel des Besitzers einmal spielen.) </i>\nWähle einen verbundenen Ort. Jeder Ermittler darf 1 Ressource bezahlen, um sich einmal in Richtung des gewählten Ortes zu bewegen.",
@@ -516,8 +467,6 @@
         },
         "629f7359-563e-4814-b4ec-7d4d1a8fc7e7": {
             "name": "Schuldgefühle des Überlebenden",
-            "investigator": "Hideki Honda",
-            "project_number": 9,
             "front": {
                 "flavor_text": "Er konnte niemanden retten. Er kann nicht einmal sich selbst retten.",
                 "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Nachdem eine Fertigkeitsprobe erfolgreich ist: Nimm 1 direkten Horror. \n<action><action>: Lege <name> ab. Du kannst diese Fähigkeit nur aktivieren, falls du eine <t>Verbündeter</t>-Vorteilskarte kontrollierst.",
@@ -525,9 +474,8 @@
             }
         },
         "62acfd78-89d9-4d07-ab43-a3008f07a20f": {
-            "name": "<unique>Iscariots Apokryphen",
+            "name": "Iscariots Apokryphen",
             "amount": 2,
-            "project_number": 19,
             "front": {
                 "flavor_text": "Selbst die großartigste Geschichte, die je erzählt wurde, hat zwei Seiten.",
                 "illustrator": "Illus. Unbekannt",
@@ -539,7 +487,6 @@
         "6671b389-0d16-4ab8-b5bf-31fceedeb12b": {
             "name": "Schwefel-Weihrauchfass",
             "amount": 2,
-            "project_number": 81,
             "front": {
                 "flavor_text": "„Es soll uns daran erinnern, dass wir immer gefährlich nahe an etwas sind, das besser unbekannt bleiben sollte.“",
                 "text": "Max. 1 pro Ermittler.\nDu bekommst +1 <willpower>. \n<reaction> Nachdem <name> ins Spiel gekommen ist: Füge dem Chaosbeutel bis zu 2<blessing>-Marker hinzu.",
@@ -547,9 +494,8 @@
             }
         },
         "6a932fd2-287a-4987-ba8b-0ddf26ecc81d": {
-            "name": "<unique>Dogma des Drachen",
+            "name": "Dogma des Drachen",
             "amount": 2,
-            "project_number": 88,
             "front": {
                 "flavor_text": "Dieses schmerzhafte Brandzeichen macht es unmöglich, deine Gelübde zu vergessen.",
                 "subtitle": "Eine bleibende Erinnerung",
@@ -558,9 +504,7 @@
             }
         },
         "6bd84c4a-85f0-434b-9f5b-f927bb677a96": {
-            "name": "<unique>Das unendliche Okulus",
-            "investigator": "Makoto Miyazaki",
-            "project_number": 5,
+            "name": "Das unendliche Okulus",
             "front": {
                 "flavor_text": "Unter dem durchdringenden Blick der Maske werden alle Geheimnisse offenbart.",
                 "subtitle": "Unzählige Wahrheiten",
@@ -569,9 +513,8 @@
             }
         },
         "6e7ac194-feec-4700-87d4-7d79b53a82a6": {
-            "name": "<unique>Selektive Erinnerung",
+            "name": "Selektive Erinnerung",
             "amount": 2,
-            "project_number": 77,
             "front": {
                 "flavor_text": "Die beste Verteidigung, über die der Verstand verfügt, besteht darin, einfach zu vergessen, sich zu erinnern.",
                 "subtitle": "Bevor ich vergesse",
@@ -582,7 +525,6 @@
         "6f0396d3-597f-4515-a2ef-d25faf71d185": {
             "name": "Papier-Laterne",
             "amount": 2,
-            "project_number": 113,
             "front": {
                 "illustrator": "Illus. Unbekannt",
                 "text": "Anwendungen (4 Vorräte). Falls <name> keine Vorräte auf sich hat, lege sie ab.\n<for> Sobald ein Ermittler an deinem Ort einen <cultist>-, <elder_thing>- oder <auto_fail>-Marker während einer Fertigkeitsprobe enthüllt: Entferne 1 Vorrat von <name>. \n<free> Erschöpfe <name>: Dein aktueller Ort erhält –1 Schleierwert bis zum Ende der Runde.",
@@ -592,7 +534,6 @@
         "708d3c69-2d92-4461-91a3-260102ba6919": {
             "name": "Zum Tode verurteilt",
             "amount": 2,
-            "project_number": 47,
             "front": {
                 "flavor_text": "Einen ahnungslosen Gegner anzugreifen ist nur dann unehrenhaft, wenn man dafür nicht bezahlt wird.",
                 "text": "Schnell. Spiele diese Karte nur, wenn ein Nicht-<t>Elite</t>-Gegner ins Spiel kommt. Hänge <name> an diesen Gegner an. Max. 1 pro Gegner.\nDieser Gegner erhält –1 Kampf. \n<reaction> Nachdem du diesen Gegner besiegt hast: Erhalte 2 Ressourcen.",
@@ -602,7 +543,6 @@
         "714cec12-9925-4486-8f55-8f7f7ffaca0c": {
             "name": "Dem Ruin den Rücken kehren",
             "amount": 2,
-            "project_number": 91,
             "front": {
                 "flavor_text": "Die Zeit heilt alle Wunden. Sie wird aber noch viele weitere verursachen.",
                 "text": "Schnell. Spiele diese Karte, nachdem die Fertigkeitsprobe eines Ermittlers misslingt. \nDer ausführende Ermittler darf bis zu X Karten ziehen, wobei X die Zahl ist, um die die Probe misslungen ist."
@@ -611,7 +551,6 @@
         "725b6e3a-bd05-4599-bdfa-8bfc1ee03342": {
             "name": "Autopsie vor Ort",
             "amount": 2,
-            "project_number": 38,
             "front": {
                 "flavor_text": "„Ich brauche nur ein scharfes Messer und etwas Riechsalz...“",
                 "text": "Schnell. Spiele diese Karte, nachdem ein Gegner an deinem Ort besiegt wurde.\n<b>Ermitteln.</b> Du erhältst +X <intellect> für diese Ermittlung. Falls die Probe gelingt, darfst du bis zu X zusätzliche Hinweise an deinem Ort entdecken. X ist der Horror-Wert des besiegten Gegners. ",
@@ -619,9 +558,8 @@
             }
         },
         "72c854fc-e31b-415f-bcd8-0f8c7ac0d6d4": {
-            "name": "<unique>Siderisches Schisma",
+            "name": "Siderisches Schisma",
             "amount": 2,
-            "project_number": 65,
             "front": {
                 "flavor_text": "Wie oben, so unten.",
                 "illustrator": "Illus. Unbekannt",
@@ -643,7 +581,6 @@
         "75dfcb27-2c9d-4900-bd30-319182e1e3a9": {
             "name": "Den Weg erhellen",
             "amount": 2,
-            "project_number": 70,
             "front": {
                 "flavor_text": "Vorsicht ist ein Luxus, den du dir einfach nicht leisten kannst.",
                 "illustrator": "Illus. Unbekannt",
@@ -654,7 +591,6 @@
         "76a8cc35-40be-45a3-bc91-c6501d165644": {
             "name": "Seilpuppe",
             "amount": 2,
-            "project_number": 62,
             "front": {
                 "flavor_text": "Wara ningyō werden in einer Reihe von Ritualen verwendet, meist in Verbindung mit einem Gegenstand, der von der Person stammt, gegen die sich der Fluch richtet, beispielsweise einer Haarsträhne.",
                 "text": "<reaction> Nachdem ein Gegner ins Spiel kommt, erschöpfe <name>: Versiegle 1<curse>-Marker aus dem Chaosbeutel auf diesem Gegner.\n<action>: Wähle einen Gegner mit einem auf ihm versiegelten <curse>-Marker: <b>Verhandlung.</b> Füge diesem Gegner 1 Schaden zu. Falls dieser Effekt einen Gegner besiegt, darfst du einen versiegelten <curse>-Marker von dem Gegner in den Markervorrat zurücklegen.",
@@ -664,7 +600,6 @@
         "78839405-6dc5-4f69-9b3f-951d850977a6": {
             "name": "Dem Wahnsinn hingeben",
             "amount": 2,
-            "project_number": 64,
             "front": {
                 "flavor_text": "Wenn du sie nicht besiegen kannst, f'taghn.",
                 "text": "Schnell. Spiele diese Karte nur während deines Zuges.\nAls zusätzliche Kosten, um Dem Wahnsinn hingeben zu spielen, erleidest du 1 seelisches Trauma.\nBis zum Ende der Runde entspricht der Basiswert jeder deiner Fähigkeiten dem Horrorwert deines Ermittlers.",
@@ -672,9 +607,7 @@
             }
         },
         "7c1f330b-4041-4bda-a1ad-569e26ed29de": {
-            "name": "<unique>Lebende Erinnerung",
-            "investigator": "Akira Arisato",
-            "project_number": 11,
+            "name": "Lebende Erinnerung",
             "front": {
                 "flavor_text": "„Nichts ist wirklich verloren, solange es nicht vergessen ist.“",
                 "subtitle": "Komplette Erinnerung",
@@ -685,7 +618,6 @@
         "7cc5dd71-8417-4b19-b0cd-42cee41c71e8": {
             "name": "Grundprinzipien",
             "amount": 2,
-            "project_number": 32,
             "front": {
                 "flavor_text": "Der Tod ist für jeden unvermeidlich.",
                 "text": "Schnell. Spiele diese Karte, nachdem deinem Ermittler Schaden zugewiesen wurde.\nEntdecke 1 Hinweis an deinem Ort.",
@@ -693,9 +625,8 @@
             }
         },
         "7cce1b3c-44a8-43d2-82d0-f6a9c0bf65dc": {
-            "name": "<unique>Durch dick und dünn",
+            "name": "Durch dick und dünn",
             "amount": 1,
-            "project_number": 100,
             "front": {
                 "subtitle": "Wenn es dir so viel bedeutet",
                 "text": "Dauerhaft.\nDie zusätzlichen Einschränkungen für den Deckbau deines Ermittlers erhalten: „Nur 1 Vorteilskarte, die einen Verbündeter-Slot benötigt.“ \n<reaction> Bevor du deine Starthand ziehst oder sobald dein Deck leer ist: Durchsuche dein Deck und deinen Ablagestapel nach einer Vorteilskarte, die einen Verbündeter-Slot benötigt und hänge die Karte an Durch dick und dünn an.\nKarten, die an Durch dick und dünn angehängt sind, können gespielt werden, als wenn sie in deiner Hand wären.",
@@ -705,7 +636,6 @@
         "7daf88a5-2279-48d3-97e7-568021962561": {
             "name": "Dem Ruin den Rücken kehren",
             "amount": 2,
-            "project_number": 75,
             "front": {
                 "flavor_text": "Die Zeit heilt alle Wunden. Sie wird aber noch viele weitere verursachen.",
                 "text": "Schnell. Spiele diese Karte, nachdem die Fertigkeitsprobe eines Ermittlers misslingt. \nDer ausführende Ermittler darf bis zu X Karten ziehen. X ist die Zahl, um die die Probe misslungen ist.",
@@ -715,7 +645,6 @@
         "7fcc44e2-f4d5-4e3d-a718-ee35be18dcf9": {
             "name": "Martyrium",
             "amount": 2,
-            "project_number": 30,
             "front": {
                 "flavor_text": "Du hast immer noch etwas, was du verlieren kannst.",
                 "text": "Schnell. Spiele diese Karte nur, wenn einem anderen Ermittler Schaden und/oder Horror zugefügt werden würde, der diesen besiegen würde. Hebe diesen Schaden und/oder Horror auf. Für jeden Punkt an Schaden und/oder Horror, der aufgehoben wurde, darfst du dem Chaosbeutel 1<blessing>-Marker hinzufügen. Du wirst besiegt.",
@@ -725,16 +654,13 @@
         "85bd2459-a888-4022-b30e-968d5b53a243": {
             "name": "Methodik hinter dem Wahnsinn",
             "amount": 2,
-            "project_number": 40,
             "front": {
                 "flavor_text": "„Nein, ich weiß nicht, was ich da tue...<br>Genau deshalb wird es ja klappen.“",
                 "text": "Schnell. Anwendungen (2 Geheimnisse).\n<reaction> Nachdem du deinem Ermittler eine beliebige Menge an Horror zugewiesen hast: Platziere entsprechend viele Geheimnisse auf <name>.\n<free> Gib X Geheimnisse aus und erschöpfe <name>: Du erhältst +X für diese Fertigkeitsprobe."
             }
         },
         "86bf7a8a-a3aa-4228-a781-7094bc54d334": {
-            "name": "<unique>Koromaru",
             "amount": 2,
-            "project_number": 97,
             "front": {
                 "flavor_text": "Lokale Legenden erzählen von einem Jagdhund, der so treu war, dass er die Rolle seines verstorbenen Herrn als Beschützer der Schreine von Minakami übernahm.",
                 "subtitle": "Wächter aller Schreine",
@@ -743,13 +669,11 @@
             }
         },
         "888afb4f-5e1d-43d5-9beb-49eae8ebf81d": {
-            "project_number": 48,
             "enumerated": "ignored"
         },
         "8b9320d9-a2c4-4a75-9203-d1bdb9875a05": {
             "name": "Hermetischer Abakus",
             "amount": 2,
-            "project_number": 84,
             "front": {
                 "flavor_text": "Dieses esoterische Gerät wird als spezieller „Rechner“ zur Vorhersage zukünftiger Ereignisse eingesetzt; seine genaue Funktionsweise ist jedoch nur wenigen Auserwählten bekannt.",
                 "text": "<reaction> Nachdem der letzte Hinweis an deinem Ort entdeckt wurde, erschöpfe <name>: Sieh dir die obersten X Karten des Begegnungsdecks an, wobei X der Schleierwert des Ortes ist. \n<action>: Falls <name> spielbereit ist: <b>Ermitteln.</b> Füge deinen <willpower>-Wert dem Fertigkeitswert für diese Ermittlung hinzu. Falls die Probe misslingt, erschöpfe <name>.",
@@ -759,7 +683,6 @@
         "92ee06dc-841f-4dee-b070-7ba1c2f9f00e": {
             "name": "Verstecktes Potential",
             "amount": 2,
-            "project_number": 60,
             "front": {
                 "flavor_text": "„Es gibt keine Grenzen. Alles ist erlaubt.“",
                 "text": "Als zusätzliche Kosten, um <name> zu spielen, lege 2 Nicht-Schwäche-Karten von deiner Hand oder aus deiner Spielzone ab.\nZiehe 3 Karten. Diese Aktion löst keine Gelegenheitsangriffe aus.",
@@ -767,13 +690,10 @@
             }
         },
         "93a8417b-4196-4ef8-bdcf-74420dd9d04e": {
-            "project_number": 46,
             "enumerated": "ignored"
         },
         "943990cd-fd44-42bf-a829-bb99b6a8bc40": {
-            "name": "<unique>Wanderlust",
             "amount": 2,
-            "project_number": 78,
             "front": {
                 "flavor_text": "Nicht jeder, der umherirrt, ist verloren.",
                 "subtitle": "Nomadischer Impuls",
@@ -784,7 +704,6 @@
         "94cb0ff4-db27-400f-9b2b-4287597f3246": {
             "name": "Ganz oder gar nicht",
             "amount": 2,
-            "project_number": 89,
             "front": {
                 "flavor_text": "Es stehen viele Entscheidungen bevor. Keine davon wird einfach sein.",
                 "subtitle": "Verdammt, wenn du es machst",
@@ -793,8 +712,6 @@
             }
         },
         "9a373a8a-7a1c-4dfa-9936-364320e93d08": {
-            "investigator": "Hideki Honda",
-            "project_number": 7,
             "front": {
                 "flavor_text": "„Auch wenn ich vielleicht aus dem Schatten zuschlage, glaube nicht, dass mir der Mut fehlt, mich ins Licht zu stellen.“",
                 "subtitle": "Der Shinobi",
@@ -833,7 +750,6 @@
         "9b13cd9e-e6f9-4c4b-a04b-84916d8ebfcb": {
             "name": "Fesselnde Séance",
             "amount": 2,
-            "project_number": 59,
             "front": {
                 "flavor_text": "Ein Geheimnis mit ins Grab zu nehmen, reicht heutzutage einfach nicht mehr aus.",
                 "text": "Anwendungen (3 Ladungen). \n<reaction> Sobald ein Gegner an deinem Ort besiegt wird, gib 1 Ladung von <name> aus: Entdecke 1 Hinweis an deinem Ort.",
@@ -843,7 +759,6 @@
         "9c0caf3b-7a5b-484f-a15c-b8f7cc282e82": {
             "name": "Aneignen und anpassen",
             "amount": 2,
-            "project_number": 36,
             "front": {
                 "flavor_text": "„Niemand weiß so gut wie die Gejagten, was es heißt, gut zu jagen.“",
                 "text": "<name> erhält für jeden Gegner am Ort des ausführenden Ermittlers und an benachbarten Orten ein <wild>.\nNicht-<t>Elite</t>-Gegner am Ort des Ermittlers verlieren Zurückschlagen und Alarmiert für  die Dauer der Fertigkeitsprobe.",
@@ -853,7 +768,6 @@
         "9d8d40d0-911d-4fec-9e00-ebff01c3c2d4": {
             "name": "Grenzen überschreiten",
             "amount": 2,
-            "project_number": 74,
             "front": {
                 "flavor_text": "„Misserfolg ist ein hervorragender Lehrer.“",
                 "text": "Schnell. Spiele diese Karte nur in deinem Zug.\nDu erhältst eine zusätzliche Aktion in diesem Zug. Falls du 3 oder weniger verbliebene Ausdauer hast, entferne <name> aus dem Spiel. Ansonsten, schicke <name> ins Exil.",
@@ -863,7 +777,6 @@
         "9f49320c-abfb-4040-9919-bda07d157682": {
             "name": "Schreckliche Symmetrie",
             "amount": 2,
-            "project_number": 41,
             "front": {
                 "flavor_text": "Nichts geht jemals zu Ende.",
                 "text": "Schnell. Spiele diese Karte, sobald dein Zug beginnt.\nLege alle Nicht-Schwäche-Karten von deiner Hand ab. Bis zum Ende der Runde darfst du andere Ereigniskarten aus deinem Ablagestapel so ausspielen, als befänden sie sich in deiner Hand. Wenn du dies tust und sie abgelegt werden müssten, mische sie stattdessen in dein Deck.",
@@ -871,9 +784,8 @@
             }
         },
         "a2b00555-4c7b-4753-b0b5-3ccb1a7ec0be": {
-            "name": "<unique>Abenddämmerung",
+            "name": "Abenddämmerung",
             "amount": 2,
-            "project_number": 66,
             "front": {
                 "flavor_text": "Ob am hellsten Tag oder in der dunkelsten Nacht.",
                 "subtitle": "Mondlichtmesser",
@@ -884,7 +796,6 @@
         "a4c0c44f-4694-4107-84b2-bad41fcf9f8e": {
             "name": "Klagendes Katana",
             "amount": 2,
-            "project_number": 80,
             "front": {
                 "flavor_text": "Wer das Schwert wirklich meisterhaft beherrscht, wird niemals ohne Klinge dastehen.",
                 "text": "<action>: Falls <name> spielbereit ist: <b>Kampf.</b> Für diesen Angriff kannst du deinen <agility>-Wert anstatt deines <combat>-Wertes verwenden und du erhältst +1 auf deinen Fertigkeitswert. Falls die Probe um 2 oder mehr gelingt, fügt dieser Angriff +1 Schaden zu. Falls die Probe um 2 oder mehr misslingt, erschöpfe <name>.",
@@ -894,7 +805,6 @@
         "a714c1ad-75f0-4808-898f-613e490cd516": {
             "name": "Symbolisches Enigma",
             "amount": 2,
-            "project_number": 34,
             "front": {
                 "flavor_text": "„Der Verstand deines Feindes hüllt seine Geheimnisse in Symbole.“",
                 "text": "Ermittler an deinem Ort ziehen insgesamt X Karten <i>(du entscheidest, wie viele Karten jeder Ermittler zieht)</i>. X entspricht dem Schleierwert deines aktuellen Ortes.",
@@ -904,7 +814,6 @@
         "a8eec7fd-bd7b-4eb9-9966-b536d910afef": {
             "name": "Grundprinzipien",
             "amount": 2,
-            "project_number": 40,
             "front": {
                 "flavor_text": "Der Tod ist für jeden unvermeidlich.",
                 "text": "Schnell. Spiele diese Karte, nachdem deinem Ermittler Schaden zugewiesen wurde.\nEntdecke 2 Hinweise an deinem Ort.",
@@ -914,7 +823,6 @@
         "acb6f2e0-8dad-4454-a0a0-a068aa2e606a": {
             "name": "Untiefen durchkämmen",
             "amount": 2,
-            "project_number": 71,
             "front": {
                 "flavor_text": "Zeit und Gezeiten warten auf niemanden.",
                 "text": "Lege die obersten X Karten deines Decks ab, wobei X dem Schleierwert deines Ortes entspricht. Falls dabei Schwächen abgelegt werden, mische diese wieder in dein Deck. Wähle anschließend eine Karte aus den obersten X Karten deines Ablagestapels aus und nimm sie auf deine Hand.",
@@ -924,7 +832,6 @@
         "b023a06f-2ec7-48ab-87c1-07022f7a09d3": {
             "name": "Fluchtseil",
             "amount": 2,
-            "project_number": 45,
             "front": {
                 "flavor_text": "„Das wird schon gut gehen. Schau nur nicht nach unten.“",
                 "text": "<free> Falls du nicht mit einem Gegner in einen Kampf verwickelt bist, erschöpfe <name>: Wähle einen enthüllten benachbarten Ort und führe eine <agility>-Probe (X) durch, wobei X der Schleierwert des ausgewählten Orts ist. Falls die Probe gelingt, bewege dich zum ausgewählten Ort.",
@@ -932,9 +839,8 @@
             }
         },
         "b2c4b5c6-4273-4c51-900f-bcfa14570049": {
-            "name": "<unique>Parasitärer Wirt",
+            "name": "Parasitärer Wirt",
             "amount": 2,
-            "project_number": 56,
             "front": {
                 "subtitle": "Dunkler Passagier",
                 "text": "<action>: Falls Parasitärer Wirt spielbereit ist: <b>Kampf.</b> Du erhältst +2 <combat> für diesen Angriff. Falls die Probe erfolgreich ist, darfst du 1 Schaden nehmen, damit der Angriff +1 Schaden zufügt. Falls der Angriff einen Gegner besiegt, darfst du Parasitärer Wirt erschöpfen, um 1 Schaden von ihm zu heilen.\n<for> Sobald dein Zug endet: Falls du in dieser Runde nicht erfolgreich mit Parasitärer Wirt gekämpft hast, führe eine <willpower>-Probe (3) durch. Falls die Probe misslingt, fügt dir Parasitärer Wirt 1 Schaden zu.",
@@ -942,9 +848,8 @@
             }
         },
         "b560e7b0-fddd-42d6-a791-c7b7c954b5cd": {
-            "name": "<unique>Geometrische Einheit",
+            "name": "Geometrische Einheit",
             "amount": 2,
-            "project_number": 42,
             "front": {
                 "flavor_text": "„Der Quellcode des Universums beschreibt ein rein geometrisches Operationssystem.“",
                 "subtitle": "Das letzte Theorem",
@@ -955,7 +860,6 @@
         "b5b76592-8122-4f8a-a69f-f22f30ea4429": {
             "name": "Geben und nehmen",
             "amount": 2,
-            "project_number": 68,
             "front": {
                 "flavor_text": "„Komm schon! Lass es mich doch nur kurz mal halten...“",
                 "text": "<free> Überlasse einem anderen Ermittler an deinem Ort <name> und erschöpfe <name>: Übernimm die Kontrolle über eine <t>Gegenstand</t>-Vorteilskarte, die von diesem Ermittler kontrolliert wird.",
@@ -965,7 +869,6 @@
         "b60c03f5-1c2f-4dfd-a2cd-a4f6bda86794": {
             "name": "Lieber spät als nie",
             "amount": 2,
-            "project_number": 27,
             "front": {
                 "flavor_text": "„Sie hatten schon immer einen Hang zum Dramatischen...“",
                 "text": "Echo 1 <i>(bis zum Ende der Runde kann jeder Ermittler <name> aus dem Ablagestapel des Besitzers einmal spielen.) </i>\nDurchsuche dein Deck nach einer <t>Verbündeter</t>-Vorteilskarte, lege sie beiseite, mische dein Deck, und lege die beiseitegelegte Karte oben auf dein Deck. Reduziere die Kosten von <name> um 1 pro Verderben im Spiel.",
@@ -973,9 +876,7 @@
             }
         },
         "bb0f6eba-9550-4d2e-9fe1-e482c8449ae4": {
-            "name": "<unique>Mit dem Schwert leben",
-            "investigator": "Sakura Sanada",
-            "project_number": 14,
+            "name": "Mit dem Schwert leben",
             "front": {
                 "flavor_text": "„Jeder kann sterben. Das Leben zu leben, das erfordert Mut.“",
                 "subtitle": "Der Kodex des Kriegers",
@@ -986,7 +887,6 @@
         "bc0f6eb7-5e8e-4598-a0aa-39f1f5bfaf00": {
             "name": "Nur ein Weg es rauszufinden",
             "amount": 2,
-            "project_number": 33,
             "front": {
                 "flavor_text": "Das Glück ist mit den Mutigen.",
                 "text": "Spiele diese Karte nur als deine erste Aktion.\nWähle einen noch nicht enthüllten Ort, der mit einem bereits enthüllten Ort verbunden ist, und bewege dich dorthin. \nBefindet sich an diesem Ort mindestens 1 Hinweis, kannst du eine Ermitteln-Aktion durchführen. Diese Aktion löst keine Gelegenheitsangriffe aus.",
@@ -996,7 +896,6 @@
         "bc612de7-114d-420f-9588-4c3b28810716": {
             "name": "Symbolisches Enigma",
             "amount": 2,
-            "project_number": 39,
             "front": {
                 "flavor_text": "„Der Verstand deines Feindes hüllt seine Geheimnisse in Symbole.“",
                 "text": "Schnell. Spiele diese Karte nur in deinem Zug. Jeder Ermittler an deinem Ort darf bis zu X Karten ziehen. X entspricht dem Schleierwert deines aktuellen Ortes.\n\n",
@@ -1006,7 +905,6 @@
         "bd61dc6c-0577-443b-abfd-c9b78825f789": {
             "name": "Komplette Übersicht",
             "amount": 2,
-            "project_number": 54,
             "front": {
                 "flavor_text": "„Das ist kein Glücksspiel! Das ist einfach nur...  Zählen.“",
                 "subtitle": "Mitzählen",
@@ -1017,7 +915,6 @@
         "bd93f78d-6e18-49e6-b970-c6c4814d9ccb": {
             "name": "Exorzismus",
             "amount": 2,
-            "project_number": 57,
             "front": {
                 "flavor_text": "„Du gehörst nicht in diese Welt!“",
                 "text": "<action>: <b>Kampf.</b> Dieser Angriff verwendet <willpower> statt <combat>. Falls du während einer Fertigkeitsprobe einen <blessing>- oder <elder_sign>-Marker abhandelst oder falls dieser Angriff einen <t>Geist</t> oder <t>Yokai</t>-Gegner als Ziel hat, fügt er +1 Schaden zu. ",
@@ -1027,7 +924,6 @@
         "bd9954b9-1fdf-4645-a381-6af114856601": {
             "name": "Jetzt oder nie",
             "amount": 2,
-            "project_number": 72,
             "front": {
                 "flavor_text": "Eine Niederlage ist keine Schande, solange der Geist ungebrochen bleibt.",
                 "text": "Max. 1 pro Fertigkeitsprobe beitragen.\n<name> erhält <wild> <wild>, falls dem ausführenden Ermittler in dieser Runde bereits mindestens eine Fertigkeitsprobe misslungen ist.",
@@ -1035,8 +931,6 @@
             }
         },
         "be2bc66f-ade3-4d65-9379-f6b15a5eb65d": {
-            "investigator": "Makoto Miyazaki",
-            "project_number": 4,
             "front": {
                 "flavor_text": "„Die Wahrheit wird dich befreien.“",
                 "subtitle": "Die Kurtisane",
@@ -1074,9 +968,8 @@
             }
         },
         "c0fd489e-316a-42d5-ba84-0f969c32af3b": {
-            "name": "<unique>Preis des Teufels",
+            "name": "Preis des Teufels",
             "amount": 2,
-            "project_number": 83,
             "front": {
                 "flavor_text": "„Es machte mir ein Angebot, das ich nicht ablehnen konnte.“",
                 "text": "Als zusätzliche Kosten, um Preis des Teufels zu spielen, nimm 1 direkten Schaden. \n<for> Zu Beginn deines Zuges: Bezahle 1 Ressource oder erschöpfe Preis des Teufels.\nFalls Preis des Teufels spielbereit ist, darfst du den ersten Gelegenheitsangriff in der Runde ignorieren.",
@@ -1085,8 +978,6 @@
         },
         "c1e0e8f0-3497-453c-b4fa-3c4b6fb385bd": {
             "name": "Durch das Schwert sterben",
-            "investigator": "Sakura Sanada",
-            "project_number": 15,
             "front": {
                 "flavor_text": "Lieber der Tod als die Schande.",
                 "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\nGegner in deiner Bedrohungszone erhalten +1 Kampf und du fügst +1 Schaden zu, falls dir eine Fertigkeitsprobe gegen einen Gegner misslingt, der mit einem anderen Ermittler in einen Kampf verwickelt ist.\n<action>: Nimm 2 Schaden oder lege eine <t>Verbündeter</t>-Vorteilskarte von deiner Hand oder aus deiner Spielzone ab: Lege Durch das Schwert sterben ab.",
@@ -1096,7 +987,6 @@
         "c4130872-028f-46a7-9acc-67f61daf21ca": {
             "name": "Spiegelbild",
             "amount": 2,
-            "project_number": 52,
             "front": {
                 "flavor_text": "Glaube nicht alles, was du siehst.",
                 "illustrator": "Illus. Unbekannt",
@@ -1105,8 +995,6 @@
             }
         },
         "c4afb4d5-31dc-4072-b26e-a60424540ef6": {
-            "investigator": "Sakura Sanada",
-            "project_number": 13,
             "front": {
                 "flavor_text": "„Du wirst nicht lange genug leben, um dich an meinen Namen zu erinnern.“",
                 "subtitle": "Die Wandernde",
@@ -1148,7 +1036,6 @@
         "c5753b2b-3b4b-4091-a59f-6f74cb2015de": {
             "name": "Hannya Maske",
             "amount": 2,
-            "project_number": 95,
             "front": {
                 "flavor_text": "„Es ist besser, ein Krieger im Garten zu sein<br> als ein Gärtner im Krieg.“",
                 "text": "Du bekommst +1 <agility>, solange du zu entkommen versuchst. \n<reaction> Sobald ein Nicht-<t>Elite</t>-Gegner dich in einen Kampf verwickeln würde, lege <name> ab: Erschöpfe diesen Gegner stattdessen.",
@@ -1158,7 +1045,6 @@
         "c834d25a-05bb-42b4-a20e-bf6c8f088bdf": {
             "name": "Verborgene Klinge",
             "amount": 2,
-            "project_number": 51,
             "front": {
                 "flavor_text": "„Ich bin unbewaffnet, siehst du? Schau doch mal genauer hin...“",
                 "text": "Anwendungen (3 Geheimnisse). \n<free> Gib 1 Geheimnis aus und erschöpfe <name>: <b>Kampf</b>. Dieser Angriff verwendet <agility> anstatt <combat>. Dieser Angriff darf nur gegen einen Gegner ausgeführt werden, der nicht mit dir in einen Kampf verwickelt ist, und ist automatisch erfolgreich, wenn der Gegner nur noch 1 verbliebene Ausdauer hat.",
@@ -1166,9 +1052,7 @@
             }
         },
         "ccf302ef-4c6f-4d53-84ee-f21136e892aa": {
-            "name": "<unique>Molochischer Usurpator",
-            "investigator": "Mayu Tachibana",
-            "project_number": 16,
+            "name": "Molochischer Usurpator",
             "front": {
                 "flavor_text": "Gefangen im ewigen Zwielicht von Onigawa hatte Mayus Zwillingsschwester Äonen Zeit, um die Macht ihrer heiligen Blutlinie zu erkennen...und das untergegangene Reich für sich zurückzugewinnen.",
                 "text": "Jäger 2.\n<prey> Nur der Träger.\nMolochischer Usurpator kann kein Schaden zugefügt werden, solange es nicht erschöpft ist.",
@@ -1176,9 +1060,8 @@
             }
         },
         "cd37a9a4-764e-4f0c-8bb5-0f95f6d76ca6": {
-            "name": "<unique>Saphir und Lapis",
+            "name": "Saphir und Lapis",
             "amount": 2,
-            "project_number": 53,
             "front": {
                 "subtitle": "Zwei Seelen",
                 "text": "<action>: Falls Saphir und Lapis spielbereit ist: <b>Kampf.</b> Füge deinen <agility>-Wert zu deinem Fertigkeitswert für diesen Angriff hinzu. Falls die Probe um 2 oder mehr gelingt, fügt dieser Angriff +1 Schaden zu und du kannst Saphir und Lapis erschöpfen um diese Kampfaktion erneut auszuführen. \n<reaction> Nachdem du von einem Gegner in der Gegnerphase angegriffen wurdest, erschöpfe Saphir und Lapis: <b>Kampf.</b> Füge deinen <agility>-Wert zu deinem Fertigkeitswert für diesen Angriff hinzu. Dieser Angriff richtet sich auf den angreifenden Gegner.",
@@ -1186,13 +1069,10 @@
             }
         },
         "ceaadf70-fd61-4fc2-8a06-cc090dc18b6b": {
-            "project_number": 43,
             "enumerated": "ignored"
         },
         "d278b0dc-26db-4cec-8700-588ee1a52d79": {
-            "name": "<unique>Sofia Wallace",
             "amount": 2,
-            "project_number": 20,
             "front": {
                 "flavor_text": "Gesegnet sind die Friedenswächter.",
                 "subtitle": "Gläubiger Deputy",
@@ -1203,20 +1083,16 @@
         "d2e1b60c-d351-4661-a00d-0aa79c0129f2": {
             "name": "Schicksalsband",
             "amount": 2,
-            "project_number": 76,
             "front": {
                 "flavor_text": "„Unsere Bande wuchsen wie Wurzeln unter der Erde zusammen, bis wir schließlich feststellten, dass wir ein einziger Baum waren und nicht zwei.“",
                 "illustration_pan_y": 8.0,
                 "text": "Schnell. Spiele diese Karte nur in deinem Zug.\nWähle einen Ermittler. Die nächste Aktion, die du ausführst, darf so durchgeführt werden, als wenn du am Ort des ausgewählten Ermittlers wärst. Entferne <name> aus dem Spiel."
             }
         },
-        "d834f3cc-ee71-470a-8d3c-38e0a78de733": {
-            "project_number": 49
-        },
+        "d834f3cc-ee71-470a-8d3c-38e0a78de733": {},
         "dabeca85-ba12-4f5d-a0be-4c6f43754dbb": {
             "name": "Flackern",
             "amount": 2,
-            "project_number": 63,
             "front": {
                 "flavor_text": "„Warte. Irgendetwas ist hier faul...“",
                 "text": "Schnell. Spiele diese Karte in einem beliebigen <free>-Fenster.\nWähle eine Nicht-Schwäche-Karte, die du kontrollierst, und füge sie wieder der Hand ihres Besitzers zu.",
@@ -1225,7 +1101,6 @@
         },
         "dc882c18-cf7e-4755-bd55-5c9c8af3b1ae": {
             "name": "<unique>Hundehaar",
-            "project_number": 117,
             "front": {
                 "subtitle": "Absinth-Elixir",
                 "text": "Nur für das Deck von Shinobu Sanosuke.\nHundehaar kann das Spiel nicht verlassen. Anwendungen (0 Vorräte).\n<for> Sobald dein Zug beginnt: Platziere 1 Vorrat auf Hundehaar. Dann, falls es genau...\n<bullet> ...1 Vorrat auf sich hat, erhältst du +1 <combat> bis zum Ende der Runde.\n<bullet> ...2 Vorrat auf sich hat, erhältst du +1 <willpower> bis zum Ende der Runde.\n<bullet> ...3 Vorrat auf sich hat, erhältst du +1 <intellect> bis zum Ende der Runde.\n<bullet> ...4 oder mehr Vorräte auf sich hat, nimm alle Vorräte auf Hundehaar als Ressourcen.",
@@ -1233,9 +1108,7 @@
             }
         },
         "ddd23753-0f4e-47b0-92c6-1497efb38f19": {
-            "name": "<unique>Apotheose",
-            "investigator": "Yuki Yagami",
-            "project_number": 2,
+            "name": "Apotheose",
             "front": {
                 "flavor_text": "Die heilige Blutlinie der Göttin Amaterasu wurde sorgfältig bewahrt, bis ein geeignetes Gefäß für ihre Essenz gefunden werden konnte.",
                 "subtitle": "Lebendige Heiligkeit",
@@ -1244,8 +1117,6 @@
             }
         },
         "e4cccd71-ea9b-4b5c-af27-3f477cd3df39": {
-            "investigator": "Mayu Tachibana",
-            "project_number": 17,
             "front": {
                 "flavor_text": "„Ich habe meiner Schwester ein Versprechen gegeben...“",
                 "subtitle": "Der Zwilling",
@@ -1276,12 +1147,12 @@
                 ],
                 "flavor_text": "Mayu wuchs zusammen mit ihrer Schwester Miyu fernab von Arkham auf, in dem abgelegenen Dorf Minakami. Durch den Tod ihrer Mutter wurden die Zwillinge schon in jungen Jahren zu Waisen, doch die hilfsbereiten Dorfbewohner setzten sich gemeinsam dafür ein, dass die Mädchen gut versorgt waren, sodass sie glücklich und unbeschwert aufwachsen konnten. In der Nacht ihres dreizehnten Geburtstags änderte sich jedoch alles, als die Zwillinge in ein geheimnisvolles Portal gezogen wurden, das im Wald außerhalb des Ortes verborgen war, und in einer schrecklichen „Zeitschleife“ gefangen waren. Mayu gelang es schließlich, unversehrt zu entkommen, doch Miyu wurde nie wieder gesehen. Mayu zog nach Arkham, um etwas Abstand zwischen sich und den Erinnerungen an diesen Tag zu bringen, doch seit kurzem wird sie von einem geheimnisvollen purpurroten Schmetterling heimgesucht, der sie scheinbar nach Hause ruft...",
                 "text": "<b>Deckgröße:</b> 30\n<b>Wahl der Klassen:</b> Wähle beim Deckbau entweder Sucher (<seeker>) oder Überlebender (<survivor>).\n<b>Deckbau-Optionen:</b> Mystikerkarten (<mystic>) Stufe 0-5, Neutrale Karten Stufe 0-5, Karten deiner gewählten Klasse Stufe 0-2.\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): Camera Obscura, Molochischer Usurpator, 1 zufällige Grundschwäche.\n<b>Zusätzliche Einschränkungen:</b> Keine <t>Gelassenheit</t>-Vorteilskarten."
-            }
+            },
+            "enumerated": "manual"
         },
         "e4d5aed2-b844-4d0d-bab2-253ca9a105ea": {
             "name": "Mit Haut und Haaren dabei",
             "amount": 2,
-            "project_number": 91,
             "front": {
                 "flavor_text": "„Jede Narbe erzählt eine Geschichte... . Manche sind besser als andere.“",
                 "subtitle": "Herz auf der Zunge",
@@ -1292,7 +1163,6 @@
         "e55db522-ca9d-4824-bc09-0230f5ba1c8f": {
             "name": "Papier-Laterne",
             "amount": 2,
-            "project_number": 92,
             "front": {
                 "illustrator": "Illus. Unbekannt",
                 "text": "Anwendungen (2 Vorräte). Falls <name> keine Vorräte auf sich hat, lege sie ab.\n<for> Sobald ein Ermittler an deinem Ort einen <cultist>-, <elder_thing>-, oder <auto_fail>-Marker während einer Fertigkeitsprobe enthüllt: Entferne 1 Vorrat von <name>. \n<free> Erschöpfe <name>: Dein aktueller Ort erhält –1 Schleierwert bis zum Ende der Runde.",
@@ -1301,7 +1171,6 @@
         },
         "e67b2dc9-3ac5-4ccd-be48-0fbcabcbb08d": {
             "amount": 2,
-            "project_number": 86,
             "front": {
                 "flavor_text": "„Blut treibt die Räder der Geschichte an; hab keine Angst, etwas davon zu vergießen.“",
                 "text": "<reaction> Nachdem ein Gegner dich in einen Kampf verwickelt hat, erschöpfe <name>: Ziehe 1 Karte. \n<free> Nimm 1 direkten Schaden und lege <name> ab: Ziehe 2 Karten.",
@@ -1311,7 +1180,6 @@
         "e7150dac-bd9f-43ee-a4f5-fc312a421812": {
             "name": "Starker Sonnenschein",
             "amount": 2,
-            "project_number": 99,
             "front": {
                 "flavor_text": "Die frühen Pioniere der Luftfahrt stellten fest, dass ihnen das Vokabular fehlte, um den ungewöhnlichen Zustand der „uneingeschränkten Sicht“ zu beschreiben, der mit einem außergewöhnlich klaren Tag einherging.",
                 "text": "Hänge <name> an deinen aktuellen Ort an. Max. 1 pro Ort.\nDer Ort und jeder benachbarte Ort erhalten –1 Schleierwert.",
@@ -1319,9 +1187,6 @@
             }
         },
         "e746e416-965a-44e1-bc10-d92550a07be6": {
-            "name": "<unique>Nabiki Nagata",
-            "investigator": "Hideki Honda",
-            "project_number": 8,
             "front": {
                 "flavor_text": "Nur einer von Hidekis Schülern hat jemals wirklich vielversprechendes Potenzial gezeigt.",
                 "text": "Nur für das Deck von Hideki Honda.\nDu bekommst +1 <agility>.\n<free> Lege Nabiki Nagata ab: <b>Entkommen.</b> Entkomme allen Nicht-<t>Elite</t>-Gegnern an deinem Ort automatisch.",
@@ -1329,13 +1194,11 @@
             }
         },
         "e7720128-2dd5-4aca-afd6-7ae2a1c88a27": {
-            "project_number": 44,
             "enumerated": "ignored"
         },
         "f0ee512e-45d9-4600-bdf5-114966ad9693": {
             "name": "<unique>Iscariots Apokryphen",
             "amount": 2,
-            "project_number": 26,
             "front": {
                 "flavor_text": "Selbst die großartigste Geschichte, die je erzählt wurde, hat zwei Seiten.",
                 "illustrator": "Illus. Unbekannt",
@@ -1347,7 +1210,6 @@
         "f361d8ef-f8f4-491b-93e8-69f438dd696d": {
             "name": "Jetzt oder nie",
             "amount": 2,
-            "project_number": 88,
             "front": {
                 "flavor_text": "Eine Niederlage ist keine Schande, solange der Geist ungebrochen bleibt.",
                 "text": "Max. 1 pro Fertigkeitsprobe beitragen.\n<name> erhält <wild> für jede Probe, die dem ausführenden Ermittler in dieser Runde bereits misslungen ist.",
@@ -1355,9 +1217,7 @@
             }
         },
         "f3abd9e9-86f7-4457-8a14-64667e8ec6ef": {
-            "name": "<unique>Kentaro Kobayashi",
             "amount": 2,
-            "project_number": 67,
             "front": {
                 "flavor_text": "„Raus aus meiner Küche!“",
                 "subtitle": "Manischer Mixologe",
@@ -1368,7 +1228,6 @@
         "f60f61c7-ff99-448c-a343-7dfbc1ed63ec": {
             "name": "Unbezwingbar",
             "amount": 2,
-            "project_number": 29,
             "front": {
                 "flavor_text": "„Mut bedeutet einfach, dass man vor den richtigen Dingen Angst hat.“",
                 "text": "Trage <name> nur zu einer Fertigkeitsprobe bei, die du durchführst.\nFalls diese Probe misslingt, kannst du 1 direkten Schaden nehmen, um die Probe erneut zu versuchen <i>(nachdem alle Effekte der fehlgeschlagenen Probe abgehandelt wurden)</i> und dabei <name> dafür einsetzen.",
@@ -1378,7 +1237,6 @@
         "f7941b61-dc67-4862-9eb0-75016be3a1e9": {
             "name": "Exorzismus",
             "amount": 2,
-            "project_number": 73,
             "front": {
                 "flavor_text": "„Du gehörst nicht in diese Welt!“",
                 "text": "<action>: <b>Kampf.</b> Dieser Angriff verwendet <willpower> statt <combat>. Du bekommst +2 <willpower>. Falls du während einer Fertigkeitsprobe einen <blessing>- oder <elder_sign>-Marker abhandelst oder falls dieser Angriff einen <t>Geist</t> oder <t>Yokai</t>-Gegner als Ziel hat, fügt er +1 Schaden zu. ",
@@ -1388,7 +1246,6 @@
         "f94d27dd-cc86-4081-9ab4-cfaf7a56b1b4": {
             "name": "Austauschbares Schicksal",
             "amount": 2,
-            "project_number": 98,
             "front": {
                 "cost": null,
                 "flavor_text": "Mach dir keine Gedanken über das „Schicksal“, mein Kind...  In dieser Welt gibt es kein anderes Schicksal als das, das wir selbst gestalten.",
@@ -1399,7 +1256,6 @@
         "fd3f62cd-92b6-4083-af7c-ce7a8bbbf433": {
             "name": "Fernwahrnehmung",
             "amount": 2,
-            "project_number": 58,
             "front": {
                 "flavor_text": "„Ich habe überall Augen.“",
                 "text": "<free> Erschöpfe <name>: Schaue dir entweder die oberste Karte des Begegnungsdecks, die oberste Karte eines Ermittlerdecks oder die enthüllte Seite eines verhüllten benachbarten Ortes an.",
@@ -1407,9 +1263,7 @@
             }
         },
         "fdedf4b7-c35c-4527-a3d9-a972e26d52a4": {
-            "name": "<unique>Kasumi Katsura",
             "amount": 2,
-            "project_number": 31,
             "front": {
                 "flavor_text": "„Ich werde die Ehre meines Hauses wiederherstellen, koste es, was es wolle.“",
                 "subtitle": "Letzter Förster des Augusts",
@@ -1565,7 +1419,39 @@
     "project": {
         "meta": {
             "language": "de"
-        }
+        },
+        "export_profiles": [
+            {
+                "name": "Default",
+                "id": "ae901fba-010f-43d7-b1e3-1dd162f15f0c",
+                "entries": [
+                    {
+                        "id": "74a92c30-977d-4f75-a574-4d2ee8e707ca",
+                        "scope": {
+                            "card_ids": [],
+                            "encounter_set_ids": [],
+                            "type": "all"
+                        },
+                        "settings": {
+                            "azao_format": "jpeg",
+                            "azao_quality": 95,
+                            "back_output_path": null,
+                            "export_images": true,
+                            "flavor": "pdf",
+                            "folder": "C:/Users/cdpog/Desktop/GoO Korrigiert Aidex/Müll",
+                            "format": "png",
+                            "include_backs": false,
+                            "output_path": "C:/Users/cdpog/Desktop/GoO Korrigiert Aidex/Investigator_front.pdf",
+                            "quality": 100,
+                            "rounded": false,
+                            "size_label": "FFG 1453×2079 px",
+                            "vector_text": false
+                        },
+                        "type": "pdf"
+                    }
+                ]
+            }
+        ]
     },
     "type": "modification"
 }

@@ -4398,7 +4398,7 @@
                 {
                     "name": "To do Liste",
                     "id": "100659dd",
-                    "markdown": "#To do list\n\n##Miscellaneous\n\n- Harmoniemarker drucken lassen, wie? Theoretisch möglich mit zusätzlichem Papier und jeder schneidet aus und beklebt Pappe. Oder Azao/etc. fragen was möglich ist.https://azaogames.com/en/product/punchboards/\n\n\n##Guide:\n\n- Inaktiv: TBD - 1 Seite sparen um auf 48 Seiten zu kommen - gelöst aber gibt es ggf. bessere Lösungen?\n- Inaktiv: TBD - Kampagnenlogbuch erstellen - noclevernickname performt\n\n\n- Inaktiv: Tokeeto - Platzierung der Orte verbessern - Tokeeto baut Verbesserung nach Arkham Con ein vermutlich November/Dezember, Orte mit den Möglichkeiten von Shoggoth derzeit so gut es geht eingebaut.\n- Inaktiv: Inhaltsverzeichnis und Schnellübersicht. Momentan richtig. Geht besser, aber funktioniert so. Entweder vor Ende prüfen oder Flix fragen (bessere Methode ggf.)\n- Inaktiv: Format von Guide benötigt Fix um näher an Original zu sein, Boxen zu hoch, Seitenränder zu schmal\n\n##Karten:\n\n- Inaktiv: Kartennummerierung EN wie DE noch offen.\n- - <unique>Hitokiri Daimyo: Titel ändern zu - <unique>Hitokiri Daimyō     ?? (Geht in Shoggoth nicht auch nicht mit \\u014d im .json obwohl das Zeichen im Font vorhanden ist)\n- Ermittler Mayu parallel - Schwarz Schrift zu weiß wo nötig\n\nAllgemein\n- Punktpunktpunkt Symbol(!) \"...\" (nicht einzelne Punkte) suchen, durch \"...\" ersetzen und Leerzeichen davor/danach vereinheitlichen\n- Mini Karten fehlen bzw. sind als SE *.eon Rest nur als leere Karten vorhanden?\n- *Mayu Tachibana, Ermittler in Ausbildung (Die schwarze Ernte) und *Mayu Tachibana, Eine vermisste Zwillingsschwester? (Finsteres Herrenhaus) und *Mayu Tachibana, Die Zwillingsschwester (Erinnerungen an Mayu) -> verwenden unterschiedliche Bilder  (low res bzw. upscaled), ich hab das Bild in einer besseren hochskalierten Variante\n\n\n\n## Beides:\n\n\n- Inaktiv: Änderungen der EN community einbauen, derzeit nichts offen\n– Inaktiv: Begriffe konsistent von Karten Purpurroter Schmetterling, Torii-Tor, Blasse Braut etc.\n- Inaktiv (for future reference): Konsistente Übersetzung der folgenden Begriffe so weit möglich derzeit erledigt.\nSteward – Vogt\nChampion - Krieger\nMaster - Meister\nRanger - Förster\nGuardian - Wächter\n\n\n\n## Issues offen bei Tokeeto:\n- Spacing von Überschriften\n- Platzierung der Orte",
+                    "markdown": "#To do list\n\n##Miscellaneous\n\n- Harmoniemarker drucken lassen bei Azao (https://azaogames.com/en/product/punchboards/): 25 mm Durchmesser * 2mm Dicke\n\n- jsons haben Artefakte aus Vorversionen drin die rausgeschmissen werden sollten, z. B. Guide Zeug ist noch in Investigator_de json drin, und Mayu Tachibana Kopie auf Englisch in der project_de json, etc.\n\n\n##Guide:\n\n- Inaktiv: TBD - 1 Seite sparen um auf 48 Seiten zu kommen - gelöst aber gibt es ggf. bessere Lösungen?\n- Inaktiv: TBD - Kampagnenlogbuch erstellen - noclevernickname performt\n\n\n- Inaktiv: Tokeeto - Platzierung der Orte verbessern - Tokeeto baut Verbesserung nach Arkham Con ein vermutlich November/Dezember, Orte mit den Möglichkeiten von Shoggoth derzeit so gut es geht eingebaut. Pfeile?\n- Inaktiv: Inhaltsverzeichnis und Schnellübersicht. Momentan richtig. Geht besser, aber funktioniert so. Entweder vor Ende prüfen oder Flix fragen (bessere Methode ggf.)\n- Inaktiv: Format von Guide benötigt Fix um näher an Original zu sein, Boxen zu hoch, Seitenränder zu schmal\n\n- Bilder verzerrt, teilw. geringe Auflösung (von einigen Bildern hab ich online schon bessere Auflösung rausgesucht)\n\n- Bildeffekt am Rand nochmal bearbeiten, damit die scharfe, gerade Kante wegfällt (besser am Schluss, wenn der Text steht und sich nichts mehr verschiebt)\n\n\n- Erwähnungen von Merkmalen wie z.B. \"Doktrin\" auch fett-kursiv <t> formatieren, hab Guide erstmal nicht nach anderen Merkmale durchsucht/auf Formatierung überprüft\nS. 4 Kampagnenvorbereitung, Zusammensetzung Chaosbeutel -> Leerzeichen zwischen Zahlen und Komma einfügen, z.B. bei 0, und -1. Auch auf anderen Seiten. Auch bei Einzelspielszenario (grüne Box):\n\n- Zusätzliche Regeln und Klarstellungen\nS. 3 Segen-, Fluch- und Harmonie-Marker: Sollte man hier nochmal erwähnen, wie die Mechanik beim ziehen ist und als was <bless> und <curse> gewertet werden (ich nehme an auch +2 bzw. -2)? Jeweils nie mehr als 8(?) im Beutel?...\n\n\n##Karten:\n\n- Inaktiv: Kartennummerierung EN wie DE noch offen. Encounter Set Nummerierung \n- <unique>Hitokiri Daimyo: Titel ändern zu - <unique>Hitokiri Daimyō     ?? (Geht in Shoggoth nicht auch nicht mit \\u014d im .json obwohl das Zeichen im Font vorhanden ist)\n- Ermittler Mayu parallel - Schwarz Schrift zu weiß wo nötig\n- Mini Karten fehlen bzw. sind als SE *.eon Rest nur als leere Karten vorhanden?\n- *Mayu Tachibana, Ermittler in Ausbildung (Die schwarze Ernte) und *Mayu Tachibana, Eine vermisste Zwillingsschwester? (Finsteres Herrenhaus) und *Mayu Tachibana, Die Zwillingsschwester (Erinnerungen an Mayu) -> verwenden unterschiedliche Bilder  (low res bzw. upscaled), ich hab das Bild in einer besseren hochskalierten Variante\n\n\n## Beides:\n\n\n- Inaktiv: Änderungen der EN community einbauen, derzeit nichts offen\n– Inaktiv: Begriffe konsistent von Karten Purpurroter Schmetterling, Torii-Tor, Blasse Braut etc.\n\n\n\n\n\n- Inaktiv (for future reference): Konsistente Übersetzung der folgenden Begriffe so weit möglich derzeit erledigt.\nSteward – Vogt\nChampion - Krieger\nMaster - Meister\nRanger - Förster\nGuardian - Wächter\n\n\n\n## Issues offen bei Tokeeto:\n- Spacing von Überschriften\n- Platzierung der Orte",
                     "type": "interlude"
                 }
             ]
@@ -4408,7 +4408,39 @@
     "project": {
         "meta": {
             "language": "de"
-        }
+        },
+        "export_profiles": [
+            {
+                "name": "Default",
+                "id": "ed0af494-3c18-42ab-9097-04de5a2eb241",
+                "entries": [
+                    {
+                        "id": "ceb541d8-e398-4de0-b4fa-46e69226823e",
+                        "scope": {
+                            "card_ids": [],
+                            "encounter_set_ids": [],
+                            "type": "all"
+                        },
+                        "settings": {
+                            "azao_format": "jpeg",
+                            "azao_quality": 95,
+                            "back_output_path": "C:/Users/cdpog/Desktop/GoO Korrigiert Aidex/campaign_back.pdf",
+                            "export_images": true,
+                            "flavor": "azao",
+                            "folder": "C:/Users/cdpog/Desktop/GoO Korrigiert Aidex/Müll",
+                            "format": "png",
+                            "include_backs": false,
+                            "output_path": "C:/Users/cdpog/Desktop/GoO Korrigiert Aidex/campaign_front.pdf",
+                            "quality": 100,
+                            "rounded": false,
+                            "size_label": "FFG 1453×2079 px",
+                            "vector_text": false
+                        },
+                        "type": "pdf"
+                    }
+                ]
+            }
+        ]
     },
     "type": "modification"
 }

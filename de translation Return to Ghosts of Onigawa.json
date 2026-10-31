@@ -574,6 +574,32 @@
         {
             "name": "Default",
             "id": "3c5aa5aa-ab57-464d-b8f0-ea04bb1b4302",
+            "entries": [
+                {
+                    "id": "15e572b2-316a-42ef-b989-2b912b6afbef",
+                    "scope": {
+                        "card_ids": [],
+                        "encounter_set_ids": [],
+                        "type": "all"
+                    },
+                    "settings": {
+                        "azao_format": "jpeg",
+                        "azao_quality": 95,
+                        "back_output_path": null,
+                        "export_images": true,
+                        "flavor": "pdf",
+                        "folder": "C:/Users/cdpog/Desktop/GoO Korrigiert Aidex/Müll",
+                        "format": "png",
+                        "include_backs": false,
+                        "output_path": "C:/Users/cdpog/Desktop/GoO Korrigiert Aidex/Return to Ghosts of Onigawa_front+back.pdf",
+                        "quality": 100,
+                        "rounded": false,
+                        "size_label": "FFG 1453×2079 px",
+                        "vector_text": true
+                    },
+                    "type": "pdf"
+                }
+            ],
             "scope": {
                 "card_ids": [],
                 "encounter_set_ids": [],

@@ -9,8 +9,10 @@
         {
             "name": "Yuki Yagami",
             "id": "4b161ec2-9d28-4e63-a825-6a5c2de80f91",
-            "project_number": "1",
+            "investigator": "Yuki Yagami",
+            "project_number": 1,
             "front": {
+                "name": "<unique><name>",
                 "agility": "3",
                 "classes": [
                     "guardian"
@@ -44,6 +46,7 @@
         {
             "name": "001mini-Yuki Yagami.eon",
             "id": "ceaadf70-fd61-4fc2-8a06-cc090dc18b6b",
+            "project_number": 43,
             "front": {
                 "illustration": "./images/HD-wallpaper-fantasy-art-magic-anime-girls-dark-hair-red-fantasy-girl-gufeng.jpg",
                 "type": "mini"
@@ -56,8 +59,10 @@
         {
             "name": "Apotheosis",
             "id": "ddd23753-0f4e-47b0-92c6-1497efb38f19",
-            "project_number": "2",
+            "investigator": "Yuki Yagami",
+            "project_number": 2,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "neutral"
                 ],
@@ -89,8 +94,10 @@
         {
             "name": "The Succession",
             "id": "5858396b-6d8a-4f49-a101-b8771761b11c",
-            "project_number": "3",
+            "investigator": "Yuki Yagami",
+            "project_number": 3,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "weakness"
                 ],
@@ -118,8 +125,10 @@
         {
             "name": "Makoto Miyazaki",
             "id": "be2bc66f-ade3-4d65-9379-f6b15a5eb65d",
-            "project_number": "4",
+            "investigator": "Makoto Miyazaki",
+            "project_number": 4,
             "front": {
+                "name": "<unique><name>",
                 "agility": "4",
                 "classes": [
                     "seeker"
@@ -153,6 +162,7 @@
         {
             "name": "002mini-Makoto Miyazaki.eon",
             "id": "e7720128-2dd5-4aca-afd6-7ae2a1c88a27",
+            "project_number": 44,
             "front": {
                 "illustration": "./images/geisha3-bg.png",
                 "type": "mini"
@@ -165,8 +175,10 @@
         {
             "name": "The Infinite Oculus",
             "id": "6bd84c4a-85f0-434b-9f5b-f927bb677a96",
-            "project_number": "5",
+            "investigator": "Makoto Miyazaki",
+            "project_number": 5,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "neutral"
                 ],
@@ -192,7 +204,8 @@
         {
             "name": "Porcelain Mirage",
             "id": "2b081341-00d7-4f17-8263-9196a81e8afc",
-            "project_number": "6",
+            "investigator": "Makoto Miyazaki",
+            "project_number": 6,
             "front": {
                 "classes": [
                     "weakness"
@@ -215,8 +228,10 @@
         {
             "name": "Hideki Honda",
             "id": "9a373a8a-7a1c-4dfa-9936-364320e93d08",
-            "project_number": "7",
+            "investigator": "Hideki Honda",
+            "project_number": 7,
             "front": {
+                "name": "<unique><name>",
                 "agility": "4",
                 "classes": [
                     "rogue"
@@ -248,6 +263,7 @@
         {
             "name": "003mini-Hideki Honda.eon",
             "id": "451be2ae-900a-440d-890b-d409847f4d0a",
+            "project_number": 45,
             "front": {
                 "illustration": "./images/shinobi.jpg",
                 "type": "mini"
@@ -260,8 +276,10 @@
         {
             "name": "Nabiki Nagata",
             "id": "e746e416-965a-44e1-bc10-d92550a07be6",
-            "project_number": "8",
+            "investigator": "Hideki Honda",
+            "project_number": 8,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "neutral"
                 ],
@@ -293,8 +311,10 @@
         {
             "name": "Survivor's Guilt",
             "id": "629f7359-563e-4814-b4ec-7d4d1a8fc7e7",
-            "project_number": "9",
+            "investigator": "Hideki Honda",
+            "project_number": 9,
             "front": {
+                "name": "<name>",
                 "classes": [
                     "weakness"
                 ],
@@ -316,8 +336,10 @@
         {
             "name": "Akira Arisato",
             "id": "15245605-8dc0-4595-89fb-6f242ea9a351",
-            "project_number": "10",
+            "investigator": "Akira Arisato",
+            "project_number": 10,
             "front": {
+                "name": "<unique><name>",
                 "agility": "1",
                 "classes": [
                     "mystic"
@@ -350,6 +372,7 @@
         {
             "name": "004mini-Akira Arisato.eon",
             "id": "93a8417b-4196-4ef8-bdcf-74420dd9d04e",
+            "project_number": 46,
             "front": {
                 "illustration": "./images/celestial-fang-53bfc5f3-febc-492e-95be-9d37cd1ad8c5.jpg",
                 "type": "mini"
@@ -362,8 +385,10 @@
         {
             "name": "Living Memory",
             "id": "7c1f330b-4041-4bda-a1ad-569e26ed29de",
-            "project_number": "11",
+            "investigator": "Akira Arisato",
+            "project_number": 11,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "neutral"
                 ],
@@ -389,8 +414,10 @@
         {
             "name": "Liminal Breach",
             "id": "582d8abc-3cac-469e-ac97-abd88a61ae7c",
-            "project_number": "12",
+            "investigator": "Akira Arisato",
+            "project_number": 12,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "weakness"
                 ],
@@ -418,8 +445,10 @@
         {
             "name": "Sakura Sanada",
             "id": "c4afb4d5-31dc-4072-b26e-a60424540ef6",
-            "project_number": "13",
+            "investigator": "Sakura Sanada",
+            "project_number": 13,
             "front": {
+                "name": "<unique><name>",
                 "agility": "2",
                 "classes": [
                     "survivor"
@@ -450,6 +479,7 @@
         {
             "name": "005mini-Sakura Sanada.eon",
             "id": "40657e44-efbc-4cf0-a1a8-df46a91ce2ce",
+            "project_number": 47,
             "front": {
                 "illustration": "./images/the-art-of-puppeteer-lee-9.jpg",
                 "type": "mini"
@@ -462,8 +492,10 @@
         {
             "name": "Live by the Sword",
             "id": "bb0f6eba-9550-4d2e-9fe1-e482c8449ae4",
-            "project_number": "14",
+            "investigator": "Sakura Sanada",
+            "project_number": 14,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "neutral"
                 ],
@@ -489,7 +521,8 @@
         {
             "name": "Die by the Sword",
             "id": "c1e0e8f0-3497-453c-b4fa-3c4b6fb385bd",
-            "project_number": "15",
+            "investigator": "Sakura Sanada",
+            "project_number": 15,
             "front": {
                 "classes": [
                     "weakness"
@@ -512,8 +545,10 @@
         {
             "name": "Mayu Tachibana",
             "id": "e4cccd71-ea9b-4b5c-af27-3f477cd3df39",
-            "project_number": "16",
+            "investigator": "Mayu Tachibana",
+            "project_number": 16,
             "front": {
+                "name": "<unique><name>",
                 "agility": "4",
                 "classes": [
                     "parallel_mystic"
@@ -545,6 +580,7 @@
         {
             "name": "098mini-Mayu Tachibana.eon",
             "id": "888afb4f-5e1d-43d5-9beb-49eae8ebf81d",
+            "project_number": 48,
             "front": {
                 "illustration": "./images/59092ecf6b60d1d11465e21de487ebe1.jpg",
                 "type": "mini"
@@ -557,8 +593,10 @@
         {
             "name": "Camera Obscura",
             "id": "39d3f679-414a-4a65-acce-3c3c8aebca2d",
-            "project_number": "17",
+            "investigator": "Mayu Tachibana",
+            "project_number": 17,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "neutral"
                 ],
@@ -585,8 +623,10 @@
         {
             "name": "Molochean Usurper",
             "id": "ccf302ef-4c6f-4d53-84ee-f21136e892aa",
-            "project_number": "18",
+            "investigator": "Mayu Tachibana",
+            "project_number": 18,
             "front": {
+                "name": "<unique><name>",
                 "attack": "3",
                 "classes": [
                     "weakness"
@@ -615,7 +655,7 @@
         {
             "name": "Ancestral Favor",
             "id": "08fbd68c-16de-4653-922c-25f6c50443e9",
-            "project_number": "23",
+            "project_number": 23,
             "front": {
                 "classes": [
                     "guardian"
@@ -640,8 +680,9 @@
         {
             "name": "Iscariot's Apocrypha",
             "id": "62acfd78-89d9-4d07-ab43-a3008f07a20f",
-            "project_number": "19",
+            "project_number": 19,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "guardian"
                 ],
@@ -671,7 +712,7 @@
         {
             "name": "Nothing Else Matters",
             "id": "3a29ffc9-10ae-4722-89aa-4ccd89fc46bc",
-            "project_number": "24",
+            "project_number": 24,
             "front": {
                 "classes": [
                     "guardian"
@@ -696,7 +737,7 @@
         {
             "name": "Parabellum",
             "id": "449fc1c7-54c2-4239-ac62-2f3e26a3acac",
-            "project_number": "20",
+            "project_number": 20,
             "front": {
                 "classes": [
                     "guardian"
@@ -724,7 +765,7 @@
         {
             "name": "Safe Haven",
             "id": "168df8cc-4d34-4ea0-96eb-ab3f3fa6816e",
-            "project_number": "22",
+            "project_number": 22,
             "front": {
                 "classes": [
                     "guardian"
@@ -750,8 +791,9 @@
         {
             "name": "Sofia Wallace",
             "id": "d278b0dc-26db-4cec-8700-588ee1a52d79",
-            "project_number": "21",
+            "project_number": 21,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "guardian"
                 ],
@@ -780,7 +822,7 @@
         {
             "name": "Coordinated Infiltration",
             "id": "61dde81d-a4eb-48b3-b071-0aad0e696c7d",
-            "project_number": "26",
+            "project_number": 26,
             "front": {
                 "classes": [
                     "guardian"
@@ -806,7 +848,7 @@
         {
             "name": "Someone Your Own Size",
             "id": "0973d633-0bd7-4222-a024-95de00f9397c",
-            "project_number": "25",
+            "project_number": 25,
             "front": {
                 "classes": [
                     "guardian"
@@ -830,7 +872,7 @@
         {
             "name": "Better Late Than Never",
             "id": "b60c03f5-1c2f-4dfd-a2cd-a4f6bda86794",
-            "project_number": "27",
+            "project_number": 27,
             "front": {
                 "classes": [
                     "guardian"
@@ -856,8 +898,9 @@
         {
             "name": "The Obsidian Manifold",
             "id": "580377bd-7222-4c67-8f6b-3f7473ea8de8",
-            "project_number": "28",
+            "project_number": 28,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "guardian"
                 ],
@@ -887,7 +930,7 @@
         {
             "name": "Indomitable",
             "id": "f60f61c7-ff99-448c-a343-7dfbc1ed63ec",
-            "project_number": "29",
+            "project_number": 29,
             "front": {
                 "classes": [
                     "guardian"
@@ -912,7 +955,7 @@
         {
             "name": "Martyrdom",
             "id": "7fcc44e2-f4d5-4e3d-a718-ee35be18dcf9",
-            "project_number": "30",
+            "project_number": 30,
             "front": {
                 "classes": [
                     "guardian"
@@ -938,7 +981,7 @@
         {
             "name": "Adopt and Adapt",
             "id": "9c0caf3b-7a5b-484f-a15c-b8f7cc282e82",
-            "project_number": "36",
+            "project_number": 36,
             "front": {
                 "classes": [
                     "seeker"
@@ -963,7 +1006,7 @@
         {
             "name": "First Principles",
             "id": "7cc5dd71-8417-4b19-b0cd-42cee41c71e8",
-            "project_number": "32",
+            "project_number": 32,
             "front": {
                 "classes": [
                     "seeker"
@@ -989,8 +1032,9 @@
         {
             "name": "Kasumi Katsura",
             "id": "fdedf4b7-c35c-4527-a3d9-a972e26d52a4",
-            "project_number": "31",
+            "project_number": 31,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "seeker"
                 ],
@@ -1019,7 +1063,7 @@
         {
             "name": "One Way to Find Out",
             "id": "bc0f6eb7-5e8e-4598-a0aa-39f1f5bfaf00",
-            "project_number": "33",
+            "project_number": 33,
             "front": {
                 "classes": [
                     "seeker"
@@ -1045,7 +1089,7 @@
         {
             "name": "Symbolic Enigma",
             "id": "a714c1ad-75f0-4808-898f-613e490cd516",
-            "project_number": "34",
+            "project_number": 34,
             "front": {
                 "classes": [
                     "seeker"
@@ -1071,7 +1115,7 @@
         {
             "name": "Visual Calculus",
             "id": "3132710c-f541-4999-8ace-b68dd97ce3a7",
-            "project_number": "35",
+            "project_number": 35,
             "front": {
                 "classes": [
                     "seeker"
@@ -1097,7 +1141,7 @@
         {
             "name": "Field Autopsy",
             "id": "725b6e3a-bd05-4599-bdfa-8bfc1ee03342",
-            "project_number": "38",
+            "project_number": 38,
             "front": {
                 "classes": [
                     "seeker"
@@ -1123,7 +1167,7 @@
         {
             "name": "Trailblazer",
             "id": "03c2040d-e209-4b29-a1a5-a5d2fec310b2",
-            "project_number": "37",
+            "project_number": 37,
             "front": {
                 "classes": [
                     "seeker"
@@ -1148,7 +1192,7 @@
         {
             "name": "Reason to Believe",
             "id": "4172b6a8-367d-49d2-82fd-b6b8117953c0",
-            "project_number": "39",
+            "project_number": 39,
             "front": {
                 "classes": [
                     "seeker"
@@ -1172,7 +1216,7 @@
         {
             "name": "Method to the Madness",
             "id": "85bd2459-a888-4022-b30e-968d5b53a243",
-            "project_number": "40",
+            "project_number": 40,
             "front": {
                 "classes": [
                     "seeker"
@@ -1197,7 +1241,7 @@
         {
             "name": "Terrible Symmetry",
             "id": "9f49320c-abfb-4040-9919-bda07d157682",
-            "project_number": "41",
+            "project_number": 41,
             "front": {
                 "classes": [
                     "seeker"
@@ -1223,8 +1267,9 @@
         {
             "name": "Geometric Unity",
             "id": "b560e7b0-fddd-42d6-a791-c7b7c954b5cd",
-            "project_number": "42",
+            "project_number": 42,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "seeker"
                 ],
@@ -1254,8 +1299,9 @@
         {
             "name": "“Banzai\" Stiletto",
             "id": "5140d76b-e248-4141-abb9-a4fe50f430c2",
-            "project_number": "43",
+            "project_number": 52,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "rogue"
                 ],
@@ -1284,7 +1330,7 @@
         {
             "name": "Escape Rope",
             "id": "b023a06f-2ec7-48ab-87c1-07022f7a09d3",
-            "project_number": "44",
+            "project_number": 49,
             "front": {
                 "classes": [
                     "rogue"
@@ -1313,7 +1359,7 @@
         {
             "name": "Honed Shuriken",
             "id": "19b2b8f5-2f00-412d-b74a-3413c6353979",
-            "project_number": "45",
+            "project_number": 50,
             "front": {
                 "classes": [
                     "rogue"
@@ -1342,7 +1388,7 @@
         {
             "name": "Make My Own Luck",
             "id": "2edf73d2-88e1-4d29-8e39-695d1dbc991f",
-            "project_number": "48",
+            "project_number": 54,
             "front": {
                 "classes": [
                     "rogue"
@@ -1367,7 +1413,7 @@
         {
             "name": "Marked for Death",
             "id": "708d3c69-2d92-4461-91a3-260102ba6919",
-            "project_number": "47",
+            "project_number": 53,
             "front": {
                 "classes": [
                     "rogue"
@@ -1393,8 +1439,9 @@
         {
             "name": "Trick Limb",
             "id": "2c58fd16-3eeb-4423-9b0a-3e29fa49bba3",
-            "project_number": "46",
+            "project_number": 51,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "rogue"
                 ],
@@ -1422,7 +1469,7 @@
         {
             "name": "Charcoal Grease",
             "id": "3407777e-4d5b-473c-bc24-3289354c7c56",
-            "project_number": "49",
+            "project_number": 55,
             "front": {
                 "classes": [
                     "rogue"
@@ -1451,7 +1498,7 @@
         {
             "name": "Insult to Injury",
             "id": "005db21e-1b34-4146-99d5-501ea9fb7ed5",
-            "project_number": "50",
+            "project_number": 56,
             "front": {
                 "classes": [
                     "rogue"
@@ -1476,7 +1523,7 @@
         {
             "name": "Hidden Blade",
             "id": "c834d25a-05bb-42b4-a20e-bf6c8f088bdf",
-            "project_number": "51",
+            "project_number": 57,
             "front": {
                 "classes": [
                     "rogue"
@@ -1505,7 +1552,7 @@
         {
             "name": "Mirror Image",
             "id": "c4130872-028f-46a7-9acc-67f61daf21ca",
-            "project_number": "52",
+            "project_number": 58,
             "front": {
                 "classes": [
                     "rogue"
@@ -1531,8 +1578,9 @@
         {
             "name": "Sapphire and Lapis",
             "id": "cd37a9a4-764e-4f0c-8bb5-0f95f6d76ca6",
-            "project_number": "53",
+            "project_number": 59,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "rogue"
                 ],
@@ -1562,7 +1610,7 @@
         {
             "name": "Full Count",
             "id": "bd61dc6c-0577-443b-abfd-c9b78825f789",
-            "project_number": "54",
+            "project_number": 60,
             "front": {
                 "classes": [
                     "rogue"
@@ -1589,8 +1637,9 @@
         {
             "name": "Akane Amada",
             "id": "0dee601f-4223-4fb0-8101-5d872bcbf92f",
-            "project_number": "55",
+            "project_number": 61,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "mystic"
                 ],
@@ -1622,7 +1671,7 @@
         {
             "name": "Exorcism",
             "id": "bd93f78d-6e18-49e6-b970-c6c4814d9ccb",
-            "project_number": "56",
+            "project_number": 62,
             "front": {
                 "classes": [
                     "mystic"
@@ -1651,7 +1700,7 @@
         {
             "name": "Hidden Potential",
             "id": "92ee06dc-841f-4dee-b070-7ba1c2f9f00e",
-            "project_number": "60",
+            "project_number": 66,
             "front": {
                 "classes": [
                     "mystic"
@@ -1677,8 +1726,9 @@
         {
             "name": "Parasitic Host",
             "id": "b2c4b5c6-4273-4c51-900f-bcfa14570049",
-            "project_number": "57",
+            "project_number": 63,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "mystic"
                 ],
@@ -1710,7 +1760,7 @@
         {
             "name": "Remote Viewing",
             "id": "fd3f62cd-92b6-4083-af7c-ce7a8bbbf433",
-            "project_number": "58",
+            "project_number": 64,
             "front": {
                 "classes": [
                     "mystic"
@@ -1739,7 +1789,7 @@
         {
             "name": "Spellbinding Seance",
             "id": "9b13cd9e-e6f9-4c4b-a04b-84916d8ebfcb",
-            "project_number": "59",
+            "project_number": 65,
             "front": {
                 "classes": [
                     "mystic"
@@ -1768,7 +1818,7 @@
         {
             "name": "Fan the Flames",
             "id": "03b8a342-ceaa-425e-b011-497bc98fa8e3",
-            "project_number": "61",
+            "project_number": 67,
             "front": {
                 "classes": [
                     "mystic"
@@ -1793,7 +1843,7 @@
         {
             "name": "Rope Effigy",
             "id": "76a8cc35-40be-45a3-bc91-c6501d165644",
-            "project_number": "62",
+            "project_number": 68,
             "front": {
                 "classes": [
                     "mystic"
@@ -1822,7 +1872,7 @@
         {
             "name": "Flicker",
             "id": "dabeca85-ba12-4f5d-a0be-4c6f43754dbb",
-            "project_number": "63",
+            "project_number": 69,
             "front": {
                 "classes": [
                     "mystic"
@@ -1848,7 +1898,7 @@
         {
             "name": "Surrender to Madness",
             "id": "78839405-6dc5-4f69-9b3f-951d850977a6",
-            "project_number": "64",
+            "project_number": 70,
             "front": {
                 "classes": [
                     "mystic"
@@ -1874,8 +1924,9 @@
         {
             "name": "Sidereal Schism",
             "id": "72c854fc-e31b-415f-bcd8-0f8c7ac0d6d4",
-            "project_number": "65",
+            "project_number": 71,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "mystic"
                 ],
@@ -1899,8 +1950,9 @@
         {
             "name": "Eventide",
             "id": "a2b00555-4c7b-4753-b0b5-3ccb1a7ec0be",
-            "project_number": "66",
+            "project_number": 72,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "mystic"
                 ],
@@ -1930,7 +1982,7 @@
         {
             "name": "Bury the Light",
             "id": "3f1f2fd8-4c94-4707-bea9-ca76cb2b79b5",
-            "project_number": "69",
+            "project_number": 75,
             "front": {
                 "classes": [
                     "survivor"
@@ -1956,7 +2008,7 @@
         {
             "name": "Give and Take",
             "id": "b5b76592-8122-4f8a-a69f-f22f30ea4429",
-            "project_number": "67",
+            "project_number": 73,
             "front": {
                 "classes": [
                     "survivor"
@@ -1981,8 +2033,9 @@
         {
             "name": "Kentaro Kobayashi",
             "id": "f3abd9e9-86f7-4457-8a14-64667e8ec6ef",
-            "project_number": "68",
+            "project_number": 74,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "survivor"
                 ],
@@ -2014,7 +2067,7 @@
         {
             "name": "Light the Way",
             "id": "75dfcb27-2c9d-4900-bd30-319182e1e3a9",
-            "project_number": "70",
+            "project_number": 76,
             "front": {
                 "classes": [
                     "survivor"
@@ -2040,7 +2093,7 @@
         {
             "name": "Now or Never",
             "id": "bd9954b9-1fdf-4645-a381-6af114856601",
-            "project_number": "72",
+            "project_number": 78,
             "front": {
                 "classes": [
                     "survivor"
@@ -2065,7 +2118,7 @@
         {
             "name": "Trawl the Shallows",
             "id": "acb6f2e0-8dad-4454-a0a0-a068aa2e606a",
-            "project_number": "71",
+            "project_number": 77,
             "front": {
                 "classes": [
                     "survivor"
@@ -2091,7 +2144,7 @@
         {
             "name": "Limit Break",
             "id": "9d8d40d0-911d-4fec-9e00-ebff01c3c2d4",
-            "project_number": "74",
+            "project_number": 80,
             "front": {
                 "classes": [
                     "survivor"
@@ -2117,7 +2170,7 @@
         {
             "name": "Reckless Abandon",
             "id": "508c4fa5-ba0c-4062-8782-c8eb4c73c232",
-            "project_number": "73",
+            "project_number": 79,
             "front": {
                 "classes": [
                     "survivor"
@@ -2142,7 +2195,7 @@
         {
             "name": "Turn from the Ruin",
             "id": "7daf88a5-2279-48d3-97e7-568021962561",
-            "project_number": "75",
+            "project_number": 81,
             "front": {
                 "classes": [
                     "survivor"
@@ -2168,7 +2221,7 @@
         {
             "name": "Destiny Bond",
             "id": "d2e1b60c-d351-4661-a00d-0aa79c0129f2",
-            "project_number": "76",
+            "project_number": 82,
             "front": {
                 "classes": [
                     "survivor"
@@ -2194,8 +2247,9 @@
         {
             "name": "Selective Memory",
             "id": "6e7ac194-feec-4700-87d4-7d79b53a82a6",
-            "project_number": "77",
+            "project_number": 83,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "survivor"
                 ],
@@ -2219,8 +2273,9 @@
         {
             "name": "Wanderlust",
             "id": "943990cd-fd44-42bf-a829-bb99b6a8bc40",
-            "project_number": "78",
+            "project_number": 84,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "survivor"
                 ],
@@ -2244,7 +2299,7 @@
         {
             "name": "Harakiri",
             "id": "e67b2dc9-3ac5-4ccd-be48-0fbcabcbb08d",
-            "project_number": "86",
+            "project_number": 92,
             "front": {
                 "classes": [
                     "rogue",
@@ -2274,7 +2329,7 @@
         {
             "name": "Hermetic Abacus",
             "id": "8b9320d9-a2c4-4a75-9203-d1bdb9875a05",
-            "project_number": "84",
+            "project_number": 90,
             "front": {
                 "classes": [
                     "seeker",
@@ -2304,7 +2359,7 @@
         {
             "name": "Keening Katana",
             "id": "a4c0c44f-4694-4107-84b2-bad41fcf9f8e",
-            "project_number": "80",
+            "project_number": 86,
             "front": {
                 "classes": [
                     "guardian",
@@ -2334,7 +2389,7 @@
         {
             "name": "Sulfuric Censer",
             "id": "6671b389-0d16-4ab8-b5bf-31fceedeb12b",
-            "project_number": "81",
+            "project_number": 87,
             "front": {
                 "classes": [
                     "guardian",
@@ -2364,8 +2419,9 @@
         {
             "name": "The Believer's Burden",
             "id": "17c966d6-21b4-4484-9adf-311798bc36d0",
-            "project_number": "82",
+            "project_number": 88,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "guardian",
                     "survivor"
@@ -2395,8 +2451,9 @@
         {
             "name": "The Devil's Due",
             "id": "c0fd489e-316a-42d5-ba84-0f969c32af3b",
-            "project_number": "83",
+            "project_number": 89,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "seeker",
                     "rogue"
@@ -2426,8 +2483,9 @@
         {
             "name": "The Dragon's Dogma",
             "id": "6a932fd2-287a-4987-ba8b-0ddf26ecc81d",
-            "project_number": "88",
+            "project_number": 94,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "mystic",
                     "survivor"
@@ -2458,8 +2516,9 @@
         {
             "name": "The Hermit's Heresy",
             "id": "3f507114-4842-46a3-abe2-7500b94a2513",
-            "project_number": "79",
+            "project_number": 85,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "guardian",
                     "seeker"
@@ -2489,8 +2548,9 @@
         {
             "name": "The Phoenix's Pathos",
             "id": "5e2f2b4c-ab89-477b-81cb-f444e86f0a16",
-            "project_number": "85",
+            "project_number": 91,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "seeker",
                     "survivor"
@@ -2520,8 +2580,9 @@
         {
             "name": "The Serpent's Sacrifice",
             "id": "4c39dcd1-ccb4-4a78-ac7d-bcec18cf0e7f",
-            "project_number": "87",
+            "project_number": 93,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "rogue",
                     "survivor"
@@ -2551,7 +2612,7 @@
         {
             "name": "Anticipatory Focus",
             "id": "4d44f2f6-9abc-4c1a-8006-bbe5c3ba695f",
-            "project_number": "93",
+            "project_number": 99,
             "front": {
                 "classes": [
                     "neutral"
@@ -2577,7 +2638,7 @@
         {
             "name": "Hell or High Water",
             "id": "94cb0ff4-db27-400f-9b2b-4287597f3246",
-            "project_number": "89",
+            "project_number": 95,
             "front": {
                 "classes": [
                     "neutral"
@@ -2600,7 +2661,7 @@
         {
             "name": "Hell or High Water",
             "id": "5ae62cde-5ce8-458f-b0c2-e72e36464df5",
-            "project_number": "90",
+            "project_number": 96,
             "front": {
                 "classes": [
                     "neutral"
@@ -2623,7 +2684,7 @@
         {
             "name": "Papercut Lantern",
             "id": "e55db522-ca9d-4824-bc09-0230f5ba1c8f",
-            "project_number": "91",
+            "project_number": 97,
             "front": {
                 "classes": [
                     "neutral"
@@ -2652,7 +2713,7 @@
         {
             "name": "Skin in the Game",
             "id": "e4d5aed2-b844-4d0d-bab2-253ca9a105ea",
-            "project_number": "92",
+            "project_number": 98,
             "front": {
                 "classes": [
                     "neutral"
@@ -2677,7 +2738,7 @@
         {
             "name": "Hannya Mask",
             "id": "c5753b2b-3b4b-4091-a59f-6f74cb2015de",
-            "project_number": "95",
+            "project_number": 101,
             "front": {
                 "classes": [
                     "neutral"
@@ -2704,7 +2765,7 @@
         {
             "name": "Rapid Release",
             "id": "616768bf-0449-426e-9ca8-bce05838c9f4",
-            "project_number": "96",
+            "project_number": 102,
             "front": {
                 "classes": [
                     "neutral"
@@ -2730,8 +2791,9 @@
         {
             "name": "Koromaru",
             "id": "86bf7a8a-a3aa-4228-a781-7094bc54d334",
-            "project_number": "97",
+            "project_number": 103,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "neutral"
                 ],
@@ -2763,7 +2825,7 @@
         {
             "name": "Fungible Fate",
             "id": "f94d27dd-cc86-4081-9ab4-cfaf7a56b1b4",
-            "project_number": "98",
+            "project_number": 104,
             "front": {
                 "classes": [
                     "neutral"
@@ -2787,7 +2849,7 @@
         {
             "name": "Severe Clear",
             "id": "e7150dac-bd9f-43ee-a4f5-fc312a421812",
-            "project_number": "99",
+            "project_number": 105,
             "front": {
                 "classes": [
                     "neutral"
@@ -2813,8 +2875,9 @@
         {
             "name": "Through Thick and Thin",
             "id": "7cce1b3c-44a8-43d2-82d0-f6a9c0bf65dc",
-            "project_number": "100",
+            "project_number": 106,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "neutral"
                 ],
@@ -2836,38 +2899,9 @@
             }
         },
         {
-            "name": "Shinobu Sanosuke",
-            "id": "0ce278f1-7321-4d98-9580-1bb2b4d82770",
-            "project_number": "101",
-            "front": {
-                "classes": [
-                    "neutral"
-                ],
-                "flavor_text": "\"No one should reach nirvana without the taste \nof good saké on their lips.\"",
-                "health": "7",
-                "illustration": "./images/bm-solari-dm1-removebg-preview (1).png",
-                "illustration_pan_x": 126.0,
-                "illustration_pan_y": 285.0,
-                "illustrator": "Illus. BM Solari",
-                "sanity": "7",
-                "subtitle": "The Monk",
-                "text": "You begin the game with Hair of the Dog <i>(Absinthe Elixir)</i> in play.\n<free> Spend 1 supply from Hair of the Dog: You get +1 skill value for this test. (Limit once per turn.)\n<elder_sign> effect: +X. X is the number of supplies on Hair of the Dog.",
-                "title": "<unique><name>",
-                "traits": "Scholar. Drifter.",
-                "type": "investigator"
-            },
-            "back": {
-                "illustration": "./images/bm-solari-dm1.jpg",
-                "illustration_pan_x": -15.0,
-                "illustration_pan_y": 70.0,
-                "illustration_scale": 0.705,
-                "type": "investigator_back"
-            }
-        },
-        {
             "name": "Gods Be Good",
             "id": "3a692339-69a3-4842-a2d6-2ae758c5fe4f",
-            "project_number": "94",
+            "project_number": 100,
             "front": {
                 "classes": [
                     "neutral"
