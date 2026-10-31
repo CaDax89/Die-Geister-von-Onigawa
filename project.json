@@ -8,7 +8,7 @@
     "cards": [
         {
             "name": "The Hidden Village",
-            "id": "60e362fd-8ac7-4fff-94ae-6a9f9f487dcf",
+            "id": "07b6f393-c743-4e0d-b99c-9a47f6a2619c",
             "project_number": 1,
             "front": {
                 "chaos_extra": "Untended Graves",
@@ -26,19 +26,19 @@
                 },
                 "entries": [
                     {
-                        "text": "–X. X is the number of the current act.",
+                        "text": "\u2013X. X is the number of the current act.",
                         "token": "skull"
                     },
                     {
-                        "text": "–1. Reveal another token.",
+                        "text": "\u20131. Reveal another token.",
                         "token": "cultist"
                     },
                     {
-                        "text": "–2. If you fail, add a <curse> token to the chaos bag.",
+                        "text": "\u20132. If you fail, add a <curse> token to the chaos bag.",
                         "token": "tablet"
                     },
                     {
-                        "text": "–3. If you fail, place one of your clues on your current location.",
+                        "text": "\u20133. If you fail, place one of your clues on your current location.",
                         "token": "elder_thing"
                     }
                 ],
@@ -61,19 +61,19 @@
                 "difficulty": "Hard/Expert",
                 "entries": [
                     {
-                        "text": "–X. X is the number of the current agenda.",
+                        "text": "\u2013X. X is the number of the current agenda.",
                         "token": "skull"
                     },
                     {
-                        "text": "–2. Reveal another token.",
+                        "text": "\u20132. Reveal another token.",
                         "token": "cultist"
                     },
                     {
-                        "text": "–3. Add a <curse> token to the chaos bag.",
+                        "text": "\u20133. Add a <curse> token to the chaos bag.",
                         "token": "tablet"
                     },
                     {
-                        "text": "–4. If you fail, place one of your clues on your current location.",
+                        "text": "\u20134. If you fail, place one of your clues on your current location.",
                         "token": "elder_thing"
                     }
                 ],
@@ -84,7 +84,7 @@
         },
         {
             "name": "Into the Wild",
-            "id": "e2f5d4db-bb23-43a3-90d1-8dda38bfa574",
+            "id": "faaa338c-8fb5-4903-a2ab-dafe5c1156b2",
             "project_number": 2,
             "front": {
                 "doom": "4",
@@ -109,7 +109,7 @@
         },
         {
             "name": "Foggy Fettles",
-            "id": "91a0ea77-d3ad-4a9d-b4ac-9a81f9f42211",
+            "id": "60d2cdc9-b0fe-4e69-a4ca-2712d25ebc48",
             "project_number": 3,
             "front": {
                 "doom": "7",
@@ -132,7 +132,7 @@
         },
         {
             "name": "Silent Night",
-            "id": "2ecb2ccb-a456-4712-92df-4aa26f1c5b19",
+            "id": "6278535d-8e8d-455f-9cb5-add6d1ecf9dd",
             "project_number": 4,
             "front": {
                 "doom": "8",
@@ -157,7 +157,7 @@
         },
         {
             "name": "Funeral for a Friend",
-            "id": "c53361f3-af93-4aed-967e-a5984046e4f6",
+            "id": "5c6b6727-2a0f-47d7-86f2-dafe5bab40ce",
             "project_number": 5,
             "front": {
                 "clues": "?",
@@ -181,7 +181,7 @@
         },
         {
             "name": "Requiem",
-            "id": "6eaaddb8-8842-4e69-bdab-9302f0ecbb9a",
+            "id": "41cd1854-9271-4f80-821d-0e70dfb51371",
             "project_number": 6,
             "front": {
                 "clues": "?",
@@ -206,7 +206,7 @@
         },
         {
             "name": "Between Angels and Insects",
-            "id": "eaf09e57-f187-4dff-a478-813b46a5d3f6",
+            "id": "ec0ef072-246f-4697-8fbc-d919d58b453c",
             "project_number": 7,
             "front": {
                 "clues": "?",
@@ -235,7 +235,7 @@
         },
         {
             "name": "Forest Threshold",
-            "id": "b93eca6d-3eb4-44a6-ace5-f3fab1171d4c",
+            "id": "8077700a-912b-473c-9403-79ebc8a519ef",
             "project_number": 9,
             "front": {
                 "clues": "0",
@@ -274,7 +274,7 @@
         },
         {
             "name": "Grotto of the Guardians",
-            "id": "50534a68-5fe9-4003-ae5b-f8f6df3c843c",
+            "id": "53aad4d8-a815-4397-9120-7aa9eabcaff0",
             "project_number": 10,
             "front": {
                 "clues": "1",
@@ -313,7 +313,7 @@
         },
         {
             "name": "Torii Gate",
-            "id": "ccb8ec79-4589-41be-b8ac-c772546ce07d",
+            "id": "6a0598b7-0e4d-477a-b1c7-e64629be146a",
             "project_number": 18,
             "front": {
                 "clues": "0",
@@ -358,7 +358,7 @@
         },
         {
             "name": "Bamboo Avenue",
-            "id": "8b845c30-7ba8-4360-a2f9-12afae228ac7",
+            "id": "41ba22ce-4a18-4c41-87e9-22836bbe19ba",
             "project_number": 8,
             "front": {
                 "clues": "1<per>",
@@ -398,7 +398,7 @@
         },
         {
             "name": "Winding Wend",
-            "id": "44ed80f6-c735-49b0-8050-eadc3aeb6904",
+            "id": "1ce3a262-b220-4a95-87f2-6d14870d4203",
             "project_number": 20,
             "front": {
                 "clues": "1<per>",
@@ -438,7 +438,7 @@
         },
         {
             "name": "Midori's Rise",
-            "id": "7af62765-ff3b-477f-8129-7dd9251fddd2",
+            "id": "b754df4c-eee6-4864-a7d3-5d30ee2fc866",
             "project_number": 13,
             "front": {
                 "clues": "2<per>",
@@ -483,7 +483,7 @@
         },
         {
             "name": "Jiraiya's Redoubt",
-            "id": "c23fdae3-15d9-47e4-95d6-d47b1fdb03a3",
+            "id": "1d7f1b20-4e4d-4c75-b10e-475db28ec8c5",
             "project_number": 12,
             "front": {
                 "clues": "2<per>",
@@ -528,7 +528,7 @@
         },
         {
             "name": "The Last Scion",
-            "id": "6f7188c7-4a51-446b-ba6c-f84090206c3c",
+            "id": "32b634c6-2544-4252-99e9-62d55afcb6d0",
             "project_number": 16,
             "front": {
                 "clues": "2<per>",
@@ -568,7 +568,7 @@
         },
         {
             "name": "Hero's Surrender",
-            "id": "0db64187-8027-4cee-9b50-f16a43e17a14",
+            "id": "bf32fc09-bae5-4c6e-ad18-77e40704c1da",
             "project_number": 11,
             "front": {
                 "clues": "1<per>",
@@ -603,7 +603,7 @@
         },
         {
             "name": "The Lonely Cairn",
-            "id": "16cf7e96-3c57-426f-b9eb-afc4c4469a99",
+            "id": "c9844bf1-86f1-429e-8dbe-ec0160d45625",
             "project_number": 17,
             "front": {
                 "clues": "1<per>",
@@ -639,7 +639,7 @@
         },
         {
             "name": "Widow's Respite",
-            "id": "c7b19421-9ab6-4ef9-9059-6fd41f287690",
+            "id": "0831d8ff-d697-451d-92aa-e29fa78d88c5",
             "project_number": 19,
             "front": {
                 "clues": "1<per>",
@@ -674,7 +674,7 @@
         },
         {
             "name": "Shrine of the Moon",
-            "id": "84f631aa-4f52-4d2f-9ef4-764adbb0680d",
+            "id": "aa1c4bfb-81fc-4a4e-94d6-88c97640e230",
             "project_number": 14,
             "front": {
                 "clues": "1<per>",
@@ -713,7 +713,7 @@
         },
         {
             "name": "Shrine of the Sun",
-            "id": "57f7d241-7470-4995-9d33-44320089a803",
+            "id": "b4abb061-6dcf-48b9-aaad-210fd19c9801",
             "project_number": 15,
             "front": {
                 "clues": "1<per>",
@@ -752,7 +752,7 @@
         },
         {
             "name": "The Crimson Butterfly",
-            "id": "e79997e7-ce58-45ac-b3ac-4f240ced249a",
+            "id": "f1c8fdcc-b357-45f0-accf-f15e357dd74c",
             "project_number": 21,
             "front": {
                 "attack": "?",
@@ -768,7 +768,7 @@
                 "illustration_scale": 1.326,
                 "illustrator": "Illus. Tecmo",
                 "subtitle": "Lighting the Way",
-                "text": "Aloof. Protected. \n<name>'s location gets –1 shroud.\n<action>: <b>Parley.</b> <i>Chase the butterfly.</i> Test <combat> or <agility> (X), where X is your current location's shroud value. As an additional cost to activate this ability, you may spend a clue to reduce this test's difficulty by 1 for each investigator at <name>'s location.\nIf you succeed, move <name> to a connecting <t>Woods</t> location. Then, if that location is unrevealed, reveal it.",
+                "text": "Aloof. Protected. \n<name>'s location gets \u20131 shroud.\n<action>: <b>Parley.</b> <i>Chase the butterfly.</i> Test <combat> or <agility> (X), where X is your current location's shroud value. As an additional cost to activate this ability, you may spend a clue to reduce this test's difficulty by 1 for each investigator at <name>'s location.\nIf you succeed, move <name> to a connecting <t>Woods</t> location. Then, if that location is unrevealed, reveal it.",
                 "title": "<unique><name>",
                 "traits": "Creature. Elite. Spectral.",
                 "type": "enemy"
@@ -781,7 +781,7 @@
         },
         {
             "name": "Vengeful Echo",
-            "id": "0cf9a1ed-bb94-4b09-933b-bfcb46c89456",
+            "id": "d8dc4c47-d75c-47b4-a941-9c0257d4926b",
             "project_number": 22,
             "front": {
                 "attack": "4",
@@ -809,7 +809,7 @@
         },
         {
             "name": "The House on the Hill",
-            "id": "2eb73518-9fe7-4e00-8bed-f9d5047fd63e",
+            "id": "0927038f-1b57-4760-a0ed-2ebc379f2fae",
             "project_number": 23,
             "front": {
                 "chaos_extra": "Explore Deck",
@@ -827,19 +827,19 @@
                 },
                 "entries": [
                     {
-                        "text": "–1. If you fail, take 1 horror. ",
+                        "text": "\u20131. If you fail, take 1 horror. ",
                         "token": "skull"
                     },
                     {
-                        "text": "–2. If you fail, add a <curse> token to the chaos bag. ",
+                        "text": "\u20132. If you fail, add a <curse> token to the chaos bag. ",
                         "token": "cultist"
                     },
                     {
-                        "text": "–2. If you fail, place a clue on your location <i>(from the token pool).</i>",
+                        "text": "\u20132. If you fail, place a clue on your location <i>(from the token pool).</i>",
                         "token": "tablet"
                     },
                     {
-                        "text": "–3. If you fail, discard a non-weakness card from your hand.",
+                        "text": "\u20133. If you fail, discard a non-weakness card from your hand.",
                         "token": "elder_thing"
                     }
                 ],
@@ -862,19 +862,19 @@
                 "difficulty": "Hard/Expert",
                 "entries": [
                     {
-                        "text": "–X. X is number of the current act. If you fail, take 1 horror.",
+                        "text": "\u2013X. X is number of the current act. If you fail, take 1 horror.",
                         "token": "skull"
                     },
                     {
-                        "text": "–2. After this test ends, add a <curse> token to the chaos bag.",
+                        "text": "\u20132. After this test ends, add a <curse> token to the chaos bag.",
                         "token": "cultist"
                     },
                     {
-                        "text": "–3. If you fail, place a clue on your location <i>(from the token pool).</i>",
+                        "text": "\u20133. If you fail, place a clue on your location <i>(from the token pool).</i>",
                         "token": "tablet"
                     },
                     {
-                        "text": "–4. After this test ends, discard a random non-weakness card from your hand.",
+                        "text": "\u20134. After this test ends, discard a random non-weakness card from your hand.",
                         "token": "elder_thing"
                     }
                 ],
@@ -885,7 +885,7 @@
         },
         {
             "name": "Stranger Danger",
-            "id": "8f0e6e41-31a5-4b22-9518-9fff0baa2245",
+            "id": "0daacd92-de26-4c3d-a005-dab95fbf5460",
             "project_number": 24,
             "front": {
                 "doom": "19",
@@ -909,7 +909,7 @@
         },
         {
             "name": "A Permanent Curfew",
-            "id": "9c2b2e77-302c-4aff-8e02-48f91284e5f3",
+            "id": "3ff3f81d-0b5d-4d9a-9d38-31a1f5da9384",
             "project_number": 25,
             "front": {
                 "clues": "4<per>",
@@ -933,7 +933,7 @@
         },
         {
             "name": "Keeping Up",
-            "id": "47850c36-6532-419f-a153-5c4279cdbc51",
+            "id": "e64703cf-4e31-4b66-96b9-a14993f8e1ad",
             "project_number": 26,
             "front": {
                 "clues": "?",
@@ -958,7 +958,7 @@
         },
         {
             "name": "The Hardest Homecoming",
-            "id": "50b08639-7409-4e03-ad34-f0ead81a51c6",
+            "id": "20790b44-5f3d-43b3-9c70-664bbf67769f",
             "project_number": 27,
             "front": {
                 "clues": "?",
@@ -983,7 +983,7 @@
         },
         {
             "name": "The Reception",
-            "id": "3ac58838-4ba5-4c9d-88c9-674d6215b9e9",
+            "id": "12d4463b-5e43-4306-aa6b-6e188ac6b9e9",
             "project_number": 28,
             "front": {
                 "clues": "<dash>",
@@ -1008,7 +1008,7 @@
         },
         {
             "name": "Torii Gate",
-            "id": "597a23c4-44b9-41ef-b906-61af73be97d7",
+            "id": "6fbe8e5e-8f72-48e2-9cfa-c91f1d0a987d",
             "project_number": 33,
             "front": {
                 "clues": "0",
@@ -1046,7 +1046,7 @@
         },
         {
             "name": "Village Square",
-            "id": "a8dedbad-060c-4294-8510-105f05f1814a",
+            "id": "b3f5c878-b7e9-46d2-b6d0-83fd6b8a81c9",
             "project_number": 35,
             "front": {
                 "clues": "2<per>",
@@ -1090,7 +1090,7 @@
         },
         {
             "name": "Darkened Manor",
-            "id": "904ef623-b952-42b3-a4ec-8538b55de08d",
+            "id": "2dcba7ef-16f3-4253-aa4a-54a3f1bbb335",
             "project_number": 29,
             "front": {
                 "clues": "1<per>",
@@ -1124,7 +1124,7 @@
         },
         {
             "name": "Derelict Barracks",
-            "id": "275ecea3-38c6-41dc-b875-7754305bed0a",
+            "id": "9e0b5a9f-1416-4097-a652-507e284fef5c",
             "project_number": 30,
             "front": {
                 "clues": "3<per>",
@@ -1156,7 +1156,7 @@
         },
         {
             "name": "Endless Ascent",
-            "id": "93a17bdf-8c2b-4dd3-84ef-d78c7d8ef190",
+            "id": "1bab62db-c088-4e76-b576-41bf3a0a9af5",
             "project_number": 31,
             "front": {
                 "clues": "2<per>",
@@ -1230,7 +1230,7 @@
         },
         {
             "name": "Twilight Crescent",
-            "id": "f52e4c7f-e683-4f90-bcf7-0f7b99947844",
+            "id": "f2e9b649-e2d8-4ec4-8290-f72177e4f409",
             "project_number": 34,
             "front": {
                 "clues": "2<per>",
@@ -1267,7 +1267,7 @@
         },
         {
             "name": "Wishing Well",
-            "id": "6e7cae13-c681-4a88-a777-ad38800a4245",
+            "id": "df0dd14f-a28f-4f14-ba82-cfcad07781d3",
             "project_number": 36,
             "front": {
                 "clues": "1<per>",
@@ -1304,7 +1304,7 @@
         },
         {
             "name": "Shishio's Guile",
-            "id": "2d76dea6-2674-45cc-835c-53c57f624ab8",
+            "id": "838631ab-1ef1-48eb-baef-1f5607891edf",
             "project_number": 44,
             "front": {
                 "classes": [
@@ -1336,7 +1336,7 @@
         },
         {
             "name": "Caustic Echo",
-            "id": "0fbdd359-9bb3-453d-9981-3a24bb315ea3",
+            "id": "9e2567cb-3860-4f23-af37-d06485e14cfc",
             "amount": 3,
             "project_number": 37,
             "front": {
@@ -1358,7 +1358,7 @@
         },
         {
             "name": "Fate Falls Short",
-            "id": "b18af11b-3636-425b-84ef-e1c20cb5f234",
+            "id": "d1571465-a0e9-4efd-aa02-780c97aca3ce",
             "amount": 4,
             "project_number": 38,
             "front": {
@@ -1380,7 +1380,7 @@
         },
         {
             "name": "Gruesome Harvest",
-            "id": "46127b99-5951-4648-a51b-d18f819af854",
+            "id": "dc72b73b-ff90-45b3-80bc-573ee8e01b92",
             "amount": 3,
             "project_number": 39,
             "front": {
@@ -1401,7 +1401,7 @@
         },
         {
             "name": "Avarice Mimic",
-            "id": "7b4f8fdf-e274-4d65-b737-82c414d6512e",
+            "id": "8ce5248c-5c16-4ee2-a916-de5a31d640d3",
             "amount": 3,
             "project_number": 41,
             "front": {
@@ -1429,7 +1429,7 @@
         },
         {
             "name": "Deathbed Companion",
-            "id": "85beda51-a745-46db-bb00-e51cf56c304b",
+            "id": "8298f149-5397-438e-93ef-f2784bc876ec",
             "amount": 3,
             "project_number": 42,
             "front": {
@@ -1457,7 +1457,7 @@
         },
         {
             "name": "Hitokiri Daimyo",
-            "id": "afabc73c-6365-4469-8b94-1c835c0f2353",
+            "id": "36c2617b-925e-4716-a38a-f48b18e2bdeb",
             "project_number": 43,
             "front": {
                 "attack": "4",
@@ -1487,7 +1487,7 @@
         },
         {
             "name": "The Kodama's Vendetta",
-            "id": "2e822683-7e6a-4eef-a67f-7ad2604f1428",
+            "id": "3aaf524c-3b56-4f1c-a609-03ebd26f4cb2",
             "amount": 2,
             "project_number": 40,
             "front": {
@@ -1509,24 +1509,24 @@
         },
         {
             "name": "The River Delta",
-            "id": "d8d279d2-df52-4f10-86fb-a22c134cc039",
+            "id": "afd0e26a-9248-4fe4-955a-2f9c3ad5abd1",
             "project_number": 45,
             "front": {
                 "entries": [
                     {
-                        "text": "–X. X is the number of the current agenda.",
+                        "text": "\u2013X. X is the number of the current agenda.",
                         "token": "skull"
                     },
                     {
-                        "text": "–1. If you fail, add 1 <curse> token to the chaos bag.",
+                        "text": "\u20131. If you fail, add 1 <curse> token to the chaos bag.",
                         "token": "cultist"
                     },
                     {
-                        "text": "–3. (–2 instead if you control a ready <t>Aspect</t> story asset.)",
+                        "text": "\u20133. (\u20132 instead if you control a ready <t>Aspect</t> story asset.)",
                         "token": "tablet"
                     },
                     {
-                        "text": "–3. If you fail, exhaust The Tyrian Galley.",
+                        "text": "\u20133. If you fail, exhaust The Tyrian Galley.",
                         "token": "elder_thing"
                     }
                 ],
@@ -1536,19 +1536,19 @@
                 "difficulty": "Hard/Expert",
                 "entries": [
                     {
-                        "text": "–X. X is the number of the current agenda.",
+                        "text": "\u2013X. X is the number of the current agenda.",
                         "token": "skull"
                     },
                     {
-                        "text": "–2. If you fail, add 1 <curse> token to the chaos bag.",
+                        "text": "\u20132. If you fail, add 1 <curse> token to the chaos bag.",
                         "token": "cultist"
                     },
                     {
-                        "text": "–4. (–3 instead if you control a ready <t>Aspect</t> story asset.)",
+                        "text": "\u20134. (\u20133 instead if you control a ready <t>Aspect</t> story asset.)",
                         "token": "tablet"
                     },
                     {
-                        "text": "–4. If you fail, exhaust The Tyrian Galley.",
+                        "text": "\u20134. If you fail, exhaust The Tyrian Galley.",
                         "token": "elder_thing"
                     }
                 ],
@@ -1559,7 +1559,7 @@
         },
         {
             "name": "Open Waters",
-            "id": "bccc45f5-a0bf-4ffa-b2a3-ada2a6d9e78d",
+            "id": "df267988-6e98-4f2f-9733-37aa90e39c3a",
             "project_number": 46,
             "front": {
                 "doom": "4",
@@ -1583,7 +1583,7 @@
         },
         {
             "name": "Rising Tide",
-            "id": "221becb4-0723-47df-b931-23905a498161",
+            "id": "79d129d2-5fdc-400b-9b90-6655c521ba55",
             "project_number": 47,
             "front": {
                 "doom": "5",
@@ -1623,7 +1623,7 @@
         },
         {
             "name": "All Aboard",
-            "id": "663eebb4-f39c-467d-932e-0d23daa1bd8b",
+            "id": "2055f61e-c3ee-4b4c-a5bc-6e2683080ec3",
             "project_number": 48,
             "front": {
                 "doom": "8",
@@ -1648,7 +1648,7 @@
         },
         {
             "name": "Gone Fishing",
-            "id": "9c5e6b98-735e-4b3f-a879-2653708c825a",
+            "id": "fd00ec9d-27fd-4a5d-af2c-3bcb02f8f327",
             "project_number": 49,
             "front": {
                 "clues": "4<per>",
@@ -1672,7 +1672,7 @@
         },
         {
             "name": "Line and Sinker",
-            "id": "4d48285e-dc64-4e06-9ceb-f1c9cf65e613",
+            "id": "e09e5749-3574-4066-ab1e-67640f1853f7",
             "project_number": 50,
             "front": {
                 "clues": "4<per>",
@@ -1734,7 +1734,7 @@
         },
         {
             "name": "Abandoned Dockyard",
-            "id": "776a3ed6-c9af-4d7f-86ca-fe0d1e123ad3",
+            "id": "de077152-3476-4086-9603-560ba20c3989",
             "project_number": 51,
             "front": {
                 "clues": "1<per>",
@@ -1768,7 +1768,7 @@
         },
         {
             "name": "Coastal Fort",
-            "id": "20175298-0daa-4d8e-b147-1bf268a83429",
+            "id": "e4d8d454-8e9b-436e-b3c5-5ed530ac02b0",
             "project_number": 53,
             "front": {
                 "clues": "1<per>",
@@ -1802,7 +1802,7 @@
         },
         {
             "name": "Fetid Bog",
-            "id": "39e83a4b-4665-43f4-9420-1dfba6ec4e32",
+            "id": "614ad33b-d996-4907-b397-d5a98cdaf4fc",
             "project_number": 54,
             "front": {
                 "clues": "1<per>",
@@ -1843,7 +1843,7 @@
         },
         {
             "name": "Jagged Atoll",
-            "id": "4a66aac1-c67f-432f-b77a-d4ac69d0283e",
+            "id": "3f719d47-77e2-4438-a6d4-46b7d262043d",
             "project_number": 56,
             "front": {
                 "clues": "1<per>",
@@ -1878,7 +1878,7 @@
         },
         {
             "name": "Smuggler's Cove",
-            "id": "59dd8a7c-383a-4d06-8237-30ceae79e50c",
+            "id": "f56be347-2439-4719-aba6-1a295bf31963",
             "project_number": 59,
             "front": {
                 "clues": "1<per>",
@@ -1915,7 +1915,7 @@
         },
         {
             "name": "Waterlogged Ruins",
-            "id": "526f68c2-f313-4b26-852e-274639511957",
+            "id": "4181be13-2df1-431d-9c30-622115198f1b",
             "project_number": 61,
             "front": {
                 "clues": "1<per>",
@@ -1949,7 +1949,7 @@
         },
         {
             "name": "<unique>The Tyrian Galley",
-            "id": "b2bb0623-7ab8-44ce-b673-0088001bfbcb",
+            "id": "b72b7684-873f-499c-8e6a-89eb836795df",
             "project_number": 65,
             "front": {
                 "classes": [
@@ -1976,7 +1976,7 @@
         },
         {
             "name": "Cascade Terminus",
-            "id": "e2b493ed-e37a-478c-b833-0145f9aeffdb",
+            "id": "eaeb10c0-b494-4c93-95bf-b51a7fc0d1cc",
             "project_number": 52,
             "front": {
                 "clues": "1<per>",
@@ -2010,7 +2010,7 @@
         },
         {
             "name": "Mistveil Strait",
-            "id": "f63ba9a6-950b-4842-8b2b-a1dc3bd05852",
+            "id": "456e7e0a-1690-47f6-8ec6-cf42f4c4e478",
             "project_number": 57,
             "front": {
                 "clues": "1<per>",
@@ -2044,7 +2044,7 @@
         },
         {
             "name": "Sandy Shrine",
-            "id": "42dc447e-2e0d-46ec-8d73-f6be92eab423",
+            "id": "883a1076-a97b-4c1b-9ea1-ed3689218905",
             "project_number": 58,
             "front": {
                 "clues": "1<per>",
@@ -2080,7 +2080,7 @@
         },
         {
             "name": "Sunken Shrine",
-            "id": "c1013f48-0e95-4e96-905f-ed9b184dd86a",
+            "id": "01c9a7ce-b36d-4d68-b860-b6dff5c826d3",
             "project_number": 60,
             "front": {
                 "clues": "1<per>",
@@ -2116,7 +2116,7 @@
         },
         {
             "name": "Sink or Swim",
-            "id": "de116b68-4913-404d-96f6-2bcf6e5a6609",
+            "id": "82058f90-8a27-4edd-84a0-91623144d259",
             "amount": 2,
             "project_number": 63,
             "front": {
@@ -2135,7 +2135,7 @@
         },
         {
             "name": "In the Shadow of the Bride",
-            "id": "f1843a75-2d59-4204-b1dd-f00c39db58d6",
+            "id": "6aa3ceab-33f1-4c98-bc94-d5856e0550c1",
             "project_number": 62,
             "front": {
                 "flavor_text": "She's gone...but she'll never let you go.",
@@ -2156,7 +2156,7 @@
         },
         {
             "name": "<unique>Camera Obscura",
-            "id": "4e69add1-e3fa-4377-89e5-1d36faed4b56",
+            "id": "2d664ee9-5ed4-44ea-9840-27f679b53ed9",
             "project_number": 64,
             "front": {
                 "classes": [
@@ -2185,7 +2185,7 @@
         },
         {
             "name": "The War Eternal",
-            "id": "f3cf83e4-8a00-4c8f-94b1-ff16c163cbb0",
+            "id": "ab38301f-cb72-4deb-aa5b-861e805b1e0b",
             "project_number": 66,
             "front": {
                 "chaos_extra": "Rally Deck",
@@ -2203,19 +2203,19 @@
                 },
                 "entries": [
                     {
-                        "text": "–1. If you fail, take 1 damage.",
+                        "text": "\u20131. If you fail, take 1 damage.",
                         "token": "skull"
                     },
                     {
-                        "text": "–2. If you fail, you must either add 1 <curse> token to the chaos bag or lose an action.",
+                        "text": "\u20132. If you fail, you must either add 1 <curse> token to the chaos bag or lose an action.",
                         "token": "cultist"
                     },
                     {
-                        "text": "–3. If you fail, you must either exhaust an <t>Aspect</t> story asset you control or take 1 horror.",
+                        "text": "\u20133. If you fail, you must either exhaust an <t>Aspect</t> story asset you control or take 1 horror.",
                         "token": "tablet"
                     },
                     {
-                        "text": "–4. If you fail, put the top card of the rally deck into play and resolve its revelation effect.",
+                        "text": "\u20134. If you fail, put the top card of the rally deck into play and resolve its revelation effect.",
                         "token": "elder_thing"
                     }
                 ],
@@ -2242,15 +2242,15 @@
                         "token": "skull"
                     },
                     {
-                        "text": "–3. After this test ends, you must either add 1 <curse> token to the chaos bag or lose an action.",
+                        "text": "\u20133. After this test ends, you must either add 1 <curse> token to the chaos bag or lose an action.",
                         "token": "cultist"
                     },
                     {
-                        "text": "–4. If you control an exhausted <t>Aspect</t> story asset, this test automatically fails.",
+                        "text": "\u20134. If you control an exhausted <t>Aspect</t> story asset, this test automatically fails.",
                         "token": "tablet"
                     },
                     {
-                        "text": "–4. After this test ends, put the top card of the rally deck into play and resolve its revelation effect.",
+                        "text": "\u20134. After this test ends, put the top card of the rally deck into play and resolve its revelation effect.",
                         "token": "elder_thing"
                     }
                 ],
@@ -2261,7 +2261,7 @@
         },
         {
             "name": "Before the Storm",
-            "id": "6104f378-af60-4f6a-8451-eb6270ed497c",
+            "id": "27b528a7-62dc-4196-9ca9-4728c1c2ea0b",
             "project_number": 67,
             "front": {
                 "doom": "?",
@@ -2286,7 +2286,7 @@
         },
         {
             "name": "Shadows of the Past",
-            "id": "e4da54e2-ed14-45c7-9ee3-ced47dce7832",
+            "id": "7e6590be-ef73-4eeb-b23e-f5e0c228f3c5",
             "project_number": 68,
             "front": {
                 "doom": "11",
@@ -2310,7 +2310,7 @@
         },
         {
             "name": "The Last Stand",
-            "id": "0167c0b8-6fcc-4850-ae26-5feb31787505",
+            "id": "1c64dcf7-c4ea-44b4-95a0-cff5805eae49",
             "project_number": 69,
             "front": {
                 "doom": "6",
@@ -2335,7 +2335,7 @@
         },
         {
             "name": "Storming the Gates",
-            "id": "b7556345-e51a-4679-a819-d5fbc3c6e7e5",
+            "id": "8c306aaf-fd76-4034-a11f-cd2ded4554dd",
             "project_number": 70,
             "front": {
                 "clues": "?",
@@ -2359,7 +2359,7 @@
         },
         {
             "name": "Intruder Alert",
-            "id": "7ca3ebc1-6082-4388-a02a-10c9a2bd4695",
+            "id": "de7d22b6-07a0-4902-a452-cd01cf001874",
             "project_number": 71,
             "front": {
                 "clues": "5<per>",
@@ -2384,7 +2384,7 @@
         },
         {
             "name": "A Light in the Darkness",
-            "id": "2cb0562b-18d5-4c31-a95c-ebc5cb92a5cb",
+            "id": "6756b924-ba2f-4582-9282-fc16c1441c9e",
             "project_number": 72,
             "front": {
                 "clues": "?",
@@ -2408,7 +2408,7 @@
         },
         {
             "name": "Dismal Anchorage",
-            "id": "909c09f1-c2c2-4fcc-bf86-fab26761f377",
+            "id": "0c5b25e3-bfa8-4d14-b7f0-aa653b29aaf8",
             "project_number": 75,
             "front": {
                 "clues": "1<per>",
@@ -2445,7 +2445,7 @@
         },
         {
             "name": "Treacherous Gradient",
-            "id": "1efd5189-48a1-4675-889f-7c859ba1e93f",
+            "id": "df1cdd8e-8924-426f-86a9-4beb2817b976",
             "project_number": 84,
             "front": {
                 "clues": "0",
@@ -2483,7 +2483,7 @@
         },
         {
             "name": "Ravaged Gatehouse",
-            "id": "f1e78b23-fa92-408b-b0e4-756d622a2182",
+            "id": "5b0984af-b4d2-4f83-a5f0-6d12208d2b86",
             "project_number": 79,
             "front": {
                 "clues": "1<per>",
@@ -2521,7 +2521,7 @@
         },
         {
             "name": "Paraselene Plaza",
-            "id": "ce994fbe-0181-43e1-82a2-4724abf84a9a",
+            "id": "9cfbb5a8-b664-45c4-ae3c-099073fde52f",
             "project_number": 78,
             "front": {
                 "clues": "0",
@@ -2561,7 +2561,7 @@
         },
         {
             "name": "Royal Palace",
-            "id": "4f151080-0218-4a67-85da-3a6c115d3428",
+            "id": "d155f6bc-77c1-481d-b07e-e6c05d9fc1f1",
             "project_number": 80,
             "front": {
                 "clues": "1<per>",
@@ -2596,7 +2596,7 @@
         },
         {
             "name": "Confounding Switchback",
-            "id": "c3f2f2ce-1e2b-475c-889b-3e19dd109051",
+            "id": "c418f466-48ae-4659-b776-09bf881503bd",
             "project_number": 73,
             "front": {
                 "clues": "0",
@@ -2634,7 +2634,7 @@
         },
         {
             "name": "Swallowtail Inn",
-            "id": "b37a6f42-a1f8-4d41-b783-757f0b658071",
+            "id": "b345f39b-a54f-4457-889d-4bab7366d00b",
             "project_number": 83,
             "front": {
                 "clues": "1<per>",
@@ -2672,7 +2672,7 @@
         },
         {
             "name": "Spymaster's Perch",
-            "id": "8163573e-2c49-4ded-90cc-a39435ff1816",
+            "id": "e0e72f39-d9f9-411c-8085-7d2f2826f1ea",
             "project_number": 81,
             "front": {
                 "clues": "1<per>",
@@ -2710,7 +2710,7 @@
         },
         {
             "name": "Desecrated Temple",
-            "id": "b3996129-3a72-4d51-b69e-8eae84a1ea19",
+            "id": "44b0f217-9d48-4280-a6f1-701090c1eab2",
             "project_number": 74,
             "front": {
                 "clues": "1<per>",
@@ -2748,7 +2748,7 @@
         },
         {
             "name": "Standing Stone",
-            "id": "ce6df126-2313-450d-8fe7-9f6a691e08db",
+            "id": "e1e08ac7-b47c-4d3e-bcbe-49ae4f9ce1ef",
             "project_number": 82,
             "front": {
                 "clues": "1<per>",
@@ -2787,7 +2787,7 @@
         },
         {
             "name": "Overgrown Sepulcher",
-            "id": "fe9a2301-719d-46c8-a738-72414a1ba15c",
+            "id": "65db9e96-843d-4964-8d50-a7e86cd70517",
             "project_number": 77,
             "front": {
                 "clues": "1<per>",
@@ -2825,7 +2825,7 @@
         },
         {
             "name": "Nightingale Antechamber",
-            "id": "085b2a4d-3edb-421f-81e9-49b24f67b0f9",
+            "id": "e897b26b-1cc9-496a-8114-30dbb88b8005",
             "project_number": 76,
             "front": {
                 "clues": "2<per>",
@@ -2863,7 +2863,7 @@
         },
         {
             "name": "<unique>The Crimson Butterfly",
-            "id": "4d33eca4-667f-4583-a6bc-f0602e963b30",
+            "id": "536545b4-d1ef-4696-ab80-37629269fe96",
             "project_number": 85,
             "front": {
                 "classes": [
@@ -2891,24 +2891,24 @@
         },
         {
             "name": "Half Light",
-            "id": "08b4411f-d95f-4f63-befe-1f51ff770ce0",
+            "id": "5f032760-f1c9-42ed-9b15-06e0a69d98dc",
             "project_number": 86,
             "front": {
                 "entries": [
                     {
-                        "text": "–X. X is the number of the current agenda.",
+                        "text": "\u2013X. X is the number of the current agenda.",
                         "token": "skull"
                     },
                     {
-                        "text": "–2. If you fail, add 1 <curse> token to the chaos bag.",
+                        "text": "\u20132. If you fail, add 1 <curse> token to the chaos bag.",
                         "token": "cultist"
                     },
                     {
-                        "text": "–3. If you fail, place 1 doom on the nearest <t>Elite</t> enemy.",
+                        "text": "\u20133. If you fail, place 1 doom on the nearest <t>Elite</t> enemy.",
                         "token": "tablet"
                     },
                     {
-                        "text": "–4. If you fail, exhaust an <t>Aspect</t> asset you control.",
+                        "text": "\u20134. If you fail, exhaust an <t>Aspect</t> asset you control.",
                         "token": "elder_thing"
                     }
                 ],
@@ -2918,19 +2918,19 @@
                 "difficulty": "Hard/Expert",
                 "entries": [
                     {
-                        "text": "–X. X is the number of the current act.",
+                        "text": "\u2013X. X is the number of the current act.",
                         "token": "skull"
                     },
                     {
-                        "text": "–3. After this test ends, you must add 1 <curse> token to the chaos bag or take 1 horror.",
+                        "text": "\u20133. After this test ends, you must add 1 <curse> token to the chaos bag or take 1 horror.",
                         "token": "cultist"
                     },
                     {
-                        "text": "–4. After this test ends, place 1 doom on the nearest <t>Elite</t> enemy.",
+                        "text": "\u20134. After this test ends, place 1 doom on the nearest <t>Elite</t> enemy.",
                         "token": "tablet"
                     },
                     {
-                        "text": "–5. If you control an exhausted <t>Aspect</t> asset, this test automatically fails.",
+                        "text": "\u20135. If you control an exhausted <t>Aspect</t> asset, this test automatically fails.",
                         "token": "elder_thing"
                     }
                 ],
@@ -2941,7 +2941,7 @@
         },
         {
             "name": "Night Court",
-            "id": "619a3014-e7b8-43e3-bb72-3f66b911d0cd",
+            "id": "5a9cf789-7b09-48c3-a3c9-9a711fc35d53",
             "project_number": 87,
             "front": {
                 "doom": "5",
@@ -2978,7 +2978,7 @@
         },
         {
             "name": "Hands Off",
-            "id": "000c23ab-cfc4-4a73-9032-5343898639fc",
+            "id": "19bd4f5e-2518-451a-b17e-6d7d23e3d0b8",
             "project_number": 88,
             "front": {
                 "doom": "7",
@@ -3002,7 +3002,7 @@
         },
         {
             "name": "Reaching the Limit",
-            "id": "195e837c-f147-407e-a966-1cac3c3f8f7d",
+            "id": "49695cc3-9d23-4feb-ba9c-b37dff436f45",
             "project_number": 89,
             "front": {
                 "doom": "12",
@@ -3026,7 +3026,7 @@
         },
         {
             "name": "Seeking an Audience",
-            "id": "16d6c075-9a96-40f6-8f24-517187f236ef",
+            "id": "f177eb63-77f7-4a90-8166-fcec680d501b",
             "project_number": 90,
             "front": {
                 "clues": "5<per>",
@@ -3049,7 +3049,7 @@
         },
         {
             "name": "Beneath the Nightingale Floor",
-            "id": "bc6b1551-c239-458e-8998-0d59cea697fd",
+            "id": "c8fa50eb-f0ce-4dc8-9b74-3ff14548fe10",
             "project_number": 91,
             "front": {
                 "clues": "?",
@@ -3074,7 +3074,7 @@
         },
         {
             "name": "Catching Fire",
-            "id": "76bfbf12-361e-41da-8969-730b96c66aef",
+            "id": "2dd3c88b-4669-4f97-8e0c-797ff0eeb365",
             "project_number": 92,
             "front": {
                 "clues": "?",
@@ -3099,7 +3099,7 @@
         },
         {
             "name": "Entry Hall",
-            "id": "c823572e-1bc4-4c9b-82ca-64f8cc2da8ae",
+            "id": "a8002312-7192-4224-92c1-971b373c0ac3",
             "project_number": 95,
             "front": {
                 "clues": "0",
@@ -3134,7 +3134,7 @@
         },
         {
             "name": "Dim Memorial",
-            "id": "835cc6de-b44d-44cf-b7de-3f962eda5eac",
+            "id": "da95bdf2-463b-400e-bdd9-f7d313b2658b",
             "project_number": 94,
             "front": {
                 "clues": "1<per>",
@@ -3174,7 +3174,7 @@
         },
         {
             "name": "Chashitsu Annex",
-            "id": "b3fa255b-09f2-46e2-8fbf-17219027656d",
+            "id": "c49b45e3-eeac-435b-b7da-9a1b9891bc82",
             "project_number": 93,
             "front": {
                 "clues": "0",
@@ -3213,7 +3213,7 @@
         },
         {
             "name": "Notice Board",
-            "id": "36587cbf-cb22-4d96-b8d8-83ddb74295e6",
+            "id": "f12463a2-7e76-477f-be63-892af98bb617",
             "project_number": 101,
             "front": {
                 "clues": "2",
@@ -3255,7 +3255,7 @@
         },
         {
             "name": "Servant's Scullery",
-            "id": "41dadafa-94d9-4604-b826-48ca75650b18",
+            "id": "b8fcd346-5abc-4b55-a218-064348aa1e35",
             "project_number": 104,
             "front": {
                 "clues": "1<per>",
@@ -3299,7 +3299,7 @@
         },
         {
             "name": "Mannequin Workshop",
-            "id": "f63275a3-27a7-4085-bad9-3053867350f1",
+            "id": "f0c59aea-3ca2-48ff-a924-b2ff51738dfd",
             "project_number": 97,
             "front": {
                 "clues": "1<per>",
@@ -3338,7 +3338,7 @@
         },
         {
             "name": "Musty Corridor",
-            "id": "6c963d50-d557-4cd7-a833-e9df219893fd",
+            "id": "6230d3c8-8021-4761-b930-4d7fbbc99f7c",
             "project_number": 100,
             "front": {
                 "clues": "1<per>",
@@ -3378,7 +3378,7 @@
         },
         {
             "name": "Meditation Chamber",
-            "id": "516ac804-ddb2-45e7-bb37-fee9f5a856a5",
+            "id": "55db0ebb-bc0b-44e2-bea5-9470a3090d5b",
             "project_number": 98,
             "front": {
                 "clues": "1<per>",
@@ -3418,7 +3418,7 @@
         },
         {
             "name": "Moldering Archive",
-            "id": "b90810fd-e027-4d97-9d36-233dce4fd4a9",
+            "id": "ea4da7b1-f118-4d37-a4b6-aa3e2f7ee414",
             "project_number": 99,
             "front": {
                 "clues": "1<per>",
@@ -3460,7 +3460,7 @@
         },
         {
             "name": "Sanguine Altar",
-            "id": "87a8c993-47d1-44bb-bda0-c062c8a96e15",
+            "id": "5ddc5dd2-4b93-4fb4-a537-131a74300480",
             "project_number": 103,
             "front": {
                 "clues": "1<per>",
@@ -3502,7 +3502,7 @@
         },
         {
             "name": "Guest Quarters",
-            "id": "4fbeace4-ace5-4e4a-9629-8fdf8b804733",
+            "id": "73f382bd-5ac8-40bc-b199-58ea0d2ff2c0",
             "project_number": 96,
             "front": {
                 "clues": "1<per>",
@@ -3544,7 +3544,7 @@
         },
         {
             "name": "Orphan's Gaze",
-            "id": "52cb680d-2cf0-41fe-9c79-7b6fd3a0afba",
+            "id": "b5a614e7-d183-4089-8ad7-18d6fce7029d",
             "project_number": 102,
             "front": {
                 "clues": "0",
@@ -3582,7 +3582,7 @@
         },
         {
             "name": "Undercroft Theatre",
-            "id": "5f447cf3-c02b-482f-b8b6-a668f6cc8261",
+            "id": "03d2f354-8892-4d76-9937-7f147e95191c",
             "project_number": 105,
             "front": {
                 "clues": "1<per>",
@@ -3623,7 +3623,7 @@
         },
         {
             "name": "Feast or Famine",
-            "id": "c23a7507-74b2-49a3-9b68-6f9e174581de",
+            "id": "55af9a86-8a67-45bd-9660-e384a07c7328",
             "amount": 3,
             "project_number": 106,
             "front": {
@@ -3645,7 +3645,7 @@
         },
         {
             "name": "Flame Betide",
-            "id": "919b02d6-9046-48bc-8bb7-a44a7a15ae9f",
+            "id": "5ece5310-e2a5-4e1a-b092-759177cd80a5",
             "amount": 4,
             "project_number": 107,
             "front": {
@@ -3666,7 +3666,7 @@
         },
         {
             "name": "Secret Chords",
-            "id": "382e95a3-19f1-4377-8c1c-8dc3f1115aba",
+            "id": "74367d78-4ecd-414d-a7bf-983991fb84ab",
             "amount": 4,
             "project_number": 108,
             "front": {
@@ -3688,7 +3688,7 @@
         },
         {
             "name": "Futakuchi Consort",
-            "id": "8dd31f62-698c-45f9-85ef-12c2dfdd361c",
+            "id": "3115108c-6f84-4666-b836-97e2b003b500",
             "amount": 3,
             "project_number": 109,
             "front": {
@@ -3716,7 +3716,7 @@
         },
         {
             "name": "Lantern Geist",
-            "id": "22349e4c-412a-4159-9f35-b2e5da097699",
+            "id": "98804dd0-6aba-4545-92c4-6c31119356f3",
             "amount": 3,
             "project_number": 110,
             "front": {
@@ -3744,7 +3744,7 @@
         },
         {
             "name": "Parasol Mimic",
-            "id": "d0487fac-52e0-434e-b597-d74200caa5f9",
+            "id": "f2224b81-ebca-4f27-a3a6-dfd278e32a5f",
             "amount": 3,
             "project_number": 111,
             "front": {
@@ -3771,7 +3771,7 @@
         },
         {
             "name": "<unique>Bloodstained Almanac",
-            "id": "2fb9d966-6663-4db5-a034-59d89113c505",
+            "id": "bf75206b-f4de-40cd-9d5e-98d16168e772",
             "project_number": 112,
             "front": {
                 "classes": [
@@ -3804,7 +3804,7 @@
         },
         {
             "name": "<unique>Camera Obscura",
-            "id": "2f53d528-be8d-4e93-ad69-3a5d9ea17c94",
+            "id": "eefe9179-6fe2-459c-b68d-390ed41e75d6",
             "project_number": 113,
             "front": {
                 "classes": [
@@ -3837,7 +3837,7 @@
         },
         {
             "name": "The End of August",
-            "id": "517398bd-4c05-4dbd-a197-3e0c8c9d0dbb",
+            "id": "f75156f3-b0bd-465e-afe3-36bfe42f1d55",
             "project_number": 114,
             "front": {
                 "chaos_extra": "Hunting Grounds",
@@ -3855,19 +3855,19 @@
                 },
                 "entries": [
                     {
-                        "text": "–1. Reveal another token.",
+                        "text": "\u20131. Reveal another token.",
                         "token": "skull"
                     },
                     {
-                        "text": "–2. If you fail, place 1 clue on the nearest <t>Witch</t> enemy <i>(from the token pool).</i>",
+                        "text": "\u20132. If you fail, place 1 clue on the nearest <t>Witch</t> enemy <i>(from the token pool).</i>",
                         "token": "cultist"
                     },
                     {
-                        "text": "–3. If you fail, add 1 <fro> token to the chaos bag.",
+                        "text": "\u20133. If you fail, add 1 <fro> token to the chaos bag.",
                         "token": "tablet"
                     },
                     {
-                        "text": "–4. If you fail, place 1 doom on the nearest <t>Serpent</t> enemy.",
+                        "text": "\u20134. If you fail, place 1 doom on the nearest <t>Serpent</t> enemy.",
                         "token": "elder_thing"
                     }
                 ],
@@ -3890,19 +3890,19 @@
                 "difficulty": "Hard/Expert",
                 "entries": [
                     {
-                        "text": "–1. Reveal another token.",
+                        "text": "\u20131. Reveal another token.",
                         "token": "skull"
                     },
                     {
-                        "text": "–3. If you fail, place 1 clue on the nearest <t>Witch</t> enemy <i>(from the token pool)</i>.",
+                        "text": "\u20133. If you fail, place 1 clue on the nearest <t>Witch</t> enemy <i>(from the token\u00a0pool)</i>.",
                         "token": "cultist"
                     },
                     {
-                        "text": "–4. If you fail, add 1 <fro> token to the chaos bag.",
+                        "text": "\u20134. If you fail, add 1 <fro> token to the chaos bag.",
                         "token": "tablet"
                     },
                     {
-                        "text": "–5. If you fail, place 1 doom on the nearest <t>Serpent</t> enemy.",
+                        "text": "\u20135. If you fail, place 1 doom on the nearest <t>Serpent</t> enemy.",
                         "token": "elder_thing"
                     }
                 ],
@@ -3913,7 +3913,7 @@
         },
         {
             "name": "The Sleeping Giant",
-            "id": "c9617fd8-6e2c-4149-99e6-6e2be704a702",
+            "id": "97b12b83-7be1-4af8-8669-36d1c95792ab",
             "project_number": 115,
             "front": {
                 "doom": "5",
@@ -3924,7 +3924,7 @@
                 "illustration_scale": 1.849,
                 "illustrator": "Illus. Richard K.",
                 "index": "1a",
-                "text": "<i>(Reminder: <fro> tokens have the modifier </i>\"–1, reveal another token.<i>\" If two <fro> tokens are resolved during a single skill test, the test automatically fails and you do not reveal any more tokens for that test.)</i>",
+                "text": "<i>(Reminder: <fro> tokens have the modifier </i>\"\u20131, reveal another token.<i>\" If two <fro> tokens are resolved during a single skill test, the test automatically fails and you do not reveal any more tokens for that test.)</i>",
                 "type": "agenda"
             },
             "back": {
@@ -3938,7 +3938,7 @@
         },
         {
             "name": "The Ophidian Nightmare",
-            "id": "a1509feb-8f5d-4dce-a99d-23ec6ef02e22",
+            "id": "02d374e7-461b-4926-91e9-8936b63406ee",
             "project_number": 116,
             "front": {
                 "doom": "10",
@@ -3948,7 +3948,7 @@
                 "illustration_pan_y": 0.0,
                 "illustrator": "Illus. Darenrin",
                 "index": "2a",
-                "text": "<i>(Reminder: <fro> tokens have the modifier </i>\"–1, reveal another token.<i>\" If two <fro> tokens are resolved during a single skill test, the test automatically fails and you do not reveal any more tokens for that test.)</i>",
+                "text": "<i>(Reminder: <fro> tokens have the modifier </i>\"\u20131, reveal another token.<i>\" If two <fro> tokens are resolved during a single skill test, the test automatically fails and you do not reveal any more tokens for that test.)</i>",
                 "type": "agenda"
             },
             "back": {
@@ -3961,7 +3961,7 @@
         },
         {
             "name": "Winter Wanderland",
-            "id": "e4298a22-955f-4a8e-a027-8cc5ec115eb5",
+            "id": "6b376e08-3cea-46f1-a927-cb874d647da6",
             "project_number": 117,
             "front": {
                 "clues": "?",
@@ -3985,7 +3985,7 @@
         },
         {
             "name": "The Dead of Winter",
-            "id": "697bf669-907e-4941-9cf4-e8f26e542212",
+            "id": "64f06353-659a-4d32-b92f-802d013f3de2",
             "project_number": 118,
             "front": {
                 "clues": "?",
@@ -4010,7 +4010,7 @@
         },
         {
             "name": "The Reason for the Season",
-            "id": "8f902c30-85de-4981-a159-1cf27802e8f3",
+            "id": "5b9e8bd8-4d9d-462f-956c-9ba6aada0b38",
             "project_number": 119,
             "front": {
                 "clues": "<dash>",
@@ -4035,7 +4035,7 @@
         },
         {
             "name": "Exodus Pagoda",
-            "id": "fd298832-9b3d-4853-bf97-d02fbb175a1a",
+            "id": "05df180e-0f4c-498e-b517-14acba8eddc2",
             "project_number": 123,
             "front": {
                 "clues": "0",
@@ -4070,7 +4070,7 @@
         },
         {
             "name": "Kokoro Approach",
-            "id": "2c49bd76-de4f-4147-829e-a76ebdcf59e4",
+            "id": "7c846e26-0aae-41d9-8c6a-cc5442a1a3d6",
             "project_number": 127,
             "front": {
                 "clues": "2",
@@ -4106,7 +4106,7 @@
         },
         {
             "name": "Coward's Reprieve",
-            "id": "4798a53b-f4aa-4542-ae09-60dab2ebcfb9",
+            "id": "0f628908-cd97-4708-aa91-b738974a2ae6",
             "project_number": 121,
             "front": {
                 "clues": "1<per>",
@@ -4145,7 +4145,7 @@
         },
         {
             "name": "August's End",
-            "id": "f54bfa62-e922-4dcc-9632-77ac04a175d3",
+            "id": "313e3b77-1051-4149-bef9-5ff91cf98640",
             "project_number": 120,
             "front": {
                 "clues": "1<per>",
@@ -4184,7 +4184,7 @@
         },
         {
             "name": "Scarlet Omen",
-            "id": "9f5ca38d-90a0-4e73-bc68-ca7aabbc57ce",
+            "id": "70f3476c-32b4-4c61-847b-191376fc8972",
             "project_number": 128,
             "front": {
                 "clues": "2",
@@ -4223,7 +4223,7 @@
         },
         {
             "name": "Glacial Arcade",
-            "id": "e63ca3ff-cd8e-4cca-bb24-df033bd658cb",
+            "id": "5de0f62a-f62f-4d8b-b315-ca6154e96eb5",
             "project_number": 125,
             "front": {
                 "clues": "1<per>",
@@ -4261,7 +4261,7 @@
         },
         {
             "name": "Frozen Altar",
-            "id": "fa8ae1b1-9b29-4380-b42c-8c44243dabe8",
+            "id": "94879729-7ffa-40d8-86a9-4658e6a2e9c0",
             "project_number": 124,
             "front": {
                 "clues": "1<per>",
@@ -4302,7 +4302,7 @@
         },
         {
             "name": "Winterchill Catacombs",
-            "id": "c5cb228e-af9f-4ca1-ba44-5b3280a7f528",
+            "id": "fb11229f-34da-4274-8703-98c24b6ee527",
             "project_number": 132,
             "front": {
                 "clues": "1<per>",
@@ -4342,7 +4342,7 @@
         },
         {
             "name": "Empyrean Expanse",
-            "id": "9d193aa0-9971-4081-a7f2-6e1396e5ca3b",
+            "id": "e69bd5fc-c81c-4643-8dd8-46cb36b2a58c",
             "project_number": 122,
             "front": {
                 "clues": "1<per>",
@@ -4381,7 +4381,7 @@
         },
         {
             "name": "Kanon's Reach",
-            "id": "62d5408d-3511-4f34-ae7e-43decdf4bb03",
+            "id": "df54e046-f96e-4238-984a-fd66fab2f291",
             "project_number": 126,
             "front": {
                 "clues": "1<per>",
@@ -4421,7 +4421,7 @@
         },
         {
             "name": "Sulfurous Spring",
-            "id": "d634cd5d-87f7-46c1-8e8c-ad2be787a3e9",
+            "id": "a822c879-b2dd-4819-9434-af650da3c371",
             "project_number": 130,
             "front": {
                 "clues": "1<per>",
@@ -4463,7 +4463,7 @@
         },
         {
             "name": "Terrace of Judgment",
-            "id": "a4c15b8d-8e53-48b9-8bbb-7dbf81f3fddd",
+            "id": "f7c08a22-3be4-492d-8e16-3f4d8d9630ff",
             "project_number": 131,
             "front": {
                 "clues": "1<per>",
@@ -4505,7 +4505,7 @@
         },
         {
             "name": "Snowblind Citadel",
-            "id": "8ab50a09-11a0-4769-ad7e-22b4e9458f32",
+            "id": "b997edd4-c03b-4d88-93d9-383f93349511",
             "project_number": 129,
             "front": {
                 "clues": "1<per>",
@@ -4544,7 +4544,7 @@
         },
         {
             "name": "Brain Freeze",
-            "id": "a541191b-4ab7-4afd-8aa5-0e19df8e9040",
+            "id": "479952c8-c4c7-4b8a-a6a2-3ebe88d4df0a",
             "amount": 3,
             "project_number": 133,
             "front": {
@@ -4566,7 +4566,7 @@
         },
         {
             "name": "Coldsnap",
-            "id": "96352c7c-e747-46e7-ae74-843b79e5c2d2",
+            "id": "c853a2cd-1c01-4edc-bcbb-10f11752709a",
             "amount": 3,
             "project_number": 135,
             "front": {
@@ -4588,7 +4588,7 @@
         },
         {
             "name": "Thin Ice",
-            "id": "cadd9435-8920-4867-a9e2-b36c695e1e0a",
+            "id": "16df6dfc-c691-4a0e-9bbd-e85114c315a8",
             "amount": 4,
             "project_number": 136,
             "front": {
@@ -4610,7 +4610,7 @@
         },
         {
             "name": "Jorogumo",
-            "id": "b52c4b49-3e0e-4c55-85fa-29b962889e01",
+            "id": "d60062e6-a115-47b2-bac3-80126f347a32",
             "project_number": 137,
             "front": {
                 "attack": "3",
@@ -4640,7 +4640,7 @@
         },
         {
             "name": "Konohana Sakuya",
-            "id": "ddcc2089-e81b-4011-b73d-5192f6c8a280",
+            "id": "4298411b-de62-4b1f-b2b9-e8309d34ce06",
             "project_number": 138,
             "front": {
                 "attack": "3",
@@ -4670,7 +4670,7 @@
         },
         {
             "name": "Onikuma",
-            "id": "a01eb7fc-1b11-4571-963e-4446ba95353b",
+            "id": "3fb3a216-8622-4d30-99d6-e13cf596ce87",
             "project_number": 139,
             "front": {
                 "attack": "1",
@@ -4700,24 +4700,24 @@
         },
         {
             "name": "The Molten Armory",
-            "id": "6fb5eb18-18c6-43ea-bf95-70429b539233",
+            "id": "a6673e45-23ec-4a0c-b957-04677c373608",
             "project_number": 140,
             "front": {
                 "entries": [
                     {
-                        "text": "–1. If you fail, discard the top card of the encounter deck until an enemy is revealed and draw it.",
+                        "text": "\u20131. If you fail, discard the top card of the encounter deck until an enemy is revealed and draw it.",
                         "token": "skull"
                     },
                     {
-                        "text": "–2. If you fail, add 2 <curse> tokens to the chaos bag.",
+                        "text": "\u20132. If you fail, add 2 <curse> tokens to the chaos bag.",
                         "token": "cultist"
                     },
                     {
-                        "text": "–3 if you control an ready <t>Aspect</t> asset. Otherwise, –4.",
+                        "text": "\u20133 if you control an ready <t>Aspect</t> asset. Otherwise, \u20134.",
                         "token": "tablet"
                     },
                     {
-                        "text": "–4. If you fail, place 1 doom on the current agenda.",
+                        "text": "\u20134. If you fail, place 1 doom on the current agenda.",
                         "token": "elder_thing"
                     }
                 ],
@@ -4727,19 +4727,19 @@
                 "difficulty": "Hard/Expert",
                 "entries": [
                     {
-                        "text": "–2. If you fail, discard the top card of the encounter deck until an enemy is revealed and draw it.",
+                        "text": "\u20132. If you fail, discard the top card of the encounter deck until an enemy is revealed and draw it.",
                         "token": "skull"
                     },
                     {
-                        "text": "–3. After this test ends, add 2 <curse> tokens to the chaos bag.",
+                        "text": "\u20133. After this test ends, add 2 <curse> tokens to the chaos bag.",
                         "token": "cultist"
                     },
                     {
-                        "text": "–4. If you control an exhausted <t>Aspect</t> asset, this test automatically fails.",
+                        "text": "\u20134. If you control an exhausted <t>Aspect</t> asset, this test automatically fails.",
                         "token": "tablet"
                     },
                     {
-                        "text": "–4. After this test ends, place 1 doom on the current agenda.",
+                        "text": "\u20134. After this test ends, place 1 doom on the current agenda.",
                         "token": "elder_thing"
                     }
                 ],
@@ -4750,7 +4750,7 @@
         },
         {
             "name": "Out of the Frying Pan",
-            "id": "a8bd3199-d477-4010-b426-877b9c01546c",
+            "id": "ed04fadc-f53c-460f-a4ce-187e59d898a0",
             "project_number": 141,
             "front": {
                 "doom": "4",
@@ -4774,7 +4774,7 @@
         },
         {
             "name": "Hazardous Materials",
-            "id": "70cf8ba4-64a8-405c-a56a-e2a87142fe41",
+            "id": "9cfaa1ed-b9d1-44a5-a4e2-ace943594de4",
             "project_number": 142,
             "front": {
                 "clues": "4<per>",
@@ -4798,7 +4798,7 @@
         },
         {
             "name": "Ashen Alcove",
-            "id": "966056db-a44e-4566-8998-34539484bcc0",
+            "id": "14408520-6b91-4bf9-9de4-4c21f61cfbd1",
             "project_number": 143,
             "front": {
                 "clues": "0",
@@ -4836,7 +4836,7 @@
         },
         {
             "name": "Mannequin Behemoth",
-            "id": "78cedbcd-8106-4ee0-9c80-0999c89d86cf",
+            "id": "da65d4cf-0927-44bc-a4ef-e93de882b9b6",
             "project_number": 145,
             "front": {
                 "clues": "2<per>",
@@ -4876,7 +4876,7 @@
         },
         {
             "name": "Tsurugi's Roost",
-            "id": "18aa49eb-9bd0-47e4-bf5a-64fe7ecd5075",
+            "id": "5b1c2143-cef8-4a2d-b098-fd6b98f8c55b",
             "project_number": 147,
             "front": {
                 "clues": "1<per>",
@@ -4917,7 +4917,7 @@
         },
         {
             "name": "Drainage Sluice",
-            "id": "02cc5839-845b-4318-b93b-2e1ab249b422",
+            "id": "52bae7e7-4619-4328-a205-8a1ee5976271",
             "project_number": 144,
             "front": {
                 "clues": "0",
@@ -4955,7 +4955,7 @@
         },
         {
             "name": "Slag Pit",
-            "id": "6539d02d-5f5a-4d74-9271-883e3efa9e91",
+            "id": "616c37e4-a3d7-40c4-a0d0-c3d6233b7b8a",
             "project_number": 146,
             "front": {
                 "clues": "2<per>",
@@ -4995,7 +4995,7 @@
         },
         {
             "name": "Pressure Cooker",
-            "id": "1a090340-bda4-4f25-bd9f-4be3be53cc9a",
+            "id": "7b6fffee-7e88-479a-b007-cf62a4e6ea21",
             "amount": 3,
             "project_number": 151,
             "front": {
@@ -5016,7 +5016,7 @@
         },
         {
             "name": "In the Hall of the Mountain King",
-            "id": "235a640f-47f9-4c3c-8260-0193d25ef749",
+            "id": "a0c0ee2e-96a0-42d4-b1eb-2dcba652dee6",
             "amount": 3,
             "project_number": 150,
             "front": {
@@ -5037,7 +5037,7 @@
         },
         {
             "name": "Scorched",
-            "id": "249aaa49-23ac-475f-b4f6-cce7b7767e94",
+            "id": "5d85f780-224c-44b8-b12f-e3e6d21d7842",
             "amount": 3,
             "project_number": 152,
             "front": {
@@ -5047,7 +5047,7 @@
                 "illustration_pan_y": -142.0,
                 "illustration_scale": 0.705,
                 "illustrator": "Illus. Mona Finden",
-                "text": "<rev> Test <agility> (3). If you fail, you must either discard a non-weakness asset from your hand or play area that takes up at least 1 hand slot or take 1 damage for every point you failed by.",
+                "text": "<rev> Test <agility> (3). If you fail, you must either discard a non-weakness asset from your hand or play area that takes up at least 1 hand slot or take 1 damage for every point you failed\u00a0by.",
                 "traits": "Injury.",
                 "type": "treachery"
             },
@@ -5059,7 +5059,7 @@
         },
         {
             "name": "Shade of Wukong",
-            "id": "e34eb742-d19a-49dd-8ab2-620e6ba0b50d",
+            "id": "e72a83f4-cdfa-4ff2-9c16-8c47043dc45a",
             "project_number": 155,
             "front": {
                 "attack": "4",
@@ -5089,7 +5089,7 @@
         },
         {
             "name": "Containment Breach",
-            "id": "c1b59e8a-4390-420e-b7c5-8ea1b2af899d",
+            "id": "b78b1b32-ce4b-4f35-b4d3-e23cd0852aa0",
             "amount": 3,
             "project_number": 148,
             "front": {
@@ -5111,7 +5111,7 @@
         },
         {
             "name": "Heat Wave",
-            "id": "68281a94-d0bb-47f1-9bc3-aa6b1d562717",
+            "id": "0afbc689-abfa-46c2-bfee-459beb993fd3",
             "amount": 3,
             "project_number": 149,
             "front": {
@@ -5133,7 +5133,7 @@
         },
         {
             "name": "Cinder Manifest",
-            "id": "8333f8f9-e860-4915-b6cb-b22c65f5bb05",
+            "id": "f5a401ae-5666-44c3-8fea-4f7948e0fa81",
             "amount": 3,
             "project_number": 153,
             "front": {
@@ -5161,7 +5161,7 @@
         },
         {
             "name": "Ignition Gear",
-            "id": "44478b2e-998f-4871-ae85-11736e7c0021",
+            "id": "e25329da-941f-409f-8f5d-4e95e2e29c95",
             "amount": 3,
             "project_number": 154,
             "front": {
@@ -5189,7 +5189,7 @@
         },
         {
             "name": "A Hot Mess",
-            "id": "2e806ab3-df2d-493f-9471-07972a6e58aa",
+            "id": "246d6656-e0e0-4826-96b0-cc3fe0aaeeca",
             "project_number": 156,
             "front": {
                 "clues": "?",
@@ -5205,7 +5205,7 @@
             "back": {
                 "name": "Out of Focus",
                 "index": "2b",
-                "text": "The flaming sphere tracks you as you circumnavigate the bowels of the cavern, its blistering gaze eternally unblinking. The heat intensifies as you draw nearer to it and for a moment you feel kinship with the river of tormented souls caught in its gravity well. It stares through you, silently judging you, and then...something inside your chest decompresses, like a rush of air escaping through a pinhole. The lens of the eye cracks, and then shatters like glass, sending its smoldering shards tumbling into the abyss below. The cavern rumbles, nearly throwing you from your precarious perch, and you barely manage to leap back to solid ground before the lava field cools and hardens into a charred glacier of bone and ash...\nFrom your vantage, you can barely catch a glimpse of the flaming portal at the apex of the volcano in time to watch its fiery barrier recede...and a dark figure emerge from the shadows beyond. A torrent of spirits seems to circle the grim weapon it carries, and you feel the ground sizzling beneath your feet...\nEach investigator must draw a copy of the set-aside Boiling Point treachery and put it into play in their threat area.\nPut the set-aside Kurama Tengu <i>(The Molochean Hand)</i> into play at The Firebreak.\nCheck the Campaign Log and place X doom on Kurama Tengu, where X is the number of Champions of Onigawa laid to rest.\nShuffle the encounter discard pile into the encounter deck.\n\n\n",
+                "text": "The flaming sphere tracks you as you circumnavigate the bowels of the cavern, its blistering gaze eternally unblinking. The heat intensifies as you draw nearer to it and for a moment you feel kinship with the river of tormented souls caught in its gravity well. It stares through you, silently judging you, and then...something inside your chest decompresses, like a rush of air escaping through a pinhole. The lens of the eye cracks, and then shatters like glass, sending its smoldering shards tumbling into the abyss below. The cavern rumbles, nearly throwing you from your precarious perch, and you barely manage to leap back to solid ground before the lava field cools and hardens into a charred glacier of bone and ash...\nFrom your vantage, you can barely catch a glimpse of the flaming portal at the apex of the volcano in time to watch its fiery barrier recede...and a dark figure emerge from the shadows beyond. A torrent of spirits seems to circle the grim weapon it carries, and you feel the ground sizzling beneath your\u00a0feet...\nEach investigator must draw a copy of the set-aside Boiling Point treachery and put it into play in their threat area.\nPut the set-aside Kurama Tengu <i>(The Molochean Hand)</i> into play at The Firebreak.\nCheck the Campaign Log and place X doom on Kurama Tengu, where X is the number of Champions of Onigawa laid to rest.\nShuffle the encounter discard pile into the encounter deck.\n\n\n",
                 "type": "act_back"
             },
             "encounter_number": "1",
@@ -5213,7 +5213,7 @@
         },
         {
             "name": "A Challenger Approaches",
-            "id": "1bb9c007-8583-4935-8495-8964fa2ad9e4",
+            "id": "cc1ecf15-3319-43c7-ab69-ad59d5ecb74f",
             "project_number": 158,
             "front": {
                 "clues": "?",
@@ -5238,7 +5238,7 @@
         },
         {
             "name": "Fire Drill",
-            "id": "48613f23-9bfc-4eb6-a5f1-13f6139d2890",
+            "id": "c734cd5e-aae8-4ee5-99ba-05fd0de1c546",
             "project_number": 157,
             "front": {
                 "clues": "?",
@@ -5263,7 +5263,7 @@
         },
         {
             "name": "The Master's Tools",
-            "id": "c7fb3282-dd82-4b7d-b7ae-ab3feb84b64b",
+            "id": "8abb8940-67c4-4f20-9c05-44353bbb9380",
             "project_number": 159,
             "front": {
                 "clues": "?",
@@ -5287,7 +5287,7 @@
         },
         {
             "name": "The Firebreak",
-            "id": "63f3dc3a-1fcf-4910-9e16-27d0928dc9a4",
+            "id": "7794dfa8-26b7-4d93-9c19-6928a213a859",
             "project_number": 162,
             "front": {
                 "clues": "1<per>",
@@ -5327,7 +5327,7 @@
         },
         {
             "name": "The Anvil of Creation",
-            "id": "57747e02-9da4-4a5e-a3e2-d44c873b4499",
+            "id": "825d67e3-76ae-4e82-984d-5cbb6a4f3c9e",
             "project_number": 161,
             "front": {
                 "clues": "1<per>",
@@ -5367,7 +5367,7 @@
         },
         {
             "name": "The Focusing Iris",
-            "id": "fc6531d9-eeba-4720-8e4a-c3e6d752ffb4",
+            "id": "45b102ac-fd13-4aaf-a352-1bf51a4dc9cc",
             "project_number": 163,
             "front": {
                 "clues": "2<per>",
@@ -5407,7 +5407,7 @@
         },
         {
             "name": "Molten Crucible",
-            "id": "3a8ceebf-7bef-49d9-9060-f24943ba45d1",
+            "id": "ca6ead3c-606c-4999-9d34-6d3e39334e3a",
             "project_number": 160,
             "front": {
                 "clues": "2<per>",
@@ -5446,7 +5446,7 @@
         },
         {
             "name": "The Tallow Chorus",
-            "id": "c9ba3ee9-f3fd-4211-8553-a1b919d08ecf",
+            "id": "ede2f5cf-bbb5-4e75-92e4-aa1076628422",
             "project_number": 166,
             "front": {
                 "attack": "4",
@@ -5476,7 +5476,7 @@
         },
         {
             "name": "Kurama Tengu",
-            "id": "444adcea-4caa-41f2-899d-7e011533ba17",
+            "id": "5befdf05-8c76-4fb4-bce9-18e2b8793b4c",
             "project_number": 165,
             "front": {
                 "attack": "4",
@@ -5505,7 +5505,7 @@
             "encounter_set": "4dbbf3e6-90af-44d2-ae86-54d33b3fe059"
         },
         {
-            "name": "“Sensei\" Kanuti",
+            "name": "\u201cSensei\" Kanuti",
             "id": "bf57416d-05e1-4002-97f8-4efd49d3bf01",
             "project_number": 167,
             "front": {
@@ -5536,7 +5536,7 @@
         },
         {
             "name": "Boiling Point",
-            "id": "31b7ecb6-ed98-4a29-aa25-5f4053cb77dc",
+            "id": "8e0b0b9b-6e5c-4c75-9da3-ad26edb22775",
             "amount": 4,
             "project_number": 164,
             "front": {
@@ -5558,7 +5558,7 @@
         },
         {
             "name": "The Black Harvest",
-            "id": "d66bdd3a-5636-40da-98e2-c5babb855082",
+            "id": "785eea86-52d1-4a97-8fef-7f33229799bb",
             "project_number": 168,
             "front": {
                 "chaos_extra": "Sacrifice Deck",
@@ -5576,19 +5576,19 @@
                 },
                 "entries": [
                     {
-                        "text": "–X. X is the number of the current agenda.",
+                        "text": "\u2013X. X is the number of the current agenda.",
                         "token": "skull"
                     },
                     {
-                        "text": "–2. If you fail, add 1 <curse> token to the chaos bag.",
+                        "text": "\u20132. If you fail, add 1 <curse> token to the chaos bag.",
                         "token": "cultist"
                     },
                     {
-                        "text": "–3. If you fail, search the chaos bag for 1 <blessing> token and return it to the token pool. If you cannot, take 1 horror, instead.",
+                        "text": "\u20133. If you fail, search the chaos bag for 1 <blessing> token and return it to the token pool. If you cannot, take 1 horror, instead.",
                         "token": "tablet"
                     },
                     {
-                        "text": "–4. If you fail, perform a <b>Sacrifice</b>. ",
+                        "text": "\u20134. If you fail, perform a <b>Sacrifice</b>. ",
                         "token": "elder_thing"
                     }
                 ],
@@ -5611,25 +5611,25 @@
                 "difficulty": "Hard/Expert",
                 "entries": [
                     {
-                        "text": "–X. X is the number of the current act.",
+                        "text": "\u2013X. X is the number of the current act.",
                         "token": [
                             "skull"
                         ]
                     },
                     {
-                        "text": "–3. If you fail, add 1 <curse> token to the chaos bag.",
+                        "text": "\u20133. If you fail, add 1 <curse> token to the chaos bag.",
                         "token": [
                             "cultist"
                         ]
                     },
                     {
-                        "text": "–4. After this test ends, search the chaos bag for 1 <blessing> token and return it to the token pool. If you cannot, take 1 horror, instead.",
+                        "text": "\u20134. After this test ends, search the chaos bag for 1 <blessing> token and return it to the token pool. If you cannot, take 1 horror, instead.",
                         "token": [
                             "tablet"
                         ]
                     },
                     {
-                        "text": "–4. After this test ends, perform a <b>Sacrifice</b>.",
+                        "text": "\u20134. After this test ends, perform a <b>Sacrifice</b>.",
                         "token": [
                             "elder_thing"
                         ]
@@ -5642,7 +5642,7 @@
         },
         {
             "name": "Don't Fear the Reaper",
-            "id": "3205d061-7372-4ee6-aa2b-87e0b149c503",
+            "id": "76adc6f5-1ab5-466a-8cc1-485874e5482b",
             "project_number": 169,
             "front": {
                 "doom": "7",
@@ -5667,7 +5667,7 @@
         },
         {
             "name": "A Machine for Pigs",
-            "id": "377c6ba4-fe18-4746-bf93-b52811c7da54",
+            "id": "e7453916-09ba-4420-b4c1-fa1b04cac6cb",
             "project_number": 170,
             "front": {
                 "doom": "8",
@@ -5717,7 +5717,7 @@
         },
         {
             "name": "Higher Ground",
-            "id": "e0d5f1e6-93da-45df-9b82-e15ad37b7c82",
+            "id": "0a6de36a-40f0-494c-aa26-d4decae9811c",
             "project_number": 171,
             "front": {
                 "clues": "3<per>",
@@ -5740,7 +5740,7 @@
         },
         {
             "name": "One Small Step",
-            "id": "b95e4e29-64fa-4c04-bd3f-405d9f10d7f6",
+            "id": "50519336-1c53-44e8-adf5-7709dfde937e",
             "project_number": 172,
             "front": {
                 "clues": "?",
@@ -5765,7 +5765,7 @@
         },
         {
             "name": "Deep Impact",
-            "id": "13752132-4a00-4068-8d52-f00312c47985",
+            "id": "1661d145-9dc6-4580-84f3-2eaf9ee2cd88",
             "project_number": 174,
             "front": {
                 "clues": "?",
@@ -5790,7 +5790,7 @@
         },
         {
             "name": "Evening the Odds",
-            "id": "798ab361-d037-4076-bb29-93eb2b637161",
+            "id": "af4a4e7c-a022-4dc9-9f37-7c672708c034",
             "project_number": 175,
             "front": {
                 "clues": "?",
@@ -5815,7 +5815,7 @@
         },
         {
             "name": "The Broken Shelf",
-            "id": "20ed54bf-6b29-481b-ba1d-04da160c19cb",
+            "id": "bb347d34-58b5-4b7f-a157-fdf0bbb78d70",
             "project_number": 179,
             "front": {
                 "clues": "1<per>",
@@ -5848,7 +5848,7 @@
         },
         {
             "name": "Torii Nexus",
-            "id": "ede58bb6-2fed-435b-a464-eee447dd5fbb",
+            "id": "1c571c26-34c8-4a85-a07e-5e05f8e1f9a4",
             "project_number": 181,
             "front": {
                 "clues": "0",
@@ -5882,7 +5882,7 @@
         },
         {
             "name": "Terramorphic Rainforest",
-            "id": "13dca30b-2999-4194-abe3-8f4a3b615a15",
+            "id": "e5c72c29-3295-4fb5-bc65-0fde8529d8ca",
             "project_number": 178,
             "front": {
                 "clues": "1<per>",
@@ -5915,7 +5915,7 @@
         },
         {
             "name": "Worldskein Aperture",
-            "id": "b1019be5-1e72-41fc-a2f3-0c57ea728b7e",
+            "id": "efd92e52-17ac-4b10-9a4e-88288eff63a5",
             "project_number": 182,
             "front": {
                 "clues": "1<per>",
@@ -5927,7 +5927,7 @@
                 "illustrator": "Illus. Project Eluune",
                 "shroud": "3",
                 "subtitle": "The Future Refused to Change",
-                "text": "<reaction> After you successfully investigate <name>: Instead of discovering clues, you may add up to X <curse> tokens to the chaos bag, where X is amount you succeeded by.",
+                "text": "<reaction> After you successfully investigate <name>: Instead of discovering clues, you may add up to X <curse> tokens to the chaos bag, where X is amount you succeeded\u00a0by.",
                 "traits": "Ruins. Shattered.",
                 "type": "location"
             },
@@ -5949,7 +5949,7 @@
         },
         {
             "name": "The Drowning Pool",
-            "id": "63db5e5d-0d2c-4989-af13-64d47d8d4358",
+            "id": "06323852-0c89-4530-b15c-7d8a6169d6db",
             "project_number": 180,
             "front": {
                 "clues": "1<per>",
@@ -5982,7 +5982,7 @@
         },
         {
             "name": "Sundered Cathedral",
-            "id": "bdb85d45-a28c-46a5-b839-205f03b96b77",
+            "id": "a0faa4ad-2e93-4646-9ebf-7d82fb447d52",
             "project_number": 177,
             "front": {
                 "clues": "1<per>",
@@ -6017,7 +6017,7 @@
         },
         {
             "name": "Profane Altar",
-            "id": "1b35afc2-3676-4dea-af8d-978b5917493d",
+            "id": "0e1476e9-1f36-4d82-9db3-5a7c4fb29be9",
             "project_number": 176,
             "front": {
                 "clues": "1<per>",
@@ -6056,7 +6056,7 @@
         },
         {
             "name": "Shepherd of the Black Harvest",
-            "id": "850f8590-1373-4809-bddd-c54a488ed8ee",
+            "id": "d77ab1ad-bdf2-4c44-b8c2-9ce430f475ab",
             "project_number": 190,
             "front": {
                 "attack": "?",
@@ -6085,7 +6085,7 @@
         },
         {
             "name": "Miyu Tachibana",
-            "id": "851fefac-73a4-4a04-a3db-416c1f1deeca",
+            "id": "1b842ee3-8308-4d8a-b7c7-9fa3d51474f1",
             "project_number": 188,
             "front": {
                 "attack": "<dash>",
@@ -6111,7 +6111,7 @@
         },
         {
             "name": "Mayu Tachibana",
-            "id": "817dbe6c-d8ea-487c-adaf-76a41b62421c",
+            "id": "7c4277c9-fe20-4af9-815b-8ba1e99fde96",
             "project_number": 192,
             "front": {
                 "classes": [
@@ -6136,7 +6136,7 @@
         },
         {
             "name": "Cruel Obeisance",
-            "id": "43d47e3a-f71e-4426-9434-1335ee4e5ba5",
+            "id": "f0163d72-8d22-4ce2-a2c1-fe2f9b33866a",
             "amount": 4,
             "project_number": 183,
             "front": {
@@ -6158,7 +6158,7 @@
         },
         {
             "name": "Molochean Arbiter",
-            "id": "4ebf9847-cbcd-446c-a1a1-6560fc56c8e4",
+            "id": "b9fd7670-4ce5-47ca-bada-7a1598079089",
             "amount": 3,
             "project_number": 189,
             "front": {
@@ -6183,7 +6183,7 @@
         },
         {
             "name": "Yatagarasu",
-            "id": "ffb91090-a661-473b-927b-22b761ee65e5",
+            "id": "c34f66f3-b894-4479-aa07-f50247565200",
             "project_number": 191,
             "front": {
                 "name": "<unique><name>",
@@ -6213,7 +6213,7 @@
         },
         {
             "name": "The Call of Carthage",
-            "id": "4ab08c2e-668c-4ccd-ba0a-29d41f30b1fb",
+            "id": "edf135c0-7b2f-4390-a6bf-4355517ebcec",
             "amount": 3,
             "project_number": 187,
             "front": {
@@ -6234,7 +6234,7 @@
         },
         {
             "name": "Nobunaga's Ambition",
-            "id": "ffe2ea5f-f63c-428c-95bc-482186f6547b",
+            "id": "f377496e-c98f-4daa-a1e8-b42d7638fb97",
             "amount": 3,
             "project_number": 185,
             "front": {
@@ -6256,7 +6256,7 @@
         },
         {
             "name": "Macabre Lottery",
-            "id": "fe5c7f03-07d4-42f8-94f3-207552cecd8d",
+            "id": "b1580343-d397-4d6f-9754-4d76d6fd7fb2",
             "amount": 3,
             "project_number": 184,
             "front": {
@@ -6266,7 +6266,7 @@
                 "illustration_pan_y": -419.0,
                 "illustration_scale": 1.022,
                 "illustrator": "Illus. Johanan Ade",
-                "text": "<rev> One at a time, reveal random tokens from the chaos bag until you reveal a non-<elder_sign> or <fail> token. Then add X <curse> tokens to the chaos bag, where X is the modifier of the revealed token <i>(ignoring +/–)</i>.",
+                "text": "<rev> One at a time, reveal random tokens from the chaos bag until you reveal a non-<elder_sign> or <fail> token. Then add X <curse> tokens to the chaos bag, where X is the modifier of the revealed token <i>(ignoring +/\u2013)</i>.",
                 "traits": "Pact.",
                 "type": "treachery"
             },
@@ -6278,7 +6278,7 @@
         },
         {
             "name": "Tears For Tialoc",
-            "id": "d0a5a407-b8c2-48ec-897f-ff0850a530ca",
+            "id": "75a6989a-0bba-4336-ae0b-0bd89a742f62",
             "amount": 3,
             "project_number": 186,
             "front": {
@@ -6300,7 +6300,7 @@
         },
         {
             "name": "Murder of Crows",
-            "id": "d4760f6e-528e-4e24-8938-f5ca857487ae",
+            "id": "dd489c83-e472-48d8-ab57-9c3ee5312ed7",
             "amount": 4,
             "project_number": 193,
             "front": {
@@ -6327,7 +6327,7 @@
         },
         {
             "name": "Bramble Embargo",
-            "id": "6b60829b-adf8-404b-8b3d-4c775f1fbf8d",
+            "id": "bdfebac4-534c-458c-8b6c-e40318eecf30",
             "amount": 3,
             "project_number": 219,
             "front": {
@@ -6349,7 +6349,7 @@
         },
         {
             "name": "Fallen Pantheon",
-            "id": "7a22d1dc-5e06-4e84-92d8-8c5e914eae40",
+            "id": "c8206f2b-9634-4a9b-bb8a-7be7a62750c6",
             "amount": 3,
             "project_number": 220,
             "front": {
@@ -6371,7 +6371,7 @@
         },
         {
             "name": "Fungal Growth",
-            "id": "43839519-455a-4cc8-8a53-cb494eb9c5ab",
+            "id": "82d92699-60c8-4360-81e2-d4557a817213",
             "amount": 4,
             "project_number": 221,
             "front": {
@@ -6393,7 +6393,7 @@
         },
         {
             "name": "Mortal Shell",
-            "id": "41f09508-dc5f-46df-90a8-baa6300e1220",
+            "id": "f2dcb41e-5172-4aec-be08-04ffec3e97ff",
             "amount": 3,
             "project_number": 222,
             "front": {
@@ -6415,7 +6415,7 @@
         },
         {
             "name": "The Woods Have Eyes",
-            "id": "331484c6-0a0c-456e-866e-76617b95439a",
+            "id": "cdef7142-86c1-433a-97e1-33516af6aaaf",
             "amount": 3,
             "project_number": 223,
             "front": {
@@ -6437,7 +6437,7 @@
         },
         {
             "name": "Acoustic Dampening",
-            "id": "a6c6b499-c521-4b09-bb1b-55eebe3345b2",
+            "id": "36455389-f591-4243-9271-7f04dbc97a5d",
             "amount": 3,
             "project_number": 216,
             "front": {
@@ -6459,7 +6459,7 @@
         },
         {
             "name": "The Woman in the Fog",
-            "id": "45d367df-146f-4e6f-bbaf-b6f0971887b3",
+            "id": "be6d93e2-7874-4dcc-a7ea-da733add27e0",
             "amount": 3,
             "project_number": 217,
             "front": {
@@ -6478,7 +6478,7 @@
         },
         {
             "name": "Lingering Essence",
-            "id": "e619d96b-6d5c-4f1c-8c21-c68875b51a63",
+            "id": "ca43c5cd-97c7-4cc6-ade3-0551fdd8d3db",
             "amount": 4,
             "project_number": 218,
             "front": {
@@ -6506,7 +6506,7 @@
         },
         {
             "name": "No Such Luck",
-            "id": "868c8a91-06ee-4a36-b6a0-220c9c26d108",
+            "id": "2a321b3c-0709-4eea-8d22-3c74f61fc248",
             "amount": 2,
             "project_number": 214,
             "front": {
@@ -6528,7 +6528,7 @@
         },
         {
             "name": "A Discarded Mask",
-            "id": "9eccd594-925e-4fc7-9182-21d6b9b93787",
+            "id": "fb5b0d1c-3b31-494c-8c71-e3db56e05e10",
             "project_number": 213,
             "front": {
                 "flavor_text": "You pull up a bucket...and find a soggy piece of traditional headdress submerged within.",
@@ -6549,7 +6549,7 @@
         },
         {
             "name": "The Girl in the Well",
-            "id": "7bdd0116-e6da-4216-86d8-9acb9d9cef06",
+            "id": "691e760d-4c61-4156-bb9b-6c6b85111ae7",
             "project_number": 215,
             "front": {
                 "flavor_text": "Swolen, soggy fingers reach out from \nbeneath the surface of the water...",
@@ -6568,7 +6568,7 @@
         },
         {
             "name": "Silent Foyer",
-            "id": "b529d163-7b62-4f4a-aa0d-a5cf54bd2b15",
+            "id": "1a7be5e7-3734-4bc9-8287-184068d53def",
             "project_number": 198,
             "front": {
                 "clues": "1<per>",
@@ -6605,7 +6605,7 @@
         },
         {
             "name": "Moonlit Courtyard",
-            "id": "b14bdc79-b59c-4b97-b45d-70336e8a0fb3",
+            "id": "ada1191f-360f-4374-a729-63da36ea69fc",
             "project_number": 197,
             "front": {
                 "clues": "1<per>",
@@ -6643,7 +6643,7 @@
         },
         {
             "name": "Tatami Room",
-            "id": "16fe0d49-8664-4637-982a-d60759f071af",
+            "id": "29641ec3-3fa4-4aab-9743-6419b89d0418",
             "project_number": 199,
             "front": {
                 "clues": "1<per>",
@@ -6681,7 +6681,7 @@
         },
         {
             "name": "Defiled Dojo",
-            "id": "6feef1df-736e-4981-ac70-4d71ff9023b5",
+            "id": "70572c0e-83c3-47f5-a146-fd875e560d86",
             "project_number": 196,
             "front": {
                 "clues": "2<per>",
@@ -6745,7 +6745,7 @@
         },
         {
             "name": "The Pale Bride",
-            "id": "bb43efbd-f04f-475f-827b-6a16df47b6f6",
+            "id": "da9b7221-91cb-4ac9-a8f4-dcd80284a8c1",
             "project_number": 201,
             "front": {
                 "name": "<unique><name>",
@@ -6776,7 +6776,7 @@
         },
         {
             "name": "Ivory Handmaiden",
-            "id": "636d7c16-9da3-4619-bc50-0a37e611b5b8",
+            "id": "46a7bf6c-9e0c-4e68-8458-3b6be9536cee",
             "amount": 3,
             "project_number": 200,
             "front": {
@@ -6804,7 +6804,7 @@
         },
         {
             "name": "Celestial Cascade",
-            "id": "62be111c-e0ea-446d-a5b6-029aa59c8324",
+            "id": "44eb4ef9-7108-4eca-b8f6-ec2afec9cc73",
             "amount": 3,
             "project_number": 241,
             "front": {
@@ -6826,7 +6826,7 @@
         },
         {
             "name": "Lunar Cry",
-            "id": "bf630a6b-fe0b-426b-85bf-123bb457eaf7",
+            "id": "2071c1c1-9569-4316-a5b6-2658ce9d312f",
             "amount": 4,
             "project_number": 242,
             "front": {
@@ -6847,7 +6847,7 @@
         },
         {
             "name": "Drowning Sphere",
-            "id": "74f16bb5-c984-4668-a82f-8f7b6fb5e651",
+            "id": "cef98583-b84e-4f85-b0f2-aad6b2c9c2c4",
             "amount": 3,
             "project_number": 263,
             "front": {
@@ -6869,7 +6869,7 @@
         },
         {
             "name": "Eternal Blue",
-            "id": "a97d3635-b835-4c17-8ccb-79d7bc4dbcc8",
+            "id": "3648f28e-df43-4369-a8ce-9da06aa5d43b",
             "amount": 3,
             "project_number": 264,
             "front": {
@@ -6890,7 +6890,7 @@
         },
         {
             "name": "<unique>Kappa",
-            "id": "f20d07fe-b56b-4c37-9788-5282e9feaf9f",
+            "id": "bdd8f67b-1f09-4636-9726-2aefcc1b5427",
             "project_number": 265,
             "front": {
                 "attack": "2",
@@ -6920,7 +6920,7 @@
         },
         {
             "name": "Shallow Skimmer",
-            "id": "8f1d784e-98ec-44df-9bec-80041d89eff0",
+            "id": "0873cfe9-a584-4ff6-ae1c-37a65dac61dc",
             "amount": 3,
             "project_number": 266,
             "front": {
@@ -6948,7 +6948,7 @@
         },
         {
             "name": "<unique>Buwaya",
-            "id": "7d8d5a0f-5f15-4921-ba85-62e88c447ea1",
+            "id": "b8ea1493-2457-413a-a168-a7cacb92633a",
             "project_number": 194,
             "front": {
                 "attack": "3",
@@ -6978,7 +6978,7 @@
         },
         {
             "name": "Primeval Conductor",
-            "id": "26035667-34a4-4e85-8262-fcc7a89687b2",
+            "id": "96d20545-9636-4620-8aa0-2c8887717a71",
             "amount": 3,
             "project_number": 195,
             "front": {
@@ -7006,7 +7006,7 @@
         },
         {
             "name": "Hypnotic Whirlpool",
-            "id": "7164cffa-5b98-4593-8646-aee2dd9c95ae",
+            "id": "2c6de6ab-7ca8-4b98-81d0-7da3f0ff80a7",
             "amount": 4,
             "project_number": 267,
             "front": {
@@ -7016,7 +7016,7 @@
                 "illustration_pan_y": -428.0,
                 "illustration_scale": 1.207,
                 "illustrator": "Illus. Unknown",
-                "text": "<rev> Attach <name> to the nearest <t>River</t> location without a copy of Hypnotic Whirlpool attached. Limit 1 per location.\n<for> When the investigation phase ends: Each investigator at the attached location must test <willpower> (4). Each investigator who fails must test <agility> (3). Each investigator who fails this second test must take 1 damage.",
+                "text": "<rev> Attach <name> to the nearest <t>River</t> location without a copy of Hypnotic Whirlpool attached. Limit 1 per location.\n<for> When the investigation phase ends: Each investigator at the attached location must test <willpower> (4). Each investigator who fails must test <agility> (3). Each investigator who fails this second test must take 1\u00a0damage.",
                 "traits": "Hazard. ",
                 "type": "treachery"
             },
@@ -7028,7 +7028,7 @@
         },
         {
             "name": "Phantom Wake",
-            "id": "76f340ac-a34b-4781-9f78-582e1cb33354",
+            "id": "a0e9ce5d-77ae-4a1c-b76b-8a19548cee37",
             "amount": 2,
             "project_number": 268,
             "front": {
@@ -7050,7 +7050,7 @@
         },
         {
             "name": "The Princess's Retinue",
-            "id": "f31bdae6-cb5a-4891-ab9b-36374c6b189d",
+            "id": "6eccab33-f36e-4881-ac39-e6742c5895da",
             "project_number": 269,
             "front": {
                 "flavor_text": "A young girl floats to the surface of the water, surrounded by a vanguard of beautifully painted fish...",
@@ -7071,7 +7071,7 @@
         },
         {
             "name": "Koi Temptress",
-            "id": "0d8e26e8-43ae-4f84-8497-208c3581cef4",
+            "id": "2ea2ad34-66c2-4466-828a-438c194a41df",
             "amount": 3,
             "project_number": 270,
             "front": {
@@ -7098,7 +7098,7 @@
         },
         {
             "name": "No Weapon Shall Prosper",
-            "id": "625530a6-be90-409d-82e9-a00a8e0f8da4",
+            "id": "02d73b2b-1816-4231-b44a-223e805dbf2c",
             "project_number": 209,
             "front": {
                 "flavor_text": "Ghostly reenactments of a pitched battle \nflicker all around you; even in death, \nOnigawa's defenders remain true.",
@@ -7118,7 +7118,7 @@
         },
         {
             "name": "All Death Is Certain",
-            "id": "cc9884c1-4df4-4603-bd0d-9ed9bada3083",
+            "id": "75c089c4-d90d-4816-811b-e836c8bc8492",
             "project_number": 204,
             "front": {
                 "flavor_text": "Before it was scuttled, the crew of Onigawa's \nflagship, the Shingetsu, ensured that \nthe battleship took as many enemy vessels with \nit as possible during its maiden voyage.",
@@ -7139,7 +7139,7 @@
         },
         {
             "name": "Death Before Dishonor",
-            "id": "013b4f19-c271-4c5f-a07c-5ffc13f4e87d",
+            "id": "1f4851f0-dab7-47a7-b83d-e4d0c0c18ae2",
             "project_number": 205,
             "front": {
                 "flavor_text": "Driven mad by the influence of a dark power, the once honorable Azure Knight of Onigawa employed brutal methods to \"bolster\" morale and root out suspected traitors during the siege.",
@@ -7160,7 +7160,7 @@
         },
         {
             "name": "Serve the Pantheon",
-            "id": "bcc82d44-4061-4988-bafc-c7a06fe93ce1",
+            "id": "9988a07b-4929-4c6c-a0ab-52f9917a9411",
             "project_number": 211,
             "front": {
                 "flavor_text": "The wards protecting Onigawa were weakened when the impetuous prince of the divine pantheon was imprisoned upon Mount Kokoro.",
@@ -7181,7 +7181,7 @@
         },
         {
             "name": "Keep the Covenant",
-            "id": "4d0e6a2f-63c8-42ac-9d2d-b860fa5570d4",
+            "id": "4c444519-4d3a-4795-9b22-207491900069",
             "project_number": 208,
             "front": {
                 "flavor_text": "The shattering of Onigawa's covenant with the Guardians was felt by all those who previously \nenjoyed their divine protection.",
@@ -7201,7 +7201,7 @@
         },
         {
             "name": "Take Only What Is Needed",
-            "id": "5cd3b961-345a-472f-aef6-90d2bbc48562",
+            "id": "a8ccc2f8-7e81-4976-ba26-35ad45fec701",
             "project_number": 212,
             "front": {
                 "flavor_text": "When the great cherry blossom tree at the \ncenter of the city suddenly wilted, this ill omen \nresulted in a critical morale failure among even \nthe most loyal of Onigawa's defenders.",
@@ -7222,7 +7222,7 @@
         },
         {
             "name": "Honor the Dead",
-            "id": "9871174d-f0ea-45df-9187-83b4be1035f3",
+            "id": "0f2b2fff-da68-45f5-aa4b-c162208c88bc",
             "project_number": 207,
             "front": {
                 "flavor_text": "During the chaos of the siege, rogue elements within \nthe city employed increasingly desperate and \ndangerous means to bolster Onigawa's defenses and return their wounded to the frontlines.",
@@ -7242,7 +7242,7 @@
         },
         {
             "name": "Preserve What Is Priceless",
-            "id": "b99bd15d-b53e-4d78-82f4-d9cdc53a7836",
+            "id": "e2d8fbb6-e116-42ee-96a2-e0b26c0db0bd",
             "project_number": 210,
             "front": {
                 "flavor_text": "Fearing imminent defeat, the royal guard barricaded the surviving members of the court within the palace during the siege...and fought to the death to ensure no one else would be able to follow them inside.",
@@ -7263,7 +7263,7 @@
         },
         {
             "name": "Death Is Not the End",
-            "id": "544dd8d2-6386-4f20-bd1a-83e13ab73d1f",
+            "id": "61131bf5-d6cb-4bdd-8441-890403ba12ad",
             "project_number": 206,
             "front": {
                 "flavor_text": "When Onigawa's accord with the divine pantheon \nwas severed, its Queen made certain sacrifices \nto ensure her people would endure.",
@@ -7284,7 +7284,7 @@
         },
         {
             "name": "Absolve the Crestfallen",
-            "id": "01f70831-95d9-4567-be02-85a5070322f4",
+            "id": "dcd087bc-b6ba-4f55-ad0b-0fffb8ba3ae7",
             "project_number": 203,
             "front": {
                 "flavor_text": "In the final days of the siege, a fallen \nchampion of Onigawa was redeemed \nby the selfless sacrifice of its queen consort.",
@@ -7304,7 +7304,7 @@
         },
         {
             "name": "<unique>Kayako",
-            "id": "0ffb27ce-a439-4f20-82b9-cc946ff048d8",
+            "id": "51bc03ca-23d6-4c70-a386-42fa7fc779ef",
             "project_number": 233,
             "front": {
                 "attack": "3",
@@ -7332,7 +7332,7 @@
         },
         {
             "name": "Unforgiven",
-            "id": "9d6c6700-0e3c-4877-9b85-16774381c9c3",
+            "id": "141d0967-9370-4db7-8b03-d682a5da8ac0",
             "amount": 2,
             "project_number": 232,
             "front": {
@@ -7354,7 +7354,7 @@
         },
         {
             "name": "Ashen Purgatory",
-            "id": "b3cb1fee-1899-4328-80e1-7503851ffa4d",
+            "id": "213f7d55-461f-4174-b3ca-d3c67cb73eb8",
             "amount": 3,
             "project_number": 248,
             "front": {
@@ -7376,7 +7376,7 @@
         },
         {
             "name": "Hollow Legion",
-            "id": "4381f6d1-1bf2-4765-a1cc-75d0e9e01d39",
+            "id": "d2113911-1be9-4ce3-b3df-6534f6a04595",
             "amount": 3,
             "project_number": 251,
             "front": {
@@ -7404,7 +7404,7 @@
         },
         {
             "name": "Relentless Reaver",
-            "id": "6859abcd-3f68-4305-972f-915617f38ee4",
+            "id": "c8534ed6-3264-4ee9-9284-ceb1141a3109",
             "amount": 3,
             "project_number": 252,
             "front": {
@@ -7432,7 +7432,7 @@
         },
         {
             "name": "Tengu Tactics",
-            "id": "be4a1e72-02eb-405c-af77-55de943459c5",
+            "id": "11eb3dfa-01c5-43c1-95a3-c73d6150c232",
             "amount": 2,
             "project_number": 249,
             "front": {
@@ -7454,7 +7454,7 @@
         },
         {
             "name": "The Azure Zealot",
-            "id": "1102ba26-9b14-477a-b938-39913ab10137",
+            "id": "6dc8af8c-c5df-4d18-9b6f-4229852e9b3f",
             "project_number": 253,
             "front": {
                 "attack": "4",
@@ -7484,7 +7484,7 @@
         },
         {
             "name": "The Jade Cavalier",
-            "id": "ffa146e1-582c-4f06-b11f-f607084def7e",
+            "id": "3ad31ed8-38f0-4f9f-be6b-665f2de7b166",
             "project_number": 254,
             "front": {
                 "attack": "3",
@@ -7514,7 +7514,7 @@
         },
         {
             "name": "The New Colossus ",
-            "id": "7fc998ce-607f-4b63-a8b2-dc26f5e2d943",
+            "id": "b1e72334-561c-4fb8-a7e5-0b5647db2b3b",
             "project_number": 250,
             "front": {
                 "flavor_text": "The heavens and the earth trembled in equal measure when the guardian Tsurugi forsook his own divinity in order to join the fray.",
@@ -7535,7 +7535,7 @@
         },
         {
             "name": "The Scarlet Partisan",
-            "id": "b62ed98f-c2b0-48ba-83a8-15dc2b152eb4",
+            "id": "5d2bb737-5ea6-4e86-aa63-b3ddf6d49f6c",
             "project_number": 255,
             "front": {
                 "attack": "4",
@@ -7565,7 +7565,7 @@
         },
         {
             "name": "Armed and Dangerous",
-            "id": "dcea82e6-5dd2-439a-b0de-a79c05de45a3",
+            "id": "6d94b443-7caf-4d26-9e6a-de1ab5630c78",
             "amount": 3,
             "project_number": 234,
             "front": {
@@ -7587,7 +7587,7 @@
         },
         {
             "name": "<unique>Bondage Mannequin",
-            "id": "d9bbc939-b717-4d97-a77c-265355fc14bf",
+            "id": "6e8cf05a-4eb7-4291-b48a-e09c1589f2ae",
             "project_number": 237,
             "front": {
                 "attack": "3",
@@ -7617,7 +7617,7 @@
         },
         {
             "name": "<unique>Hinnagami",
-            "id": "d247ddb7-1b33-49f8-bb9a-0a5ec9f11fc0",
+            "id": "e8039189-82aa-48e7-9432-d40504139c02",
             "project_number": 238,
             "front": {
                 "attack": "4",
@@ -7646,7 +7646,7 @@
         },
         {
             "name": "<unique>\"Madame\" Bai",
-            "id": "03f02070-0a08-4c03-858a-ca106fb8b687",
+            "id": "b869d96a-2734-47eb-95ba-c67606525029",
             "project_number": 236,
             "front": {
                 "attack": "3",
@@ -7675,7 +7675,7 @@
         },
         {
             "name": "<unique>Yatsukahaki",
-            "id": "62623cb1-a72c-4ccf-a611-6965592de90d",
+            "id": "619e6974-3233-4e04-89ce-0b88a8591a1b",
             "project_number": 239,
             "front": {
                 "attack": "4",
@@ -7706,7 +7706,7 @@
         },
         {
             "name": "Meticulous Handiwork",
-            "id": "5b767cb6-3aa6-44c2-a02f-125f580ea665",
+            "id": "786103e8-434c-4297-91cb-f6f13ce300c8",
             "project_number": 235,
             "front": {
                 "flavor_text": "The intricate construction of the mannequins you've seen in the palace suggest a practiced hand...",
@@ -7728,7 +7728,7 @@
         },
         {
             "name": "Avalanche!",
-            "id": "6887b82b-3762-4e8b-88b2-2043d2510473",
+            "id": "8fdce9f5-f574-4aea-b721-30376296e558",
             "amount": 4,
             "project_number": 256,
             "front": {
@@ -7747,7 +7747,7 @@
         },
         {
             "name": "Orochimaru",
-            "id": "8905e0ba-49ba-4b8a-aaf5-ab9db0ba97e3",
+            "id": "dfed1e60-a581-4749-8a2e-e0462370ef83",
             "project_number": 258,
             "front": {
                 "attack": "4",
@@ -7792,7 +7792,7 @@
         },
         {
             "name": "Waking the Sleeper",
-            "id": "2660a523-6f3d-497f-9502-7c2e0419e972",
+            "id": "be2de877-1b6f-41b3-9cdc-8209fa6a7154",
             "amount": 4,
             "project_number": 257,
             "front": {
@@ -7813,7 +7813,7 @@
         },
         {
             "name": "Remorseless Winter",
-            "id": "e66eb2a0-e7ff-4698-9e13-8bf061feb04c",
+            "id": "b9c9fc00-d1a3-4383-85ca-9da88dc19f17",
             "amount": 4,
             "project_number": 271,
             "front": {
@@ -7835,7 +7835,7 @@
         },
         {
             "name": "Yuki-onna",
-            "id": "114a0775-118e-487d-9e1f-d2fd7580cc4e",
+            "id": "3d56dd4e-ad81-49d3-b2f9-c3e66aa93b72",
             "project_number": 272,
             "front": {
                 "attack": "3",
@@ -7862,7 +7862,7 @@
         },
         {
             "name": "Queen Kaoru ",
-            "id": "9d33ade4-0c51-4287-ae3f-117c81b8d691",
+            "id": "591ca4de-bd4f-435a-a262-5b71de21bd82",
             "project_number": 280,
             "front": {
                 "classes": [
@@ -7891,7 +7891,7 @@
         },
         {
             "name": "Icebound Fetish",
-            "id": "d1687df2-4198-475a-9ba6-e4f46aba3988",
+            "id": "6852c1fc-bcc2-47b4-9f26-116f1f9691b7",
             "project_number": 279,
             "front": {
                 "classes": [
@@ -7918,7 +7918,7 @@
         },
         {
             "name": "Lunar Rend",
-            "id": "f944d082-bdf9-4b0e-b7b8-5d462d41e419",
+            "id": "4ff7cccf-705a-45ec-8797-f0a687a0228c",
             "amount": 4,
             "project_number": 240,
             "front": {
@@ -7939,7 +7939,7 @@
         },
         {
             "name": "Tsurugi's Might",
-            "id": "c7e01081-7106-4fcf-9871-45dccf95a6b1",
+            "id": "1091ef93-7f71-41eb-bbe9-714b08543688",
             "project_number": 278,
             "front": {
                 "classes": [
@@ -7972,7 +7972,7 @@
         },
         {
             "name": "Midori's Cunning",
-            "id": "5e67f290-7b28-47c2-ace9-c50c0d33fc29",
+            "id": "164720a1-2d24-4fbe-aec8-ee2e4b4a5d4c",
             "project_number": 276,
             "front": {
                 "classes": [
@@ -8005,7 +8005,7 @@
         },
         {
             "name": "The Pantheon's Contingency",
-            "id": "bd961a45-e015-4eca-9941-67cac72a1de7",
+            "id": "e5f4243c-1879-4046-aa02-d4771a8753dd",
             "project_number": 277,
             "front": {
                 "classes": [
@@ -8051,7 +8051,7 @@
         },
         {
             "name": "Harvest Moon",
-            "id": "8365150f-625c-4007-81a0-c4e487913780",
+            "id": "d401063e-6410-4108-ace2-54f28c8ce8b4",
             "project_number": 224,
             "front": {
                 "clues": "1<per>",
@@ -8086,7 +8086,7 @@
         },
         {
             "name": "Smoldering Spawn",
-            "id": "69e35f9e-ddaf-42f2-9faa-000b507eea47",
+            "id": "0c21c55c-7f95-414f-bea1-74128cbb3558",
             "project_number": 231,
             "front": {
                 "classes": [
@@ -8113,7 +8113,7 @@
         },
         {
             "name": "Neo Kanon",
-            "id": "37b39ee3-1754-4ec2-a3df-fbe322be42d7",
+            "id": "9346c103-4c38-4380-9160-2fa68ae95073",
             "project_number": 228,
             "front": {
                 "classes": [
@@ -8139,7 +8139,7 @@
         },
         {
             "name": "Magatsu Tsurugi",
-            "id": "f2d80349-65e8-4632-82eb-40a349184ba1",
+            "id": "f335a0f1-456a-4961-ba09-796bb98c24b7",
             "project_number": 225,
             "front": {
                 "classes": [
@@ -8165,7 +8165,7 @@
         },
         {
             "name": "Shin Komainu",
-            "id": "1105bf27-bdf2-4be9-bc49-c491b48ddfd8",
+            "id": "a54b1d17-a18d-450e-825a-48e7ea429204",
             "project_number": 230,
             "front": {
                 "classes": [
@@ -8192,7 +8192,7 @@
         },
         {
             "name": "Midori Mirai",
-            "id": "236ac331-43b0-4b17-826c-5b4190436437",
+            "id": "96a5fb4e-5015-4336-bee7-ed73047af125",
             "project_number": 227,
             "front": {
                 "classes": [
@@ -8219,7 +8219,7 @@
         },
         {
             "name": "Onikuma Kanzen",
-            "id": "14b7f4ff-ee3f-4573-bad1-9ba73b6e0ef3",
+            "id": "ae6f556e-6470-4aef-af83-7f7675aaf008",
             "project_number": 229,
             "front": {
                 "classes": [
@@ -8246,7 +8246,7 @@
         },
         {
             "name": "Majin Wukong",
-            "id": "be2bfd2b-5960-4c4e-82e2-722edba25492",
+            "id": "168e02ab-4cf9-4ed4-983f-4006dcaf75de",
             "project_number": 226,
             "front": {
                 "classes": [
@@ -8273,7 +8273,7 @@
         },
         {
             "name": "The Koi Emperor",
-            "id": "530be601-7bb4-4a53-acfd-fb215bf3429b",
+            "id": "43c2c385-f11c-4a15-800a-384ca607d90b",
             "project_number": 260,
             "front": {
                 "attack": "4",
@@ -8299,7 +8299,7 @@
         },
         {
             "name": "The Koi Princess",
-            "id": "f6b14249-623c-4169-ab81-2f881206495b",
+            "id": "c3484534-1610-42ba-9156-1cb542a362cf",
             "project_number": 261,
             "front": {
                 "combat": "<dash>",
@@ -8326,7 +8326,7 @@
         },
         {
             "name": "The Koi Princess",
-            "id": "ded0e4fd-9a83-450c-8310-c32c9ded6a35",
+            "id": "6eda89e6-3137-4e06-a457-a51d392dea38",
             "project_number": 262,
             "front": {
                 "classes": [
@@ -8353,7 +8353,7 @@
         },
         {
             "name": "Moloch",
-            "id": "4a55d152-5865-404b-b4c7-d2a1354a3d8d",
+            "id": "e9a59110-2c3a-4dbf-903a-6fef9bb21c30",
             "project_number": 259,
             "front": {
                 "attack": "?",
@@ -8401,7 +8401,7 @@
         },
         {
             "name": "Betrayers of August",
-            "id": "145f925c-982c-4028-aa81-0de6fbab5f92",
+            "id": "75a7ae6e-148e-4cbc-93b5-7d02757dbfba",
             "amount": 4,
             "project_number": 243,
             "front": {
@@ -8429,7 +8429,7 @@
         },
         {
             "name": "Forsworn Ronin",
-            "id": "faed2629-6256-4068-8150-2176b854091a",
+            "id": "f0c3fe73-6da7-4b4c-95c9-7691eff22496",
             "amount": 4,
             "project_number": 246,
             "front": {
@@ -8457,7 +8457,7 @@
         },
         {
             "name": "Defiant Damsel",
-            "id": "47ea8df8-023a-4f2f-acbb-459e8826ad7e",
+            "id": "6bb493d6-73c9-4c5d-ac5c-c9cf1944b84a",
             "amount": 4,
             "project_number": 244,
             "front": {
@@ -8485,7 +8485,7 @@
         },
         {
             "name": "Defiled Concubine",
-            "id": "5b2030d8-56a4-47f4-8a55-b18e2a5a7e1b",
+            "id": "0e700902-5fb2-4a07-b833-684b0a2dafec",
             "amount": 4,
             "project_number": 245,
             "front": {
@@ -8513,7 +8513,7 @@
         },
         {
             "name": "Witch of the Wilds",
-            "id": "8d3d8299-7b64-4154-bb13-8f66377fcdbd",
+            "id": "b9c97ddb-dd39-48ca-be32-565013ca55fc",
             "amount": 4,
             "project_number": 247,
             "front": {
@@ -8541,7 +8541,7 @@
         },
         {
             "name": "The Blind Warden",
-            "id": "3bf9a26b-0074-48ce-bf6b-d63fde0a78a2",
+            "id": "1905fdea-9de8-4c65-9512-d2b853871d0d",
             "project_number": 281,
             "front": {
                 "classes": [
@@ -8568,7 +8568,7 @@
         },
         {
             "name": "The Divine Messenger",
-            "id": "370425d7-c3f1-4748-a229-165a673fc3c9",
+            "id": "aba5068c-83fa-4ce0-bf90-a16956d7fbb7",
             "project_number": 282,
             "front": {
                 "classes": [
@@ -8595,7 +8595,7 @@
         },
         {
             "name": "The Penitent Sentinel",
-            "id": "9d334631-42fb-4421-b415-a7c4a9aed21b",
+            "id": "7944d6b8-ef13-4fc5-89bb-492234139ed1",
             "project_number": 283,
             "front": {
                 "classes": [
@@ -8624,7 +8624,7 @@
         },
         {
             "name": "The Sly Bandit",
-            "id": "0a435cff-7e49-407c-bef9-6caaaf634078",
+            "id": "79a48286-40e0-44c7-b28c-d2d0b4324219",
             "project_number": 284,
             "front": {
                 "classes": [
@@ -8651,7 +8651,7 @@
         },
         {
             "name": "<unique>Mayu Tachibana",
-            "id": "bd93b6b1-eda0-4d71-b754-b2df7c55431a",
+            "id": "d8206bf1-8cd1-41f9-87d1-34d962b513f6",
             "project_number": 274,
             "front": {
                 "classes": [
@@ -8680,7 +8680,7 @@
         },
         {
             "name": "Memories of Mayu",
-            "id": "f81561b4-a73c-407f-a29a-f9e02d0043d8",
+            "id": "11c79787-29ad-4301-b8fc-e4992cd13482",
             "amount": 4,
             "project_number": 273,
             "front": {
@@ -8704,7 +8704,7 @@
         },
         {
             "name": "Memories of Miyu",
-            "id": "43c9bb22-ebab-4e61-aedb-ae1baec486a1",
+            "id": "9b347204-55b3-4088-9b53-fdcc7a0110c6",
             "amount": 4,
             "project_number": 275,
             "front": {
@@ -8729,7 +8729,7 @@
         },
         {
             "name": "Chilblains",
-            "id": "f30820ad-4852-417a-957f-30b0a245aabe",
+            "id": "093a86d3-05e0-4564-b9ed-86e997550d0c",
             "amount": 3,
             "project_number": 134,
             "front": {
@@ -9168,7 +9168,7 @@
             "order": 33
         },
         {
-            "name": "Rückkehr zu Wächter von Minakami",
+            "name": "R\u00fcckkehr zu W\u00e4chter von Minakami",
             "id": "dd37f56c-7d12-4858-99bd-5e02f893b001",
             "icon": "C:/Users/cdpog/Documents/GitHub/Die-Geister-von-Onigawa/images/Return to Guardians of Minakami.png",
             "meta": {
