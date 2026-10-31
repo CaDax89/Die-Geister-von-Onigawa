@@ -1,0 +1,42 @@
+============================================================
+STEP 1: Loading arkham.build project
+============================================================
+ARKHAM.BUILD CONFLICT: 'Fisherman's Wharf' has multiple IDs: 78c4f2f7-3b84-42d9-9404-31820f453c68, b3054620-d697-471b-a3a8-8ae7d5045064
+
+Cards in arkham.build: 434
+Unique name/subtitle combinations: 285
+Conflicting combinations: 1
+
+Loading Shoggoth project...
+
+============================================================
+STEP 2: Updating Shoggoth project
+============================================================
+NOT-FOUND: Fisherman's Wharf
+NOT-FOUND: Fisherman's Wharf
+NOT-FOUND: “Sensei" Kanuti — Master of the Forge
+NOT-FOUND: All Hope Shall Perish
+NOT-FOUND:  Mayu Tachibana — A Missing Twin?
+
+Shoggoth update finished.
+Updated:     279
+Unchanged:   0
+Not found:   5
+Missing ID:  0
+ID mappings: 279
+
+Saved: project.json
+
+============================================================
+TRANSLATION: project_de.json
+============================================================
+
+Updated:     279
+Unchanged:   0
+Not found:   13
+Conflicts:   0
+Saved: project_de.json
+
+============================================================
+DONE
+============================================================

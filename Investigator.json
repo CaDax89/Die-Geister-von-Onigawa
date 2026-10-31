@@ -8,7 +8,7 @@
     "cards": [
         {
             "name": "Yuki Yagami",
-            "id": "db12a551-6b9d-4996-8313-4ea97d37c026",
+            "id": "4b161ec2-9d28-4e63-a825-6a5c2de80f91",
             "project_number": "1",
             "front": {
                 "agility": "3",
@@ -51,7 +51,7 @@
         },
         {
             "name": "Apotheosis",
-            "id": "3694e53b-c235-47b5-8dac-6ab797f5f83a",
+            "id": "ddd23753-0f4e-47b0-92c6-1497efb38f19",
             "project_number": "2",
             "front": {
                 "classes": [
@@ -84,7 +84,7 @@
         },
         {
             "name": "The Succession",
-            "id": "4d256ac9-c9f4-4368-91c0-e2bc7c9037a0",
+            "id": "5858396b-6d8a-4f49-a101-b8771761b11c",
             "project_number": "3",
             "front": {
                 "classes": [
@@ -113,7 +113,7 @@
         },
         {
             "name": "Makoto Miyazaki",
-            "id": "cf5c51a4-2eae-4620-b6d8-86638691dd20",
+            "id": "be2bc66f-ade3-4d65-9379-f6b15a5eb65d",
             "project_number": "4",
             "front": {
                 "agility": "4",
@@ -153,7 +153,7 @@
         },
         {
             "name": "The Infinite Oculus",
-            "id": "d237c48c-5870-49ea-9580-9c914ab7343a",
+            "id": "6bd84c4a-85f0-434b-9f5b-f927bb677a96",
             "project_number": "5",
             "front": {
                 "classes": [
@@ -180,7 +180,7 @@
         },
         {
             "name": "Porcelain Mirage",
-            "id": "23554038-b0bf-487d-b431-f7db20bb373f",
+            "id": "2b081341-00d7-4f17-8263-9196a81e8afc",
             "project_number": "6",
             "front": {
                 "classes": [
@@ -203,7 +203,7 @@
         },
         {
             "name": "Hideki Honda",
-            "id": "70469742-4ac3-4ff8-9704-751d74b4d584",
+            "id": "9a373a8a-7a1c-4dfa-9936-364320e93d08",
             "project_number": "7",
             "front": {
                 "agility": "4",
@@ -248,7 +248,7 @@
         },
         {
             "name": "Nabiki Nagata",
-            "id": "2797bd26-cf9b-4989-84a8-7d57357df2a5",
+            "id": "e746e416-965a-44e1-bc10-d92550a07be6",
             "project_number": "8",
             "front": {
                 "classes": [
@@ -281,7 +281,7 @@
         },
         {
             "name": "Survivor's Guilt",
-            "id": "2e38ad6b-d69d-40f2-8ccc-bd543a2886a6",
+            "id": "629f7359-563e-4814-b4ec-7d4d1a8fc7e7",
             "project_number": "9",
             "front": {
                 "classes": [
@@ -304,7 +304,7 @@
         },
         {
             "name": "Akira Arisato",
-            "id": "98be9586-872e-4310-b2e0-ed4c7feea865",
+            "id": "15245605-8dc0-4595-89fb-6f242ea9a351",
             "project_number": "10",
             "front": {
                 "agility": "1",
@@ -350,7 +350,7 @@
         },
         {
             "name": "Living Memory",
-            "id": "a7903ed3-0cd0-402f-b878-8895c99a5802",
+            "id": "7c1f330b-4041-4bda-a1ad-569e26ed29de",
             "project_number": "11",
             "front": {
                 "classes": [
@@ -377,7 +377,7 @@
         },
         {
             "name": "Liminal Breach",
-            "id": "117bc4e5-3b53-49b6-9323-55c6aa8a1df4",
+            "id": "582d8abc-3cac-469e-ac97-abd88a61ae7c",
             "project_number": "12",
             "front": {
                 "classes": [
@@ -406,7 +406,7 @@
         },
         {
             "name": "Sakura Sanada",
-            "id": "e861bbb0-b521-4fce-8825-9d0eeaa92ad6",
+            "id": "c4afb4d5-31dc-4072-b26e-a60424540ef6",
             "project_number": "13",
             "front": {
                 "agility": "2",
@@ -450,7 +450,7 @@
         },
         {
             "name": "Live by the Sword",
-            "id": "a75df5f6-b7df-41df-8206-4b7ef53c76fe",
+            "id": "bb0f6eba-9550-4d2e-9fe1-e482c8449ae4",
             "project_number": "14",
             "front": {
                 "classes": [
@@ -477,7 +477,7 @@
         },
         {
             "name": "Die by the Sword",
-            "id": "8e6b84cb-76f4-4eb3-b0e2-4777366b0342",
+            "id": "c1e0e8f0-3497-453c-b4fa-3c4b6fb385bd",
             "project_number": "15",
             "front": {
                 "classes": [
@@ -500,7 +500,7 @@
         },
         {
             "name": "Mayu Tachibana",
-            "id": "e5d3a8ea-5af3-4668-8856-aed4499cc5a4",
+            "id": "e4cccd71-ea9b-4b5c-af27-3f477cd3df39",
             "project_number": "16",
             "front": {
                 "agility": "4",
@@ -545,7 +545,7 @@
         },
         {
             "name": "Camera Obscura",
-            "id": "d67aa005-193b-40ba-bfe7-a0e26a58b6cb",
+            "id": "39d3f679-414a-4a65-acce-3c3c8aebca2d",
             "project_number": "17",
             "front": {
                 "classes": [
@@ -573,7 +573,7 @@
         },
         {
             "name": "Molochean Usurper",
-            "id": "d3920582-34d3-45cf-962d-a40e321d714f",
+            "id": "ccf302ef-4c6f-4d53-84ee-f21136e892aa",
             "project_number": "18",
             "front": {
                 "attack": "3",
@@ -603,7 +603,7 @@
         },
         {
             "name": "Ancestral Favor",
-            "id": "ec1561da-b94e-46d5-acd6-7e27df1eeaf5",
+            "id": "08fbd68c-16de-4653-922c-25f6c50443e9",
             "project_number": "23",
             "front": {
                 "classes": [
@@ -659,7 +659,7 @@
         },
         {
             "name": "Nothing Else Matters",
-            "id": "7da75e16-ab2d-4d89-a948-f73027e8596d",
+            "id": "3a29ffc9-10ae-4722-89aa-4ccd89fc46bc",
             "project_number": "24",
             "front": {
                 "classes": [
@@ -712,7 +712,7 @@
         },
         {
             "name": "Safe Haven",
-            "id": "d77f7e10-183d-4d68-b308-67423eb88690",
+            "id": "168df8cc-4d34-4ea0-96eb-ab3f3fa6816e",
             "project_number": "22",
             "front": {
                 "classes": [
@@ -738,7 +738,7 @@
         },
         {
             "name": "Sofia Wallace",
-            "id": "541ec591-7c72-483b-a3fc-f2b54228675e",
+            "id": "d278b0dc-26db-4cec-8700-588ee1a52d79",
             "project_number": "21",
             "front": {
                 "classes": [
@@ -768,7 +768,7 @@
         },
         {
             "name": "Coordinated Infiltration",
-            "id": "e828f856-e10f-4d54-8dd7-1d07bcac2cf2",
+            "id": "61dde81d-a4eb-48b3-b071-0aad0e696c7d",
             "project_number": "26",
             "front": {
                 "classes": [
@@ -794,7 +794,7 @@
         },
         {
             "name": "Someone Your Own Size",
-            "id": "4314f5dd-5de3-4f12-84cb-1d4e799c5335",
+            "id": "0973d633-0bd7-4222-a024-95de00f9397c",
             "project_number": "25",
             "front": {
                 "classes": [
@@ -818,7 +818,7 @@
         },
         {
             "name": "Better Late Than Never",
-            "id": "0e609c7c-3cd5-433c-8d8b-1ab60913dc5c",
+            "id": "b60c03f5-1c2f-4dfd-a2cd-a4f6bda86794",
             "project_number": "27",
             "front": {
                 "classes": [
@@ -844,7 +844,7 @@
         },
         {
             "name": "The Obsidian Manifold",
-            "id": "a2543f81-6cca-497b-ba00-d58202a5a2b1",
+            "id": "580377bd-7222-4c67-8f6b-3f7473ea8de8",
             "project_number": "28",
             "front": {
                 "classes": [
@@ -875,7 +875,7 @@
         },
         {
             "name": "Indomitable",
-            "id": "50ebb7b1-9a8b-4af7-887c-63d57d7556ec",
+            "id": "f60f61c7-ff99-448c-a343-7dfbc1ed63ec",
             "project_number": "29",
             "front": {
                 "classes": [
@@ -900,7 +900,7 @@
         },
         {
             "name": "Martyrdom",
-            "id": "77713a6b-fe9c-40f3-83a2-a48d082c7655",
+            "id": "7fcc44e2-f4d5-4e3d-a718-ee35be18dcf9",
             "project_number": "30",
             "front": {
                 "classes": [
@@ -926,7 +926,7 @@
         },
         {
             "name": "Adopt and Adapt",
-            "id": "96356f97-731a-4406-816c-f7104c1af6db",
+            "id": "9c0caf3b-7a5b-484f-a15c-b8f7cc282e82",
             "project_number": "36",
             "front": {
                 "classes": [
@@ -977,7 +977,7 @@
         },
         {
             "name": "Kasumi Katsura",
-            "id": "0445da10-3200-424b-87d8-b32e4ef90cde",
+            "id": "fdedf4b7-c35c-4527-a3d9-a972e26d52a4",
             "project_number": "31",
             "front": {
                 "classes": [
@@ -1007,7 +1007,7 @@
         },
         {
             "name": "One Way to Find Out",
-            "id": "f0f3f538-e89d-4907-b132-56cb20235e26",
+            "id": "bc0f6eb7-5e8e-4598-a0aa-39f1f5bfaf00",
             "project_number": "33",
             "front": {
                 "classes": [
@@ -1059,7 +1059,7 @@
         },
         {
             "name": "Visual Calculus",
-            "id": "ebad037e-76b6-40d1-9f4e-b73af0d67e8c",
+            "id": "3132710c-f541-4999-8ace-b68dd97ce3a7",
             "project_number": "35",
             "front": {
                 "classes": [
@@ -1085,7 +1085,7 @@
         },
         {
             "name": "Field Autopsy",
-            "id": "299d41a9-e495-4ba6-b12a-10382cf198f3",
+            "id": "725b6e3a-bd05-4599-bdfa-8bfc1ee03342",
             "project_number": "38",
             "front": {
                 "classes": [
@@ -1111,7 +1111,7 @@
         },
         {
             "name": "Trailblazer",
-            "id": "af4f33b8-19d0-45dc-a7de-77d7d4438703",
+            "id": "03c2040d-e209-4b29-a1a5-a5d2fec310b2",
             "project_number": "37",
             "front": {
                 "classes": [
@@ -1136,7 +1136,7 @@
         },
         {
             "name": "Reason to Believe",
-            "id": "420e6362-2402-46a5-8a2b-de24eeac4102",
+            "id": "4172b6a8-367d-49d2-82fd-b6b8117953c0",
             "project_number": "39",
             "front": {
                 "classes": [
@@ -1160,7 +1160,7 @@
         },
         {
             "name": "Method to the Madness",
-            "id": "8751960f-d1ba-482f-9153-210c20e5cb6a",
+            "id": "85bd2459-a888-4022-b30e-968d5b53a243",
             "project_number": "40",
             "front": {
                 "classes": [
@@ -1185,7 +1185,7 @@
         },
         {
             "name": "Terrible Symmetry",
-            "id": "06580f6a-af7d-454e-bed5-6bb21c2c82db",
+            "id": "9f49320c-abfb-4040-9919-bda07d157682",
             "project_number": "41",
             "front": {
                 "classes": [
@@ -1211,7 +1211,7 @@
         },
         {
             "name": "Geometric Unity",
-            "id": "3b041b46-0623-4f09-8107-90c7fb807b5f",
+            "id": "b560e7b0-fddd-42d6-a791-c7b7c954b5cd",
             "project_number": "42",
             "front": {
                 "classes": [
@@ -1241,7 +1241,7 @@
             }
         },
         {
-            "name": "“Banzai\" Stiletto",
+            "name": "\u201cBanzai\" Stiletto",
             "id": "5140d76b-e248-4141-abb9-a4fe50f430c2",
             "project_number": "43",
             "front": {
@@ -1272,7 +1272,7 @@
         },
         {
             "name": "Escape Rope",
-            "id": "2e1ee806-481a-4478-9bbe-00160739691a",
+            "id": "b023a06f-2ec7-48ab-87c1-07022f7a09d3",
             "project_number": "44",
             "front": {
                 "classes": [
@@ -1285,7 +1285,7 @@
                 "illustration_pan_x": -847.0,
                 "illustration_pan_y": -22.0,
                 "illustration_scale": 1.37,
-                "illustrator": "Illus. Dennis Fröhlich",
+                "illustrator": "Illus. Dennis Fr\u00f6hlich",
                 "level": "0",
                 "slot": "1 Hand",
                 "slots": [
@@ -1301,7 +1301,7 @@
         },
         {
             "name": "Honed Shuriken",
-            "id": "284c5580-e73f-4234-8459-989ae0fa0fcd",
+            "id": "19b2b8f5-2f00-412d-b74a-3413c6353979",
             "project_number": "45",
             "front": {
                 "classes": [
@@ -1330,15 +1330,15 @@
         },
         {
             "name": "Make My Own Luck",
-            "id": "fd4c0eb7-72aa-4688-b3e4-ba5500efe690",
+            "id": "2edf73d2-88e1-4d29-8e39-695d1dbc991f",
             "project_number": "48",
             "front": {
                 "classes": [
                     "rogue"
                 ],
-                "flavor_text": "\"Read ’em and weep!\"",
+                "flavor_text": "\"Read \u2019em and weep!\"",
                 "icons": "Q",
-                "illustration": "./images/Hanley-Leng-3d-art-mahjong-Маджонг-3934270.jpeg",
+                "illustration": "./images/Hanley-Leng-3d-art-mahjong-\u041c\u0430\u0434\u0436\u043e\u043d\u0433-3934270.jpeg",
                 "illustration_pan_x": -628.0,
                 "illustration_pan_y": -194.0,
                 "illustration_scale": 1.529,
@@ -1370,7 +1370,7 @@
                 "illustration_scale": 0.784,
                 "illustrator": "Illus. David Hueso",
                 "level": "0",
-                "text": "Fast. Play only when a non-<t>Elite</t> enemy enters play. Attach <name> to that enemy. Limit 1 per enemy.\nThe attached enemy gets –1 fight. \n<reaction> After you defeat the attached enemy: Gain 2 resources.",
+                "text": "Fast. Play only when a non-<t>Elite</t> enemy enters play. Attach <name> to that enemy. Limit 1 per enemy.\nThe attached enemy gets \u20131 fight. \n<reaction> After you defeat the attached enemy: Gain 2 resources.",
                 "traits": "Task. Illicit.",
                 "type": "event"
             },
@@ -1381,7 +1381,7 @@
         },
         {
             "name": "Trick Limb",
-            "id": "fafe7ce2-bade-40ff-80e6-5b82a6b08ef2",
+            "id": "2c58fd16-3eeb-4423-9b0a-3e29fa49bba3",
             "project_number": "46",
             "front": {
                 "classes": [
@@ -1410,7 +1410,7 @@
         },
         {
             "name": "Charcoal Grease",
-            "id": "005a00e2-4d0a-4b31-b8b0-708a1a2ac530",
+            "id": "3407777e-4d5b-473c-bc24-3289354c7c56",
             "project_number": "49",
             "front": {
                 "classes": [
@@ -1439,7 +1439,7 @@
         },
         {
             "name": "Insult to Injury",
-            "id": "9c5c69b0-8a2c-4173-b027-214194ab3879",
+            "id": "005db21e-1b34-4146-99d5-501ea9fb7ed5",
             "project_number": "50",
             "front": {
                 "classes": [
@@ -1464,7 +1464,7 @@
         },
         {
             "name": "Hidden Blade",
-            "id": "8192edcc-a23c-4595-adbb-c42a1ee901b9",
+            "id": "c834d25a-05bb-42b4-a20e-bf6c8f088bdf",
             "project_number": "51",
             "front": {
                 "classes": [
@@ -1483,7 +1483,7 @@
                 "slots": [
                     "hand"
                 ],
-                "text": "Uses (3 secrets). \n<free> Spend 1 secret and exhaust <name>: Fight. This attack uses <agility> instead of  <combat>. This attack may only target an enemy that is not engaged with you and automatically succeeds if targeting an enemy with 1 remaining health.",
+                "text": "Uses (3 secrets). \n<free> Spend 1 secret and exhaust <name>: Fight. This attack uses <agility> instead of  <combat>. This attack may only target an enemy that is not engaged with you and automatically succeeds if targeting an enemy with 1\u00a0remaining health.",
                 "traits": "Item. Tool. Illicit.",
                 "type": "asset"
             },
@@ -1493,7 +1493,7 @@
         },
         {
             "name": "Mirror Image",
-            "id": "848052cd-6b87-473d-9aff-058e41b39bb4",
+            "id": "c4130872-028f-46a7-9acc-67f61daf21ca",
             "project_number": "52",
             "front": {
                 "classes": [
@@ -1519,7 +1519,7 @@
         },
         {
             "name": "Sapphire and Lapis",
-            "id": "a0e10481-fc0c-4f5d-9885-3e8ee8e06d75",
+            "id": "cd37a9a4-764e-4f0c-8bb5-0f95f6d76ca6",
             "project_number": "53",
             "front": {
                 "classes": [
@@ -1550,7 +1550,7 @@
         },
         {
             "name": "Full Count",
-            "id": "fc2e1bb8-c943-431c-8f00-468aa7513463",
+            "id": "bd61dc6c-0577-443b-abfd-c9b78825f789",
             "project_number": "54",
             "front": {
                 "classes": [
@@ -1577,7 +1577,7 @@
         },
         {
             "name": "Akane Amada",
-            "id": "489c626f-533b-435a-915c-a0442851219f",
+            "id": "0dee601f-4223-4fb0-8101-5d872bcbf92f",
             "project_number": "55",
             "front": {
                 "classes": [
@@ -1639,7 +1639,7 @@
         },
         {
             "name": "Hidden Potential",
-            "id": "eacbf025-8bb3-4fb9-a164-d8ffc9cf4cf5",
+            "id": "92ee06dc-841f-4dee-b070-7ba1c2f9f00e",
             "project_number": "60",
             "front": {
                 "classes": [
@@ -1665,7 +1665,7 @@
         },
         {
             "name": "Parasitic Host",
-            "id": "99226f58-72dd-4470-ac56-5aa4be542f94",
+            "id": "b2c4b5c6-4273-4c51-900f-bcfa14570049",
             "project_number": "57",
             "front": {
                 "classes": [
@@ -1698,7 +1698,7 @@
         },
         {
             "name": "Remote Viewing",
-            "id": "2c97e691-8dd4-461a-a4b9-07023b5136be",
+            "id": "fd3f62cd-92b6-4083-af7c-ce7a8bbbf433",
             "project_number": "58",
             "front": {
                 "classes": [
@@ -1727,7 +1727,7 @@
         },
         {
             "name": "Spellbinding Seance",
-            "id": "4bc8c07e-587c-4b50-9c91-18171d8ac804",
+            "id": "9b13cd9e-e6f9-4c4b-a04b-84916d8ebfcb",
             "project_number": "59",
             "front": {
                 "classes": [
@@ -1756,7 +1756,7 @@
         },
         {
             "name": "Fan the Flames",
-            "id": "7f80d751-57ba-47c9-8971-a183363dd2bc",
+            "id": "03b8a342-ceaa-425e-b011-497bc98fa8e3",
             "project_number": "61",
             "front": {
                 "classes": [
@@ -1781,7 +1781,7 @@
         },
         {
             "name": "Rope Effigy",
-            "id": "e0bd2a0a-c827-4c6a-8239-77d88126c1a9",
+            "id": "76a8cc35-40be-45a3-bc91-c6501d165644",
             "project_number": "62",
             "front": {
                 "classes": [
@@ -1836,7 +1836,7 @@
         },
         {
             "name": "Surrender to Madness",
-            "id": "9b085910-1bd1-4355-a696-fc1dee573cdc",
+            "id": "78839405-6dc5-4f69-9b3f-951d850977a6",
             "project_number": "64",
             "front": {
                 "classes": [
@@ -1862,7 +1862,7 @@
         },
         {
             "name": "Sidereal Schism",
-            "id": "2a5b249b-5915-4d54-a663-659fda58de89",
+            "id": "72c854fc-e31b-415f-bcd8-0f8c7ac0d6d4",
             "project_number": "65",
             "front": {
                 "classes": [
@@ -1887,7 +1887,7 @@
         },
         {
             "name": "Eventide",
-            "id": "57eb056f-ac74-4f90-a13a-88805fba109f",
+            "id": "a2b00555-4c7b-4753-b0b5-3ccb1a7ec0be",
             "project_number": "66",
             "front": {
                 "classes": [
@@ -1918,7 +1918,7 @@
         },
         {
             "name": "Bury the Light",
-            "id": "1cf68642-b0ea-4fb6-99b4-ac62626bc92e",
+            "id": "3f1f2fd8-4c94-4707-bea9-ca76cb2b79b5",
             "project_number": "69",
             "front": {
                 "classes": [
@@ -1944,7 +1944,7 @@
         },
         {
             "name": "Give and Take",
-            "id": "c4776a6d-8070-4c01-9e02-39a5a68ef20c",
+            "id": "b5b76592-8122-4f8a-a69f-f22f30ea4429",
             "project_number": "67",
             "front": {
                 "classes": [
@@ -1969,7 +1969,7 @@
         },
         {
             "name": "Kentaro Kobayashi",
-            "id": "d6805756-292b-4773-9fde-6b873db1ac5d",
+            "id": "f3abd9e9-86f7-4457-8a14-64667e8ec6ef",
             "project_number": "68",
             "front": {
                 "classes": [
@@ -2002,7 +2002,7 @@
         },
         {
             "name": "Light the Way",
-            "id": "d94541be-7684-4c6f-9adc-ef15f9452000",
+            "id": "75dfcb27-2c9d-4900-bd30-319182e1e3a9",
             "project_number": "70",
             "front": {
                 "classes": [
@@ -2053,7 +2053,7 @@
         },
         {
             "name": "Trawl the Shallows",
-            "id": "24d3ae58-5cfe-4845-b959-100bdca14eb9",
+            "id": "acb6f2e0-8dad-4454-a0a0-a068aa2e606a",
             "project_number": "71",
             "front": {
                 "classes": [
@@ -2079,7 +2079,7 @@
         },
         {
             "name": "Limit Break",
-            "id": "e82fd65e-cc25-41d9-89a0-17271ea2562b",
+            "id": "9d8d40d0-911d-4fec-9e00-ebff01c3c2d4",
             "project_number": "74",
             "front": {
                 "classes": [
@@ -2105,7 +2105,7 @@
         },
         {
             "name": "Reckless Abandon",
-            "id": "69635253-ffd6-470a-b40b-ce0fb7b46eb2",
+            "id": "508c4fa5-ba0c-4062-8782-c8eb4c73c232",
             "project_number": "73",
             "front": {
                 "classes": [
@@ -2156,7 +2156,7 @@
         },
         {
             "name": "Destiny Bond",
-            "id": "dfa3f166-9dd6-4c6e-a107-67bcd5ef064b",
+            "id": "d2e1b60c-d351-4661-a00d-0aa79c0129f2",
             "project_number": "76",
             "front": {
                 "classes": [
@@ -2182,7 +2182,7 @@
         },
         {
             "name": "Selective Memory",
-            "id": "6430e9a5-148e-4659-8964-2b4a39e656ec",
+            "id": "6e7ac194-feec-4700-87d4-7d79b53a82a6",
             "project_number": "77",
             "front": {
                 "classes": [
@@ -2207,7 +2207,7 @@
         },
         {
             "name": "Wanderlust",
-            "id": "60bdedc2-e5f9-44d0-9d24-7b5c953c97d9",
+            "id": "943990cd-fd44-42bf-a829-bb99b6a8bc40",
             "project_number": "78",
             "front": {
                 "classes": [
@@ -2232,7 +2232,7 @@
         },
         {
             "name": "Harakiri",
-            "id": "43f1d468-ed45-48ea-8bff-d18a61e43a13",
+            "id": "e67b2dc9-3ac5-4ccd-be48-0fbcabcbb08d",
             "project_number": "86",
             "front": {
                 "classes": [
@@ -2262,7 +2262,7 @@
         },
         {
             "name": "Hermetic Abacus",
-            "id": "3117bddb-17cf-4335-aa52-1d813ebe9b6a",
+            "id": "8b9320d9-a2c4-4a75-9203-d1bdb9875a05",
             "project_number": "84",
             "front": {
                 "classes": [
@@ -2292,7 +2292,7 @@
         },
         {
             "name": "Keening Katana",
-            "id": "43017c79-01ec-42a5-a210-70555c9724da",
+            "id": "a4c0c44f-4694-4107-84b2-bad41fcf9f8e",
             "project_number": "80",
             "front": {
                 "classes": [
@@ -2322,7 +2322,7 @@
         },
         {
             "name": "Sulfuric Censer",
-            "id": "2db7855d-f00a-4307-a49d-f8991ce2e768",
+            "id": "6671b389-0d16-4ab8-b5bf-31fceedeb12b",
             "project_number": "81",
             "front": {
                 "classes": [
@@ -2342,7 +2342,7 @@
                 "slots": [
                     "hand"
                 ],
-                "text": "Limit 1 per investigator.\nYou get +1 <willpower>. \n<reaction> After <name> enters play: Add up to 2 <blessing> tokens to the chaos bag.",
+                "text": "Limit 1 per investigator.\nYou get +1 <willpower>. \n<reaction> After <name> enters play: Add up to 2\u00a0<blessing> tokens to the chaos bag.",
                 "traits": "Item. Charm. Blessed. ",
                 "type": "asset"
             },
@@ -2352,7 +2352,7 @@
         },
         {
             "name": "The Believer's Burden",
-            "id": "0b81328e-3bf6-4ad7-9fe9-d12f1f9a60a3",
+            "id": "17c966d6-21b4-4484-9adf-311798bc36d0",
             "project_number": "82",
             "front": {
                 "classes": [
@@ -2383,7 +2383,7 @@
         },
         {
             "name": "The Devil's Due",
-            "id": "e96e7b02-871e-4110-a138-59b76810b000",
+            "id": "c0fd489e-316a-42d5-ba84-0f969c32af3b",
             "project_number": "83",
             "front": {
                 "classes": [
@@ -2414,7 +2414,7 @@
         },
         {
             "name": "The Dragon's Dogma",
-            "id": "92e60af5-7a70-4385-8a84-e477d28b2ad2",
+            "id": "6a932fd2-287a-4987-ba8b-0ddf26ecc81d",
             "project_number": "88",
             "front": {
                 "classes": [
@@ -2446,7 +2446,7 @@
         },
         {
             "name": "The Hermit's Heresy",
-            "id": "db785db3-9d3d-4626-914c-cf0c4f74fe3f",
+            "id": "3f507114-4842-46a3-abe2-7500b94a2513",
             "project_number": "79",
             "front": {
                 "classes": [
@@ -2477,7 +2477,7 @@
         },
         {
             "name": "The Phoenix's Pathos",
-            "id": "cd3a598b-0341-4137-bb78-86114bbcb1ce",
+            "id": "5e2f2b4c-ab89-477b-81cb-f444e86f0a16",
             "project_number": "85",
             "front": {
                 "classes": [
@@ -2508,7 +2508,7 @@
         },
         {
             "name": "The Serpent's Sacrifice",
-            "id": "220e05db-12f4-4f1c-9ea8-d069b38df429",
+            "id": "4c39dcd1-ccb4-4a78-ac7d-bcec18cf0e7f",
             "project_number": "87",
             "front": {
                 "classes": [
@@ -2539,7 +2539,7 @@
         },
         {
             "name": "Anticipatory Focus",
-            "id": "a4bb7ca5-be9e-4be6-9970-f7068435e0a2",
+            "id": "4d44f2f6-9abc-4c1a-8006-bbe5c3ba695f",
             "project_number": "93",
             "front": {
                 "classes": [
@@ -2565,7 +2565,7 @@
         },
         {
             "name": "Hell or High Water",
-            "id": "2aa6f6f6-0650-4bc5-83d9-94fded0f6a37",
+            "id": "94cb0ff4-db27-400f-9b2b-4287597f3246",
             "project_number": "89",
             "front": {
                 "classes": [
@@ -2588,7 +2588,7 @@
         },
         {
             "name": "Hell or High Water",
-            "id": "900a40fa-150f-4748-bc44-06490d8ef73f",
+            "id": "5ae62cde-5ce8-458f-b0c2-e72e36464df5",
             "project_number": "90",
             "front": {
                 "classes": [
@@ -2630,7 +2630,7 @@
                 "slots": [
                     "hand"
                 ],
-                "text": "Uses (2 supplies). If <name> has no supplies, discard it.\n<for> When an investigator at your location resolves a <cultist>, <elder_thing>, or <fail> token during a skill test: Remove 1 supply from <name>. \n<free> Exhaust <name>: Your current location gets –1 shroud until the end of your turn.",
+                "text": "Uses (2 supplies). If <name> has no supplies, discard it.\n<for> When an investigator at your location resolves a <cultist>, <elder_thing>, or <fail> token during a skill test: Remove 1 supply from <name>. \n<free> Exhaust <name>: Your current location gets \u20131 shroud until the end of your turn.",
                 "traits": "Item. Tool.",
                 "type": "asset"
             },
@@ -2640,7 +2640,7 @@
         },
         {
             "name": "Skin in the Game",
-            "id": "79755a2d-78ba-4fbb-9810-911d1be458af",
+            "id": "e4d5aed2-b844-4d0d-bab2-253ca9a105ea",
             "project_number": "92",
             "front": {
                 "classes": [
@@ -2665,7 +2665,7 @@
         },
         {
             "name": "Hannya Mask",
-            "id": "df835c48-36dc-49f3-998a-5e76e17b1e4e",
+            "id": "c5753b2b-3b4b-4091-a59f-6f74cb2015de",
             "project_number": "95",
             "front": {
                 "classes": [
@@ -2692,7 +2692,7 @@
         },
         {
             "name": "Rapid Release",
-            "id": "1189deb0-04d9-4777-9782-345217d75e53",
+            "id": "616768bf-0449-426e-9ca8-bce05838c9f4",
             "project_number": "96",
             "front": {
                 "classes": [
@@ -2718,7 +2718,7 @@
         },
         {
             "name": "Koromaru",
-            "id": "de5f9af0-65ae-47fd-8b34-7c8caa2bc4d7",
+            "id": "86bf7a8a-a3aa-4228-a781-7094bc54d334",
             "project_number": "97",
             "front": {
                 "classes": [
@@ -2751,7 +2751,7 @@
         },
         {
             "name": "Fungible Fate",
-            "id": "d68ce96e-0333-4e06-be47-ec87e08cd671",
+            "id": "f94d27dd-cc86-4081-9ab4-cfaf7a56b1b4",
             "project_number": "98",
             "front": {
                 "classes": [
@@ -2775,7 +2775,7 @@
         },
         {
             "name": "Severe Clear",
-            "id": "f36f655e-6ee3-4155-a64d-d6fd89fb9e77",
+            "id": "e7150dac-bd9f-43ee-a4f5-fc312a421812",
             "project_number": "99",
             "front": {
                 "classes": [
@@ -2790,7 +2790,7 @@
                 "illustration_scale": 0.856,
                 "illustrator": "Illus. Hou China",
                 "level": "4",
-                "text": "Attach <name> to your current location. Limit 1 per location.\nThe attached location and each connecting location get –1 shroud.",
+                "text": "Attach <name> to your current location. Limit 1 per location.\nThe attached location and each connecting location get \u20131 shroud.",
                 "traits": "Fortune.",
                 "type": "event"
             },
@@ -2801,7 +2801,7 @@
         },
         {
             "name": "Through Thick and Thin",
-            "id": "ee34a8eb-c52a-4e05-936b-28407bcca7f3",
+            "id": "7cce1b3c-44a8-43d2-82d0-f6a9c0bf65dc",
             "project_number": "100",
             "front": {
                 "classes": [
@@ -2826,13 +2826,13 @@
         },
         {
             "name": "Shinobu Sanosuke",
-            "id": "47ad4eb2-4596-4761-8789-780d3987f8ab",
+            "id": "0ce278f1-7321-4d98-9580-1bb2b4d82770",
             "project_number": "101",
             "front": {
                 "classes": [
                     "neutral"
                 ],
-                "flavor_text": "\"No one should reach nirvana without the taste \nof good saké on their lips.\"",
+                "flavor_text": "\"No one should reach nirvana without the taste \nof good sak\u00e9 on their lips.\"",
                 "health": "7",
                 "illustration": "./images/bm-solari-dm1-removebg-preview (1).png",
                 "illustration_pan_x": 126.0,
@@ -2855,7 +2855,7 @@
         },
         {
             "name": "Gods Be Good",
-            "id": "b1ada05d-e5c1-4794-b607-0610de518bd9",
+            "id": "3a692339-69a3-4842-a2d6-2ae758c5fe4f",
             "project_number": "94",
             "front": {
                 "classes": [

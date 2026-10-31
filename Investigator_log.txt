@@ -1,0 +1,63 @@
+============================================================
+STEP 1: Loading arkham.build project
+============================================================
+ARKHAM.BUILD CONFLICT: 'Iscariot's Apocrypha — The Lost Gospel' has multiple IDs: 4fd639c5-0319-4001-a97a-4566563ca953, c0519cc0-ef6e-4613-82c6-fb198a60c110
+ARKHAM.BUILD CONFLICT: 'Parabellum' has multiple IDs: 622840b4-6b05-4341-b5c7-49540d2be427, 7ba43773-cd97-484e-b0e6-8feb4185842c
+ARKHAM.BUILD CONFLICT: 'First Principles' has multiple IDs: 474cba2d-85d4-44a5-a27f-b26392256863, add4891d-83c8-43e1-a483-ecfc89e393ec
+ARKHAM.BUILD CONFLICT: 'Symbolic Enigma' has multiple IDs: 28f74a7e-67fa-4743-b573-915dc6ea3330, f3e4ab7b-3862-4497-bea0-2c9f94c4449f
+ARKHAM.BUILD CONFLICT: 'Marked for Death' has multiple IDs: 1f927b8b-039d-4f45-9bce-5a0a321c2bdc, 8ecead66-0812-4d8c-b831-0f9d7044c76a
+ARKHAM.BUILD CONFLICT: 'Exorcism' has multiple IDs: 3cfa3814-ed2c-4368-b1e5-33b0a27304bf, 9e7b5fa7-6988-4bf9-a7aa-c6ba793ae08f, c1c9b2f1-1203-4e35-9992-6f50f24cd351
+ARKHAM.BUILD CONFLICT: 'Flicker' has multiple IDs: 7beef0b8-5819-4811-a455-347a4b886d19, 9cddbb01-dc6c-414f-865f-b7cc52fb44f0
+ARKHAM.BUILD CONFLICT: 'Now or Never' has multiple IDs: 4fea6057-7a7e-4aae-a110-d6434bd69168, a7e6c093-1bdd-4b04-a714-c43a434772cc
+ARKHAM.BUILD CONFLICT: 'Turn from the Ruin' has multiple IDs: 709db9ed-5f95-4523-a176-4de9f0c96f61, e9ad2764-c8ff-4e65-85e7-722e65a50342
+ARKHAM.BUILD CONFLICT: 'Papercut Lantern' has multiple IDs: a9a38dfb-12ab-480c-b681-0070c2571458, c5082264-e89b-4807-b828-a28707eede36
+
+Cards in arkham.build: 114
+Unique name/subtitle combinations: 93
+Conflicting combinations: 10
+
+Loading Shoggoth project...
+
+============================================================
+STEP 2: Updating Shoggoth project
+============================================================
+NOT-FOUND: 001mini-Yuki Yagami.eon
+NOT-FOUND: 002mini-Makoto Miyazaki.eon
+NOT-FOUND: 003mini-Hideki Honda.eon
+NOT-FOUND: 004mini-Akira Arisato.eon
+NOT-FOUND: 005mini-Sakura Sanada.eon
+NOT-FOUND: 098mini-Mayu Tachibana.eon
+NOT-FOUND: Iscariot's Apocrypha — The Lost Gospel
+NOT-FOUND: Parabellum
+NOT-FOUND: First Principles
+NOT-FOUND: Symbolic Enigma
+NOT-FOUND: “Banzai" Stiletto — Savvy Smuggler
+NOT-FOUND: Marked for Death
+NOT-FOUND: Exorcism
+NOT-FOUND: Flicker
+NOT-FOUND: Now or Never
+NOT-FOUND: Turn from the Ruin
+NOT-FOUND: Papercut Lantern
+
+Shoggoth update finished.
+Updated:     90
+Unchanged:   0
+Not found:   17
+Missing ID:  0
+ID mappings: 90
+
+Saved: Investigator.json
+
+============================================================
+TRANSLATION: Investigator_de.json
+============================================================
+
+Updated:     90
+Unchanged:   0
+Not found:   34
+Conflicts:   0
+Saved: Investigator_de.json
+
+============================================================
+DONE
+============================================================
