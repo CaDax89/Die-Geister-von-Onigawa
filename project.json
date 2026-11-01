@@ -1460,6 +1460,7 @@
             "id": "36c2617b-925e-4716-a38a-f48b18e2bdeb",
             "project_number": 43,
             "front": {
+                "name": "<unique><name>",
                 "attack": "4",
                 "combat": "4",
                 "damage": 1,
