@@ -8,10 +8,11 @@
     },
     "cards": [
         {
-            "name": "<unique>Der einsame Monarch",
+            "name": "Der einsame Monarch",
             "id": "7ef8295f-4a3e-4114-b790-85851fd5bc3b",
             "project_number": 1,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "neutral"
                 ],
@@ -35,10 +36,11 @@
             "encounter_set": "e9565a15-e381-421e-854f-c2613781daef"
         },
         {
-            "name": "<unique>Der rastlose Witwer",
+            "name": "Der rastlose Witwer",
             "id": "514d04c1-0e6c-47f1-89d0-8003389bb43d",
             "project_number": 2,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "neutral"
                 ],
@@ -62,10 +64,11 @@
             "encounter_set": "e9565a15-e381-421e-854f-c2613781daef"
         },
         {
-            "name": "<unique>Der wunderliche Lehrling",
+            "name": "Der wunderliche Lehrling",
             "id": "7e95e544-e073-483f-ac75-de6390559818",
             "project_number": 3,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "neutral"
                 ],
@@ -86,10 +89,11 @@
             "encounter_set": "e9565a15-e381-421e-854f-c2613781daef"
         },
         {
-            "name": "<unique>Die stumme Jägerin",
+            "name": "Die stumme Jägerin",
             "id": "09d05308-f3d5-42fa-9aee-ee342f6eb033",
             "project_number": 4,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "neutral"
                 ],
@@ -116,7 +120,7 @@
             "name": "Grundprinzipien",
             "id": "a1656d40-0ae2-4e0d-91c2-7008ccc0a0fb",
             "amount": 2,
-            "project_number": 10,
+            "project_number": 11,
             "front": {
                 "classes": [
                     "seeker"
@@ -143,7 +147,7 @@
             "name": "Symbolisches Enigma",
             "id": "c855b813-13e8-48c3-9f0c-a4abdf302279",
             "amount": 2,
-            "project_number": 9,
+            "project_number": 10,
             "front": {
                 "classes": [
                     "seeker"
@@ -170,7 +174,7 @@
             "name": "Zum Tode verurteilt",
             "id": "6eb0b2ef-d890-4b4d-aad9-9a3ff3218a29",
             "amount": 2,
-            "project_number": 11,
+            "project_number": 12,
             "front": {
                 "classes": [
                     "rogue"
@@ -197,7 +201,7 @@
             "name": "Exorzismus",
             "id": "5d1ff481-f2c3-4392-b5b6-1cb9614bf440",
             "amount": 2,
-            "project_number": 12,
+            "project_number": 13,
             "front": {
                 "classes": [
                     "mystic"
@@ -227,7 +231,7 @@
             "name": "Exorzismus",
             "id": "3b672419-a08b-4099-963b-0bf67bff1207",
             "amount": 2,
-            "project_number": 14,
+            "project_number": 15,
             "front": {
                 "classes": [
                     "mystic"
@@ -257,7 +261,7 @@
             "name": "Flackern",
             "id": "a212cc1b-ad2c-4d1b-8744-9225cd0201bb",
             "amount": 2,
-            "project_number": 13,
+            "project_number": 14,
             "front": {
                 "classes": [
                     "mystic"
@@ -281,7 +285,7 @@
             "name": "Dem Ruin den Rücken kehren",
             "id": "4cc5644c-4fc5-4789-9edc-0c365b1b83ee",
             "amount": 2,
-            "project_number": 16,
+            "project_number": 17,
             "front": {
                 "classes": [
                     "survivor"
@@ -308,7 +312,7 @@
             "name": "Jetzt oder nie",
             "id": "caa8e0ea-8734-44b2-b816-7841d55846cb",
             "amount": 2,
-            "project_number": 15,
+            "project_number": 16,
             "front": {
                 "classes": [
                     "survivor"
@@ -331,11 +335,12 @@
             "encounter_number": "1"
         },
         {
-            "name": "<unique>Iscariots Apokryphen",
+            "name": "Iscariots Apokryphen",
             "id": "179675da-4c1c-4145-9287-fbdd94c51637",
             "amount": 2,
-            "project_number": 8,
+            "project_number": 9,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "guardian"
                 ],
@@ -366,7 +371,7 @@
             "name": "Parabellum",
             "id": "8626ef24-3730-4288-8be1-f16be47c5090",
             "amount": 2,
-            "project_number": 7,
+            "project_number": 8,
             "front": {
                 "classes": [
                     "guardian"
@@ -392,11 +397,12 @@
             }
         },
         {
-            "name": "<unique>Hundehaar",
+            "name": "Hundehaar",
             "id": "cbe9972d-3ee1-4576-a8d1-dd2b7244b980",
             "investigator": "Shinobu Sanosuke",
-            "project_number": 19,
+            "project_number": 6,
             "front": {
+                "name": "<unique><name>",
                 "classes": [
                     "neutral"
                 ],
@@ -422,7 +428,7 @@
             "name": "Shinobu Sanosuke",
             "id": "13d15232-a017-4d43-851a-6af7bb00497e",
             "investigator": "Shinobu Sanosuke",
-            "project_number": 6,
+            "project_number": 5,
             "front": {
                 "classes": [
                     "neutral"
@@ -473,19 +479,23 @@
             }
         },
         {
-            "name": "XRT098mini-Shinobu Sanosuke.eon",
+            "name": "Shinobu Sanosuke mini",
             "id": "ca6f6770-e4ea-4a7c-adbd-e36f596c2354",
+            "investigator": "Shinobu Sanosuke",
             "project_number": 17,
             "front": {
                 "classes": [
                     "neutral"
                 ],
                 "illustration": "./images/bm-solari-dm1.jpg",
-                "type": "mini"
+                "illustration_pan_x": -109.0,
+                "illustration_pan_y": -22.0,
+                "illustration_scale": 1.016,
+                "type": "mini_investigator"
             },
             "back": {
                 "illustration": "./images/bm-solari-dm1.jpg",
-                "type": "mini_back"
+                "type": "mini_investigator_back"
             },
             "enumerated": "ignored"
         },
@@ -493,7 +503,7 @@
             "name": "Kalter Entzug",
             "id": "335308b8-2a71-4fdc-85ef-a90e5bd3b895",
             "investigator": "Shinobu Sanosuke",
-            "project_number": 5,
+            "project_number": 7,
             "front": {
                 "name": "<unique><name>",
                 "classes": [

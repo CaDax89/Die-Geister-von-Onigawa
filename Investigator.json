@@ -44,16 +44,17 @@
             }
         },
         {
-            "name": "001mini-Yuki Yagami.eon",
+            "name": "Yuki Yagami mini",
             "id": "ceaadf70-fd61-4fc2-8a06-cc090dc18b6b",
+            "investigator": "Yuki Yagami",
             "project_number": 43,
             "front": {
                 "illustration": "./images/HD-wallpaper-fantasy-art-magic-anime-girls-dark-hair-red-fantasy-girl-gufeng.jpg",
-                "type": "mini"
+                "type": "mini_investigator"
             },
             "back": {
                 "illustration": "./images/HD-wallpaper-fantasy-art-magic-anime-girls-dark-hair-red-fantasy-girl-gufeng.jpg",
-                "type": "mini_back"
+                "type": "mini_investigator_back"
             }
         },
         {
@@ -160,16 +161,20 @@
             }
         },
         {
-            "name": "002mini-Makoto Miyazaki.eon",
+            "name": "Makoto Miyazaki mini",
             "id": "e7720128-2dd5-4aca-afd6-7ae2a1c88a27",
+            "investigator": "Makoto Miyazaki",
             "project_number": 44,
             "front": {
                 "illustration": "./images/geisha3-bg.png",
-                "type": "mini"
+                "illustration_pan_x": -23.0,
+                "illustration_pan_y": 2.0,
+                "illustration_scale": 2.398,
+                "type": "mini_investigator"
             },
             "back": {
                 "illustration": "./images/geisha3-bg.png",
-                "type": "mini_back"
+                "type": "mini_investigator_back"
             }
         },
         {
@@ -261,16 +266,17 @@
             }
         },
         {
-            "name": "003mini-Hideki Honda.eon",
+            "name": "Hideki Honda mini",
             "id": "451be2ae-900a-440d-890b-d409847f4d0a",
+            "investigator": "Hideki Honda",
             "project_number": 45,
             "front": {
                 "illustration": "./images/shinobi.jpg",
-                "type": "mini"
+                "type": "mini_investigator"
             },
             "back": {
                 "illustration": "./images/shinobi.jpg",
-                "type": "mini_back"
+                "type": "mini_investigator_back"
             }
         },
         {
@@ -370,16 +376,17 @@
             }
         },
         {
-            "name": "004mini-Akira Arisato.eon",
+            "name": "Akira Arisato mini",
             "id": "93a8417b-4196-4ef8-bdcf-74420dd9d04e",
+            "investigator": "Akira Arisato",
             "project_number": 46,
             "front": {
                 "illustration": "./images/celestial-fang-53bfc5f3-febc-492e-95be-9d37cd1ad8c5.jpg",
-                "type": "mini"
+                "type": "mini_investigator"
             },
             "back": {
                 "illustration": "./images/celestial-fang-53bfc5f3-febc-492e-95be-9d37cd1ad8c5.jpg",
-                "type": "mini_back"
+                "type": "mini_investigator_back"
             }
         },
         {
@@ -477,16 +484,23 @@
             }
         },
         {
-            "name": "005mini-Sakura Sanada.eon",
+            "name": "Sakura Sanada mini",
             "id": "40657e44-efbc-4cf0-a1a8-df46a91ce2ce",
+            "investigator": "Sakura Sanada",
             "project_number": 47,
             "front": {
                 "illustration": "./images/the-art-of-puppeteer-lee-9.jpg",
-                "type": "mini"
+                "illustration_pan_x": -22.0,
+                "illustration_pan_y": -4.0,
+                "illustration_scale": 1.815,
+                "type": "mini_investigator"
             },
             "back": {
                 "illustration": "./images/the-art-of-puppeteer-lee-9.jpg",
-                "type": "mini_back"
+                "illustration_pan_x": -22.0,
+                "illustration_pan_y": -4.0,
+                "illustration_scale": 1.815,
+                "type": "mini_investigator_back"
             }
         },
         {
@@ -578,16 +592,17 @@
             }
         },
         {
-            "name": "098mini-Mayu Tachibana.eon",
+            "name": "Mayu Tachibana mini",
             "id": "888afb4f-5e1d-43d5-9beb-49eae8ebf81d",
+            "investigator": "Mayu Tachibana",
             "project_number": 48,
             "front": {
                 "illustration": "./images/59092ecf6b60d1d11465e21de487ebe1.jpg",
-                "type": "mini"
+                "type": "mini_investigator"
             },
             "back": {
                 "illustration": "./images/59092ecf6b60d1d11465e21de487ebe1.jpg",
-                "type": "mini_back"
+                "type": "mini_investigator_back"
             }
         },
         {
