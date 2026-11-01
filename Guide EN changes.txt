@@ -2,3 +2,5 @@
 - Add Disclaimer sentence after heading "Even Living Cards May Die" : (Dicsclaimer: Both Arkham.cards and the Patreon for it are not running anymore. This is a section Myriad added to the Campaign guide to thank the supporters.)
 
 - Change text in S6 to 11 Mountain pass Locations, add as revealed Location Kokoro Approach and remove first bullet to reveal it.
+
+- add Explanation of bless and curse Tokens to additional rules and clarifications, split bless/curse and harmony for that into separate sections
