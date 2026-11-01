@@ -44,20 +44,6 @@
             }
         },
         {
-            "name": "Yuki Yagami mini",
-            "id": "ceaadf70-fd61-4fc2-8a06-cc090dc18b6b",
-            "investigator": "Yuki Yagami",
-            "project_number": 43,
-            "front": {
-                "illustration": "./images/HD-wallpaper-fantasy-art-magic-anime-girls-dark-hair-red-fantasy-girl-gufeng.jpg",
-                "type": "mini_investigator"
-            },
-            "back": {
-                "illustration": "./images/HD-wallpaper-fantasy-art-magic-anime-girls-dark-hair-red-fantasy-girl-gufeng.jpg",
-                "type": "mini_investigator_back"
-            }
-        },
-        {
             "name": "Apotheosis",
             "id": "ddd23753-0f4e-47b0-92c6-1497efb38f19",
             "investigator": "Yuki Yagami",
@@ -161,23 +147,6 @@
             }
         },
         {
-            "name": "Makoto Miyazaki mini",
-            "id": "e7720128-2dd5-4aca-afd6-7ae2a1c88a27",
-            "investigator": "Makoto Miyazaki",
-            "project_number": 44,
-            "front": {
-                "illustration": "./images/geisha3-bg.png",
-                "illustration_pan_x": -23.0,
-                "illustration_pan_y": 2.0,
-                "illustration_scale": 2.398,
-                "type": "mini_investigator"
-            },
-            "back": {
-                "illustration": "./images/geisha3-bg.png",
-                "type": "mini_investigator_back"
-            }
-        },
-        {
             "name": "The Infinite Oculus",
             "id": "6bd84c4a-85f0-434b-9f5b-f927bb677a96",
             "investigator": "Makoto Miyazaki",
@@ -263,20 +232,6 @@
                 "illustration_pan_x": -2.0,
                 "illustration_pan_y": -66.0,
                 "type": "investigator_back"
-            }
-        },
-        {
-            "name": "Hideki Honda mini",
-            "id": "451be2ae-900a-440d-890b-d409847f4d0a",
-            "investigator": "Hideki Honda",
-            "project_number": 45,
-            "front": {
-                "illustration": "./images/shinobi.jpg",
-                "type": "mini_investigator"
-            },
-            "back": {
-                "illustration": "./images/shinobi.jpg",
-                "type": "mini_investigator_back"
             }
         },
         {
@@ -376,20 +331,6 @@
             }
         },
         {
-            "name": "Akira Arisato mini",
-            "id": "93a8417b-4196-4ef8-bdcf-74420dd9d04e",
-            "investigator": "Akira Arisato",
-            "project_number": 46,
-            "front": {
-                "illustration": "./images/celestial-fang-53bfc5f3-febc-492e-95be-9d37cd1ad8c5.jpg",
-                "type": "mini_investigator"
-            },
-            "back": {
-                "illustration": "./images/celestial-fang-53bfc5f3-febc-492e-95be-9d37cd1ad8c5.jpg",
-                "type": "mini_investigator_back"
-            }
-        },
-        {
             "name": "Living Memory",
             "id": "7c1f330b-4041-4bda-a1ad-569e26ed29de",
             "investigator": "Akira Arisato",
@@ -484,26 +425,6 @@
             }
         },
         {
-            "name": "Sakura Sanada mini",
-            "id": "40657e44-efbc-4cf0-a1a8-df46a91ce2ce",
-            "investigator": "Sakura Sanada",
-            "project_number": 47,
-            "front": {
-                "illustration": "./images/the-art-of-puppeteer-lee-9.jpg",
-                "illustration_pan_x": -22.0,
-                "illustration_pan_y": -4.0,
-                "illustration_scale": 1.815,
-                "type": "mini_investigator"
-            },
-            "back": {
-                "illustration": "./images/the-art-of-puppeteer-lee-9.jpg",
-                "illustration_pan_x": -22.0,
-                "illustration_pan_y": -4.0,
-                "illustration_scale": 1.815,
-                "type": "mini_investigator_back"
-            }
-        },
-        {
             "name": "Live by the Sword",
             "id": "bb0f6eba-9550-4d2e-9fe1-e482c8449ae4",
             "investigator": "Sakura Sanada",
@@ -589,20 +510,6 @@
                 "illustration_pan_x": 146.0,
                 "illustration_pan_y": 97.0,
                 "type": "investigator_back"
-            }
-        },
-        {
-            "name": "Mayu Tachibana mini",
-            "id": "888afb4f-5e1d-43d5-9beb-49eae8ebf81d",
-            "investigator": "Mayu Tachibana",
-            "project_number": 48,
-            "front": {
-                "illustration": "./images/59092ecf6b60d1d11465e21de487ebe1.jpg",
-                "type": "mini_investigator"
-            },
-            "back": {
-                "illustration": "./images/59092ecf6b60d1d11465e21de487ebe1.jpg",
-                "type": "mini_investigator_back"
             }
         },
         {

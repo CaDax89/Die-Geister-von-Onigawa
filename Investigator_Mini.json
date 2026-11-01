@@ -1,0 +1,294 @@
+{
+    "name": "GoO Investigator Mini Cards",
+    "id": "51f6e24b-c488-408c-b93c-50377c26536c",
+    "code": "GoO-IMC",
+    "icon": "",
+    "meta": {
+        "dirty": []
+    },
+    "cards": [
+        {
+            "name": "Akira Arisato (mini)",
+            "id": "0ef20369-cc5b-42bf-a539-7125ce13f945",
+            "amount": 1,
+            "investigator": "Akira Arisato",
+            "front": {
+                "illustration": "./images/celestial-fang-53bfc5f3-febc-492e-95be-9d37cd1ad8c5.jpg",
+                "illustration_mirror": true,
+                "illustration_pan_x": -316.0,
+                "illustration_pan_y": -107.0,
+                "illustration_scale": 1.0,
+                "type": "mini_investigator"
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Restrictions:</b>",
+                        ""
+                    ]
+                ],
+                "illustration_mirror": true,
+                "type": "mini_investigator_back"
+            },
+            "enumerated": "ignored"
+        },
+        {
+            "name": "Hideki Honda (mini)",
+            "id": "7a3c5abe-fb1c-4a32-9d1f-a47ea999383d",
+            "amount": 1,
+            "investigator": "Hideki Honda",
+            "front": {
+                "illustration": "./images/shinobi.jpg",
+                "illustration_mirror": true,
+                "illustration_pan_x": -57.0,
+                "illustration_pan_y": -51.0,
+                "illustration_scale": 0.673,
+                "type": "mini_investigator"
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Restrictions:</b>",
+                        ""
+                    ]
+                ],
+                "illustration_mirror": true,
+                "type": "mini_investigator_back"
+            },
+            "enumerated": "ignored"
+        },
+        {
+            "name": "Makoto Miyazaki (mini)",
+            "id": "a71e76fe-db9d-40c6-a8f2-4bd77834b736",
+            "amount": 1,
+            "investigator": "Makoto Miyazaki",
+            "front": {
+                "illustration": "./images/geisha3-bg_2.jpg",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 0.0,
+                "illustration_scale": 1.486,
+                "type": "mini_investigator"
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Restrictions:</b>",
+                        ""
+                    ]
+                ],
+                "type": "mini_investigator_back"
+            },
+            "enumerated": "ignored"
+        },
+        {
+            "name": "Mayu Tachibana (mini)",
+            "id": "e03f427f-fef0-4e99-9a63-01840fe43d5d",
+            "amount": 1,
+            "investigator": "Mayu Tachibana",
+            "front": {
+                "illustration": "./images/59092ecf6b60d1d11465e21de487ebe1.jpg",
+                "illustration_mirror": true,
+                "illustration_pan_x": -476.0,
+                "illustration_pan_y": -26.0,
+                "type": "mini_investigator"
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Restrictions:</b>",
+                        ""
+                    ]
+                ],
+                "illustration_mirror": true,
+                "type": "mini_investigator_back"
+            },
+            "enumerated": "ignored"
+        },
+        {
+            "name": "Sakura Sanada (mini)",
+            "id": "b9cfba29-d97d-43d1-af70-30d7475685c3",
+            "amount": 1,
+            "investigator": "Sakura Sanada",
+            "front": {
+                "illustration": "./images/the-art-of-puppeteer-lee-9.jpg",
+                "illustration_mirror": true,
+                "illustration_pan_x": -153.0,
+                "illustration_pan_y": 0.0,
+                "illustration_scale": 1.815,
+                "type": "mini_investigator"
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Restrictions:</b>",
+                        ""
+                    ]
+                ],
+                "illustration_mirror": true,
+                "type": "mini_investigator_back"
+            },
+            "enumerated": "ignored"
+        },
+        {
+            "name": "Yuki Yagami (mini)",
+            "id": "2fc6cb1b-c251-4992-af2b-4e7fdc2f7a29",
+            "amount": 1,
+            "investigator": "Yuki Yagami",
+            "front": {
+                "illustration": "./images/HD-wallpaper-fantasy-art-magic-anime-girls-dark-hair-red-fantasy-girl-gufeng_2.jpg",
+                "illustration_pan_x": 0.0,
+                "illustration_pan_y": 0.0,
+                "illustration_scale": 0.792,
+                "type": "mini_investigator"
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Restrictions:</b>",
+                        ""
+                    ]
+                ],
+                "type": "mini_investigator_back"
+            },
+            "enumerated": "ignored"
+        },
+        {
+            "name": "Shinobu Sanosuke (mini)",
+            "id": "bc82565a-2438-4493-9f82-9cc317b2edf4",
+            "amount": 1,
+            "investigator": "Shinobu Sanosuke",
+            "front": {
+                "illustration": "./images/bm-solari-dm1.jpg",
+                "illustration_mirror": true,
+                "illustration_pan_x": -45.0,
+                "illustration_pan_y": 24.0,
+                "illustration_scale": 1.098,
+                "type": "mini_investigator"
+            },
+            "back": {
+                "entries": [
+                    [
+                        "<b>Deck Size:</b>",
+                        "30"
+                    ],
+                    [
+                        "<b>Secondary Class Choice:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Options:</b>",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Requirements</b> (do not count toward deck size):",
+                        ""
+                    ],
+                    [
+                        "<b>Deckbuilding Restrictions:</b>",
+                        ""
+                    ]
+                ],
+                "illustration_mirror": true,
+                "type": "mini_investigator_back"
+            },
+            "enumerated": "ignored"
+        }
+    ],
+    "encounter_sets": []
+}
