@@ -55,41 +55,7 @@
                 "traits": "Haltung."
             }
         },
-        "0ce278f1-7321-4d98-9580-1bb2b4d82770": {
-            "front": {
-                "flavor_text": "„Niemand sollte das Nirwana erreichen, ohne den Geschmack von gutem Sake auf den Lippen zu haben.“",
-                "subtitle": "Der Mönch",
-                "text": "Du beginnst das Spiel mit Hundehaar <i>(Absinth-Elixir)</i> im Spiel.\n<free> Gib 1 Vorrat von Hundehaar aus: Du erhältst +1 auf deinen Fertigkeitswert für diese Probe. <i>(Max. ein Mal pro Zug.)</i>\n<elder_sign>-Effekt: +X. X is die Anzahl an Vorräten auf Hundehaar.",
-                "traits": "Gelehrter. Herumtreiber."
-            },
-            "back": {
-                "entries": [
-                    [
-                        "<b>Deckgröße:</b>",
-                        "30"
-                    ],
-                    [
-                        "<b>Wahl der Klassen:</b>",
-                        "Wähle beim Deckbau 2 Klassen: Wächter (<guardian>), Sucher (<seeker>), Schurke (<rogue>), Mystiker (<mystic>) oder Überlebender (<survivor>)."
-                    ],
-                    [
-                        "<b>Deckbau-Optionen:</b>",
-                        "<t>Illegal</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5, Karten deiner gewählten Klassen Stufe 0-3."
-                    ],
-                    [
-                        "<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße):",
-                        "Hundehaar, Kalter Entzug, 1 zufällige Grundschwäche."
-                    ],
-                    [
-                        "<b>Zusätzliche Einschränkungen:</b>",
-                        "Keine <t>Gelassenheit</t>-Vorteilskarten."
-                    ]
-                ],
-                "flavor_text": "Shinobu war ein mittelloser Säufer, als er vom legendären „betrunkenen Meister“ Hiro Hachimura unter seine Fittiche genommen wurde. Unter der Anleitung seines Meisters entwickelte Shinobu schnell ein Talent für die handwerkliche Braukunst, doch Shinobus „Markenzeichen“ – ein mit Absinth angereichertes Gebräu – erwies sich selbst für seinen Meister als zu gewaltig. Seitdem der „betrunkene Meister“ unerwartet ins Koma fiel, sucht sein Schüler nach immer exotischeren Zutaten, um sein esoterisches Brauarsenal zu erweitern, in der Hoffnung, eines Tages eine Tinktur zu brauen, die seinen Meister zurückbringen könnte...",
-                "text": "<b>Deckgröße:</b> 30\n<b>Wahl der Klassen:</b> Wähle beim Deckbau 2 Klassen: Wächter (<guardian>), Sucher (<seeker>), Schurke (<rogue>), Mystiker (<mystic>) oder Überlebender (<survivor>).\n<b>Deckbau-Optionen:</b> <t>Illegal</t>-Karten Stufe 0-5, Neutrale Karten Stufe 0-5, Karten deiner gewählten Klassen Stufe 0-3.\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): Hundehaar, Kalter Entzug, 1 zufällige Grundschwäche.\n<b>Zusätzliche Einschränkungen:</b> Keine <t>Gelassenheit</t>-Vorteilskarten."
-            }
-        },
-        "0dee601f-4223-4fb0-8101-5d872bcbf92f": {
+               "0dee601f-4223-4fb0-8101-5d872bcbf92f": {
             "amount": 2,
             "front": {
                 "flavor_text": "Akanes Begeisterung für Live-Musik begann bereits in ihrer Kindheit, als sie beobachtete, wie eine wunderschöne junge Bardin einen rachsüchtigen Geist aus ihrem Dorf vertrieb.",
@@ -186,15 +152,7 @@
                 "traits": "Makel."
             }
         },
-        "2b899ef5-f0fa-4bab-9147-d585fe402609": {
-            "name": "Kalter Entzug",
-            "front": {
-                "flavor_text": "Am Boden eines Glases wirst du keine Antworten finden.",
-                "text": "<rev> Entferne alle Vorräte von Hundehaar und bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Sobald du einen Vorrat auf Hundehaar platzieren würdest: Platziere es stattdessen auf <name>.\n<action> Falls mindestens 3 Vorräte auf dieser Karte liegen: Lege Kalter Entzug ab.",
-                "traits": "Gift."
-            }
-        },
-        "2c58fd16-3eeb-4423-9b0a-3e29fa49bba3": {
+               "2c58fd16-3eeb-4423-9b0a-3e29fa49bba3": {
             "name": "Künstliche Hand",
             "amount": 2,
             "front": {
@@ -306,17 +264,7 @@
         "451be2ae-900a-440d-890b-d409847f4d0a": {
             "enumerated": "ignored"
         },
-        "482b2786-0d07-45e2-9cde-f6643b36cd82": {
-            "name": "von Bildern mit no bleed <unique>Mayu Tachibana",
-            "front": {
-                "flavor_text": "„Ich habe es meiner Schwester versprochen...“",
-                "subtitle": "Die ältere Zwillingsschwester",
-                "text": "Du hast einen zusätzlichen Handslot.\n<free> Erschöpfe Mayu Tachibana und füge dem Chaosbeutel einen <blessing>-Marker hinzu: Du erhältst +1 auf deinen Fertigkeitswert für diese Probe. ",
-                "traits": "Verbündete. Minakami."
-            },
-            "back": {}
-        },
-        "4b161ec2-9d28-4e63-a825-6a5c2de80f91": {
+               "4b161ec2-9d28-4e63-a825-6a5c2de80f91": {
             "front": {
                 "flavor_text": "„Ich muss meine heilige Pflicht erfüllen...koste es, was es wolle.“",
                 "subtitle": "Die Priesterin",
@@ -522,16 +470,7 @@
                 "traits": "Zustand."
             }
         },
-        "6f0396d3-597f-4515-a2ef-d25faf71d185": {
-            "name": "Papier-Laterne",
-            "amount": 2,
-            "front": {
-                "illustrator": "Illus. Unbekannt",
-                "text": "Anwendungen (4 Vorräte). Falls <name> keine Vorräte auf sich hat, lege sie ab.\n<for> Sobald ein Ermittler an deinem Ort einen <cultist>-, <elder_thing>- oder <auto_fail>-Marker während einer Fertigkeitsprobe enthüllt: Entferne 1 Vorrat von <name>. \n<free> Erschöpfe <name>: Dein aktueller Ort erhält –1 Schleierwert bis zum Ende der Runde.",
-                "traits": "Gegenstand. Werkzeug."
-            }
-        },
-        "708d3c69-2d92-4461-91a3-260102ba6919": {
+               "708d3c69-2d92-4461-91a3-260102ba6919": {
             "name": "Zum Tode verurteilt",
             "amount": 2,
             "front": {
@@ -568,17 +507,7 @@
                 "traits": "Glücksfall."
             }
         },
-        "75d4ff95-93c7-4cbb-bf9c-a68c40a0972e": {
-            "name": "???????? Text anders <unique>Mayu Tachibana (Copy)",
-            "front": {
-                "flavor_text": "\"I made a promise to my sister...\"",
-                "subtitle": "Der Zwilling",
-                "text": "<reaction> After an enemy at your location is evaded: Draw a card.\n<free>: Move 1 charge from Camera Obscura to another asset you control with \"uses (charges)\". (Limit once per round.)\n<elder_sign> effect: +1. If you succeed, you may place 1 charge on Camera Obscura.",
-                "traits": "Miskatonic. Student."
-            },
-            "back": {}
-        },
-        "75dfcb27-2c9d-4900-bd30-319182e1e3a9": {
+                "75dfcb27-2c9d-4900-bd30-319182e1e3a9": {
             "name": "Den Weg erhellen",
             "amount": 2,
             "front": {
@@ -1099,15 +1028,7 @@
                 "traits": "Weissagung."
             }
         },
-        "dc882c18-cf7e-4755-bd55-5c9c8af3b1ae": {
-            "name": "<unique>Hundehaar",
-            "front": {
-                "subtitle": "Absinth-Elixir",
-                "text": "Nur für das Deck von Shinobu Sanosuke.\nHundehaar kann das Spiel nicht verlassen. Anwendungen (0 Vorräte).\n<for> Sobald dein Zug beginnt: Platziere 1 Vorrat auf Hundehaar. Dann, falls es genau...\n<bullet> ...1 Vorrat auf sich hat, erhältst du +1 <combat> bis zum Ende der Runde.\n<bullet> ...2 Vorrat auf sich hat, erhältst du +1 <willpower> bis zum Ende der Runde.\n<bullet> ...3 Vorrat auf sich hat, erhältst du +1 <intellect> bis zum Ende der Runde.\n<bullet> ...4 oder mehr Vorräte auf sich hat, nimm alle Vorräte auf Hundehaar als Ressourcen.",
-                "traits": "Vorrat. Illegal."
-            }
-        },
-        "ddd23753-0f4e-47b0-92c6-1497efb38f19": {
+               "ddd23753-0f4e-47b0-92c6-1497efb38f19": {
             "name": "Apotheose",
             "front": {
                 "flavor_text": "Die heilige Blutlinie der Göttin Amaterasu wurde sorgfältig bewahrt, bis ein geeignetes Gefäß für ihre Essenz gefunden werden konnte.",

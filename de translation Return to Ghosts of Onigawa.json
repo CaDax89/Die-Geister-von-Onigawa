@@ -479,27 +479,6 @@
             }
         },
         {
-            "name": "Shinobu Sanosuke mini",
-            "id": "ca6f6770-e4ea-4a7c-adbd-e36f596c2354",
-            "investigator": "Shinobu Sanosuke",
-            "project_number": 17,
-            "front": {
-                "classes": [
-                    "neutral"
-                ],
-                "illustration": "./images/bm-solari-dm1.jpg",
-                "illustration_pan_x": -109.0,
-                "illustration_pan_y": -22.0,
-                "illustration_scale": 1.016,
-                "type": "mini_investigator"
-            },
-            "back": {
-                "illustration": "./images/bm-solari-dm1.jpg",
-                "type": "mini_investigator_back"
-            },
-            "enumerated": "ignored"
-        },
-        {
             "name": "Kalter Entzug",
             "id": "335308b8-2a71-4fdc-85ef-a90e5bd3b895",
             "investigator": "Shinobu Sanosuke",

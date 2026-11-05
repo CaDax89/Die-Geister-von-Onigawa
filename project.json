@@ -1193,7 +1193,7 @@
         },
         {
             "name": "Fisherman's Wharf",
-            "id": "15ede677-c8a6-49f9-9438-d0a81ab79d47",
+            "id": "78c4f2f7-3b84-42d9-9404-31820f453c68",
             "project_number": 32,
             "front": {
                 "clues": "2<per>",
@@ -1702,7 +1702,7 @@
         },
         {
             "name": "Fisherman's Wharf",
-            "id": "acdb2adf-eee1-4f31-90fb-729be71242ef",
+            "id": "b3054620-d697-471b-a3a8-8ae7d5045064",
             "project_number": 55,
             "front": {
                 "clues": "0",
@@ -5504,7 +5504,7 @@
         },
         {
             "name": "“Sensei\" Kanuti",
-            "id": "bf57416d-05e1-4002-97f8-4efd49d3bf01",
+            "id": "a3214816-08a1-461c-9688-2d4d04516ca8",
             "project_number": 167,
             "front": {
                 "combat": "4",
@@ -5689,7 +5689,7 @@
         },
         {
             "name": "All Hope Shall Perish",
-            "id": "dda9e452-281d-4184-a4ad-9cc1f88157ed",
+            "id": "ff100955-b8c2-46eb-8112-120bf3f5590e",
             "project_number": 173,
             "front": {
                 "clues": "19",
@@ -6721,7 +6721,7 @@
         },
         {
             "name": "<unique> Mayu Tachibana",
-            "id": "fcc0a495-98e9-43c9-819f-57c6eb45a236",
+            "id": "0e2d9875-5194-4f14-8f86-defcced63e48",
             "project_number": 202,
             "front": {
                 "classes": [
