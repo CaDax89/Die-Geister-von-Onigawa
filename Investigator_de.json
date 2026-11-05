@@ -118,16 +118,7 @@
                 "traits": "Brandzeichen."
             }
         },
-        "183289ca-36e7-453a-9dac-ee0f1cb4650c": {
-            "name": "Zum Tode verurteilt",
-            "amount": 2,
-            "front": {
-                "flavor_text": "Einen ahnungslosen Gegner anzugreifen ist nur dann unehrenhaft, wenn man dafür nicht bezahlt wird.",
-                "text": "Schnell. Spiele diese Karte in einem beliebigen <free>-Fenster. Hänge <name> an einen Nicht-<t>Elite</t>-Gegner an, der nicht in einen Kampf verwickelt ist. Dieser Gegner erhält -1 Kampf und -1 Entkommen. \n<reaction> Nachdem dieser Gegner abgelegt wurde: Erhalte 2 Ressourcen.",
-                "traits": "Aufgabe. Illegal."
-            }
-        },
-        "19b2b8f5-2f00-412d-b74a-3413c6353979": {
+               "19b2b8f5-2f00-412d-b74a-3413c6353979": {
             "name": "Geschliffene Shuriken",
             "amount": 2,
             "front": {
@@ -136,15 +127,7 @@
                 "traits": "Gegenstand. Werkzeug. Waffe. Fernkampf. Illegal."
             }
         },
-        "24b39fee-dc99-4ce5-a3e3-0322c4f2c33d": {
-            "amount": 2,
-            "front": {
-                "flavor_text": "Wer Frieden will, muss sich auf den Krieg vorbereiten.",
-                "text": "<reaction> Nachdem eine Fertigkeitsprobe in einer Kampf-Aktion während deines Zuges misslungen ist, erschöpfe Parabellum: Du darfst eine zusätzliche Aktion in diesem Zug nehmen, die nur dazu genutzt werden kann zu kämpfen oder einen Gegner in einen Kampf zu verwickeln. ",
-                "traits": "Ritual. Geist."
-            }
-        },
-        "2b081341-00d7-4f17-8263-9196a81e8afc": {
+                "2b081341-00d7-4f17-8263-9196a81e8afc": {
             "name": "Porzellan-Trugbild",
             "front": {
                 "flavor_text": "Was auch immer an Wahrheit in der Schönheit stecken mag, sie bleibt doch nur oberflächlich.",
@@ -214,16 +197,7 @@
                 "traits": "Glücksfall."
             }
         },
-        "3e369ca8-26f6-47fc-adf8-7fdcb92fd0b4": {
-            "name": "Exorzismus",
-            "amount": 2,
-            "front": {
-                "flavor_text": "„Du gehörst nicht in diese Welt!“",
-                "text": "<action>: <b>Kampf.</b> Dieser Angriff verwendet <willpower> statt <combat>. Du bekommst +3 <willpower>. Falls du während einer Fertigkeitsprobe einen <blessing>- oder <elder_sign>-Marker abhandelst oder falls dieser Angriff einen <t>Geist</t> oder <t>Yokai</t>-Gegner als Ziel hat, fügt er +2 Schaden zu. ",
-                "traits": "Zauber. Gesegnet."
-            }
-        },
-        "3f1f2fd8-4c94-4707-bea9-ca76cb2b79b5": {
+               "3f1f2fd8-4c94-4707-bea9-ca76cb2b79b5": {
             "name": "Das Licht begraben",
             "amount": 2,
             "front": {
@@ -386,16 +360,7 @@
                 "traits": "Brandzeichen."
             }
         },
-        "6146e8b3-7f4d-4fc6-85a4-91c948d4bbd9": {
-            "name": "Flackern",
-            "amount": 2,
-            "front": {
-                "flavor_text": "„Wenn du mir in die Augen schaust...was siehst du dann?“<br> „Das sind nicht deine Augen.“",
-                "text": "Schnell. Spiele diese Karte in einem beliebigen <free>-Fenster.\nWähle eine Nicht-Schwäche-Karte in der Spielzone eines Ermittlers an deinem Ort und füge sie wieder der Hand ihres Besitzers zu.",
-                "traits": "Weissagung."
-            }
-        },
-        "616768bf-0449-426e-9ca8-bce05838c9f4": {
+                "616768bf-0449-426e-9ca8-bce05838c9f4": {
             "name": "Zügiges Zücken",
             "amount": 2,
             "front": {
@@ -562,16 +527,7 @@
                 "traits": "Bündnis."
             }
         },
-        "7daf88a5-2279-48d3-97e7-568021962561": {
-            "name": "Dem Ruin den Rücken kehren",
-            "amount": 2,
-            "front": {
-                "flavor_text": "Die Zeit heilt alle Wunden. Sie wird aber noch viele weitere verursachen.",
-                "text": "Schnell. Spiele diese Karte, nachdem die Fertigkeitsprobe eines Ermittlers misslingt. \nDer ausführende Ermittler darf bis zu X Karten ziehen. X ist die Zahl, um die die Probe misslungen ist.",
-                "traits": "Erkenntnis."
-            }
-        },
-        "7fcc44e2-f4d5-4e3d-a718-ee35be18dcf9": {
+                "7fcc44e2-f4d5-4e3d-a718-ee35be18dcf9": {
             "name": "Martyrium",
             "amount": 2,
             "front": {
@@ -740,16 +696,7 @@
                 "traits": "Erkenntnis. Okkult."
             }
         },
-        "a8eec7fd-bd7b-4eb9-9966-b536d910afef": {
-            "name": "Grundprinzipien",
-            "amount": 2,
-            "front": {
-                "flavor_text": "Der Tod ist für jeden unvermeidlich.",
-                "text": "Schnell. Spiele diese Karte, nachdem deinem Ermittler Schaden zugewiesen wurde.\nEntdecke 2 Hinweise an deinem Ort.",
-                "traits": "Erkenntnis."
-            }
-        },
-        "acb6f2e0-8dad-4454-a0a0-a068aa2e606a": {
+               "acb6f2e0-8dad-4454-a0a0-a068aa2e606a": {
             "name": "Untiefen durchkämmen",
             "amount": 2,
             "front": {
@@ -822,16 +769,7 @@
                 "traits": "Geist. Mutig."
             }
         },
-        "bc612de7-114d-420f-9588-4c3b28810716": {
-            "name": "Symbolisches Enigma",
-            "amount": 2,
-            "front": {
-                "flavor_text": "„Der Verstand deines Feindes hüllt seine Geheimnisse in Symbole.“",
-                "text": "Schnell. Spiele diese Karte nur in deinem Zug. Jeder Ermittler an deinem Ort darf bis zu X Karten ziehen. X entspricht dem Schleierwert deines aktuellen Ortes.\n\n",
-                "traits": "Erkenntnis. Okkult."
-            }
-        },
-        "bd61dc6c-0577-443b-abfd-c9b78825f789": {
+               "bd61dc6c-0577-443b-abfd-c9b78825f789": {
             "name": "Komplette Übersicht",
             "amount": 2,
             "front": {
@@ -1117,27 +1055,7 @@
         "e7720128-2dd5-4aca-afd6-7ae2a1c88a27": {
             "enumerated": "ignored"
         },
-        "f0ee512e-45d9-4600-bdf5-114966ad9693": {
-            "name": "<unique>Iscariots Apokryphen",
-            "amount": 2,
-            "front": {
-                "flavor_text": "Selbst die großartigste Geschichte, die je erzählt wurde, hat zwei Seiten.",
-                "illustrator": "Illus. Unbekannt",
-                "subtitle": "Das verlorene Evangelium",
-                "text": "<action>: Falls Iscariots Apokryphen spielbereit ist: <b>Ermitteln.</b> Du erhältst +1 <intellect> für diese Ermittlung. Falls diese Ermittlung erfolgreich ist und dabei ein <blessing>- oder <elder_sign>-Marker abgehandelt wurde, entdecke 1 zusätzlichen Hinweis an deinem Ort. Als zusätzliche Kosten, um diese Fähigkeit zu initiieren, darfst du Iscariots Apokryphen erschöpfen, um dem Chaosbeutel einen <blessing>-Marker hinzuzufügen.",
-                "traits": "Gegenstand. Buch. Gesegnet. "
-            }
-        },
-        "f361d8ef-f8f4-491b-93e8-69f438dd696d": {
-            "name": "Jetzt oder nie",
-            "amount": 2,
-            "front": {
-                "flavor_text": "Eine Niederlage ist keine Schande, solange der Geist ungebrochen bleibt.",
-                "text": "Max. 1 pro Fertigkeitsprobe beitragen.\n<name> erhält <wild> für jede Probe, die dem ausführenden Ermittler in dieser Runde bereits misslungen ist.",
-                "traits": "Angeboren."
-            }
-        },
-        "f3abd9e9-86f7-4457-8a14-64667e8ec6ef": {
+                    "f3abd9e9-86f7-4457-8a14-64667e8ec6ef": {
             "amount": 2,
             "front": {
                 "flavor_text": "„Raus aus meiner Küche!“",
@@ -1155,16 +1073,7 @@
                 "traits": "Angeboren. Entwickelt."
             }
         },
-        "f7941b61-dc67-4862-9eb0-75016be3a1e9": {
-            "name": "Exorzismus",
-            "amount": 2,
-            "front": {
-                "flavor_text": "„Du gehörst nicht in diese Welt!“",
-                "text": "<action>: <b>Kampf.</b> Dieser Angriff verwendet <willpower> statt <combat>. Du bekommst +2 <willpower>. Falls du während einer Fertigkeitsprobe einen <blessing>- oder <elder_sign>-Marker abhandelst oder falls dieser Angriff einen <t>Geist</t> oder <t>Yokai</t>-Gegner als Ziel hat, fügt er +1 Schaden zu. ",
-                "traits": "Zauber. Gesegnet."
-            }
-        },
-        "f94d27dd-cc86-4081-9ab4-cfaf7a56b1b4": {
+                "f94d27dd-cc86-4081-9ab4-cfaf7a56b1b4": {
             "name": "Austauschbares Schicksal",
             "amount": 2,
             "front": {
