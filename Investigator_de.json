@@ -55,7 +55,7 @@
                 "traits": "Haltung."
             }
         },
-               "0dee601f-4223-4fb0-8101-5d872bcbf92f": {
+        "0dee601f-4223-4fb0-8101-5d872bcbf92f": {
             "amount": 2,
             "front": {
                 "flavor_text": "Akanes Begeisterung für Live-Musik begann bereits in ihrer Kindheit, als sie beobachtete, wie eine wunderschöne junge Bardin einen rachsüchtigen Geist aus ihrem Dorf vertrieb.",
@@ -118,7 +118,7 @@
                 "traits": "Brandzeichen."
             }
         },
-               "19b2b8f5-2f00-412d-b74a-3413c6353979": {
+        "19b2b8f5-2f00-412d-b74a-3413c6353979": {
             "name": "Geschliffene Shuriken",
             "amount": 2,
             "front": {
@@ -127,7 +127,7 @@
                 "traits": "Gegenstand. Werkzeug. Waffe. Fernkampf. Illegal."
             }
         },
-                "2b081341-00d7-4f17-8263-9196a81e8afc": {
+        "2b081341-00d7-4f17-8263-9196a81e8afc": {
             "name": "Porzellan-Trugbild",
             "front": {
                 "flavor_text": "Was auch immer an Wahrheit in der Schönheit stecken mag, sie bleibt doch nur oberflächlich.",
@@ -135,7 +135,7 @@
                 "traits": "Makel."
             }
         },
-               "2c58fd16-3eeb-4423-9b0a-3e29fa49bba3": {
+        "2c58fd16-3eeb-4423-9b0a-3e29fa49bba3": {
             "name": "Künstliche Hand",
             "amount": 2,
             "front": {
@@ -197,7 +197,7 @@
                 "traits": "Glücksfall."
             }
         },
-               "3f1f2fd8-4c94-4707-bea9-ca76cb2b79b5": {
+        "3f1f2fd8-4c94-4707-bea9-ca76cb2b79b5": {
             "name": "Das Licht begraben",
             "amount": 2,
             "front": {
@@ -238,7 +238,7 @@
         "451be2ae-900a-440d-890b-d409847f4d0a": {
             "enumerated": "ignored"
         },
-               "4b161ec2-9d28-4e63-a825-6a5c2de80f91": {
+        "4b161ec2-9d28-4e63-a825-6a5c2de80f91": {
             "front": {
                 "flavor_text": "„Ich muss meine heilige Pflicht erfüllen...koste es, was es wolle.“",
                 "subtitle": "Die Priesterin",
@@ -360,7 +360,7 @@
                 "traits": "Brandzeichen."
             }
         },
-                "616768bf-0449-426e-9ca8-bce05838c9f4": {
+        "616768bf-0449-426e-9ca8-bce05838c9f4": {
             "name": "Zügiges Zücken",
             "amount": 2,
             "front": {
@@ -435,7 +435,7 @@
                 "traits": "Zustand."
             }
         },
-               "708d3c69-2d92-4461-91a3-260102ba6919": {
+        "708d3c69-2d92-4461-91a3-260102ba6919": {
             "name": "Zum Tode verurteilt",
             "amount": 2,
             "front": {
@@ -472,7 +472,7 @@
                 "traits": "Glücksfall."
             }
         },
-                "75dfcb27-2c9d-4900-bd30-319182e1e3a9": {
+        "75dfcb27-2c9d-4900-bd30-319182e1e3a9": {
             "name": "Den Weg erhellen",
             "amount": 2,
             "front": {
@@ -527,7 +527,7 @@
                 "traits": "Bündnis."
             }
         },
-                "7fcc44e2-f4d5-4e3d-a718-ee35be18dcf9": {
+        "7fcc44e2-f4d5-4e3d-a718-ee35be18dcf9": {
             "name": "Martyrium",
             "amount": 2,
             "front": {
@@ -696,7 +696,7 @@
                 "traits": "Erkenntnis. Okkult."
             }
         },
-               "acb6f2e0-8dad-4454-a0a0-a068aa2e606a": {
+        "acb6f2e0-8dad-4454-a0a0-a068aa2e606a": {
             "name": "Untiefen durchkämmen",
             "amount": 2,
             "front": {
@@ -769,7 +769,7 @@
                 "traits": "Geist. Mutig."
             }
         },
-               "bd61dc6c-0577-443b-abfd-c9b78825f789": {
+        "bd61dc6c-0577-443b-abfd-c9b78825f789": {
             "name": "Komplette Übersicht",
             "amount": 2,
             "front": {
@@ -966,7 +966,7 @@
                 "traits": "Weissagung."
             }
         },
-               "ddd23753-0f4e-47b0-92c6-1497efb38f19": {
+        "ddd23753-0f4e-47b0-92c6-1497efb38f19": {
             "name": "Apotheose",
             "front": {
                 "flavor_text": "Die heilige Blutlinie der Göttin Amaterasu wurde sorgfältig bewahrt, bis ein geeignetes Gefäß für ihre Essenz gefunden werden konnte.",
@@ -1055,7 +1055,7 @@
         "e7720128-2dd5-4aca-afd6-7ae2a1c88a27": {
             "enumerated": "ignored"
         },
-                    "f3abd9e9-86f7-4457-8a14-64667e8ec6ef": {
+        "f3abd9e9-86f7-4457-8a14-64667e8ec6ef": {
             "amount": 2,
             "front": {
                 "flavor_text": "„Raus aus meiner Küche!“",
@@ -1073,7 +1073,7 @@
                 "traits": "Angeboren. Entwickelt."
             }
         },
-                "f94d27dd-cc86-4081-9ab4-cfaf7a56b1b4": {
+        "f94d27dd-cc86-4081-9ab4-cfaf7a56b1b4": {
             "name": "Austauschbares Schicksal",
             "amount": 2,
             "front": {
@@ -1104,7 +1104,7 @@
     },
     "encounter_sets": {},
     "guides": {},
-        "parent": "Investigator.json",
+    "parent": "Investigator.json",
     "project": {
         "meta": {
             "language": "de"
@@ -1115,28 +1115,19 @@
                 "id": "ae901fba-010f-43d7-b1e3-1dd162f15f0c",
                 "entries": [
                     {
-                        "id": "74a92c30-977d-4f75-a574-4d2ee8e707ca",
+                        "id": "b011c6d8-55f1-48fb-9a67-62966c78b62c",
                         "scope": {
                             "card_ids": [],
                             "encounter_set_ids": [],
                             "type": "all"
                         },
                         "settings": {
-                            "azao_format": "jpeg",
-                            "azao_quality": 95,
-                            "back_output_path": null,
                             "export_images": true,
-                            "flavor": "pdf",
-                            "folder": "C:/Users/cdpog/Desktop/GoO Korrigiert Aidex/Müll",
-                            "format": "png",
-                            "include_backs": false,
-                            "output_path": "C:/Users/cdpog/Desktop/GoO Korrigiert Aidex/Investigator_front.pdf",
-                            "quality": 100,
-                            "rounded": false,
-                            "size_label": "FFG 1453×2079 px",
-                            "vector_text": false
+                            "folder": null,
+                            "sync": false,
+                            "update_file": null
                         },
-                        "type": "pdf"
+                        "type": "tts"
                     }
                 ]
             }
