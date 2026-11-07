@@ -1115,19 +1115,28 @@
                 "id": "ae901fba-010f-43d7-b1e3-1dd162f15f0c",
                 "entries": [
                     {
-                        "id": "b011c6d8-55f1-48fb-9a67-62966c78b62c",
+                        "id": "976441fe-ab7c-465c-86a4-95e6d38899e7",
                         "scope": {
                             "card_ids": [],
                             "encounter_set_ids": [],
                             "type": "all"
                         },
                         "settings": {
+                            "azao_format": "jpeg",
+                            "azao_quality": 95,
+                            "back_output_path": null,
                             "export_images": true,
-                            "folder": null,
-                            "sync": false,
-                            "update_file": null
+                            "flavor": "pdf",
+                            "folder": "C:/Users/cdpog/Desktop/Die-Geister-von-Onigawa",
+                            "format": "png",
+                            "include_backs": false,
+                            "output_path": "C:/Users/cdpog/Desktop/Ghosts of Onigawa Investigator.pdf",
+                            "quality": 100,
+                            "rounded": false,
+                            "size_label": "FFG 1453×2079 px",
+                            "vector_text": false
                         },
-                        "type": "tts"
+                        "type": "pdf"
                     }
                 ]
             }

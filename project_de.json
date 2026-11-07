@@ -105,7 +105,7 @@
                         ]
                     },
                     {
-                        "text": "–2. Wenn die Probe misslingt, füge dem Chaosbeutel 1<curse>-Marker hinzu.",
+                        "text": "–2. Wenn die Probe misslingt, füge <br>dem Chaosbeutel 1<curse>-Marker hinzu.",
                         "token": [
                             "tablet"
                         ]
@@ -191,13 +191,13 @@
                         ]
                     },
                     {
-                        "text": "–2. Falls die Probe misslingt, platziere einen Hinweis aus dem Vorrat auf diesen Ort.",
+                        "text": "–2. Falls die Probe misslingt, platziere einen Hinweis aus dem Vorrat<br> auf diesen Ort.",
                         "token": [
                             "tablet"
                         ]
                     },
                     {
-                        "text": "–3. Falls die Probe misslingt, lege eine Nicht-Schwäche-Karte von deiner Hand ab.",
+                        "text": "–3. Falls die Probe misslingt, lege eine Nicht-Schwäche-Karte von <br>deiner Hand ab.",
                         "token": [
                             "elder_thing"
                         ]
@@ -221,13 +221,13 @@
                         ]
                     },
                     {
-                        "text": "–3. Falls die Probe misslingt, platziere einen Hinweis aus dem Vorrat auf diesen Ort.",
+                        "text": "–3. Falls die Probe misslingt, platziere einen Hinweis aus dem Vorrat<br> auf diesen Ort.",
                         "token": [
                             "tablet"
                         ]
                     },
                     {
-                        "text": "–4. Lege nach dieser Probe eine Nicht-Schwäche-Karte von deiner Hand ab.",
+                        "text": "–4. Lege nach dieser Probe eine Nicht-Schwäche-Karte von deiner <br>Hand ab.",
                         "token": [
                             "elder_thing"
                         ]
@@ -1674,6 +1674,13 @@
             },
             "back": {
                 "chaos_extra": "Opferdeck",
+                "chaos_extra_region": {
+                    "height": 300,
+                    "y": 1600
+                },
+                "chaos_region": {
+                    "height": 940
+                },
                 "difficulty": "SCHWER/EXPERTE",
                 "entries": [
                     {
@@ -2256,6 +2263,12 @@
                 ]
             },
             "back": {
+                "chaos_extra_region": {
+                    "width": 1150
+                },
+                "chaos_region": {
+                    "height": 940
+                },
                 "difficulty": "SCHWER/EXPERTE",
                 "entries": [
                     {
@@ -2265,7 +2278,7 @@
                         ]
                     },
                     {
-                        "text": "–3. Nachdem die Probe endet, füge <br>dem Chaosbeutel entweder 1<curse>-Marker hinzu oder verliere eine Aktion.",
+                        "text": "–3. Nachdem die Probe endet, füge <br>dem Chaosbeutel entweder 1<curse>-<br>Marker hinzu oder verliere eine Aktion.",
                         "token": [
                             "cultist"
                         ]
@@ -4381,7 +4394,7 @@
                 {
                     "name": "To do Liste",
                     "id": "100659dd",
-                    "markdown": "#To do list\n\n##Miscellaneous\n\n- Harmoniemarker drucken lassen bei Azao (https://azaogames.com/en/product/punchboards/): 25 mm Durchmesser * 2mm Dicke, Azao angeschrieben\n\n\n\n##Guide:\n\n- Hauke angefragt für Bilder mit besserer Auflösung\n\n- Bildeffekt am Rand nochmal bearbeiten, damit die scharfe, gerade Kante wegfällt (besser am Schluss, wenn der Text steht und sich nichts mehr verschiebt)- Christian oder es macht wer anders oder es bleibt so\n\n- Aktiv: Platzierung der Orte verbessern, NCN regelt .....idealerweise sehr transparente Bilder dahinter die Szenario gut wiedergeben, siehe Flix Alice Guide\n\n- Aktiv: Kampagnenlogbuch erstellen - noclevernickname performt\n\n- Inaktiv: Inhaltsverzeichnis und Schnellübersicht. Momentan richtig. Geht besser, aber funktioniert so. Entweder vor Ende prüfen oder Flix fragen (bessere Methode ggf.)\n\n\n- Erinnerung: Einige Bilder nur lokal. Ordner auf Tokeetos Cloud muss ergänzt werden.\n\n##Karten:\n\n- Ermittler-Erweiterungskarten schrauben nach Anmerkungen von Head Librarian Chad? In Besprechung mit coldtoes und burger\n\n\n## Beides:\n\n\n- Inaktiv: Änderungen der EN community einbauen, derzeit nichts offen\n\n– Inaktiv: Begriffe konsistent von Karten Purpurroter Schmetterling, Torii-Tor, Blasse Braut etc.\n\n- Inaktiv (for future reference): Konsistente Übersetzung der folgenden Begriffe so weit möglich derzeit erledigt.\nSteward – Vogt\nChampion - Krieger\nMaster - Meister\nRanger - Förster\nGuardian - Wächter\n\n\n\n## Issues geöffnet beim Shoggoth-Git:\n- Farbige Textboxen im Guide\n- Spacing von Überschriften\n- Platzierung der Orte im Leitfaden\n- <unique>Hitokiri Daimyo: Titel ändern zu - <unique>Hitokiri Daimyō     ?? (Geht in Shoggoth nicht auch nicht mit \\u014d im .json obwohl das Zeichen im Font vorhanden ist)\n- Kartennummerierung EN wie DE noch offen. Encounter Set Nummerierung ",
+                    "markdown": "#To do list\n\n##Miscellaneous\n\n- Harmoniemarker drucken lassen bei Azao (https://azaogames.com/en/product/punchboards/): 25 mm Durchmesser * 2mm Dicke, Azao angeschrieben\n\n\n\n##Guide:\n\n- Hauke angefragt für Bilder mit besserer Auflösung\n\n- Bildeffekt am Rand nochmal bearbeiten, damit die scharfe, gerade Kante wegfällt (besser am Schluss, wenn der Text steht und sich nichts mehr verschiebt)- Christian oder es macht wer anders oder es bleibt so\n\n- Aktiv: Platzierung der Orte verbessern, NCN regelt .....idealerweise sehr transparente Bilder dahinter die Szenario gut wiedergeben, siehe Flix Alice Guide\n\n- Aktiv: Kampagnenlogbuch erstellen - noclevernickname performt\n\n- Inaktiv: Inhaltsverzeichnis und Schnellübersicht. Momentan richtig. Geht besser, aber funktioniert so. Entweder vor Ende prüfen oder Flix fragen (bessere Methode ggf.)\n\n\n- Erinnerung: Einige Bilder nur lokal. Ordner auf Tokeetos Cloud muss ergänzt werden.\n\n##Karten:\n\n- Ermittler-Erweiterungskarten schrauben nach Anmerkungen von Head Librarian Chad? In Besprechung mit coldtoes und burger\n\n- Szenariokarten overlap fix\n\n## Beides:\n\n\n- Inaktiv: Änderungen der EN community einbauen, derzeit nichts offen\n\n– Inaktiv: Begriffe konsistent von Karten Purpurroter Schmetterling, Torii-Tor, Blasse Braut etc.\n\n- Inaktiv (for future reference): Konsistente Übersetzung der folgenden Begriffe so weit möglich derzeit erledigt.\nSteward – Vogt\nChampion - Krieger\nMaster - Meister\nRanger - Förster\nGuardian - Wächter\n\n\n\n## Issues geöffnet beim Shoggoth-Git:\n- Farbige Textboxen im Guide\n- Spacing von Überschriften\n- Platzierung der Orte im Leitfaden\n- <unique>Hitokiri Daimyo: Titel ändern zu - <unique>Hitokiri Daimyō     ?? (Geht in Shoggoth nicht auch nicht mit \\u014d im .json obwohl das Zeichen im Font vorhanden ist)\n- Kartennummerierung EN wie DE noch offen. Encounter Set Nummerierung ",
                     "type": "interlude"
                 }
             ]
@@ -4398,19 +4411,28 @@
                 "id": "ed0af494-3c18-42ab-9097-04de5a2eb241",
                 "entries": [
                     {
-                        "id": "af3c02cf-32ad-41be-ae87-2e4ea85dc7d3",
+                        "id": "9789e4eb-0268-4317-8497-eea29ac8bd4c",
                         "scope": {
                             "card_ids": [],
                             "encounter_set_ids": [],
                             "type": "all"
                         },
                         "settings": {
+                            "azao_format": "jpeg",
+                            "azao_quality": 95,
+                            "back_output_path": null,
                             "export_images": true,
-                            "folder": null,
-                            "sync": false,
-                            "update_file": null
+                            "flavor": "pdf",
+                            "folder": "C:/Users/cdpog/Desktop/Die-Geister-von-Onigawa",
+                            "format": "png",
+                            "include_backs": false,
+                            "output_path": "C:/Users/cdpog/Desktop/Ghosts of Onigawa SE.pdf",
+                            "quality": 100,
+                            "rounded": false,
+                            "size_label": "FFG 1453×2079 px",
+                            "vector_text": true
                         },
-                        "type": "tts"
+                        "type": "pdf"
                     }
                 ]
             }

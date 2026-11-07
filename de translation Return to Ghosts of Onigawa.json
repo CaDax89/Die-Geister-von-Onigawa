@@ -565,19 +565,28 @@
             "id": "3c5aa5aa-ab57-464d-b8f0-ea04bb1b4302",
             "entries": [
                 {
-                    "id": "4b1c444a-7b39-49e6-81b5-2eebbc48b1be",
+                    "id": "d48567d3-c08a-4852-9b1c-83c4397750a5",
                     "scope": {
                         "card_ids": [],
                         "encounter_set_ids": [],
                         "type": "all"
                     },
                     "settings": {
+                        "azao_format": "jpeg",
+                        "azao_quality": 95,
+                        "back_output_path": null,
                         "export_images": true,
-                        "folder": null,
-                        "sync": false,
-                        "update_file": null
+                        "flavor": "pdf",
+                        "folder": "C:/Users/cdpog/Desktop/Die-Geister-von-Onigawa",
+                        "format": "png",
+                        "include_backs": false,
+                        "output_path": "C:/Users/cdpog/Desktop/de translation Return to Ghosts of Onigawa.pdf",
+                        "quality": 100,
+                        "rounded": false,
+                        "size_label": "FFG 1453×2079 px",
+                        "vector_text": true
                     },
-                    "type": "tts"
+                    "type": "pdf"
                 }
             ],
             "scope": {
