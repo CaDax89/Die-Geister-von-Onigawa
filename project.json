@@ -3486,8 +3486,12 @@
             },
             "back": {
                 "name": "Palace Wing",
-                "connection": "<copy>",
-                "connections": "<copy>",
+                "connection": "heart",
+                "connections": [
+                    "quote",
+                    "star",
+                    "diamond"
+                ],
                 "flavor_text": "Curious trellises of red vines \nseem to have infested the palace interior...",
                 "illustration": "./images/alexander-baldwin-s-close-0000.jpg",
                 "illustration_pan_x": -1046.0,
@@ -8811,6 +8815,91 @@
             "id": "4f485ace-5d62-4c3e-905b-194d814443b1",
             "icon": "./images/encounter-candle-b.png",
             "meta": {
+                "location_active_layout": "9e971cb4-129b-48ca-8eb9-d353d865f7f0",
+                "location_layouts": [
+                    {
+                        "name": "Anordnung 1",
+                        "id": "9e971cb4-129b-48ca-8eb9-d353d865f7f0",
+                        "fixed_length_arrows": false,
+                        "hide_mode": false,
+                        "nodes": {
+                            "03d2f354-8892-4d76-9937-7f147e95191c_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 395.42749999999995,
+                                "y": 694.58
+                            },
+                            "55db0ebb-bc0b-44e2-bea5-9470a3090d5b_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 228.0
+                            },
+                            "5ddc5dd2-4b93-4fb4-a537-131a74300480_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 456.0
+                            },
+                            "6230d3c8-8021-4761-b930-4d7fbbc99f7c_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 228.0
+                            },
+                            "73f382bd-5ac8-40bc-b199-58ea0d2ff2c0_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 0.0
+                            },
+                            "a8002312-7192-4224-92c1-971b373c0ac3_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 0.0
+                            },
+                            "b5a614e7-d183-4089-8ad7-18d6fce7029d_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 456.0
+                            },
+                            "b8fcd346-5abc-4b55-a218-064348aa1e35_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 600.0,
+                                "y": 456.0
+                            },
+                            "da95bdf2-463b-400e-bdd9-f7d313b2658b_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 200.0,
+                                "y": 0.0
+                            },
+                            "ea4da7b1-f118-4d37-a4b6-aa3e2f7ee414_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 400.0,
+                                "y": 228.0
+                            },
+                            "f0c59aea-3ca2-48ff-a924-b2ff51738dfd_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 228.0
+                            },
+                            "f12463a2-7e76-477f-be63-892af98bb617_front": {
+                                "flipped": false,
+                                "hidden": false,
+                                "x": 0.0,
+                                "y": 456.0
+                            }
+                        },
+                        "show_arrows": true,
+                        "snap_enabled": false
+                    }
+                ],
                 "tts": {}
             },
             "card_amount": 42,
