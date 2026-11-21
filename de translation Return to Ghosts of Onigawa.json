@@ -133,7 +133,7 @@
                 "illustration_pan_y": -97.0,
                 "illustration_scale": 0.585,
                 "illustrator": "Illus. Gu Zheng Wei",
-                "level": "4",
+                "level": "3",
                 "text": "Schnell. Spiele diese Karte, nachdem deinem Ermittler Schaden zugewiesen wurde.\nEntdecke 2 Hinweise an deinem Ort.",
                 "traits": "Erkenntnis.",
                 "type": "event"
@@ -325,7 +325,7 @@
                 "illustration_scale": 1.824,
                 "illustrator": "Illus. Orly Wanders",
                 "level": "2",
-                "text": "Max. 1 pro Fertigkeitsprobe beitragen.\n<name> erhält <wild> für jede Probe, die dem ausführenden Ermittler in dieser Runde bereits misslungen ist.",
+                "text": "Max. 1 pro Fertigkeitsprobe beitragen.\n<name> erhält <wild> für jede Probe, die dem ausführenden Ermittler in dieser Runde bereits misslungen ist. Du kannst diese Fertigkeit zu einer Fertigkeitsprobe eines Ermittlers an einem beliebigen Ort beitragen. ",
                 "traits": "Angeboren.",
                 "type": "skill"
             },

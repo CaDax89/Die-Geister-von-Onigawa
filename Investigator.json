@@ -285,7 +285,7 @@
                 "illustration_pan_y": -226.0,
                 "illustration_scale": 0.734,
                 "illustrator": "Illus. Omid Goudarzi",
-                "text": "<rev> Put <name> into play in your threat area.\n<for> After you succeed at a skill test: Take 1 direct horror. \n<action><action>: Discard Survivor's Guilt. You may activate this ability only if you control an <t>Ally</t> asset.",
+                "text": "<rev> Put <name> into play in your threat area.\n<for> The first time each round you succeed at a skill test: Take 1 direct horror.\n<action><action>: Discard Survivor's Guilt. You may activate this ability only if you control an <t>Ally</t> asset.\n",
                 "traits": "Madness.",
                 "type": "treachery"
             },
@@ -884,14 +884,14 @@
                 ],
                 "cost": "0",
                 "flavor_text": "You always have something left to lose.",
-                "icons": "QQQQ",
+                "icons": "QQ",
                 "illustration": "./images/download_2.jpg",
                 "illustration_pan_x": -248.0,
                 "illustration_pan_y": -501.0,
                 "illustration_scale": 0.658,
                 "illustrator": "Illus. Alice Rose",
-                "level": "5",
-                "text": "Fast. Play only when another investigator would be assigned damage and/or horror that would defeat them.\nCancel that damage and/or horror. You may add 1 <blessing> token to the chaos bag for each point of damage or horror canceled in this way. You are defeated.",
+                "level": "1",
+                "text": "Fast. Play only when another investigator would be assigned damage and/or horror that would defeat them.\nInstead you take the damage and/or horror. For each point of damage or horror taken this way add 1<blessing> token to the chaos bag. You are defeated.",
                 "traits": "Tactic. Blessed.",
                 "type": "event"
             },
@@ -998,8 +998,8 @@
                 "illustration_pan_y": -533.0,
                 "illustration_scale": 2.072,
                 "illustrator": "Illus. Jeffrey Smith",
-                "level": "0",
-                "text": "Play only as your first action.\nChoose an unrevealed location that is connected to a revealed location and move to it. Then, if there is at least 1 clue at that location, you may take an investigate action. This action does not provoke attacks of opportunity.",
+                "level": "1",
+                "text": "Play only as your first action.\nChoose an unrevealed location that is connected to a revealed location and move to it. Then, if there is at least 1 clue at that location, take an investigate action. If this investigation fails, take 2 horror.",
                 "traits": "Spirit. Bold.",
                 "type": "event"
             },
@@ -1076,7 +1076,7 @@
                 "illustration_pan_y": 0.0,
                 "illustration_scale": 0.856,
                 "illustrator": "Illus. Vladyslava Hladkova",
-                "level": "1",
+                "level": "3",
                 "text": "Fast. Play after an enemy is defeated at your location.\n<b>Investigate.</b> You get +X <intellect> for this investigation and if you succeed, you may discover up to X additional clues from your location. X is the defeated enemy's printed horror value. ",
                 "traits": "Insight. Science.",
                 "type": "event"
@@ -1409,7 +1409,7 @@
                 "slots": [
                     "hand"
                 ],
-                "text": "<reaction> As an additional cost to perform a fight action using a <t>Melee</t> asset you control, exhaust Charcoal Grease: This attack deals +1 damage. ",
+                "text": "<reaction> When you initiate a fight ability on a <t>Melee</t> asset you control, exhaust Charcoal Grease: This attack deals +1 damage. ",
                 "traits": "Item. Tool.",
                 "type": "asset"
             },
@@ -1460,10 +1460,7 @@
                 "illustrator": "Illus. Qi Nan Kam",
                 "level": "2",
                 "slot": "1 Hand",
-                "slots": [
-                    "hand"
-                ],
-                "text": "Uses (3 secrets). \n<free> Spend 1 secret and exhaust <name>: Fight. This attack uses <agility> instead of  <combat>. This attack may only target an enemy that is not engaged with you and automatically succeeds if targeting an enemy with 1 remaining health.",
+                "text": "Uses (3 supplies). \n<free> Spend 1 supply and exhaust <name>: Fight. This attack uses <agility> instead of  <combat>. This attack may only target an enemy that is not engaged with you and automatically succeeds if targeting an enemy with 1 remaining health.",
                 "traits": "Item. Tool. Illicit.",
                 "type": "asset"
             },
@@ -1860,7 +1857,7 @@
                 "illustrator": "Illus. Unknown",
                 "level": "4",
                 "subtitle": "Defy the Stars",
-                "text": "Permanent. \n<reaction> When the game begins: Reveal tokens from the chaos bag until you reveal a token that isn't an <elder_sign> or <fail>. You may seal that token here. ",
+                "text": "Permanent. \n<reaction> When the game begins: Reveal tokens from the chaos bag until you reveal a <skull>-, <cultist>-, <tablet>-, or <elder_thing>-token. You may seal that token here. ",
                 "title": "<unique><name>",
                 "traits": "Fortune.",
                 "type": "asset"
@@ -2829,7 +2826,7 @@
                     "neutral"
                 ],
                 "flavor_text": "\"If they don't answer your prayers... \nWhy do you worship them?\"",
-                "icons": "WI",
+                "icons": "Q",
                 "illustration": "./images/johanna-rupprecht-2020-03-24-mononoke-pond.jpg",
                 "illustration_pan_x": -411.0,
                 "illustration_pan_y": 205.0,

@@ -168,7 +168,7 @@
             "amount": 2,
             "front": {
                 "flavor_text": "„Ein mit Schießpulver gefüllter Handschuh kann ein mächtiges Werkzeug sein...in den richtigen Händen.“",
-                "text": "<reaction> Als zusätzliche Kosten, um eine Kampf-Aktion mit einer <t>Nahkampf</t>-Vorteilskarte, die du kontrollierst auszuführen, erschöpfe <name>: Dieser Angriff fügt +1 Schaden zu. ",
+                "text": "<reaction> Wenn du eine Kampf-Aktion mit einer <t>Nahkampf</t>-Vorteilskarte, die du kontrollierst, initiierst, erschöpfe <name>: Dieser Angriff fügt +1 Schaden zu. ",
                 "traits": "Gegenstand. Werkzeug."
             }
         },
@@ -382,7 +382,7 @@
             "name": "Schuldgefühle des Überlebenden",
             "front": {
                 "flavor_text": "Er konnte niemanden retten. Er kann nicht einmal sich selbst retten.",
-                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Nachdem eine Fertigkeitsprobe erfolgreich ist: Nimm 1 direkten Horror. \n<action><action>: Lege <name> ab. Du kannst diese Fähigkeit nur aktivieren, falls du eine <t>Verbündeter</t>-Vorteilskarte kontrollierst.",
+                "text": "<rev> Bringe <name> in deiner Bedrohungszone ins Spiel.\n<for> Wenn dir zum ersten Mal in jeder Runde eine Fertigkeitsprobe gelingt: Nimm 1 direkten Horror. \n<action><action>: Lege <name> ab. Du kannst diese Fähigkeit nur aktivieren, falls du eine <t>Verbündeter</t>-Vorteilskarte kontrollierst.",
                 "traits": "Wahnsinn."
             }
         },
@@ -468,7 +468,7 @@
                 "flavor_text": "Wie oben, so unten.",
                 "illustrator": "Illus. Unbekannt",
                 "subtitle": "Den Sternen trotzen",
-                "text": "Dauerhaft. \n<reaction> Sobald das Spiel beginnt: Enthülle Marker aus dem Chaosbeutel, bis du einen Marker enthüllst der nicht ein <elder_sign>- oder <auto_fail>-Marker ist. Du darfst diesen Marker hier versiegeln.",
+                "text": "Dauerhaft. \n<reaction> Sobald das Spiel beginnt: Enthülle Marker aus dem Chaosbeutel, bis du einen <skull>-, <cultist>-, <tablet>-, oder <elder_thing>-Marker enthüllst. Du darfst diesen Marker hier versiegeln.",
                 "traits": "Glücksfall."
             }
         },
@@ -532,7 +532,7 @@
             "amount": 2,
             "front": {
                 "flavor_text": "Du hast immer noch etwas, was du verlieren kannst.",
-                "text": "Schnell. Spiele diese Karte nur, wenn einem anderen Ermittler Schaden und/oder Horror zugefügt werden würde, der diesen besiegen würde. Hebe diesen Schaden und/oder Horror auf. Für jeden Punkt an Schaden und/oder Horror, der aufgehoben wurde, darfst du dem Chaosbeutel 1<blessing>-Marker hinzufügen. Du wirst besiegt.",
+                "text": "Schnell. Spiele diese Karte nur, wenn einem anderen Ermittler Schaden und/oder Horror zugefügt werden würde, der diesen besiegen würde. Du nimmst diesen Schaden und/oder Horror stattdessen. Für jeden Punkt an Schaden und/oder Horror, der so genommen wurde, wird dem Chaosbeutel 1<blessing>-Marker hinzugefügt. Du wirst besiegt.",
                 "traits": "Taktik. Gesegnet."
             }
         },
@@ -765,7 +765,7 @@
             "amount": 2,
             "front": {
                 "flavor_text": "Das Glück ist mit den Mutigen.",
-                "text": "Spiele diese Karte nur als deine erste Aktion.\nWähle einen noch nicht enthüllten Ort, der mit einem bereits enthüllten Ort verbunden ist, und bewege dich dorthin. \nBefindet sich an diesem Ort mindestens 1 Hinweis, kannst du eine Ermitteln-Aktion durchführen. Diese Aktion löst keine Gelegenheitsangriffe aus.",
+                "text": "Spiele diese Karte nur als deine erste Aktion.\nWähle einen noch nicht enthüllten Ort, der mit einem bereits enthüllten Ort verbunden ist, und bewege dich dorthin. Befindet sich an diesem Ort mindestens 1 Hinweis, führe eine Ermitteln-<br>Aktion aus. Falls die Fertigkeitsprobe misslingt, nimm 2 Horror.",
                 "traits": "Geist. Mutig."
             }
         },
@@ -914,7 +914,7 @@
             "amount": 2,
             "front": {
                 "flavor_text": "„Ich bin unbewaffnet, siehst du? Schau doch mal genauer hin...“",
-                "text": "Anwendungen (3 Geheimnisse). \n<free> Gib 1 Geheimnis aus und erschöpfe <name>: <b>Kampf</b>. Dieser Angriff verwendet <agility> anstatt <combat>. Dieser Angriff darf nur gegen einen Gegner ausgeführt werden, der nicht mit dir in einen Kampf verwickelt ist, und ist automatisch erfolgreich, wenn der Gegner nur noch 1 verbliebene Ausdauer hat.",
+                "text": "Anwendungen (3 Vorräte). \n<free> Gib 1 Vorrat aus und erschöpfe <name>: <b>Kampf</b>. Dieser Angriff verwendet <agility> anstatt <combat>. Dieser Angriff darf nur gegen einen Gegner ausgeführt werden, der nicht mit dir in einen Kampf verwickelt ist, und ist automatisch erfolgreich, wenn der Gegner nur noch 1 verbliebene Ausdauer hat.",
                 "traits": "Gegenstand. Werkzeug. Illegal."
             }
         },
