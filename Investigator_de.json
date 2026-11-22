@@ -94,7 +94,7 @@
                         "Keine <t>Tarot</t>-Vorteilskarten."
                     ]
                 ],
-                "flavor_text": "Als Anhänger der uralten Kunst des Onmyōdō hat Akira sein Leben der Erforschung und der Beherrschung der Grenze zwischen Leben und Tod gewidmet. Wann immer möglich, verbringt er seine Zeit am liebsten damit, mit den Geistern der Verstorbenen zu kommunizieren, um deren geheimnisvolle Lebensgeschichten zu ergründen, die für die meisten modernen Okkultisten schlichtweg unerreichbar sind. Die natürliche Leichtigkeit, mit der er über ein hochentwickeltes „genetisches Gedächtnis“ auf das Wissen und die Kraft der früheren Magier seiner Blutlinie zurückgreifen kann, hat ihn etwas arrogant und den Angelegenheiten unserer Welt gegenüber distanziert gemacht; dennoch wird er vom einfachen Volk geliebt, da er in der Lage ist, rachsüchtige Geister zu vertreiben und noch lebenden Seelen dabei zu helfen, Frieden zu finden, indem er Kontakt zu den Geistern ihrer verstorbenen Angehörigen herstellt. Trotz seiner ohnehin schon beträchtlichen Macht sehnt sich Akira immer noch nach Antworten auf immer gefährlichere Fragen...",
+                "flavor_text": "Als Anhänger der uralten Kunst des Onmyōdō hat Akira sein Leben der Erforschung und der Beherrschung der Grenze zwischen Leben und Tod gewidmet. Wann immer möglich, verbringt er seine Zeit am liebsten damit, mit den Geistern der Verstorbenen zu kommunizieren, um deren geheimnisvolle Lebensgeschichten zu ergründen, die für die meisten modernen Okkultisten schlichtweg unerreichbar sind. Die natürliche Leichtigkeit, mit der er über ein hochentwickeltes „genetisches Gedächtnis“ auf das Wissen und die Kraft der früheren Magier seiner Blutlinie zurückgreifen kann, hat ihn etwas arrogant und den Angelegenheiten unserer Welt gegenüber distanziert gemacht; dennoch wird er vom einfachen Volk geliebt, da er in der Lage ist, rachsüchtige Geister zu vertreiben und noch lebenden Seelen dabei zu helfen, Frieden zu finden, indem er Kontakt zu den Geistern ihrer verstorbenen Angehörigen herstellt. Trotz seiner ohnehin schon beträchtlichen Macht sehnt sich Akira immer noch nach Antworten auf immer gefährlichere Fragen ...",
                 "illustration_pan_x": -189.0,
                 "illustration_pan_y": 14.0,
                 "subtitle": "Das Medium",
@@ -113,7 +113,7 @@
             "name": "Last des Gläubigen",
             "amount": 2,
             "front": {
-                "flavor_text": "„Anfangs war es viel kleiner, doch dann fiel mir auf, dass das Netzwerk aus Runen jedes Mal, wenn ich anfing zu zweifeln, immer verwirrender wurde...“",
+                "flavor_text": "„Anfangs war es viel kleiner, doch dann fiel mir auf, dass das Netzwerk aus Runen jedes Mal, wenn ich anfing zu zweifeln, immer verwirrender wurde ...“",
                 "text": "Als zusätzliche Kosten, um Last des Gläubigen zu spielen, nimm 1 direkten Schaden. \n<for> Nachdem dir eine Fertigkeitsprobe misslungen ist: Falls Last des Gläubigen spielbereit ist, füge dem Chaosbeutel 1<curse>-Marker hinzu oder erschöpfe Last des Gläubigen.\nFalls Last des Gläubigen spielbereit ist, bekommst du +1 <willpower>.",
                 "traits": "Brandzeichen."
             }
@@ -167,7 +167,7 @@
             "name": "Holzkohleschmiermittel",
             "amount": 2,
             "front": {
-                "flavor_text": "„Ein mit Schießpulver gefüllter Handschuh kann ein mächtiges Werkzeug sein...in den richtigen Händen.“",
+                "flavor_text": "„Ein mit Schießpulver gefüllter Handschuh kann ein mächtiges Werkzeug sein ... in den richtigen Händen.“",
                 "text": "<reaction> Wenn du eine Kampf-Aktion mit einer <t>Nahkampf</t>-Vorteilskarte, die du kontrollierst, initiierst, erschöpfe <name>: Dieser Angriff fügt +1 Schaden zu. ",
                 "traits": "Gegenstand. Werkzeug."
             }
@@ -183,7 +183,7 @@
             "name": "Nichts anderes zählt",
             "amount": 2,
             "front": {
-                "flavor_text": "„Wir sind am Leben...und wir sind zusammen.“",
+                "flavor_text": "„Wir sind am Leben ... und wir sind zusammen.“",
                 "text": "Falls die Probe erfolgreich ist, kannst du <name> der Hand eines anderen Ermittlers an deinem Ort hinzufügen, anstatt es abzulegen.",
                 "traits": "Angeboren."
             }
@@ -192,7 +192,7 @@
             "name": "Gnade der Götter",
             "amount": 2,
             "front": {
-                "flavor_text": "„Wenn sie deine Gebete nicht erhören...warum betest du sie dann an?“",
+                "flavor_text": "„Wenn sie deine Gebete nicht erhören ... warum betest du sie dann an?“",
                 "text": "Nachdem die Fertigkeitsprobe endet, füge dem Chaosbeutel 2<blessing>-Marker hinzu. Falls die Probe misslingt, füge dem Chaosbeutel auch 2<curse>-Marker hinzu.",
                 "traits": "Glücksfall."
             }
@@ -240,7 +240,7 @@
         },
         "4b161ec2-9d28-4e63-a825-6a5c2de80f91": {
             "front": {
-                "flavor_text": "„Ich muss meine heilige Pflicht erfüllen...koste es, was es wolle.“",
+                "flavor_text": "„Ich muss meine heilige Pflicht erfüllen ... koste es, was es wolle.“",
                 "subtitle": "Die Priesterin",
                 "text": "<reaction>: Nachdem du mindestens 1<blessing>-Marker während einer erfolgreichen Fertigkeitsprobe abgehandelt hast: Ziehe 1 Karte.\n<elder_sign>-Effekt: +1. Du darfst den Chaosbeutel nach einem <curse>-Marker durchsuchen und ihn in den Markervorrat zurück-<br>legen.",
                 "traits": "Glaubender. Verflucht."
@@ -268,7 +268,7 @@
                         "Keine <t>Waffe</t>-Karten."
                     ]
                 ],
-                "flavor_text": "Yuki wurde von Geburt an darauf vorbereitet, die Rolle der Schreinmaid ihres Dorfes zu übernehmen, und durchlitt als junges Mädchen alle möglichen Formen strapaziösen „Trainings“, um ihrer höchsten Berufung zu folgen. Leider beinhaltete der letzte Ritus zur „Reinigung“ ihrer Seele ein geheimnisvolles Ritual, das außer Kontrolle geriet und Yuki mit einer Art traumabedingter Amnesie zurückließ. In jener schicksalhaften Nacht floh Yuki panisch aus dem Dorf und schaffte es, sich nach Arkham durchzuschlagen, wo sie schließlich ein Leben im Dienst der Armen und Entrechteten der Stadt aufbaute. Ihr gütiges und geduldiges Wesen zieht die Gequälten wie ein Magnet an, und während ihre guten Taten mehr werden, kehren auch die Erinnerungen an das, was sie zurückgelassen hat, allmählich zurück...",
+                "flavor_text": "Yuki wurde von Geburt an darauf vorbereitet, die Rolle der Schreinmaid ihres Dorfes zu übernehmen, und durchlitt als junges Mädchen alle möglichen Formen strapaziösen „Trainings“, um ihrer höchsten Berufung zu folgen. Leider beinhaltete der letzte Ritus zur „Reinigung“ ihrer Seele ein geheimnisvolles Ritual, das außer Kontrolle geriet und Yuki mit einer Art traumabedingter Amnesie zurückließ. In jener schicksalhaften Nacht floh Yuki panisch aus dem Dorf und schaffte es, sich nach Arkham durchzuschlagen, wo sie schließlich ein Leben im Dienst der Armen und Entrechteten der Stadt aufbaute. Ihr gütiges und geduldiges Wesen zieht die Gequälten wie ein Magnet an, und während ihre guten Taten mehr werden, kehren auch die Erinnerungen an das, was sie zurückgelassen hat, allmählich zurück ...",
                 "illustration_pan_x": 32.0,
                 "illustration_pan_y": 40.0,
                 "illustration_scale": 0.441,
@@ -456,7 +456,7 @@
             "name": "Autopsie vor Ort",
             "amount": 2,
             "front": {
-                "flavor_text": "„Ich brauche nur ein scharfes Messer und etwas Riechsalz...“",
+                "flavor_text": "„Ich brauche nur ein scharfes Messer und etwas Riechsalz ...“",
                 "text": "Schnell. Spiele diese Karte, nachdem ein Gegner an deinem Ort besiegt wurde.\n<b>Ermitteln.</b> Du erhältst +X <intellect> für diese Ermittlung. Falls die Probe gelingt, darfst du bis zu X zusätzliche Hinweise an deinem Ort entdecken. X ist der Horror-Wert des besiegten Gegners. ",
                 "traits": "Erkenntnis. Wissenschaft."
             }
@@ -540,7 +540,7 @@
             "name": "Methodik hinter dem Wahnsinn",
             "amount": 2,
             "front": {
-                "flavor_text": "„Nein, ich weiß nicht, was ich da tue...<br>Genau deshalb wird es ja klappen.“",
+                "flavor_text": "„Nein, ich weiß nicht, was ich da tue ...<br>Genau deshalb wird es ja klappen.“",
                 "text": "Schnell. Anwendungen (2 Geheimnisse).\n<reaction> Nachdem du deinem Ermittler eine beliebige Menge an Horror zugewiesen hast: Platziere entsprechend viele Geheimnisse auf <name>.\n<free> Gib X Geheimnisse aus und erschöpfe <name>: Du erhältst +X für diese Fertigkeitsprobe."
             }
         },
@@ -737,7 +737,7 @@
             "name": "Geben und nehmen",
             "amount": 2,
             "front": {
-                "flavor_text": "„Komm schon! Lass es mich doch nur kurz mal halten...“",
+                "flavor_text": "„Komm schon! Lass es mich doch nur kurz mal halten ...“",
                 "text": "<free> Überlasse einem anderen Ermittler an deinem Ort <name> und erschöpfe <name>: Übernimm die Kontrolle über eine <t>Gegenstand</t>-Vorteilskarte, die von diesem Ermittler kontrolliert wird.",
                 "traits": "Gefallen."
             }
@@ -746,7 +746,7 @@
             "name": "Lieber spät als nie",
             "amount": 2,
             "front": {
-                "flavor_text": "„Sie hatten schon immer einen Hang zum Dramatischen...“",
+                "flavor_text": "„Sie hatten schon immer einen Hang zum Dramatischen ...“",
                 "text": "Echo 1 <i>(bis zum Ende der Runde kann jeder Ermittler <name> aus dem Ablagestapel des Besitzers einmal spielen.) </i>\nDurchsuche dein Deck nach einer <t>Verbündeter</t>-Vorteilskarte, lege sie beiseite, mische dein Deck, und lege die beiseitegelegte Karte oben auf dein Deck. Reduziere die Kosten von <name> um 1 pro Verderben im Spiel.",
                 "traits": "Taktik. Tandem."
             }
@@ -773,7 +773,7 @@
             "name": "Komplette Übersicht",
             "amount": 2,
             "front": {
-                "flavor_text": "„Das ist kein Glücksspiel! Das ist einfach nur...  Zählen.“",
+                "flavor_text": "„Das ist kein Glücksspiel! Das ist einfach nur ... zählen.“",
                 "subtitle": "Mitzählen",
                 "text": "<for> Am Ende deines Zuges: Führe eine <intellect>-Probe (X) durch, wobei X die Anzahl der Marker ist, die auf <name> versiegelt sind. Falls die Probe misslingt, lege alle hier versiegelten Marker zurück in den Chaosbeutel.\n<reaction> Sobald ein Nicht-<auto_fail>-Chaosmarker zurück in den Chaosbeutel gelegt werden würde, falls es nicht von einer Karte entfernt wurde, erschöpfe <name>: Versiegle diesen Marker stattdessen hier.",
                 "traits": "Talent. Illegal."
@@ -827,7 +827,7 @@
                         "Keine Nicht-<t>Patron</t>-Vorteilskarten, die einen Verbündeter-Slot benötigen."
                     ]
                 ],
-                "flavor_text": "Makoto hat ein kleines Vermögen angehäuft, indem sie ihre Dienste als „Begleiterin“ an die zahlungskräftige Elite von Arkham vermietet. Obwohl ihre Fachkenntnisse in Massagetherapie und exotischen Musikinstrumenten beachtlich sind, wird sie bei weitem am meisten wegen ihrer Einsicht als Beraterin und einfühlsame Vertraute empfohlen. Doch ihre unheimliche Fähigkeit, in die Gedanken der Reichen und Mächtigen zu blicken und die wahren Wünsche ihrer Herzen zu erahnen, ist kein bloßer Salontrick; als ihre Großmutter starb, erbte Makoto eine Reihe von Familienerbstücken, darunter einen seltsamen Zierkopfschmuck. Als sie ihn zum ersten Mal aufsetzte, stellte Makoto fest, dass sie plötzlich in der Lage war, eine Ebene der Realität wahrzunehmen, die den meisten verborgen bleibt. So viele lange Nächte hat sie damit verbracht, in diesen Abgrund zu blicken, dass er nun ebenfalls begonnen hat, in sie zurückzublicken...",
+                "flavor_text": "Makoto hat ein kleines Vermögen angehäuft, indem sie ihre Dienste als „Begleiterin“ an die zahlungskräftige Elite von Arkham vermietet. Obwohl ihre Fachkenntnisse in Massagetherapie und exotischen Musikinstrumenten beachtlich sind, wird sie bei weitem am meisten wegen ihrer Einsicht als Beraterin und einfühlsame Vertraute empfohlen. Doch ihre unheimliche Fähigkeit, in die Gedanken der Reichen und Mächtigen zu blicken und die wahren Wünsche ihrer Herzen zu erahnen, ist kein bloßer Salontrick; als ihre Großmutter starb, erbte Makoto eine Reihe von Familienerbstücken, darunter einen seltsamen Zierkopfschmuck. Als sie ihn zum ersten Mal aufsetzte, stellte Makoto fest, dass sie plötzlich in der Lage war, eine Ebene der Realität wahrzunehmen, die den meisten verborgen bleibt. So viele lange Nächte hat sie damit verbracht, in diesen Abgrund zu blicken, dass er nun ebenfalls begonnen hat, in sie zurückzublicken ...",
                 "illustration_pan_x": -54.0,
                 "illustration_pan_y": 47.0,
                 "illustration_scale": 1.056,
@@ -913,7 +913,7 @@
             "name": "Verborgene Klinge",
             "amount": 2,
             "front": {
-                "flavor_text": "„Ich bin unbewaffnet, siehst du? Schau doch mal genauer hin...“",
+                "flavor_text": "„Ich bin unbewaffnet, siehst du? Schau doch mal genauer hin ...“",
                 "text": "Anwendungen (3 Vorräte). \n<free> Gib 1 Vorrat aus und erschöpfe <name>: <b>Kampf</b>. Dieser Angriff verwendet <agility> anstatt <combat>. Dieser Angriff darf nur gegen einen Gegner ausgeführt werden, der nicht mit dir in einen Kampf verwickelt ist, und ist automatisch erfolgreich, wenn der Gegner nur noch 1 verbliebene Ausdauer hat.",
                 "traits": "Gegenstand. Werkzeug. Illegal."
             }
@@ -921,7 +921,7 @@
         "ccf302ef-4c6f-4d53-84ee-f21136e892aa": {
             "name": "Molochischer Usurpator",
             "front": {
-                "flavor_text": "Gefangen im ewigen Zwielicht von Onigawa hatte Mayus Zwillingsschwester Äonen Zeit, um die Macht ihrer heiligen Blutlinie zu erkennen...und das untergegangene Reich für sich zurückzugewinnen.",
+                "flavor_text": "Gefangen im ewigen Zwielicht von Onigawa hatte Mayus Zwillingsschwester Äonen Zeit, um die Macht ihrer heiligen Blutlinie zu erkennen ... und das untergegangene Reich für sich zurückzugewinnen.",
                 "text": "Jäger 2.\n<prey> Nur der Träger.\nMolochischer Usurpator kann kein Schaden zugefügt werden, solange es nicht erschöpft ist.",
                 "traits": "Avatar. Außerdimensional."
             }
@@ -961,7 +961,7 @@
             "name": "Flackern",
             "amount": 2,
             "front": {
-                "flavor_text": "„Warte. Irgendetwas ist hier faul...“",
+                "flavor_text": "„Warte. Irgendetwas ist hier faul ...“",
                 "text": "Schnell. Spiele diese Karte in einem beliebigen <free>-Fenster.\nWähle eine Nicht-Schwäche-Karte, die du kontrollierst, und füge sie wieder der Hand ihres Besitzers zu.",
                 "traits": "Weissagung."
             }
@@ -977,7 +977,7 @@
         },
         "e4cccd71-ea9b-4b5c-af27-3f477cd3df39": {
             "front": {
-                "flavor_text": "„Ich habe meiner Schwester ein Versprechen gegeben...“",
+                "flavor_text": "„Ich habe meiner Schwester ein Versprechen gegeben ...“",
                 "subtitle": "Der Zwilling",
                 "text": "<reaction> Nachdem einem Gegner an deinem Ort entkommen wurde: Ziehe 1 Karte.\n<free>: Bewege 1 Ladung von Camera Obscura auf eine andere Vorteilskarte, die du kontrollierst mit „Anwendungen (Ladungen).“ <i>(Max. ein Mal pro Runde.)</i>\n<elder_sign>-Effekt: +1. Falls die Probe gelingt, darfst du eine Ladung auf Camera Obscura platzieren."
             },
@@ -1004,7 +1004,7 @@
                         "Keine <t>Gelassenheit</t>-Vorteilskarten."
                     ]
                 ],
-                "flavor_text": "Mayu wuchs zusammen mit ihrer Schwester Miyu fernab von Arkham auf, in dem abgelegenen Dorf Minakami. Durch den Tod ihrer Mutter wurden die Zwillinge schon in jungen Jahren zu Waisen, doch die hilfsbereiten Dorfbewohner setzten sich gemeinsam dafür ein, dass die Mädchen gut versorgt waren, sodass sie glücklich und unbeschwert aufwachsen konnten. In der Nacht ihres dreizehnten Geburtstags änderte sich jedoch alles, als die Zwillinge in ein geheimnisvolles Portal gezogen wurden, das im Wald außerhalb des Ortes verborgen war, und in einer schrecklichen „Zeitschleife“ gefangen waren. Mayu gelang es schließlich, unversehrt zu entkommen, doch Miyu wurde nie wieder gesehen. Mayu zog nach Arkham, um etwas Abstand zwischen sich und den Erinnerungen an diesen Tag zu bringen, doch seit kurzem wird sie von einem geheimnisvollen purpurroten Schmetterling heimgesucht, der sie scheinbar nach Hause ruft...",
+                "flavor_text": "Mayu wuchs zusammen mit ihrer Schwester Miyu fernab von Arkham auf, in dem abgelegenen Dorf Minakami. Durch den Tod ihrer Mutter wurden die Zwillinge schon in jungen Jahren zu Waisen, doch die hilfsbereiten Dorfbewohner setzten sich gemeinsam dafür ein, dass die Mädchen gut versorgt waren, sodass sie glücklich und unbeschwert aufwachsen konnten. In der Nacht ihres dreizehnten Geburtstags änderte sich jedoch alles, als die Zwillinge in ein geheimnisvolles Portal gezogen wurden, das im Wald außerhalb des Ortes verborgen war, und in einer schrecklichen „Zeitschleife“ gefangen waren. Mayu gelang es schließlich, unversehrt zu entkommen, doch Miyu wurde nie wieder gesehen. Mayu zog nach Arkham, um etwas Abstand zwischen sich und den Erinnerungen an diesen Tag zu bringen, doch seit kurzem wird sie von einem geheimnisvollen purpurroten Schmetterling heimgesucht, der sie scheinbar nach Hause ruft ...",
                 "text": "<b>Deckgröße:</b> 30\n<b>Wahl der Klassen:</b> Wähle beim Deckbau entweder Sucher (<seeker>) oder Überlebender (<survivor>).\n<b>Deckbau-Optionen:</b> Mystikerkarten (<mystic>) Stufe 0-5, Neutrale Karten Stufe 0-5, Karten deiner gewählten Klasse Stufe 0-2.\n<b>Deckbau-Voraussetzungen</b> (zählen nicht gegen die Deckgröße): Camera Obscura, Molochischer Usurpator, 1 zufällige Grundschwäche.\n<b>Zusätzliche Einschränkungen:</b> Keine <t>Gelassenheit</t>-Vorteilskarten."
             },
             "enumerated": "manual"
@@ -1013,7 +1013,7 @@
             "name": "Mit Haut und Haaren dabei",
             "amount": 2,
             "front": {
-                "flavor_text": "„Jede Narbe erzählt eine Geschichte... . Manche sind besser als andere.“",
+                "flavor_text": "„Jede Narbe erzählt eine Geschichte ... Manche sind besser als andere.“",
                 "subtitle": "Herz auf der Zunge",
                 "text": "Dauerhaft. Kann nur beim Deckbau erworben werden.\nDie zusätzlichen Einschränkungen für den Deckbau deines Ermittlers erhalten: „Keine <t>Kleidung</t>-Vorteilskarten, die einen Körperslot benötigen.“\nDu hast 2 zusätzliche Körperslots, die nur für <t>Brandzeichen</t>-Vorteilskarten verwendet werden können.",
                 "traits": "Zustand."
@@ -1078,7 +1078,7 @@
             "amount": 2,
             "front": {
                 "cost": null,
-                "flavor_text": "Mach dir keine Gedanken über das „Schicksal“, mein Kind...  In dieser Welt gibt es kein anderes Schicksal als das, das wir selbst gestalten.",
+                "flavor_text": "Mach dir keine Gedanken über das „Schicksal“, mein Kind ... In dieser Welt gibt es kein anderes Schicksal als das, das wir selbst gestalten.",
                 "text": "Dauerhaft.\nDu hast 1 zusätzlichen Tarotslot.",
                 "traits": "Zustand."
             }
